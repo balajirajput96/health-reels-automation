@@ -33,3 +33,25 @@ The official Google OAuth flow is open for `sellbuildingbazar.in@gmail.com`. The
 ## Antigravity connection completed
 
 Google Antigravity CLI 1.1.13 is installed in the sandbox and authenticated as `sellbuildingbazar.in@gmail.com`. The CLI confirms the account has Google AI Pro and is open in plan mode within the private `health-reels-automation` workspace. Optional interaction-data collection was explicitly left disabled. No `--dangerously-skip-permissions` option was used.
+
+## Gemini CLI authorization result
+
+Google’s provider page confirmed that `sellbuildingbazar.in@gmail.com` authorized Gemini Code Assist, Gemini CLI, and Antigravity. However, the installed Gemini CLI reports that this client is no longer supported for Gemini Code Assist for individuals and directs the account to migrate to Antigravity. The workflow therefore records **Gemini CLI: provider-authorized but unusable for this individual account in the installed client**. Antigravity is the confirmed Google AI Pro terminal route.
+
+## Gemini Spark connection and task submission
+
+Gemini Spark is authenticated as `sellbuildingbazar.in@gmail.com`. The workspace exposes Tasks, Schedules, Skills, and Connected Apps. A constrained daily Health Reels Research & Production Brief task has been submitted; it is currently in Gemini’s initialization state. The task explicitly prohibits personal medical advice, invented citations, unauthorized likeness use, account-security bypasses, target-account mismatch, and unverified publishing claims.
+
+## Google Jules connection
+
+Google Jules is authenticated as `sellbuildingbazar.in@gmail.com` with a Pro workspace. The workspace currently has one of five repository slots configured for `balajirajput96/github-mcp-server-` and an existing daily GitHub-only maintenance schedule at 03:30 UTC. This existing schedule is unrelated to the new health-reels repository and has not been altered. The dedicated private repository `balajirajput96/health-reels-automation` is ready to be added as a separate Jules repository workspace.
+
+The existing Jules repository overview and its active daily maintenance schedule were inspected without modification. Returning to the workspace selector did not alter its repository configuration or schedules.
+
+The private repository `balajirajput96/health-reels-automation` is now selected in Jules. It has no existing Jules task history. Jules displays skill-based scheduling capabilities for this separate workspace, while the prior repository’s schedule remains untouched.
+
+## Jules schedule creation
+
+A daily Jules maintenance schedule was created for `balajirajput96/health-reels-automation` with the constrained repository-only task definition. Jules currently displays it as **Inactive**, scheduled daily at 09:00 PM UTC, with no executions yet. The provider UI exposes only Update schedule and Delete schedule; activation has not been confirmed and is being treated as a provider-side blocker rather than an active daily run.
+
+Official Jules documentation states that a scheduled task should execute automatically after submission, while newer provider notes describe Pause and Resume management actions. The created health-reels task is present in the Scheduled view but currently displays `Inactive`; no Pause or Resume control was exposed in the visible provider menu. It is therefore recorded as created but **not verified active** pending the provider’s next-run/status signal.
