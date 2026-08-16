@@ -81,3 +81,7 @@ A source-grounded 60-second Hinglish sleep-and-stress educational draft was crea
 ## Fresh Google session verification — 2026-08-16
 
 A fresh Antigravity CLI launch in the private automation workspace displayed an already authenticated session for `sellbuildingbazar.in@gmail.com`; no new Google sign-in page was required. Gemini Spark loaded under the same authenticated Google context and displayed the existing `Generate health reels production brief` schedule as `Daily around 6:30 AM — Waiting to run`. The prior Gemini CLI migration limitation remains in effect: its individual flow is not treated as a separate active execution route from Antigravity.
+
+## Google Jules schedule verification — 2026-08-16
+
+The authenticated Google Jules workspace displays the `health-reels-automation` daily repository-maintenance task at 21:00 UTC as `Inactive` with no executions. The provider menu exposes only `Update schedule` and `Delete schedule`; its update action did not persist through the accessible web interface, and no supported activation control was confirmed. The task is therefore retained as created-but-inactive; it is not counted as an active automation and will not be recreated to avoid duplicate scheduled tasks.
