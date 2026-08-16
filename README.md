@@ -1,0 +1,1 @@
+# Health Reels Automation\n\nVersioned policy, safety, workflow, and integration assets for the daily social-video automation. The repository intentionally excludes credentials, raw private videos, browser sessions, tokens, and user data.\n
