@@ -101,3 +101,7 @@ The active private-repository `Daily Automation Audit` workflow was manually dis
 ## Immediate active-automation validation — 2026-08-16
 
 The private GitHub `Daily Automation Audit` was manually dispatched again as run `31946402688` and completed successfully. The local idempotency registry remains empty because no new eligible source has been admitted to the protected production queue. This run completed safe validation only; it did not create media, modify original videos, publish social content, access credentials, or create duplicate provider schedules.
+
+## Meta account and cross-posting verification — 2026-08-16
+
+The browser session is authenticated as Instagram `@balajirajput96` and Facebook `Balaji Rajput`; both profiles appear in the same Meta Accounts Center. The official Accounts Center displays cross-profile sharing as an available feature, but the target-profile sharing detail returned Meta’s provider error page before current automatic-sharing settings could be retrieved. Facebook cross-posting is therefore not marked active. No sharing preference was changed and no content was posted during this verification.
