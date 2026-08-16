@@ -21,3 +21,7 @@ Do not treat a browser login, connector, publishing permission, Antigravity agen
 ## Julius browser-session verification
 
 The current browser reaches Julius’s sign-in screen and offers Google, Apple, and email authentication. No authenticated Julius workspace or scheduled-run setup is available in this session. No sign-in, identity selection, password entry, MFA, or other account-security action was attempted.
+
+## GitHub automation repository
+
+A private repository, `balajirajput96/health-reels-automation`, has been created and populated with the zero-touch operating policy, health-content editorial standard, automation blueprint, and this integration audit. It contains no account credentials, tokens, raw private videos, browser-session data, or external provider secrets.
