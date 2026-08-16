@@ -1,0 +1,38 @@
+name: Daily Automation Audit
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out policy repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate idempotency ledger
+        run: python automation/state_guard.py status
+
+      - name: Verify required operational documents
+        run: |
+          test -f policy/ZERO_TOUCH_REELS_OPERATING_POLICY.md
+          test -f standards/HEALTH_CONTENT_EDITORIAL_STANDARD.md
+          test -f docs/AUTONOMOUS_SOCIAL_VIDEO_AUTOMATION_BLUEPRINT.md
+          test -f docs/cross_platform_integration_audit.md
+
+      - name: Report safety boundary
+        run: |
+          echo "This workflow is documentation-only."
+          echo "It does not access social accounts, browser sessions, Drive, APIs, or credentials."
+          echo "It cannot publish, create media, alter schedules, or modify secrets."
