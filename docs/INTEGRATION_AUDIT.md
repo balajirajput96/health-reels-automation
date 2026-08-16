@@ -25,3 +25,11 @@ The current browser reaches Julius’s sign-in screen and offers Google, Apple, 
 ## GitHub automation repository
 
 A private repository, `balajirajput96/health-reels-automation`, has been created and populated with the zero-touch operating policy, health-content editorial standard, automation blueprint, and this integration audit. It contains no account credentials, tokens, raw private videos, browser-session data, or external provider secrets.
+
+## Antigravity OAuth state
+
+The official Google OAuth flow is open for `sellbuildingbazar.in@gmail.com`. The account was selected from Google’s account chooser and the interface is advancing toward the password stage. The workflow has not accessed or received any password, MFA code, approval decision, or token.
+
+## Antigravity connection completed
+
+Google Antigravity CLI 1.1.13 is installed in the sandbox and authenticated as `sellbuildingbazar.in@gmail.com`. The CLI confirms the account has Google AI Pro and is open in plan mode within the private `health-reels-automation` workspace. Optional interaction-data collection was explicitly left disabled. No `--dangerously-skip-permissions` option was used.
