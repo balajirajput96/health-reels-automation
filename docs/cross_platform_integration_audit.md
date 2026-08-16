@@ -10,7 +10,7 @@
 | Google Gemini | Enabled connector | Multimodal content processing through the authorized connector | Gemini Spark has not been confirmed as an authenticated, schedule-capable workspace in the current browser session. |
 | Google Workspace | Enabled connector | Authorized Drive workflow storage and asset status records | Current direct authorization should be used only for supported Drive operations. |
 | GitHub | Enabled connector | Repository and code-management workflow | No repository alteration has been performed in this audit. |
-| Instagram | Enabled connector for @bala.jirajput966; separately verified browser publication target @balajirajput96 | Official connected publishing for the connector account and browser publishing for the target web account | The connector account differs from the user-confirmed web target. Do not use the connector to publish target content. |
+| Instagram | Enabled connector for @balajirajput96; separately verified browser publication target @balajirajput96 | Official connected publishing for the connector account and browser publishing for the target web account | The connector account differs from the user-confirmed web target. Do not use the connector to publish target content. |
 | Facebook | No configured connector; browser session is at the public Facebook login screen | None confirmed | No logged-in Facebook publishing session is available in the current browser. No login or security challenge was attempted. |
 | Julius | No configured connector located | None confirmed | Official availability, account session, and automation interface remain unverified. |
 
