@@ -24,5 +24,11 @@
 | Duplicate protection | Live Reel identifier recorded: `DcIcwDPT6qw`; do not republish this asset |
 | Final sharing action | **Instagram confirmed success at 06:59 IST:** “Your reel has been shared.” |
 
-## Independent verification\n\nAt 07:00 IST, the Reel was visible as the newest item in `@balajirajput96`’s Reel grid, showing the distinctive circadian-rhythm cover image and the live URL below.\n\n**Live Reel:** https://www.instagram.com/balajirajput96/reel/DcIcwDPT6qw/\n\nThis record is the verified publication record for Batch 02.
+## Independent verification
+
+At 07:00 IST, the Reel was visible as the newest item in `@balajirajput96`’s Reel grid, showing the distinctive circadian-rhythm cover image and the live URL below.
+
+**Live Reel:** https://www.instagram.com/balajirajput96/reel/DcIcwDPT6qw/
+
+This record is the verified publication record for Batch 02.
 
