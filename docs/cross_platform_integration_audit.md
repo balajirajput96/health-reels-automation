@@ -105,3 +105,7 @@ The private GitHub `Daily Automation Audit` was manually dispatched again as run
 ## Meta account and cross-posting verification — 2026-08-16
 
 The browser session is authenticated as Instagram `@balajirajput96` and Facebook `Balaji Rajput`; both profiles appear in the same Meta Accounts Center. The official Accounts Center displays cross-profile sharing as an available feature, but the target-profile sharing detail returned Meta’s provider error page before current automatic-sharing settings could be retrieved. Facebook cross-posting is therefore not marked active. No sharing preference was changed and no content was posted during this verification.
+
+## Health Reels Batch 01 daily workflow update — 2026-08-16
+
+The active native daily Reel schedule at 08:00 Asia/Calcutta was updated to advance the staged Health Reels Batch 01 manifest one topic at a time. It may create and stage only a complete 60-second asset with cited claims, aligned narration, visuals, captions, and a source-derived cover. Draft eight-second segments are explicitly excluded from publication, and the schedule must not mass-release content.
