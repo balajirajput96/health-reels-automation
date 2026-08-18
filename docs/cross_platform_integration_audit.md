@@ -52,7 +52,7 @@ The private repository `balajirajput96/health-reels-automation` is now selected 
 
 ## Jules schedule creation
 
-A daily Jules maintenance schedule was created for `balajirajput96/health-reels-automation` with the constrained repository-only task definition. Jules currently displays it as **Inactive**, scheduled daily at 09:00 PM UTC, with no executions yet. The provider UI exposes only Update schedule and Delete schedule; activation has not been confirmed and is being treated as a provider-side blocker rather than an active daily run.
+A daily Jules maintenance schedule was created for `balajirajput96/health-reels-automation` with the constrained repository-only task definition. Jules currently displays it as **Inactive**, scheduled daily at 00:30 UTC, with no executions yet. The provider UI exposes only Update schedule and Delete schedule; activation has not been confirmed and is being treated as a provider-side blocker rather than an active daily run.
 
 Official Jules documentation states that a scheduled task should execute automatically after submission, while newer provider notes describe Pause and Resume management actions. The created health-reels task is present in the Scheduled view but currently displays `Inactive`; no Pause or Resume control was exposed in the visible provider menu. It is therefore recorded as created but **not verified active** pending the provider’s next-run/status signal.
 
@@ -84,7 +84,7 @@ A fresh Antigravity CLI launch in the private automation workspace displayed an 
 
 ## Google Jules schedule verification — 2026-08-16
 
-The authenticated Google Jules workspace displays the `health-reels-automation` daily repository-maintenance task at 21:00 UTC as `Inactive` with no executions. The provider menu exposes only `Update schedule` and `Delete schedule`; its update action did not persist through the accessible web interface, and no supported activation control was confirmed. The task is therefore retained as created-but-inactive; it is not counted as an active automation and will not be recreated to avoid duplicate scheduled tasks.
+The authenticated Google Jules workspace displays the `health-reels-automation` daily repository-maintenance task at 00:30 UTC as `Inactive` with no executions. The provider menu exposes only `Update schedule` and `Delete schedule`; its update action did not persist through the accessible web interface, and no supported activation control was confirmed. The task is therefore retained as created-but-inactive; it is not counted as an active automation and will not be recreated to avoid duplicate scheduled tasks.
 
 ## Additional Google automation-service assessment — 2026-08-16
 
