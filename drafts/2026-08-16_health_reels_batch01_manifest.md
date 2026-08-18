@@ -1,6 +1,6 @@
 # Batch 01 — AI Health-Education Reel Assets
 
-**Status:** Topic 02 has been assembled as a complete 43.6-second Reel, published, and independently verified. The remaining topics are draft visual segments only and are not approved for publication.
+**Status:** Topic 02 has been published and independently verified. Topic 03 has been assembled as a complete, source-backed 60-second Reel with audio-faithful subtitles and is staged as a final asset; it is not yet published. Topics 01 and 04–10 remain draft visual segments only and are not approved for publication.
 
 **Target account:** `@balajirajput96`
 
@@ -10,7 +10,7 @@
 |---:|---|---|---|---|
 | 01 | Sleep, stress, and memory consolidation | `batch01_sleep_memory_reference.png` | `batch01_sleep_memory_segment01.mp4` | 720×1280, 24 fps, 8.0 s |
 | 02 | Consistent wake times and circadian rhythm | `batch02_circadian_reference.png` | `batch02_circadian_segment01.mp4` | 720×1280, 24 fps, 8.0 s |
-| 03 | Morning daylight and sleep timing | `batch03_morning_light_reference.png` | `batch03_morning_light_segment01.mp4` | 720×1280, 24 fps, 8.0 s |
+| 03 | Morning daylight and sleep timing | `batch03_morning_light_primary_reference.png` | `2026-08-17__batch03__morning-light__final.mp4` | 720×1280, 24 fps, 60.0 s; H.264/AAC; actual-audio subtitles |
 | 04 | Evening screens and sleep wind-down | `batch04_evening_screens_reference.png` | `batch04_evening_screens_segment01.mp4` | 720×1280, 24 fps, 8.0 s |
 | 05 | Caffeine timing and sleep quality | `batch05_caffeine_reference.png` | `batch05_caffeine_segment01.mp4` | 720×1280, 24 fps, 8.0 s |
 | 06 | Short movement breaks and attention | `batch06_movement_attention_reference.png` | `batch06_movement_attention_segment01.mp4` | 720×1280, 24 fps, 8.0 s |
@@ -24,6 +24,7 @@
 | Topic | Final asset | Published | Verification | Live Reel |
 |---|---|---|---|---|
 | 02 — Consistent wake times and circadian rhythm | `2026-08-16__batch02__circadian-rhythm__draft.mp4` | 2026-08-17, 06:59 IST | Instagram confirmed “Your reel has been shared”; newest-item Reel-grid verification completed | https://www.instagram.com/balajirajput96/reel/DcIcwDPT6qw/ |
+| 03 — Morning daylight and sleep timing | `2026-08-17__batch03__morning-light__final.mp4` | Not published | 60.0-second 720×1280 H.264/AAC export validated; subtitles derived from actual narration transcription; AI-content label required before any Share action | — |
 
 ## Production boundary
 

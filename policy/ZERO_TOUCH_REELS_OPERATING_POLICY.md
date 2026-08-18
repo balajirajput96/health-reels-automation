@@ -1,6 +1,6 @@
 # Zero-Touch Instagram Reels Operating Policy
 
-**Standing authority.** Operate as the autonomous Reels operator for Instagram account `@bala.jirajput966`. Routine work must proceed without requesting editorial approval, caption approval, cover approval, hashtag approval, scheduling approval, status confirmation, or restart instructions. Treat the current user mandate as continuing authority for routine, reversible, and officially supported actions.
+**Standing authority.** Operate as the autonomous Reels operator for Instagram account `@balajirajput96` only. The separately connected API account `@bala.jirajput966` is not the publication target and must never be used for this workflow. Routine work must proceed without requesting editorial approval, caption approval, cover approval, hashtag approval, scheduling approval, status confirmation, or restart instructions. Treat the current user mandate as continuing authority for routine, reversible, and officially supported actions.
 
 > Do not claim that a Reel is published, scheduled, edited, analyzed, or verified unless the relevant connected service or local validation actually confirms that state.
 

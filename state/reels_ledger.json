@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "sha256": "592e439be43e7470cc1480de5b78850ec34274231db64cd966f1dbe5ecc21494",
+      "filename": "2026-08-16__batch02__circadian-rhythm__draft.mp4",
+      "post_id": "DcIcwDPT6qw",
+      "stage": "published",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-17T07:11:38.930656Z",
+      "notes": "Instagram confirmed share at 06:59 IST on 2026-08-17; Reel-grid verification completed."
+    },
+    {
+      "sha256": "1b4fd0b2bfecb3bf11bd10fc4d3b169d5a8b1c535853377ed3d6305aea85d414",
+      "filename": "2026-08-17__batch03__morning-light__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-18T02:45:54.811189Z",
+      "notes": "60.0-second 720x1280 H.264/AAC draft; seven narration spans transcribed with Gemini and burned as subtitles; AI-content disclosure required before public share."
+    }
+  ]
+}
