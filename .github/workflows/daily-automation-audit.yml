@@ -24,6 +24,9 @@ jobs:
       - name: Validate idempotency ledger
         run: python automation/state_guard.py status
 
+      - name: Run idempotency guard tests
+        run: python -m unittest discover -s tests -v
+
       - name: Verify required operational documents
         run: |
           test -f policy/ZERO_TOUCH_REELS_OPERATING_POLICY.md
