@@ -40,7 +40,7 @@ User-supplied footage may be used only after the workflow establishes that the s
 | Drive workspace | Source-of-truth storage and state ledger | Authorized | Yes: asset and status management |
 | GitHub | Private code and workflow-asset repository | Authenticated as `balajirajput96` | Yes: repository and versioned workflow assets |
 | Target Instagram account | Primary publishing destination | Authenticated browser publication completed for `@balajirajput96` | Only through the authenticated official browser path and only after required external-publication confirmation |
-| Instagram connector | Separate connected account `@bala.jirajput966` | Authorized but not target-aligned | No target publication; may only be used where account alignment is verified |
+| Instagram connector | Separate connected account `@balajirajput96` | Authorized but not target-aligned | No target publication; may only be used where account alignment is verified |
 | Google Gemini | Research and multimodal processing | Enabled connector | Use only for supported generation and analysis; do not claim Spark scheduling until authenticated |
 | Google Antigravity CLI | Development and local agent workspace | Official CLI available but not installed or authenticated in this environment | Prepare repository workspace; do not run agents until authentication and workspace trust are confirmed |
 | Julius | Scheduled analysis and data refresh | Official scheduled-run capability exists, but the browser is not authenticated | No current configuration or schedule creation |
