@@ -42,8 +42,16 @@ def sha256(path: Path) -> str:
     return digest.hexdigest()
 
 
+IDENTITY_KEYS = ("source_id", "sha256", "draft_id", "post_id")
+
+
 def matches(item: dict[str, Any], keys: dict[str, str]) -> bool:
-    return any(value and item.get(key) == value for key, value in keys.items())
+    strong_keys = [key for key in IDENTITY_KEYS if keys.get(key)]
+    if strong_keys:
+        return any(item.get(key) == keys[key] for key in strong_keys)
+
+    filename = keys.get("filename", "")
+    return bool(filename) and item.get("filename") == filename
 
 
 def duplicate(data: dict[str, Any], keys: dict[str, str]) -> dict[str, Any] | None:
@@ -60,6 +68,9 @@ def register(args: argparse.Namespace) -> int:
         "draft_id": args.draft_id or "",
         "post_id": args.post_id or "",
     }
+    if not any(keys[key] for key in IDENTITY_KEYS) and not keys["filename"]:
+        raise ValueError("At least one identity is required: source_id, sha256, filename, draft_id, or post_id")
+
     prior = duplicate(data, keys)
     if prior:
         print(json.dumps({"decision": "duplicate", "existing": prior}, ensure_ascii=False, indent=2))
