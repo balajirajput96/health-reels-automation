@@ -1,9 +1,20 @@
 # Batch 03 — Morning Daylight and Sleep Timing: Publication Metadata
 
-**Status:** Production metadata prepared; not published.  
+**Status:** Published and independently verified on 2026-08-19.  
 **Target Instagram account:** `@balajirajput96` only.  
-**Asset status:** Full Reel draft pending assembly and validation.  
+**Asset status:** 60.0-second 720×1280 H.264/AAC final export, with narration-faithful subtitles.  
 **Topic:** Morning daylight as a circadian timing cue.
+
+## Verified publication
+
+| Field | Confirmed value |
+|---|---|
+| Target account | `@balajirajput96` |
+| Live Reel URL | `https://www.instagram.com/balajirajput96/reel/DcM7NBaznd1/` |
+| Official outcome | Instagram displayed “Your reel has been shared.” |
+| Independent verification | The Reel appeared as the first tile in the authenticated target account’s Reel grid. |
+| AI-content disclosure | Enabled before the final Share action. |
+| Cross-posting and scheduling | Not enabled in the official submission flow. |
 
 ## Approved caption
 
