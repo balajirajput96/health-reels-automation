@@ -63,7 +63,7 @@ def check_duplicated_state(files):
     return duplicates
 
 def check_schedule_drift():
-    workflow_file = ROOT_DIR / ".github/workflows/daily-automation-audit.yml"
+    workflow_file = ROOT_DIR / ".github/workflows/repository-maintenance.yml"
     if not workflow_file.exists():
         return True, "Workflow file not found"
     content = workflow_file.read_text(encoding="utf-8")
