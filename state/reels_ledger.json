@@ -25,6 +25,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-19T00:44:25.650792Z",
       "notes": "Batch 03 Morning Daylight and Sleep Timing; verified live URL https://www.instagram.com/balajirajput96/reel/DcM7NBaznd1/"
+    },
+    {
+      "sha256": "c0145867561c24af0b6e116859ba649397489210452f5fced92dd412ea3c42dc",
+      "filename": "2026-08-19__batch04__evening-screens__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-19T02:07:01.924589Z",
+      "notes": "Batch 04 Evening Screens and Sleep Wind-Down: 60.0-second 720x1280 H.264/AAC final; actual-audio subtitles generated from Gemini transcription; AI-content disclosure required before public share."
     }
   ]
 }
