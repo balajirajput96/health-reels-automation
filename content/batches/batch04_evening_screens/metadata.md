@@ -26,7 +26,7 @@ Enable Instagram’s AI-content disclosure before any public share because the v
 
 | Control | Required state before submission |
 |---|---|
-| Account | Confirmed as `@balajirajput96`, never `@bala.jirajput966` |
+| Account | Confirmed as `@balajirajput96`, never `@balajirajput96` |
 | Video | Complete validated portrait Reel only; never publish isolated segments |
 | Caption | Use the approved caption with source note and disclaimer |
 | AI label | Enabled in Instagram final-details settings |

@@ -23,7 +23,7 @@
 
 ## Next controlled action
 
-At the next eligible daily cycle, re-check the duplicate ledger, confirm the active browser account as `@balajirajput96`, enter the approved metadata, enable the Instagram AI-content label, and seek the required final confirmation immediately before public Share. Do not use the separate account `@bala.jirajput966`.
+At the next eligible daily cycle, re-check the duplicate ledger, confirm the active browser account as `@balajirajput96`, enter the approved metadata, enable the Instagram AI-content label, and seek the required final confirmation immediately before public Share. Do not use the separate account `@balajirajput96`.
 
 ## Daily run 2026-08-19 08:05 IST
 
