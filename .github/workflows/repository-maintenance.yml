@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "30 0 * * *"
   workflow_dispatch:
+    inputs:
+      enable_maintenance_pr:
+        description: "Create the maintenance PR (requires repository policy to allow Actions PR creation)"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -29,7 +35,7 @@ jobs:
       # but repository policy may still prohibit Actions from creating pull requests.
       # Keep PR creation opt-in so the scheduled audit remains truthful and green.
       - name: Create pull request when explicitly enabled
-        if: ${{ vars.ENABLE_MAINTENANCE_PR == 'true' }}
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.enable_maintenance_pr == true }}
         uses: peter-evans/create-pull-request@v6
         with:
           commit-message: "chore: daily repository maintenance"
@@ -41,5 +47,5 @@ jobs:
           draft: true
 
       - name: Report pull-request creation policy
-        if: ${{ vars.ENABLE_MAINTENANCE_PR != 'true' }}
+        if: ${{ github.event_name != 'workflow_dispatch' || inputs.enable_maintenance_pr != true }}
         run: echo "Maintenance audit completed; pull-request creation is disabled unless ENABLE_MAINTENANCE_PR=true."
