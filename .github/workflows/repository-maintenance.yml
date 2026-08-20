@@ -25,7 +25,11 @@ jobs:
       - name: Run maintenance audit
         run: python automation/repository_maintenance.py
 
-      - name: Create pull request
+      # GitHub Actions can be granted pull-request write permission in the workflow,
+      # but repository policy may still prohibit Actions from creating pull requests.
+      # Keep PR creation opt-in so the scheduled audit remains truthful and green.
+      - name: Create pull request when explicitly enabled
+        if: ${{ vars.ENABLE_MAINTENANCE_PR == 'true' }}
         uses: peter-evans/create-pull-request@v6
         with:
           commit-message: "chore: daily repository maintenance"
@@ -35,3 +39,7 @@ jobs:
             See `MAINTENANCE_REPORT.md` for audit findings.
           branch: "maintenance/daily-audit"
           draft: true
+
+      - name: Report pull-request creation policy
+        if: ${{ vars.ENABLE_MAINTENANCE_PR != 'true' }}
+        run: echo "Maintenance audit completed; pull-request creation is disabled unless ENABLE_MAINTENANCE_PR=true."
