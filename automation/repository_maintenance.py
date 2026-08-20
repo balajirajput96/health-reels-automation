@@ -46,7 +46,14 @@ def check_stale_references(files):
             content = f.read_text(encoding="utf-8")
             if re.search(stale_pattern, content):
                 # Ensure it's not a context-appropriate warning
-                if "not " not in content[content.find(stale_pattern)-5:content.find(stale_pattern)] and "account @bala.jirajput966 is not" not in content and "account `@bala.jirajput966` is not" not in content and "API-connected account `@bala.jirajput966` must not" not in content:
+                is_stale = False
+                for line in content.splitlines():
+                    if re.search(stale_pattern, line):
+                        line_lower = line.lower()
+                        if not any(exclusion in line_lower for exclusion in ["not", "never", "excluded", "must not"]):
+                            is_stale = True
+                            break
+                if is_stale:
                     affected.append(f)
     return affected
 
@@ -136,14 +143,21 @@ def generate_report(stale, duplicates, drift, drift_msg, unsafe):
 def create_patch(stale):
     for f in stale:
         content = f.read_text(encoding="utf-8")
+        stale_pattern = r"@bala\.jirajput966"
+
+        new_lines = []
+        for line in content.splitlines():
+            if re.search(stale_pattern, line):
+                line_lower = line.lower()
+                if not any(exclusion in line_lower for exclusion in ["not", "never", "excluded", "must not"]):
+                    line = re.sub(stale_pattern, TARGET_ACCOUNT, line)
+            new_lines.append(line)
 
         # Determine whether it's safe to replace the account
         # Since 'not @bala.jirajput966' exists, it means replacing it would make it 'not @balajirajput96',
         # which defeats the purpose. So we replace only affirmative occurrences.
 
-        content = re.sub(r"(?<!not )(?<!not `)@bala\.jirajput966", TARGET_ACCOUNT, content)
-
-        f.write_text(content, encoding="utf-8")
+        f.write_text("\n".join(new_lines) + ("\n" if content.endswith("\n") else ""), encoding="utf-8")
 
 def main():
     files = read_files()
