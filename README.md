@@ -16,6 +16,8 @@ The workflow is divided into two deliberate layers. The controlled daily product
 - `automation/state_guard.py` — idempotency guard for source IDs, checksums, filenames, drafts, and post IDs.
 - `automation/maintenance_manifest.json` — versioned declaration of required files, ledger stages, target-account boundary, and expected workflow cadence.
 - `automation/health_check.py` — non-destructive manifest, ledger, and workflow validation that writes JSON and Markdown run reports.
+- `automation/cli_continuity_manifest.json` — non-secret declaration of supported CLI roles, credential boundaries, and reusable continuity sources.
+- `automation/continuity_check.py` — validates CLI continuity metadata without invoking login, credential stores, or external APIs.
 - `state/reels_ledger.json` — machine-readable state used to reject duplicate processing or publication.
 - `policy/`, `standards/`, and `docs/` — approved operating and content-safety documents.
 - `records/` — committed metadata, manifest, and publication evidence without raw media or secrets.
@@ -37,12 +39,12 @@ The health check reads repository files and writes only the requested report art
 
 ## GitHub Actions
 
-- **Daily Automation Audit** runs deterministic unit tests, validates the idempotency ledger, executes the manifest-driven health check, and uploads its JSON/Markdown result as a short-lived workflow artifact.
+- **Daily Automation Audit** runs deterministic unit tests, validates the idempotency ledger, executes repository-health and CLI-continuity checks, and uploads non-secret JSON/Markdown results as 90-day workflow artifacts.
 - **Daily Repository Maintenance** checks policy and documentation drift. Draft pull-request creation is disabled for scheduled runs and can be requested only through an explicit manual workflow input, subject to repository policy.
 
 ## Safety and Credential Boundary
 
-Never commit, log, paste, or copy credentials into this repository. Do not use repository workflows to publish Reels, access browser cookies, handle Google or Instagram login, alter schedules, mutate Drive records, or bypass repository or platform controls. Any external action remains subject to the relevant official workflow and its approval boundary.
+Never commit, log, paste, or copy credentials into this repository. Do not use repository workflows to publish Reels, access browser cookies, handle Google or Instagram login, alter schedules, mutate Drive records, or bypass repository or platform controls. Authenticated CLIs must use their official local credential stores, browser sessions, connectors, or approved secret mechanisms; their credential material must never be exported. Any external action remains subject to the relevant official workflow and its approval boundary.
 
 ## Recovery Principle
 

@@ -34,15 +34,24 @@ jobs:
             --report-json "$RUNNER_TEMP/health-reels-maintenance/health-check.json" \
             --summary-md "$RUNNER_TEMP/health-reels-maintenance/health-check.md"
 
-      - name: Add health-check summary
+      - name: Run CLI continuity manifest check
+        run: |
+          python automation/continuity_check.py \
+            --report-json "$RUNNER_TEMP/health-reels-maintenance/cli-continuity.json" \
+            --summary-md "$RUNNER_TEMP/health-reels-maintenance/cli-continuity.md"
+
+      - name: Add maintenance summaries
         if: ${{ always() }}
         run: |
-          if [ -f "$RUNNER_TEMP/health-reels-maintenance/health-check.md" ]; then
-            cat "$RUNNER_TEMP/health-reels-maintenance/health-check.md" >> "$GITHUB_STEP_SUMMARY"
-          else
-            echo "# Repository Health Check" >> "$GITHUB_STEP_SUMMARY"
-            echo "Health-check output was not generated." >> "$GITHUB_STEP_SUMMARY"
-          fi
+          for summary in \
+            "$RUNNER_TEMP/health-reels-maintenance/health-check.md" \
+            "$RUNNER_TEMP/health-reels-maintenance/cli-continuity.md"; do
+            if [ -f "$summary" ]; then
+              cat "$summary" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "Missing expected maintenance summary: $summary" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          done
 
       - name: Upload health-check artifacts
         if: ${{ always() }}
@@ -62,6 +71,7 @@ jobs:
 
       - name: Report safety boundary
         run: |
-          echo "This workflow is documentation-only."
-          echo "It does not access social accounts, browser sessions, Drive, APIs, or credentials."
+          echo "This workflow is deterministic and non-secret."
+          echo "It validates repository metadata and generated reports only."
+          echo "It does not access social accounts, browser sessions, Drive, APIs, credentials, or local CLI credential stores."
           echo "It cannot publish, create media, alter schedules, or modify secrets."

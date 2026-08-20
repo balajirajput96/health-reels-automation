@@ -1,0 +1,51 @@
+{
+  "timestamp_utc": "2026-08-20T17:05:05Z",
+  "task": "Integrate credential-safe CLI continuity manifest into daily repository validation",
+  "repository": "balajirajput96/health-reels-automation",
+  "branch": "chore/cli-continuity-manifest-20260820",
+  "commit": "1afc36c",
+  "automation_scope": {
+    "deterministic_repository_checks": true,
+    "external_api_calls": false,
+    "credential_store_access": false,
+    "browser_session_access": false,
+    "secret_export": false,
+    "publishing_actions": false
+  },
+  "local_validation": {
+    "unit_tests": {
+      "status": "pass",
+      "count": 13
+    },
+    "health_check": "pass",
+    "continuity_check": "pass"
+  },
+  "github_actions_validation": {
+    "run_id": 32395595057,
+    "workflow": "Daily Automation Audit",
+    "status": "completed",
+    "conclusion": "success",
+    "url": "https://github.com/balajirajput96/health-reels-automation/actions/runs/32395595057",
+    "artifact_files": [
+      "health-check.json",
+      "health-check.md",
+      "cli-continuity.json",
+      "cli-continuity.md"
+    ],
+    "artifact_retention_days": 90
+  },
+  "declared_services": [
+    "Google Anti-gravity CLI",
+    "Google Jules browser workspace",
+    "Gemini CLI legacy client",
+    "GitHub CLI",
+    "Google Workspace CLI"
+  ],
+  "known_blockers": [
+    "Gemini CLI individual route remains provider-unsupported; use Anti-gravity for supported work.",
+    "No standalone local Jules executable is installed; use the official browser workspace.",
+    "No raw terminal history, credentials, tokens, cookies, or API keys were retained in this record."
+  ],
+  "failure_category": null,
+  "recovery_attempt": null
+}

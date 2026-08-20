@@ -9,6 +9,8 @@
     "docs/AUTONOMOUS_SOCIAL_VIDEO_AUTOMATION_BLUEPRINT.md",
     "docs/cross_platform_integration_audit.md",
     "state/reels_ledger.json",
+    "automation/cli_continuity_manifest.json",
+    "automation/continuity_check.py",
     "automation/state_guard.py",
     "automation/repository_maintenance.py",
     ".github/workflows/daily-automation-audit.yml",
