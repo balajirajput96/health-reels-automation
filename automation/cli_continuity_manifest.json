@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "credential_policy": "Use official local credential stores, browser sessions, connectors, or approved secret mechanisms only. Never export, log, commit, copy, or reconstruct credentials.",
+  "continuity_sources": [
+    "private Git repository code and commit history",
+    "GitHub Actions run records and non-secret artifacts",
+    "protected Drive operational records",
+    "sanitized local run summaries",
+    "existing reusable scripts under the Reels workspace"
+  ],
+  "terminal_history_policy": {
+    "raw_history_upload": false,
+    "reason": "Raw shell history and full terminal captures may contain secrets or personal data.",
+    "replacement": "Preserve a sanitized index of reusable scripts, command categories, validation results, and artifact references."
+  },
+  "services": [
+    {
+      "id": "anti_gravity_cli",
+      "display_name": "Google Anti-gravity CLI",
+      "command": "agy",
+      "automation_role": "Supported Google AI command-line route for approved automation tasks.",
+      "auth_storage": "Official local credential store; not exported.",
+      "verification_scope": "Authenticated read-only agent listing when an interactive task runs.",
+      "fallback": "Record the actual provider error; do not bypass authentication or provider restrictions."
+    },
+    {
+      "id": "google_jules",
+      "display_name": "Google Jules",
+      "command": null,
+      "automation_role": "Browser-authenticated coding-agent workspace for user-visible repository work.",
+      "auth_storage": "Official browser session; not exported.",
+      "verification_scope": "Authenticated workspace availability in a browser session.",
+      "fallback": "Open the official sign-in page and request user takeover only when Google requires credentials or verification."
+    },
+    {
+      "id": "gemini_cli",
+      "display_name": "Gemini CLI",
+      "command": "gemini",
+      "automation_role": "Installed legacy command-line client.",
+      "auth_storage": "Official local credential store; not exported.",
+      "verification_scope": "Installed-client availability only.",
+      "known_blocker": "Provider reports the individual Code Assist route as unsupported; use the supported Anti-gravity route instead.",
+      "fallback": "Do not retry passwords, recovery, MFA, or bypass methods for a provider-side unsupported client route."
+    },
+    {
+      "id": "github_cli",
+      "display_name": "GitHub CLI",
+      "command": "gh",
+      "automation_role": "Private repository synchronization, Actions run inspection, and authorized workflow dispatch.",
+      "auth_storage": "Official GitHub CLI credential store; not exported.",
+      "verification_scope": "Read-only active-user and repository-access check.",
+      "fallback": "Record permission errors and use approved repository policy; do not bypass restrictions."
+    },
+    {
+      "id": "google_workspace_cli",
+      "display_name": "Google Workspace CLI",
+      "command": "gws",
+      "automation_role": "Protected Drive operational-record synchronization.",
+      "auth_storage": "Official local credential store; not exported.",
+      "verification_scope": "Command availability and authorized Drive operations when needed.",
+      "fallback": "Record provider errors and request user sign-in only through official Google flows."
+    }
+  ],
+  "required_repository_files": [
+    "automation/maintenance_manifest.json",
+    "automation/cli_continuity_manifest.json",
+    "automation/health_check.py",
+    "automation/state_guard.py",
+    "records/automation-runs/2026-08-20__maintenance-enhancement.json"
+  ],
+  "non_negotiable_guards": [
+    "Never publish to @bala.jirajput966.",
+    "Never export or commit secrets, sessions, cookies, passwords, tokens, or API keys.",
+    "Never bypass login, MFA, CAPTCHA, repository policy, provider tier, or platform restrictions.",
+    "Never mass-publish or upload incomplete Reel segments.",
+    "Record actual failures and provider blockers accurately."
+  ]
+}
