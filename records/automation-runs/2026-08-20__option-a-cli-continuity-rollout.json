@@ -1,0 +1,56 @@
+{
+  "timestamp_utc": "2026-08-20T17:07:02Z",
+  "task": "Activate current-infrastructure credential-safe CLI continuity controls",
+  "repository": "balajirajput96/health-reels-automation",
+  "main_integration_commit": "176d718",
+  "selected_runtime": "existing daily Reels workflow plus GitHub Actions and protected Drive records",
+  "schedule": {
+    "name": "instagram",
+    "status": "active",
+    "timezone": "Asia/Calcutta",
+    "cron_expression": "0 0 8 * * *",
+    "continuity_update": "Daily run now reads non-secret GitHub maintenance evidence when available, records non-secret CLI availability and actual provider errors, and explicitly prohibits credential export or security bypass."
+  },
+  "repository_controls": {
+    "cli_continuity_manifest": "automation/cli_continuity_manifest.json",
+    "continuity_check": "automation/continuity_check.py",
+    "health_check_required_files": true,
+    "raw_terminal_history_upload": false,
+    "credential_export": false
+  },
+  "validation": {
+    "local_unit_tests": {
+      "status": "pass",
+      "count": 13
+    },
+    "main_github_actions_run": {
+      "id": 32395786126,
+      "workflow": "Daily Automation Audit",
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/balajirajput96/health-reels-automation/actions/runs/32395786126",
+      "artifact_files": [
+        "health-check.json",
+        "health-check.md",
+        "cli-continuity.json",
+        "cli-continuity.md"
+      ],
+      "artifact_retention_days": 90
+    }
+  },
+  "service_boundaries": {
+    "anti_gravity_cli": "supported route through official local authentication",
+    "google_jules": "browser-authenticated workspace; no standalone local executable",
+    "gemini_cli": "installed legacy client; provider-side unsupported route, use Anti-gravity instead",
+    "github_cli": "authorized private repository and Actions access through official CLI store",
+    "google_workspace_cli": "authorized protected Drive operations through official local store"
+  },
+  "prohibited_actions": [
+    "Extracting or saving API keys, passwords, tokens, cookies, browser profiles, or MFA codes",
+    "Bypassing login, MFA, CAPTCHA, provider restrictions, repository policy, or platform controls",
+    "Publishing to @bala.jirajput966",
+    "Mass-releasing Reels or uploading incomplete segments"
+  ],
+  "failure_category": null,
+  "recovery_attempt": null
+}
