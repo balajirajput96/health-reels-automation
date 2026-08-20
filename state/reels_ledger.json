@@ -29,10 +29,11 @@
     {
       "sha256": "c0145867561c24af0b6e116859ba649397489210452f5fced92dd412ea3c42dc",
       "filename": "2026-08-19__batch04__evening-screens__final.mp4",
-      "stage": "final",
+      "post_id": "DcRFkqcz4eH",
+      "stage": "published",
       "target_account": "@balajirajput96",
-      "recorded_at": "2026-08-19T02:07:01.924589Z",
-      "notes": "Batch 04 Evening Screens and Sleep Wind-Down: 60.0-second 720x1280 H.264/AAC final; actual-audio subtitles generated from Gemini transcription; AI-content disclosure required before public share."
+      "recorded_at": "2026-08-20T15:31:37Z",
+      "notes": "Batch 04 Evening Screens and Sleep Wind-Down: final video had actual-audio subtitles; Instagram AI label enabled; Instagram confirmed share; independently verified live URL https://www.instagram.com/balajirajput96/reel/DcRFkqcz4eH/"
     }
   ]
 }
