@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "target_account": "@balajirajput96",
+  "excluded_publish_account": "@bala.jirajput966",
+  "ledger_path": "state/reels_ledger.json",
+  "required_files": [
+    "policy/ZERO_TOUCH_REELS_OPERATING_POLICY.md",
+    "standards/HEALTH_CONTENT_EDITORIAL_STANDARD.md",
+    "docs/AUTONOMOUS_SOCIAL_VIDEO_AUTOMATION_BLUEPRINT.md",
+    "docs/cross_platform_integration_audit.md",
+    "state/reels_ledger.json",
+    "automation/state_guard.py",
+    "automation/repository_maintenance.py",
+    ".github/workflows/daily-automation-audit.yml",
+    ".github/workflows/repository-maintenance.yml"
+  ],
+  "allowed_ledger_stages": [
+    "original",
+    "edited",
+    "final",
+    "scheduled",
+    "published",
+    "failed",
+    "rejected"
+  ],
+  "published_stage": "published",
+  "workflow_schedules": {
+    ".github/workflows/daily-automation-audit.yml": "30 0 * * *",
+    ".github/workflows/repository-maintenance.yml": "30 0 * * *"
+  },
+  "non_secret_scope": [
+    "repository file existence",
+    "ledger structure and target account consistency",
+    "workflow schedule consistency",
+    "generated run summary"
+  ]
+}
