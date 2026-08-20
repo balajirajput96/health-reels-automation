@@ -34,6 +34,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-20T15:31:37Z",
       "notes": "Batch 04 Evening Screens and Sleep Wind-Down: final video had actual-audio subtitles; Instagram AI label enabled; Instagram confirmed share; independently verified live URL https://www.instagram.com/balajirajput96/reel/DcRFkqcz4eH/"
+    },
+    {
+      "sha256": "3c01732e2cc1aed22ff2e6babe9ba84bfa867d98f7913ceb950d6b5d1debf3d0",
+      "filename": "2026-08-20__batch05__caffeine-timing__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-20T18:22:45.871341Z",
+      "notes": "Complete 60-second Batch 05 final; actual-audio subtitles verified through Gemini fallback; same-day public release prohibited by cadence."
     }
   ]
 }
