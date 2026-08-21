@@ -50,6 +50,30 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-20T18:56:26.300916Z",
       "notes": "Complete 60-second Batch 06 final; subtitles omitted because primary transcription returned quota error and Gemini fallback returned temporary high-demand error; not uploaded or published due same-day cadence."
+    },
+    {
+      "sha256": "d03fff6c32219c9061a5b492bf300b42766036a1bc2753fface422730dc61fa4",
+      "filename": "2026-08-20__batch07__physical-activity-stress__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-20T19:27:12.199189Z",
+      "notes": "Complete 60-second source-validated Hinglish education Reel; actual-audio subtitles rendered from Gemini 3.6 Flash transcript; non-public queue position after Batch 05 and Batch 06."
+    },
+    {
+      "sha256": "74bd325828b0808d9617e2fdcc7ab02f22e3da151c66955a847ba80a2ee8379b",
+      "filename": "2026-08-20__batch08__social-connection__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-21T21:18:29.918711Z",
+      "notes": "Complete 60-second source-validated Hinglish education Reel; actual-audio subtitles rendered from Gemini 3.6 Flash transcript; non-public queue position after Batch 05, Batch 06, and Batch 07."
+    },
+    {
+      "filename": "instagram-reel-DcUX5rJzI2g",
+      "post_id": "DcUX5rJzI2g",
+      "stage": "published",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-21T22:10:19.153231Z",
+      "notes": "Batch 05 Caffeine Timing and Sleep Quality; Instagram confirmed share; independently verified live URL https://www.instagram.com/balajirajput96/reel/DcUX5rJzI2g/; AI label enabled; Facebook not attempted."
     }
   ]
 }
