@@ -42,6 +42,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-20T18:22:45.871341Z",
       "notes": "Complete 60-second Batch 05 final; actual-audio subtitles verified through Gemini fallback; same-day public release prohibited by cadence."
+    },
+    {
+      "sha256": "950a13d37c820b963e8c7e1a3906fc070ca2cb350c8fe0e7393aaf7923cf1979",
+      "filename": "2026-08-20__batch06__movement-breaks__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-20T18:56:26.300916Z",
+      "notes": "Complete 60-second Batch 06 final; subtitles omitted because primary transcription returned quota error and Gemini fallback returned temporary high-demand error; not uploaded or published due same-day cadence."
     }
   ]
 }
