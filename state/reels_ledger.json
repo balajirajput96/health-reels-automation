@@ -110,6 +110,14 @@
       "drive_file_id": "1tZ3BnBe1bpI0Cyv2iSVJbtwALZyB0bBr",
       "recorded_at": "2026-08-22T07:50:44.253479Z",
       "notes": "Existing authenticated Drive package reconciled at canonical nested path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0003; independent local QC passed; no social publication or post ID created."
+    },
+    {
+      "sha256": "ebcda495f46d5d6ead78eb2de5ee5eab550757ebadf6374a2ed52f3e96605eb9",
+      "filename": "reel_0004_cognitive_biases_what_studies_measure.mp4",
+      "stage": "failed",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T08:50:44.467119Z",
+      "notes": "Local QC passed, but authenticated canonical Drive path Reel_0004 is occupied by a verified different topic (MND-L01-Q04 / Default Mode Network); upload and overwrite refused. No publication."
     }
   ]
 }

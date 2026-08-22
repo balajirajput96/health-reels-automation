@@ -14,15 +14,6 @@
       "status": "non_blocking",
       "exact_error": "manus-config config load --search drive returned permission_denied: 403 Forbidden; authenticated Google Workspace Drive CLI remained available.",
       "recorded_at": "2026-08-22T07:50:44.253470Z"
-    },
-    {
-      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
-      "stage": "canonical_path_topic_conflict",
-      "status": "blocked_retryable",
-      "exact_error": "Canonical Drive path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 already contains folder ID 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with a verified package titled \"मन भटकते क्यों है? Default Mode Network की कहानी\" (tuple MND-L01-Q04), which conflicts with queued topic \"संज्ञानात्मक पूर्वाग्रह: अध्ययन वास्तव में क्या मापते हैं\". Upload and overwrite were refused to prevent duplicate or ambiguous canonical records.",
-      "retry_state": "keep next_reel at reel_0004; re-check authoritative remote identity before upload",
-      "local_qc": "passed",
-      "recorded_at": "2026-08-22T08:50:44.399865Z"
     }
   ],
   "generated_at": "2026-08-22T05:41:17.571278Z",
@@ -46,5 +37,5 @@
   "schema_version": 1,
   "total_batches": 100,
   "total_reels": 3000,
-  "updated_at": "2026-08-22T08:50:44.399896Z"
+  "updated_at": "2026-08-22T07:50:44.253474Z"
 }

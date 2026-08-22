@@ -18,6 +18,7 @@ production/rendered/*_manifest.json
 production/rendered/*_qc.json
 production/rendered/*_script_hi-IN.md
 production/rendered/*_drive_uploads.ndjson
+work/
 !production/rendered/REEL-0001_manifest.json
 !production/rendered/REEL-0001_qc.json
 !production/rendered/REEL-0001_script_hi-IN.md
