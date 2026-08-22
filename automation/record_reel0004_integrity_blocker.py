@@ -14,7 +14,7 @@ QUEUE = STATE / "reels_3000_queue.jsonl"
 CHECKPOINT = STATE / "reels_3000_checkpoint.json"
 LEDGER = STATE / "reels_ledger.json"
 RECORD = ROOT / "records" / "reels" / "batch01" / "reel0004"
-EVIDENCE_REF = "remote_reverification_20260822T124055Z"
+EVIDENCE_REF = "remote_reverification_20260822T234120Z"
 EVIDENCE = RECORD / EVIDENCE_REF
 TARGET = "reel_0004_cognitive_biases_what_studies_measure"
 FOLDER_ID = "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa"
@@ -170,6 +170,8 @@ def main() -> int:
     if len(ledger_matches) != 1:
         raise RuntimeError(f"Expected one Reel 0004 ledger identity, found {len(ledger_matches)}")
     ledger_matches[0]["stage"] = "failed"
+    ledger_matches[0]["latest_evidence_ref"] = EVIDENCE_REF
+    ledger_matches[0]["last_reverified_at"] = recorded_at
     ledger_matches[0]["notes"] = (
         "Remote queued-topic package is present at the canonical folder and remote QC/ffprobe pass, but the folder retains a prior different-topic package and the authenticated remote metadata SHA-256 "
         f"({actual_metadata_sha}) differs from the upload manifest record ({expected_metadata_sha}). Final status withheld; no upload, overwrite, duplicate, or publication. Evidence: records/reels/batch01/reel0004/{EVIDENCE_REF}/."
