@@ -114,6 +114,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T13:25:42.878070Z",
       "notes": "QC passed; Drive package independently verified in Batch_001/Reel_0009; manifest 1-s83JHLJPRYh99voXt0NfzgBosSXKV2K; not published."
+    },
+    {
+      "source_id": "reel_0010_amygdala_context_what_studies_measure",
+      "sha256": "df1ec6613c981d13dfe9fd4ef2e153909434332a071b2cf4ff0634a5d2965342",
+      "filename": "reel_0010_amygdala_context_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T19:14:57.890043Z",
+      "notes": "QC passed; Drive package independently verified in Batch_001/Reel_0010; manifest 1BfVjLBL3eNWgrNGrKy6VTH7c6qC47q35; not published."
     }
   ]
 }
