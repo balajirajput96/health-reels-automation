@@ -1,0 +1,45 @@
+{
+  "ai_content_disclosure": "Visuals are AI-assisted conceptual illustrations; narration is AI-generated Hindi speech. No real person likeness or diagnostic imagery is used.",
+  "aspect_ratio": "9:16",
+  "duration_seconds": 63.44,
+  "evidence_class": "peer_reviewed_measurement_research_and_reviews",
+  "language": "hi-IN",
+  "publication_status": "not_published",
+  "qc": {
+    "caption_timing": "passed",
+    "decode_check": "passed",
+    "drive_manifest_uploaded": true,
+    "drive_verification": "verified_by_gws_files_list_and_manifest",
+    "manifest": "state/reel_0004_drive_upload_manifest.json",
+    "media_qc": "passed",
+    "visual_generation_note": "Image-generation quota was exhausted; four original deterministic scientific motion-graphic scenes were rendered locally and disclosed as AI-assisted conceptual visuals."
+  },
+  "queue_number": 4,
+  "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+  "safety_boundary": "Public education only; a task score is not a diagnosis, permanent trait label, complete personality description, or guaranteed behavior prediction.",
+  "safety_status": "SAFE_WITH_EDITS",
+  "sources": [
+    {
+      "doi": "10.3389/fpsyg.2021.630177",
+      "source_id": "Berthet_2021_10.3389_fpsyg.2021.630177",
+      "type": "peer_reviewed_review",
+      "url": "https://doi.org/10.3389/fpsyg.2021.630177"
+    },
+    {
+      "doi": "10.3758/s13428-022-01804-9",
+      "source_id": "Machulska_Kleinke_Klucken_2023_10.3758_s13428-022-01804-9",
+      "type": "peer_reviewed_empirical_study",
+      "url": "https://doi.org/10.3758/s13428-022-01804-9"
+    },
+    {
+      "doi": "10.3389/fpsyg.2019.02483",
+      "pmcid": "PMC6856205",
+      "pmid": "31787912",
+      "source_id": "Meissner_et_al_2019_PMID31787912",
+      "type": "peer_reviewed_review",
+      "url": "https://doi.org/10.3389/fpsyg.2019.02483"
+    }
+  ],
+  "title": "Cognitive Bias का Score: Studies क्या Measure करती हैं?",
+  "unique_angle": "Cognitive-bias experiments measure task- and context-specific response patterns; measurement reliability and real-world prediction are separate questions."
+}

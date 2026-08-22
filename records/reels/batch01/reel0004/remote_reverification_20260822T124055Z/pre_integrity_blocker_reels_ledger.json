@@ -117,7 +117,7 @@
       "stage": "failed",
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T08:50:44.467119Z",
-      "notes": "Remote queued-topic package is present at the canonical folder and remote QC/ffprobe pass, but the folder retains a prior different-topic package and the authenticated remote metadata SHA-256 (93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc) differs from the upload manifest record (bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67). Final status withheld; no upload, overwrite, duplicate, or publication. Evidence: records/reels/batch01/reel0004/remote_reverification_20260822T124055Z/."
+      "notes": "Local QC passed, but fresh authenticated canonical Drive path Reel_0004 remains occupied by a verified different topic (MND-L01-Q04 / मन भटकता क्यों है? Default Mode Network की कहानी); upload and overwrite refused. Fresh re-verification evidence is stored under records/reels/batch01/reel0004/remote_reverification_20260822T114418Z/. No publication. Local QC rerun was non-blocking: cloned worktree lacks work/reel_0004; prior authoritative local QC remains recorded as passed; no assets fabricated."
     }
   ]
 }

@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:06,200
+क्या एक online test का score बता देता है
+कि आपके अंदर कौन-सा cognitive bias है?
+हमेशा नहीं।
+
+2
+00:00:06,200 --> 00:00:14,300
+Experiments अक्सर एक खास response pattern मापते हैं—
+framing, reaction time या automatic association।
+
+3
+00:00:14,300 --> 00:00:21,500
+इसलिए score एक task और context का परिणाम है;
+पूरी personality का scanner नहीं।
+
+4
+00:00:21,500 --> 00:00:28,800
+2021 की review ने बताया कि अलग biases के measures की
+reliability अलग हो सकती है।
+
+5
+00:00:28,800 --> 00:00:35,400
+कई measures को अभी बेहतर बनाने की ज़रूरत है।
+
+6
+00:00:35,400 --> 00:00:45,800
+एक study में 79 adults के तीन tasks को पाँच बार जाँचा गया।
+Reliability task, device और समय के अनुसार बदली।
+
+7
+00:00:45,800 --> 00:00:52,600
+उस sample में dot-probe unreliable दिखा,
+कुछ versions में moderate reliability मिली,
+और अलग tasks के scores लगभग जुड़े नहीं।
+
+8
+00:00:52,600 --> 00:00:58,000
+दूसरी review के अनुसार real-world behavior की prediction सीमित है,
+क्योंकि behavior context पर निर्भर करता है।
+
+9
+00:00:58,000 --> 00:01:02,000
+Score को label या destiny नहीं,
+एक परिस्थिति का measurement समझिए।
+
+10
+00:01:02,000 --> 00:01:03,440
+सामान्य शिक्षा, diagnosis नहीं।
+Sources description में हैं।
+Visuals AI-generated हैं।
