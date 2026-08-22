@@ -82,6 +82,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T05:21:00Z",
       "notes": "Affect labeling and emotional regulation; 60.352-second 720x1280 H.264/AAC portrait reel with Hindi narration and captions. Drive folder verified: https://drive.google.com/drive/folders/1-TVdwDN2HIf2OWfPb6Jv-FmCgFJ7LT4u. Sources and QC manifest uploaded; not published."
+    },
+    {
+      "sha256": "8c3d5aaf137583af7337ce76dfa45ec74f8b30f59c1ac7c27772bf6c1e10caeb",
+      "filename": "REEL-0002.mp4",
+      "stage": "drive_verified_fallback",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T05:45:00Z",
+      "notes": "Sleep environment: darkness, noise, temperature, and comfort. 64.64-second 720x1280 H.264/AAC portrait reel with Hindi narration and post-produced captions. Canonical Drive folder verified: https://drive.google.com/drive/folders/1JzyQOs5SYvvrk12rPOXD9kf1OtP1FVHP. Topic-specific AI visual generation was blocked by daily quotas; deterministic fallback montage only. Not publication-ready or published."
     }
   ]
 }
