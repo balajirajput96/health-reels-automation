@@ -1,0 +1,55 @@
+{
+  "reel_id": "REEL-0003",
+  "title": "Regular Meal Timing And Everyday Energy Rhythms Explained",
+  "subject": "Regular meal timing and everyday energy rhythms",
+  "status": "research_ready",
+  "lifecycle_stage": "research_ready",
+  "publication_allowed": false,
+  "drive_verified": false,
+  "backlog_row": 5,
+  "target_format": {
+    "aspect_ratio": "9:16",
+    "target_duration_seconds": 60,
+    "language": "hi-IN",
+    "captions": true
+  },
+  "artifacts": {
+    "research": "research/2026-08-22__reel0003__meal-timing-source-validation.md",
+    "production_brief": "production/reel0003_meal_timing_brief.md",
+    "script": "production/reel0003_script_hi-IN.md",
+    "video": null,
+    "audio": null,
+    "captions": null,
+    "qc": null
+  },
+  "source_urls": [
+    "https://pubmed.ncbi.nlm.nih.gov/28578930/",
+    "https://pubmed.ncbi.nlm.nih.gov/32998085/",
+    "https://www.nhlbi.nih.gov/news/2023/chrononutrition-timing-meals-matters-your-health",
+    "https://www.hopkinsmedicine.org/health/wellness-and-prevention/does-the-time-of-day-you-eat-matter",
+    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825750",
+    "https://sleep.hms.harvard.edu/news/study-finds-well-timed-meals-reduce-risk-glucose-intolerance-despite-mistimed-sleep"
+  ],
+  "blockers": [
+    {
+      "type": "image_generation_quota",
+      "detail": "Daily free image quota is exhausted at 20/20; primary topic-specific reference generation was rejected.",
+      "recorded_at": "2026-08-22T06:01:00Z",
+      "retry_policy": "Retry after provider quota reset; do not substitute unrelated or generic visuals."
+    },
+    {
+      "type": "native_video_quota",
+      "detail": "Inherited session state records the daily native video quota as exhausted at 1/1.",
+      "recorded_at": "2026-08-22T06:01:00Z",
+      "retry_policy": "Re-check after provider quota reset; do not claim topic-specific video generation until verified."
+    }
+  ],
+  "drive": {
+    "root_folder_id": "1qBzjS18Pd4zNEmgNhZsDqKHrl17uCOyS",
+    "batch_folder_id": "19uErd4g0xD0geAUi6SJbdPV3Ih4K3mHC",
+    "reel_folder_id": null,
+    "verification_status": "not_started",
+    "package_upload_allowed": false
+  },
+  "notes": "Research and script are complete enough to resume production. Because the mandatory primary topic-specific reference image could not be generated within the authorized free quota, no audio, captions, video, QC, Drive upload, ledger registration, or publication claim is made. The repository's current lifecycle validator does not include research_ready, so this pending manifest is intentionally kept outside state/reels_ledger.json until a supported lifecycle change is reviewed through a PR."
+}
