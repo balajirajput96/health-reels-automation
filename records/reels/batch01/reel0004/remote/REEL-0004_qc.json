@@ -1,0 +1,81 @@
+{
+  "contentChecks": {
+    "HindiNarrationAndCaptionConsistency": true,
+    "associationNotCausation": true,
+    "generatedAssetProvenanceLogged": true,
+    "mechanismLabeledAsProposed": true,
+    "noDiagnosisOrCureLanguage": true,
+    "noMindReadingClaim": true,
+    "sourceTraceability": true,
+    "visualSafeAreaChecked": true
+  },
+  "drive": {
+    "allArtifactsListedNonTrashed": true,
+    "artifactFileIds": {
+      "blueprint": "1YmsUwGYV31MGprqjhKoYRt6ywNo8mw8U",
+      "captions": "1XOyzXk_Q8YfgBUZ_jmvb7drnpsGvEWZe",
+      "claims": "1ByrCDnFh7dI_eftraSYBxDJvklnq9fPm",
+      "refCaution": "1jRNCgx9dPvdOIFM2pIg2vlti2ntGyX2S",
+      "refCoordination": "1iKe7_6gT5pLOZ2Qh8gYHp7CVSW7KAe9x",
+      "refInward": "1gneESR02QX4Wzy3Rb9wiY7QA39k-5yVB",
+      "refPrimary": "1R81_OYdRMDpAw9V-oN_hM2rdmKGhPXDJ",
+      "research": "1KXLAf_2P_cZk0AF8sCmS1HYIoOp_ZgEu",
+      "script": "14Qyi7gqb5sT4o3ZL95rv0JxLCH7216fS",
+      "voice": "12R13h6T1yrAZ8BrUIWwaKaHwJbL3vidw"
+    },
+    "batchFolderId": "19uErd4g0xD0geAUi6SJbdPV3Ih4K3mHC",
+    "folderName": "Reel_0004",
+    "folderUrl": "https://drive.google.com/drive/folders/1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+    "reelFolderId": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+    "rootFolderId": "1qBzjS18Pd4zNEmgNhZsDqKHrl17uCOyS",
+    "videoFileId": "19wlpNjuiJoyc-yTnN98WVLTabL5Fr105",
+    "videoMd5VerifiedAgainstDriveListing": true,
+    "videoSizeBytesVerifiedAgainstDriveListing": true,
+    "videoUrl": "https://drive.google.com/file/d/19wlpNjuiJoyc-yTnN98WVLTabL5Fr105/view?usp=drivesdk"
+  },
+  "localChecks": {
+    "blueprint": {
+      "sha256": "e49e59f32d86b53b44f6ed10d143b2bef749f010431825302a431ff82e8d1db9"
+    },
+    "captions": {
+      "sha256": "105939669c1c32a663b3f6117d0432a0c7fddcef603fe2f8840cdf9772ae8c57"
+    },
+    "claims": {
+      "sha256": "d0ad9499afbd9d3602198000833136ec0425451dfc6375d5635eba98030d29bb"
+    },
+    "research": {
+      "sha256": "3a59694fee306f80685efddca84bc7d8c3a91970b0e6b7e52872cd63dc65bf20"
+    },
+    "script": {
+      "sha256": "bcec2457cb1ceb17e2e4bc0904fb6305063088770f80cf7cf6293a441b2b79a9"
+    },
+    "video": {
+      "aspectRatio": "9:16",
+      "audioCodec": "aac",
+      "captionCueCount": 8,
+      "channels": 2,
+      "codec": "h264",
+      "durationSeconds": 64.533333,
+      "height": 1280,
+      "md5": "aedd39824942341221d209cd8f7390a5",
+      "sampleRate": 48000,
+      "sha256": "010534fc857c722fcaa5bac4879d0780aff8a2999fbd69b263d5538d50955c0e",
+      "width": 720
+    },
+    "voice": {
+      "language": "hi-IN",
+      "md5": "5316901442bf2cbbf10f88a72d82b7b1",
+      "sha256": "7f8a8f9ec9b46a0e8d46c8e4710d4871bc1a4581405b4324b61637ed18e5d5b7"
+    }
+  },
+  "notes": [
+    "Reel_0003 already existed in Batch_001 with a different untracked topic; it was preserved and not overwritten.",
+    "Reel_0004 is the next unambiguous new folder and has been uploaded with all required metadata and original reference visuals.",
+    "The video uses original AI-generated stills with deterministic motion; no native-video quota or access-control bypass was attempted."
+  ],
+  "reelId": "REEL-0004",
+  "state": "verified",
+  "title": "मन भटकता क्यों है? Default Mode Network की कहानी",
+  "tuple": "MND-L01-Q04",
+  "verifiedAt": "2026-08-22T08:11:16+05:30"
+}
