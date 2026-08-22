@@ -1,0 +1,64 @@
+{
+  "reel_id": "reel_0007_neural_plasticity_what_studies_measure",
+  "queue_id": "0007",
+  "batch": "Batch_001",
+  "title_hi": "न्यूरल प्लास्टिसिटी: studies क्या measure करती हैं?",
+  "topic": "neural plasticity measurement",
+  "unique_angle": "Different neural-plasticity studies measure different structural, diffusion, functional, connectivity, behavioural, and questionnaire signals; one imaging result is not a fixed-trait or permanent-rewiring verdict.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 71.08,
+  "evidence_class": "peer-reviewed systematic review + methodological review + original intervention study",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, outcome guarantee, intelligence claim, or universal permanent-rewiring claim.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.3389/fnhum.2020.497245",
+      "citation": "Tymofiyeva & Gaschler (2021), Training-Induced Neural Plasticity in Youth: A Systematic Review of Structural and Functional MRI Studies",
+      "url": "https://doi.org/10.3389/fnhum.2020.497245",
+      "type": "systematic_review"
+    },
+    {
+      "source_id": "pmcid:PMC4709757",
+      "citation": "Reid et al. (2016), Interpreting Intervention Induced Neuroplasticity with fMRI: The Case for Multimodal Imaging Strategies",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4709757/",
+      "type": "methodological_review"
+    },
+    {
+      "source_id": "doi:10.3389/fnhum.2016.00117",
+      "citation": "Mrazek et al. (2016), Pushing the Limits: Cognitive, Affective, and Neural Plasticity Revealed by an Intensive Multifaceted Intervention",
+      "url": "https://doi.org/10.3389/fnhum.2016.00117",
+      "type": "original_intervention_study"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0007_neural_plasticity_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0007_neural_plasticity_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0007_neural_plasticity_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0007_neural_plasticity_what_studies_measure_script.md",
+    "sources": "research/reel_0007_neural_plasticity_what_studies_measure_sources.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0007_scene_01.png",
+      "assets/reel_0007_scene_02.png",
+      "assets/reel_0007_scene_03.png",
+      "assets/reel_0007_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0007_qc_report.json",
+    "drive_manifest": "state/reel_0007_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic local scientific motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No fabricated data or readable claims are embedded in the visuals.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Not medical advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_file_id": "1GroP3c9BT7_RHKUKNCpHvWay3QoBgM2Y",
+    "drive_verification_note": "Verified by authenticated Drive listing; 11 expected package objects plus durable manifest present with nonzero sizes."
+  }
+}

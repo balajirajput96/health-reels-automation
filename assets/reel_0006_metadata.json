@@ -1,0 +1,63 @@
+{
+  "reel_id": "reel_0006_context_effects_what_studies_measure",
+  "queue_number": 6,
+  "title": "Context effects: task score fixed trait नहीं",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "duration_seconds": 65.84,
+  "evidence_class": "peer_reviewed_systematic_review_methodological_research_and_experiment",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only; a framing-task response is context-specific and is not a diagnosis, permanent trait label, complete identity description, causal proof, or guaranteed behavior prediction.",
+  "unique_angle": "Framing and option context can change the response measured by a cognitive-bias task; one task score should not be treated as a fixed global personal trait.",
+  "sources": [
+    {
+      "source_id": "Kuhberger_2023_10.17179_excli2023-6169",
+      "type": "peer_reviewed_systematic_review",
+      "doi": "10.17179/excli2023-6169",
+      "pmid": "37927347",
+      "pmcid": "PMC10620856",
+      "url": "https://doi.org/10.17179/excli2023-6169"
+    },
+    {
+      "source_id": "Aczel_et_al_2015_10.3389_fpsyg.2015.01770",
+      "type": "peer_reviewed_methodological_research",
+      "doi": "10.3389/fpsyg.2015.01770",
+      "pmid": "26635677",
+      "pmcid": "PMC4652008",
+      "url": "https://doi.org/10.3389/fpsyg.2015.01770"
+    },
+    {
+      "source_id": "Di_Crosta_et_al_2023_10.3390_bs13090755",
+      "type": "peer_reviewed_experimental_study",
+      "doi": "10.3390/bs13090755",
+      "pmid": "37754033",
+      "pmcid": "PMC10525293",
+      "url": "https://doi.org/10.3390/bs13090755"
+    }
+  ],
+  "assets": {
+    "video": "reel_0006_context_effects_what_studies_measure_hi.mp4",
+    "narration": "reel_0006_context_effects_what_studies_measure_narration_hi.wav",
+    "captions": "reel_0006_context_effects_what_studies_measure_captions_hi.srt",
+    "visuals": [
+      "reel_0006_scene_01.png",
+      "reel_0006_scene_02.png",
+      "reel_0006_scene_03.png",
+      "reel_0006_scene_04.png"
+    ],
+    "research": "reel_0006_context_effects_what_studies_measure_sources.md",
+    "script": "reel_0006_context_effects_what_studies_measure_script.md"
+  },
+  "qc": {
+    "media_qc": "passed",
+    "drive_verification": "verified_by_gws_files_list_and_manifest",
+    "caption_timing": "passed",
+    "decode_check": "passed",
+    "manifest": "state/reel_0006_drive_upload_manifest.json",
+    "visual_generation_note": "Image-generation quota was exhausted; four original deterministic scientific motion-graphic scenes were rendered locally and this fallback is disclosed as AI-assisted conceptual visuals.",
+    "drive_manifest_uploaded": true
+  },
+  "ai_content_disclosure": "Visuals are AI-assisted conceptual illustrations rendered as deterministic motion graphics; narration is AI-generated Hindi speech. No real-person likeness or diagnostic imagery is used.",
+  "publication_status": "not_published",
+  "generated_at": "2026-08-22"
+}

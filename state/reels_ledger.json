@@ -60,6 +60,42 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T06:07:28.294501Z",
       "notes": "Research verified; QC passed; 14 Drive objects including manifest verified via authenticated Drive API; not published."
+    },
+    {
+      "source_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "sha256": "edfff94d0e474104753d756bee65a472f19237750261e0e7b68e031074c2394e",
+      "filename": "reel_0004_cognitive_biases_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:02:23.307934Z",
+      "notes": "Queue-final and Drive-verified Reel 0004; current package preserved unrelated historical objects; not published."
+    },
+    {
+      "source_id": "reel_0005_psychological_flexibility_what_studies_measure",
+      "sha256": "2eb0459c305accac8281baedd279a5962969a2478f4605fcbb3ab8f72187d0e3",
+      "filename": "reel_0005_psychological_flexibility_measurement_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:02:23.375046Z",
+      "notes": "Queue-final and Drive-verified Reel 0005; current package preserved unrelated historical objects; not published."
+    },
+    {
+      "source_id": "reel_0006_context_effects_what_studies_measure",
+      "sha256": "0bb76ec10f150df269573cf5fef3b59238eb88d4f81aba449733f04426df612c",
+      "filename": "reel_0006_context_effects_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:02:23.442788Z",
+      "notes": "Queue-final and Drive-verified Reel 0006; checksum manifest verified; not published."
+    },
+    {
+      "source_id": "reel_0007_neural_plasticity_what_studies_measure",
+      "sha256": "9fcc4f9b954057951c4504e2fbabdd3ad356b53fbb1c8faf6bcfd8dd7249a4bb",
+      "filename": "reel_0007_neural_plasticity_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:02:23.512127Z",
+      "notes": "Queue-final and Drive-verified Reel 0007; updated metadata and manifest verified in place; not published."
     }
   ]
 }
