@@ -15,7 +15,7 @@ class HealthCheckTests(unittest.TestCase):
             "excluded_publish_account": "@bala.jirajput966",
             "ledger_path": "state/reels_ledger.json",
             "required_files": ["state/reels_ledger.json", ".github/workflows/audit.yml"],
-            "allowed_ledger_stages": ["final", "published"],
+            "allowed_ledger_stages": ["final", "drive_verified", "published"],
             "published_stage": "published",
             "workflow_schedules": {".github/workflows/audit.yml": "30 0 * * *"},
         }
@@ -41,6 +41,21 @@ class HealthCheckTests(unittest.TestCase):
                 self.assertEqual(health_check.validate_required_files(manifest, errors), [])
                 self.assertEqual(health_check.validate_ledger(manifest, errors), {"published": 1})
                 health_check.validate_workflow_schedules(manifest, errors)
+            self.assertEqual(errors, [])
+
+    def test_drive_verified_record_is_accepted_without_post_id(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            self.write_fixture(
+                root,
+                [{"stage": "drive_verified", "target_account": "@balajirajput96"}],
+            )
+            errors = []
+            with patch.object(health_check, "ROOT", root):
+                self.assertEqual(
+                    health_check.validate_ledger(self.manifest(), errors),
+                    {"drive_verified": 1},
+                )
             self.assertEqual(errors, [])
 
     def test_published_record_requires_post_id(self):

@@ -1,0 +1,35 @@
+{
+  "reel_id": "REEL-0001",
+  "status": "qc_pass_local_pending_drive_verification",
+  "technical": {
+    "container": "mp4",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "duration_seconds": 60.352,
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2,
+    "file_size_bytes": 3555712,
+    "ffprobe_decode_check": true
+  },
+  "editorial": {
+    "hindi_narration_present": true,
+    "captions_post_produced": true,
+    "source_card_present": true,
+    "claims_are_cautious": true,
+    "medical_diagnosis_claim": false,
+    "guaranteed_outcome_claim": false,
+    "generated_text_in_visuals": false,
+    "watermark_or_logo": false,
+    "privacy_issue": false
+  },
+  "production_note": "Rendered with AI-generated portrait reference images and deterministic pan/zoom animation because the native video-generation quota reached its daily limit after the first clip. No quota or access-control bypass was attempted.",
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/17576282/",
+    "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00221/full",
+    "https://www.uclahealth.org/news/release/putting-feelings-into-words-produces-therapeutic-effects-in-the-brain-ucla-neuroimaging-study-supports-ancient-buddhist-teachings"
+  ]
+}

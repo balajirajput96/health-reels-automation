@@ -104,7 +104,7 @@ def main() -> int:
     subparsers = parser.add_subparsers(required=True, dest="command")
 
     register_parser = subparsers.add_parser("register")
-    register_parser.add_argument("--stage", required=True, choices=["original", "edited", "final", "scheduled", "published", "failed", "rejected"])
+    register_parser.add_argument("--stage", required=True, choices=["original", "edited", "final", "drive_verified", "scheduled", "published", "failed", "rejected"])
     register_parser.add_argument("--target-account", default="@balajirajput96")
     register_parser.add_argument("--source-id")
     register_parser.add_argument("--file")

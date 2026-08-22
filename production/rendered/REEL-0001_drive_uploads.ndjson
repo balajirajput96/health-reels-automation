@@ -1,0 +1,38 @@
+{
+  "id": "1qDSolJqGGNA7p7ZwFOInHWjVO3vwgD0R",
+  "kind": "drive#file",
+  "mimeType": "video/mp4",
+  "name": "REEL-0001.mp4"
+}
+{
+  "id": "1nqTGxkQm_cypMs5RnAlU6bwTjF_hfa0K",
+  "kind": "drive#file",
+  "mimeType": "text/markdown",
+  "name": "REEL-0001_script_hi-IN.md"
+}
+{
+  "error": {
+    "code": 400,
+    "message": "Failed to get metadata for upload file '/home/ubuntu/github-workspace/repos/health-reels-automation/checkpoints/reel0001_research_sources.md': No such file or directory (os error 2)",
+    "reason": "validationError"
+  }
+}
+{
+  "id": "1kQc_6lp5eU5UqM68h1FQ7tC0LRfg9wh6",
+  "kind": "drive#file",
+  "mimeType": "application/json",
+  "name": "REEL-0001_qc.json"
+}
+{
+  "id": "1b76dGM8XV5_IeTLINKF-24_8lJNeURZG",
+  "kind": "drive#file",
+  "mimeType": "application/json",
+  "name": "REEL-0001_manifest.json"
+}
+{
+  "error": {
+    "code": 400,
+    "message": "Failed to get metadata for upload file '/home/ubuntu/github-workspace/repos/health-reels-automation/production/rendered/REEL-0001_captions.ass': No such file or directory (os error 2)",
+    "reason": "validationError"
+  }
+}
