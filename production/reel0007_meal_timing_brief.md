@@ -1,7 +1,7 @@
-# Reel 0003 production brief — regular meal timing and everyday energy rhythms
+# Reel 0007 production brief — regular meal timing and everyday energy rhythms
 
 **Working title:** Regular Meal Timing And Everyday Energy Rhythms Explained
-**Reel ID:** REEL-0003
+**Reel ID:** REEL-0007
 **Target format:** 9:16 vertical, approximately 60 seconds, Hindi narration and Hindi captions
 **Audience:** General education for adults interested in mind, body, and behavior science
 **Current status:** research-ready; do not mark final until topic-specific visuals, narration, captions, technical QC, and Drive verification are complete
@@ -51,10 +51,10 @@ Generate one Hindi voice clip per span or a full narration with deterministic sp
 
 ## QC gates
 
-The item can advance only when all gates pass: the final narration matches the approved script; captions match the measured speech; video is 9:16, legible, and approximately 60 seconds; every visual is meal-timing/circadian-specific; no scene implies a universal diet or medical outcome; the source manifest lists the six verified URLs; the SHA-256 is recorded; and the complete package is uploaded and re-listed from the canonical Drive folder `3000_HINDI_RESEARCH_REELS/Batch_001/REEL-0003`.
+The item can advance only when all gates pass: the final narration matches the approved script; captions match the measured speech; video is 9:16, legible, and approximately 60 seconds; every visual is meal-timing/circadian-specific; no scene implies a universal diet or medical outcome; the source manifest lists the six verified URLs; the SHA-256 is recorded; and the complete package is uploaded and re-listed from the canonical Drive folder `3000_HINDI_RESEARCH_REELS/Batch_001/REEL-0007`.
 
 Until all gates and Drive re-list verification pass, the ledger must not say `drive_verified`, `final`, or `published`. No post ID should be created for this research-ready item.
 
 ## Source boundary
 
-This brief is grounded in `research/2026-08-22__reel0003__meal-timing-source-validation.md`. The source record distinguishes direct scientific evidence, mechanistic hypothesis, expert interpretation, and safety guidance. The reel must preserve those distinctions in voice, captions, visuals, and metadata.
+This brief is grounded in `research/2026-08-22__reel0007__meal-timing-source-validation.md`. The source record distinguishes direct scientific evidence, mechanistic hypothesis, expert interpretation, and safety guidance. The reel must preserve those distinctions in voice, captions, visuals, and metadata.

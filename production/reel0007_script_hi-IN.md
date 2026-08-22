@@ -1,4 +1,4 @@
-# REEL-0003 Hindi script — regular meal timing and everyday energy rhythms
+# REEL-0007 Hindi script — regular meal timing and everyday energy rhythms
 
 **Language:** Hindi (India), with established English science terms retained for clarity
 **Narration target:** approximately 60 seconds after measured TTS pacing
@@ -26,4 +26,4 @@ Use a calm, curious, evidence-led Hindi voice with clear pronunciation of “Chr
 
 ## Source boundary
 
-This text is approved only with `research/2026-08-22__reel0003__meal-timing-source-validation.md`. The script separates controlled-study evidence, mechanistic interpretation, uncertainty, and safety guidance. It must not be shortened by removing the uncertainty or safety statements.
+This text is approved only with `research/2026-08-22__reel0007__meal-timing-source-validation.md`. The script separates controlled-study evidence, mechanistic interpretation, uncertainty, and safety guidance. It must not be shortened by removing the uncertainty or safety statements.

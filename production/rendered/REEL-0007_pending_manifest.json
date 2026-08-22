@@ -1,5 +1,5 @@
 {
-  "reel_id": "REEL-0003",
+  "reel_id": "REEL-0007",
   "title": "Regular Meal Timing And Everyday Energy Rhythms Explained",
   "subject": "Regular meal timing and everyday energy rhythms",
   "status": "research_ready",
@@ -14,9 +14,9 @@
     "captions": true
   },
   "artifacts": {
-    "research": "research/2026-08-22__reel0003__meal-timing-source-validation.md",
-    "production_brief": "production/reel0003_meal_timing_brief.md",
-    "script": "production/reel0003_script_hi-IN.md",
+    "research": "research/2026-08-22__reel0007__meal-timing-source-validation.md",
+    "production_brief": "production/reel0007_meal_timing_brief.md",
+    "script": "production/reel0007_script_hi-IN.md",
     "video": null,
     "audio": null,
     "captions": null,
