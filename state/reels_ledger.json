@@ -105,6 +105,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T13:14:47.003338Z",
       "notes": "Final Reel 0008: local QC passed; 11 current package objects and one manifest independently verified in authenticated Google Drive; not published."
+    },
+    {
+      "source_id": "reel_0009_interoception_what_studies_measure",
+      "sha256": "abf5e575a6a0503cc34e2adac63cc01bbfae44e9d8f2bd48f9eaad20702e6e43",
+      "filename": "reel_0009_interoception_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:25:42.878070Z",
+      "notes": "QC passed; Drive package independently verified in Batch_001/Reel_0009; manifest 1-s83JHLJPRYh99voXt0NfzgBosSXKV2K; not published."
     }
   ]
 }
