@@ -1,0 +1,24 @@
+{
+  "reel_id": "reel_0002_emotion_prediction_what_studies_measure",
+  "batch": "Batch_001",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0002",
+  "upload_verified_at": "2026-08-22T05:52:25Z",
+  "remote_object_count": 13,
+  "remote_total_bytes": 31148693,
+  "published": false,
+  "files": {
+    "reel_0002_emotion_prediction_what_studies_measure_hi.mp4": {"local_bytes": 7581564, "sha256": "730895cd4f480aa09eaeb347441955f6ecc6369da6f1e3f47568d54640cd20fd"},
+    "reel_0002_emotion_prediction_what_studies_measure_narration_hi.wav": {"local_bytes": 2964524, "sha256": "c4134fb416c940d6be1a1f6fab7b4c5e7dee4c8c77038d664868222a9ee4738e"},
+    "reel_0002_emotion_prediction_what_studies_measure_captions_hi.srt": {"local_bytes": 930, "sha256": "090cbcdd470091c45dd008349946ee47ee2e71a7ce4bf4b058b8368b70c665c9"},
+    "reel_0002_metadata.json": {"local_bytes": 2081, "sha256": "b0adcb4acec9d9c10ebcfc5f9ef4dc39e31aaa23e579a383341a4c1d01938447"},
+    "reel_0002_qc_report.json": {"local_bytes": 552, "sha256": "d2f77df85ccfab6514b0b7bcfb30c6dc13b07c8ef6f0063a6162fee57b40a22e"},
+    "reel_0002_affective_forecasting_script.md": {"local_bytes": 4577, "sha256": "56f214bb312f7a09ee92a011a58f8329e1f17cd61375d46fb1b9992407c40bb6"},
+    "reel_0002_affective_forecasting_sources.md": {"local_bytes": 2293, "sha256": "3c99aea9619e6e010fb61d79f27c50a8f1cc76c3ae0ed235a1b160733e4da881"},
+    "reel_0002_affective_forecasting_source_notes.md": {"local_bytes": 2477, "sha256": "15f399ad07d0eba7acd5b12371983cefb2dd6a1b7cd9348fd32766b2db2c1eeb"},
+    "reel_0002_emotion_prediction_what_studies_measure_visual_reference.png": {"local_bytes": 3464136, "sha256": "f9c318c44899f2fe7ea7cc36d34f5b32fa2a84cf3374b38cea64f282bef9bc38"},
+    "reel_0002_scene_01_future_prediction.png": {"local_bytes": 4503362, "sha256": "3c26ecf1ae88ee8f48363ab2f2f5ebb359bdc0fe001243e00fadea5c1dac263d"},
+    "reel_0002_scene_02_reports_compare.png": {"local_bytes": 3809426, "sha256": "dd10499b9800595ce7025159b24a88b7b8974f0b2a70b1ac416b408ba835ee0b"},
+    "reel_0002_scene_03_measurement_gauges.png": {"local_bytes": 4343838, "sha256": "ee390151ee9b567f1bedc75954ec54243120dfd2cbf7c0ac591779b5357358f2"},
+    "reel_0002_scene_04_context_caveat.png": {"local_bytes": 4468933, "sha256": "b78c26f5ee76366412ea6bdcbe42227b5df0e1cdbd19bb5bc7e50bf52538ad87"}
+  }
+}

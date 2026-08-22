@@ -42,6 +42,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T05:36:09.966091Z",
       "notes": "QC-passed 9:16 Hindi narrated reel; Drive upload verified at manus_google_drive:3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0001; research/source metadata uploaded."
+    },
+    {
+      "source_id": "reel_0002_emotion_prediction_what_studies_measure",
+      "sha256": "730895cd4f480aa09eaeb347441955f6ecc6369da6f1e3f47568d54640cd20fd",
+      "filename": "reel_0002_emotion_prediction_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T05:53:10.320853Z",
+      "notes": "QC passed and Google Drive upload verified at 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0002; not published."
     }
   ]
 }
