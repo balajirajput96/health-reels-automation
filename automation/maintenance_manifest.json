@@ -21,6 +21,7 @@
     "edited",
     "final",
     "drive_verified",
+    "drive_verified_fallback",
     "scheduled",
     "published",
     "failed",

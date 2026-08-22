@@ -39,6 +39,26 @@ class StateGuardTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             state_guard.register(args)
 
+    def test_register_accepts_drive_verified_fallback_stage(self):
+        with tempfile.TemporaryDirectory() as directory:
+            ledger = Path(directory) / "ledger.json"
+            args = Namespace(
+                sha256="fallback-hash",
+                file=None,
+                source_id=None,
+                filename="REEL-0002.mp4",
+                draft_id=None,
+                post_id=None,
+                stage="drive_verified_fallback",
+                target_account="@balajirajput96",
+                notes="quota-limited fallback",
+            )
+            with patch.object(state_guard, "LEDGER", ledger):
+                self.assertEqual(state_guard.register(args), 0)
+                record = json.loads(ledger.read_text(encoding="utf-8"))["items"][0]
+                self.assertEqual(record["stage"], "drive_verified_fallback")
+                self.assertNotIn("post_id", record)
+
     def test_register_is_idempotent_for_a_file(self):
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / "reel.mp4"
