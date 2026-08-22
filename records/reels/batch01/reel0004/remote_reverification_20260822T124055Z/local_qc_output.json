@@ -1,0 +1,56 @@
+{
+  "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+  "valid": false,
+  "problems": [
+    "missing_or_empty:visual_reference.png",
+    "missing_or_empty:production_brief.md",
+    "canonical_path_mismatch",
+    "publication_boundary_not_false",
+    "ffprobe_failed",
+    "geometry_not_9_16:NonexNone",
+    "codec_mismatch:None/None",
+    "duration_out_of_bounds:0.0",
+    "caption_cue_count:0",
+    "caption_timing_invalid_or_overlapping",
+    "no_devanagari_captions",
+    "source_missing:10.3389/fpsyg.2021.630177",
+    "source_missing:10.3389/fpsyg.2015.01770",
+    "source_missing:10.3758/s13428-022-01804-9",
+    "narration_ffprobe_failed",
+    "narration_format_mismatch:None/None"
+  ],
+  "local_media_probe": {
+    "duration_seconds": 0.0,
+    "width": null,
+    "height": null,
+    "aspect_ratio_9_16": false,
+    "video_codec": null,
+    "audio_codec": null,
+    "codec_ok": false,
+    "duration_45_to_75": false
+  },
+  "narration_probe": {
+    "sample_rate": null,
+    "channels": null,
+    "codec_name": null
+  },
+  "captions": {
+    "cue_count": 0,
+    "timing_order_ok": false,
+    "devanagari_present": false
+  },
+  "editorial": {
+    "ai_disclosure_present": true,
+    "safety_boundary_present": true,
+    "source_identifiers_present": false,
+    "publication_allowed": null
+  },
+  "sha256": {
+    "final.mp4": "d95db82b2186d06f54b863123b462f32e3e92483122fc736b758e7b74d722fe4",
+    "narration.wav": "45323373cd148af27656550e4b5779d75116365332e173193f1a836932a64c78",
+    "captions.srt": "cb4e8c8378258739de5adb92dea1d670f6ffc9f8af206ee4ec2e804d72e88f58",
+    "script.md": "6fdce657ebdbb74e67dec0e5700391d6f8a1f4e173b98840a19162b8dadd807b",
+    "sources.md": "3f27016a55a8d7b1459afcedeac6d6d1c74783e0fb3db22288fc4d02ebec7c1e",
+    "metadata.json": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+  }
+}
