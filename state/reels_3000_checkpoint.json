@@ -1,0 +1,26 @@
+{
+  "completed_drive_verified": 2,
+  "failure_log": [],
+  "generated_at": "2026-08-22T05:41:17.571278Z",
+  "last_completed": "reel_0002_emotion_prediction_what_studies_measure",
+  "mission": "3000 unique Hindi research reels",
+  "next_reel": "reel_0003_self_concept_what_studies_measure",
+  "next_sequence": 3,
+  "production_counts": {
+    "final": 2,
+    "planned": 2998
+  },
+  "reels_per_batch": 30,
+  "rules": {
+    "ai_disclosure_required": true,
+    "no_silent_skips": true,
+    "one_complete_reel_at_a_time": true,
+    "publication_requires_separate_verification": true,
+    "research_before_script": true,
+    "source_reuse_requires_new_angle": true
+  },
+  "schema_version": 1,
+  "total_batches": 100,
+  "total_reels": 3000,
+  "updated_at": "2026-08-22T06:45:29.292Z"
+}
