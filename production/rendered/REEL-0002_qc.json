@@ -1,0 +1,36 @@
+{
+  "reel_id": "REEL-0002",
+  "technical_checks": {
+    "file_exists": true,
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "audio_present": true,
+    "duration_seconds": 64.64,
+    "duration_target_seconds": "approximately 60",
+    "captions_post_produced": true,
+    "technical_checks_passed": true
+  },
+  "editorial_checks": {
+    "sources_logged": true,
+    "evidence_boundary_present": true,
+    "no_diagnosis_or_guarantee": true,
+    "visual_generation_quota_blocker_recorded": true,
+    "topic_specific_ai_video_generated": false,
+    "publication_allowed": false
+  },
+  "drive_verification": {
+    "verified": true,
+    "canonical_folder_id": "1JzyQOs5SYvvrk12rPOXD9kf1OtP1FVHP",
+    "video_file_id": "1NTRUTO5XIoC92-c-GxHUKMKgqcsKGons",
+    "script_file_id": "1Yhb96qsUjw49MRNZpe89SOZXNszXMj6o",
+    "qc_file_id": "1j6XHOI56aOOsfxuoRbMxwX7CZbKmWOM9",
+    "manifest_file_id": "1g1QYu9hqib2JMw6imhgTKPuQGeSkANZA",
+    "research_sources_file_id": "129IDg1hpacYSmeYi9TODP1mTwfDUQbHE",
+    "production_brief_file_id": "1sbQOyTLoYFQxk-ZHEzmFcd7QTYRTkc1c",
+    "verified_at": "2026-08-22T05:44:30Z"
+  },
+  "status": "drive_verified_fallback"
+}

@@ -1,0 +1,80 @@
+{
+  "reel_id": "REEL-0002",
+  "batch": "Batch_001",
+  "status": "drive_verified_fallback",
+  "title_hi": "सोने के कमरे का माहौल नींद को कैसे support कर सकता है?",
+  "target_account": "@balajirajput96",
+  "sha256": "8c3d5aaf137583af7337ce76dfa45ec74f8b30f59c1ac7c27772bf6c1e10caeb",
+  "format": {
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "duration_seconds": 64.64,
+    "fps": 30
+  },
+  "production_mode": "deterministic pan-zoom montage over previously generated AI reference images; topic-specific AI image/video generation blocked by daily quotas",
+  "blockers": [
+    "visual_generation_blocker: image quota 20/20 and video quota 1/1 reached for the current day",
+    "not_publication_ready: topic-specific AI visual regeneration and final editorial review remain pending"
+  ],
+  "narration": {
+    "language_code": "hi-IN",
+    "voice": "Charon",
+    "segments": 1,
+    "audio_file": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/audio/reel0002_voice_full.wav"
+  },
+  "sources": [
+    {
+      "title": "CDC / NIOSH archived guidance, Creating a Good Sleep Environment",
+      "url": "https://archive.cdc.gov/www_cdc_gov/niosh/emres/longhourstraining/environment.html",
+      "type": "archived public-health guidance",
+      "note": "Archived page; used as general education, not current clinical directive."
+    },
+    {
+      "title": "Sleep Foundation, Bedroom Environment: What Elements Are Important?",
+      "url": "https://www.sleepfoundation.org/bedroom-environment",
+      "type": "independent sleep-science explainer",
+      "note": "Cross-check; personal comfort and evidence limits retained."
+    }
+  ],
+  "qc": {
+    "rendered": true,
+    "audio_present": true,
+    "captions_post_produced": true,
+    "portrait_dimensions_verified": true,
+    "evidence_boundary_present": true,
+    "topic_specific_ai_video": false,
+    "technical_checks_passed": true,
+    "drive_upload_verified": true,
+    "publication_allowed": false
+  },
+  "drive": {
+    "root_folder_id": "1qBzjS18Pd4zNEmgNhZsDqKHrl17uCOyS",
+    "batch_folder_id": "19uErd4g0xD0geAUi6SJbdPV3Ih4K3mHC",
+    "canonical_reel_folder_id": "1JzyQOs5SYvvrk12rPOXD9kf1OtP1FVHP",
+    "canonical_reel_folder_url": "https://drive.google.com/drive/folders/1JzyQOs5SYvvrk12rPOXD9kf1OtP1FVHP",
+    "file_ids": {
+      "video": "1NTRUTO5XIoC92-c-GxHUKMKgqcsKGons",
+      "script": "1Yhb96qsUjw49MRNZpe89SOZXNszXMj6o",
+      "qc": "1j6XHOI56aOOsfxuoRbMxwX7CZbKmWOM9",
+      "manifest": "1g1QYu9hqib2JMw6imhgTKPuQGeSkANZA",
+      "research_sources": "129IDg1hpacYSmeYi9TODP1mTwfDUQbHE",
+      "production_brief": "1sbQOyTLoYFQxk-ZHEzmFcd7QTYRTkc1c"
+    },
+    "verified_at": "2026-08-22T05:44:30Z"
+  },
+  "files": {
+    "video": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/rendered/REEL-0002.mp4",
+    "captions": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/assembly_work/REEL-0002_captions.ass",
+    "source_brief": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/reel0002_sleep_environment_brief.md",
+    "research_log": "/home/ubuntu/github-workspace/checkpoints/reel0002_research_sources.md"
+  },
+  "segment_durations_seconds": [
+    9.05,
+    10.989,
+    10.989,
+    11.635,
+    11.635,
+    10.342
+  ]
+}
