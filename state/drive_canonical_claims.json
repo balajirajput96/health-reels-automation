@@ -1,8 +1,8 @@
 {
-  "schema_version": "1.0",
-  "source": "Google Drive read-only inventory checkpoint drive_canonical_reconciliation_20260822T0942Z",
-  "captured_at_utc": "2026-08-22T09:42:00Z",
-  "note": "Metadata snapshot only. Refresh through a reviewed change after a new Drive inventory; this file does not authenticate to Drive.",
+  "schema_version": "1.1",
+  "source": "Google Drive read-only inventory checkpoint reels_mission_checkpoint_20260822T1129Z",
+  "captured_at_utc": "2026-08-22T19:18:53Z",
+  "note": "Metadata snapshot only. This file does not authenticate to Drive or grant cloud access. Refreshes require a reviewed repository change.",
   "canonical_packages": [
     {
       "reel_id": "REEL-0001",
@@ -39,6 +39,20 @@
       "title": "Predictive processing: context बदलने पर expectation का असर क्यों बदल सकता है",
       "topic": "Context-dependent effects of expectation",
       "status": "complete_drive_verified"
+    },
+    {
+      "reel_id": "REEL-0007",
+      "title": "Signal दिखा, तो prediction error साबित?",
+      "topic": "Predictive processing",
+      "status": "complete_drive_verified",
+      "drive_folder_id": "1OD00swazBKl04aDJVkawUvUklP9jHIu3"
+    },
+    {
+      "reel_id": "REEL-0009",
+      "title": "क्या आपका दिमाग सच्चाई को छोड़कर अपनी कहानी बनाता है?",
+      "topic": "Prediction / visual perception myth-check",
+      "status": "complete_drive_verified",
+      "drive_folder_id": "1pPOeS7gzF9_5KxNUmad7hswD-MZ7Ty9v"
     }
   ]
 }
