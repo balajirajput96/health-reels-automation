@@ -4,3 +4,32 @@ __pycache__/
 .venv/
 venv/
 state/
+
+# Generated media and assembly scratch; validated metadata and source stay tracked.
+production/assets/
+production/audio/
+production/clips/
+production/assembled_clips/
+production/assembly_work/
+production/rendered/*.mp4
+production/rendered/*_health_report.json
+production/rendered/*_health_summary.md
+production/rendered/*_manifest.json
+production/rendered/*_qc.json
+production/rendered/*_script_hi-IN.md
+production/rendered/*_drive_uploads.ndjson
+!production/rendered/REEL-0001_manifest.json
+!production/rendered/REEL-0001_qc.json
+!production/rendered/REEL-0001_script_hi-IN.md
+!production/rendered/REEL-0001_drive_uploads.ndjson
+
+# Keep production source and briefs visible to version control.
+!production/*.py
+!production/*.md
+!production/rendered/*.md
+!production/rendered/*.json
+!production/rendered/*.ndjson
+
+# The local reel ledger is intentionally tracked despite the broad state rule above.
+!state/
+!state/reels_ledger.json

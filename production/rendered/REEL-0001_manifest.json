@@ -1,0 +1,80 @@
+{
+  "reel_id": "REEL-0001",
+  "batch": "Batch_001",
+  "status": "complete_drive_verified",
+  "title_hi": "भावना को नाम देने से दिमाग को क्या मदद मिल सकती है?",
+  "format": {
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "duration_seconds": 60.352,
+    "fps": 30
+  },
+  "production_mode": "AI-generated portrait reference images with deterministic pan-zoom animation fallback; native AI video clip 1 retained separately because the daily video quota was reached.",
+  "narration": {
+    "language_code": "hi-IN",
+    "voice": "Erinome",
+    "segments": 7,
+    "tempo_filter": 1.15
+  },
+  "sources": [
+    {
+      "title": "Lieberman et al. 2007, Putting Feelings Into Words",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17576282/",
+      "type": "peer-reviewed PubMed record"
+    },
+    {
+      "title": "Burklund et al. 2014, The Common and Distinct Neural Bases of Affect Labeling and Reappraisal",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00221/full",
+      "type": "peer-reviewed review/cross-check"
+    },
+    {
+      "title": "UCLA Health summary of affect labeling neuroimaging study",
+      "url": "https://www.uclahealth.org/news/release/putting-feelings-into-words-produces-therapeutic-effects-in-the-brain-ucla-neuroimaging-study-supports-ancient-buddhist-teachings",
+      "type": "university expert summary"
+    }
+  ],
+  "qc": {
+    "rendered": true,
+    "audio_present": true,
+    "captions_post_produced": true,
+    "no_generated_text_in_images": true,
+    "source_card_included": true,
+    "technical_checks_passed": true,
+    "editorial_checks_passed": true,
+    "safety_checks_passed": true
+  },
+  "files": {
+    "video": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/rendered/REEL-0001.mp4",
+    "captions": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/assembly_work/REEL-0001_captions.ass",
+    "source_brief": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/reel0001_affect_labeling_brief.md",
+    "script": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/rendered/REEL-0001_script_hi-IN.md",
+    "qc": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/rendered/REEL-0001_qc.json"
+  },
+  "drive": {
+    "root_folder_id": "1qBzjS18Pd4zNEmgNhZsDqKHrl17uCOyS",
+    "root_folder_link": "https://drive.google.com/drive/folders/1qBzjS18Pd4zNEmgNhZsDqKHrl17uCOyS",
+    "batch_folder_id": "19uErd4g0xD0geAUi6SJbdPV3Ih4K3mHC",
+    "reel_folder_id": "1-TVdwDN2HIf2OWfPb6Jv-FmCgFJ7LT4u",
+    "uploaded_files": {
+      "REEL-0001.mp4": "1qDSolJqGGNA7p7ZwFOInHWjVO3vwgD0R",
+      "REEL-0001_script_hi-IN.md": "1nqTGxkQm_cypMs5RnAlU6bwTjF_hfa0K",
+      "REEL-0001_research_sources.md": "1Nm6nN40RayIM00llQZshDYJtEZEoEx-Q",
+      "REEL-0001_qc.json": "1kQc_6lp5eU5UqM68h1FQ7tC0LRfg9wh6",
+      "REEL-0001_manifest.json": "1b76dGM8XV5_IeTLINKF-24_8lJNeURZG",
+      "REEL-0001_captions.ass": "1I8hawswGYedEpg5C0GBrprfuJ1cuJJAs"
+    },
+    "upload_verified": true,
+    "folder_link": "https://drive.google.com/drive/folders/1-TVdwDN2HIf2OWfPb6Jv-FmCgFJ7LT4u"
+  },
+  "quota_boundary": "Native AI video generation produced one clip before the free-plan daily limit returned 1/1. The remainder used AI-generated still references with deterministic animation; no quota or access-control bypass was attempted.",
+  "segment_durations_seconds": [
+    10.026,
+    5.929,
+    11.977,
+    9.121,
+    14.129,
+    5.399,
+    3.772
+  ]
+}

@@ -13,19 +13,20 @@ Use Google Drive workspace `Instagram Reels Operations` as the source-of-truth w
 | `Original` | Untouched preserved source copy and source record |
 | `Edited` | Intermediate or alternate working versions |
 | `Final` | Validated, Reel-ready video, cover, and metadata |
+| `Drive-verified` | Final asset whose Drive upload, metadata, and integrity checks were verified; not a publication claim |
 | `Scheduled` | Official drafts and pending-provider-confirmation records only |
 | `Published` | Items verified in the official Instagram post list |
 | `Failed` | Persistent processing or platform failures with the exact verified reason |
 
 ## Autonomous operating loop
 
-On each scheduled run, inspect the approved queue, the official Instagram post list, and existing workflow records. First deduplicate by Drive file ID, checksum, filename, official post ID, official draft ID, and previously recorded status. Process the highest-quality eligible item that is not already in a final, pending, published, or failed state.
+On each scheduled run, inspect the approved queue, the official Instagram post list, and existing workflow records. First deduplicate by Drive file ID, checksum, filename, official post ID, official draft ID, and previously recorded status. Process the highest-quality eligible item that is not already in a final, Drive-verified, pending, published, or failed state.
 
 Analyze technical integrity, duration, resolution, orientation, framing, lighting, audio, pacing, obvious privacy concerns, hook, and readability. Make only professional, meaning-preserving edits: remove genuine dead space, improve crop/framing when safe, normalize basic video and audio quality, and maintain 9:16 Reel geometry. Create subtitles only when accurate speech transcription is actually available. Do not invent transcript text, claims, results, diagnoses, safety assertions, medical advice, or performance statements.
 
 Generate concise, professional captions, keywords, hashtags, CTA, accessibility text, and a source-derived or appropriately created cover based solely on the actual content. Maintain a consistent neutral, credible, behind-the-scenes editorial style unless the content itself establishes another clear style.
 
-Validate every final asset before submission: decodable file, portrait geometry, usable resolution, audio presence, correct cover, caption integrity, appropriate hashtags, correct account, and duplicate prevention. Save the validated source, final file, cover, metadata, and status record in their appropriate folders.
+Validate every final asset before submission: decodable file, portrait geometry, usable resolution, audio presence, correct cover, caption integrity, appropriate hashtags, correct account, and duplicate prevention. Save the validated source, final file, cover, metadata, and status record in their appropriate folders. A Drive-verified state confirms storage and integrity only; it does not imply scheduling or publication.
 
 Submit eligible Reels only through official authorized publishing workflows. Use account insights where available; otherwise, preserve a consistent daily cadence and do not fabricate timing evidence. After submission, query the official post list and record the exact verified state. Retry only clearly temporary, safe technical failures. Continue with later queue items rather than stalling the entire workflow.
 
