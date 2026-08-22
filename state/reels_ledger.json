@@ -33,6 +33,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-19T02:07:01.924589Z",
       "notes": "Batch 04 Evening Screens and Sleep Wind-Down: 60.0-second 720x1280 H.264/AAC final; actual-audio subtitles generated from Gemini transcription; AI-content disclosure required before public share."
+    },
+    {
+      "source_id": "reel_0001_affect_labeling",
+      "sha256": "bef8f13e55c13cd14288584a1ed3d65833b7df033a62e96d65b94aeea7782dc4",
+      "filename": "reel_0001_affect_labeling_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T05:36:09.966091Z",
+      "notes": "QC-passed 9:16 Hindi narrated reel; Drive upload verified at manus_google_drive:3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0001; research/source metadata uploaded."
     }
   ]
 }

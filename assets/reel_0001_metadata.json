@@ -1,0 +1,52 @@
+{
+  "reel_id": "reel_0001",
+  "batch": "Batch_001",
+  "title_hi": "भावना को नाम देना: दिमाग की alarm प्रतिक्रिया पर एक छोटा प्रयोग",
+  "pillar": "Emotion regulation / neuroscience",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 55.2,
+  "evidence_status": "SAFE_WITH_EDITS",
+  "claims_boundary": "Controlled-lab finding; not a diagnosis, treatment, cure, or guaranteed calming method.",
+  "sources": [
+    {
+      "type": "primary",
+      "id": "PMID 17576282",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17576282/"
+    },
+    {
+      "type": "peer_reviewed_synthesis",
+      "citation": "Burklund, Creswell, Irwin & Lieberman (2014), Frontiers in Psychology",
+      "url": "https://doi.org/10.3389/fpsyg.2014.00221"
+    },
+    {
+      "type": "peer_reviewed_context",
+      "citation": "Levy-Gigi & Shamay-Tsoory (2022), PLOS ONE",
+      "url": "https://doi.org/10.1371/journal.pone.0279303"
+    },
+    {
+      "type": "peer_reviewed_boundary",
+      "citation": "Yoshimura, Shimomura & Onoda (2024), BMC Psychology",
+      "url": "https://doi.org/10.1186/s40359-024-02103-y"
+    }
+  ],
+  "ai_content_disclosure": "AI-generated narration and visual assets may be used.",
+  "assets": {
+    "narration": "reel_0001_narration_hi.wav",
+    "captions": "reel_0001_captions_hi.srt",
+    "visuals": [
+      "reel_0001_visual_reference.png",
+      "reel_0001_scene_01_emotion_pause.png",
+      "reel_0001_scene_02_amygdala_study.png",
+      "reel_0001_scene_03_label_and_context.png"
+    ]
+  },
+  "qc_gates": {
+    "narration_present": true,
+    "captions_present": true,
+    "sources_present": true,
+    "no_treatment_guarantee": true,
+    "needs_final_media_probe": true,
+    "needs_drive_upload_verification": true
+  }
+}

@@ -1,0 +1,15 @@
+# Generated media is archived in Google Drive, not committed to Git.
+assets/*.mp4
+assets/*.wav
+assets/*.png
+assets/*.jpg
+
+# Local Python/runtime artifacts.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local tool/session output.
+*.log
+.env
+.env.*
