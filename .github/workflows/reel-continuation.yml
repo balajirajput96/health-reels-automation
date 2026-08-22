@@ -1,0 +1,72 @@
+name: Reel queue continuation
+
+on:
+  schedule:
+    - cron: "45 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  continue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out the reels repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Select next unused validated concept
+        id: select
+        shell: bash
+        run: |
+          set +e
+          mkdir -p "$RUNNER_TEMP/reel-continuation"
+          python automation/select_next_reel.py \
+            --output "$RUNNER_TEMP/reel-continuation/next-selection.json" \
+            > "$RUNNER_TEMP/reel-continuation/selector.stdout"
+          code=$?
+          if [ "$code" -ne 0 ] && [ "$code" -ne 2 ]; then
+            cat "$RUNNER_TEMP/reel-continuation/selector.stdout"
+            exit "$code"
+          fi
+          python -m json.tool "$RUNNER_TEMP/reel-continuation/next-selection.json" >/dev/null
+          echo "selector_exit_code=$code" >> "$GITHUB_OUTPUT"
+          cat "$RUNNER_TEMP/reel-continuation/next-selection.json" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Validate idempotency ledger
+        run: python automation/state_guard.py status
+
+      - name: Run health and continuity checks
+        run: |
+          python automation/health_check.py \
+            --report-json "$RUNNER_TEMP/reel-continuation/health-check.json" \
+            --summary-md "$RUNNER_TEMP/reel-continuation/health-check.md"
+          python automation/continuity_check.py \
+            --report-json "$RUNNER_TEMP/reel-continuation/cli-continuity.json" \
+            --summary-md "$RUNNER_TEMP/reel-continuation/cli-continuity.md"
+
+      - name: Record execution boundary
+        if: ${{ always() }}
+        run: |
+          {
+            echo "# Reel continuation boundary"
+            echo
+            echo "This run selected and validated queue metadata only."
+            echo "Media generation, connected Drive upload, and publication require the separately authorized production environment."
+            echo "No credentials, browser sessions, social accounts, or external APIs were accessed by this workflow."
+          } > "$RUNNER_TEMP/reel-continuation/execution-boundary.md"
+
+      - name: Upload continuation checkpoint
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: reel-continuation-${{ github.run_id }}
+          path: ${{ runner.temp }}/reel-continuation
+          if-no-files-found: warn
+          retention-days: 90
