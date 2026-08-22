@@ -21,13 +21,14 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Select next unused validated concept
+      - name: Select next unused validated concept using ledger and Drive snapshot
         id: select
         shell: bash
         run: |
           set +e
           mkdir -p "$RUNNER_TEMP/reel-continuation"
           python automation/select_next_reel.py \
+            --external-claims state/drive_canonical_claims.json \
             --output "$RUNNER_TEMP/reel-continuation/next-selection.json" \
             > "$RUNNER_TEMP/reel-continuation/selector.stdout"
           code=$?
@@ -37,6 +38,7 @@ jobs:
           fi
           python -m json.tool "$RUNNER_TEMP/reel-continuation/next-selection.json" >/dev/null
           echo "selector_exit_code=$code" >> "$GITHUB_OUTPUT"
+          echo "identity_sources=ledger,drive_snapshot" >> "$GITHUB_OUTPUT"
           cat "$RUNNER_TEMP/reel-continuation/next-selection.json" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Validate idempotency ledger

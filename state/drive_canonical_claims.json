@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "source": "Google Drive read-only inventory checkpoint drive_canonical_reconciliation_20260822T0942Z",
+  "captured_at_utc": "2026-08-22T09:42:00Z",
+  "note": "Metadata snapshot only. Refresh through a reviewed change after a new Drive inventory; this file does not authenticate to Drive.",
+  "canonical_packages": [
+    {
+      "reel_id": "REEL-0001",
+      "title": "भावना को नाम देने से दिमाग को क्या मदद मिल सकती है?",
+      "topic": "Affect labeling and emotional regulation",
+      "status": "complete_drive_verified"
+    },
+    {
+      "reel_id": "REEL-0002",
+      "title": "नींद का दबाव क्या है—और body clock से यह अलग क्यों है?",
+      "topic": "homeostatic sleep pressure and the circadian clock",
+      "status": "complete_drive_verified"
+    },
+    {
+      "reel_id": "REEL-0003",
+      "title": "Predictive processing: क्या predictive brain reality को ignore करता है?",
+      "topic": "Predictive processing and perceptual inference",
+      "status": "complete_drive_verified"
+    },
+    {
+      "reel_id": "REEL-0004",
+      "title": "Predictive processing: क्या यह framework reality को ignore करने की बात कहता है?",
+      "topic": "Predictive processing and reality framing",
+      "status": "complete_drive_verified"
+    },
+    {
+      "reel_id": "REEL-0005",
+      "title": "Predictive processing: अपनी expectations को observe करें",
+      "topic": "Observing expectations through a predictive-processing lens",
+      "status": "complete_drive_verified"
+    },
+    {
+      "reel_id": "REEL-0006",
+      "title": "Predictive processing: context बदलने पर expectation का असर क्यों बदल सकता है",
+      "topic": "Context-dependent effects of expectation",
+      "status": "complete_drive_verified"
+    }
+  ]
+}
