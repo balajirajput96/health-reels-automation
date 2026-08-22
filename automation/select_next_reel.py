@@ -2,8 +2,9 @@
 """Select the next unused validated reel concept without mutating production state.
 
 The selector is intentionally deterministic and non-secret. It compares canonical
-backlog identities with the ledger's recorded titles, subjects, and reel IDs, then
-writes one JSON selection plus an audit summary for a resumable workflow.
+backlog identities with the ledger's recorded titles, subjects, and reel IDs and,
+when supplied, a checked-in snapshot of canonical Drive claims. The Drive snapshot
+is metadata only; it does not grant Drive access and is refreshed through review.
 """
 from __future__ import annotations
 
@@ -40,6 +41,22 @@ def load_ledger(path: Path) -> dict[str, Any]:
     return payload
 
 
+def load_external_claims(path: Path) -> list[dict[str, Any]]:
+    """Load a review-controlled metadata snapshot of canonical Drive packages."""
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    if isinstance(payload, dict) and isinstance(payload.get("canonical_packages"), list):
+        claims = payload["canonical_packages"]
+    elif isinstance(payload, dict) and isinstance(payload.get("items"), list):
+        claims = payload["items"]
+    elif isinstance(payload, list):
+        claims = payload
+    else:
+        raise ValueError("external claims must be a list or object containing canonical_packages/items")
+    if not all(isinstance(item, dict) for item in claims):
+        raise ValueError("external claims entries must be objects")
+    return claims
+
+
 def topic_tokens(value: Any) -> set[str]:
     return {
         token
@@ -52,7 +69,7 @@ def recorded_identities(items: list[dict[str, Any]]) -> tuple[set[str], set[str]
     phrases: set[str] = set()
     tokens: set[str] = set()
     for item in items:
-        fields = [item.get(key, "") for key in ("id", "reel_id", "title", "subject", "canonical_title", "filename", "notes")]
+        fields = [item.get(key, "") for key in ("id", "reel_id", "title", "topic", "subject", "canonical_title", "filename", "notes")]
         for value in fields:
             normalized = norm(value)
             if normalized:
@@ -61,9 +78,15 @@ def recorded_identities(items: list[dict[str, Any]]) -> tuple[set[str], set[str]
     return phrases, tokens
 
 
-def choose(backlog: list[dict[str, str]], ledger: dict[str, Any]) -> tuple[dict[str, Any] | None, dict[str, Any]]:
-    phrases, identities = recorded_identities(ledger["items"])
+def choose(
+    backlog: list[dict[str, str]],
+    ledger: dict[str, Any],
+    external_claims: list[dict[str, Any]] | None = None,
+) -> tuple[dict[str, Any] | None, dict[str, Any]]:
+    claims = external_claims or []
+    phrases, identities = recorded_identities([*ledger["items"], *claims])
     skipped: list[dict[str, Any]] = []
+    skip_reason = "ledger_or_drive_identity_match" if claims else "ledger_identity_match"
     for row_number, row in enumerate(backlog, start=2):
         title = row.get("Canonical Title", "").strip()
         subject = row.get("Subject", "").strip()
@@ -73,7 +96,7 @@ def choose(backlog: list[dict[str, str]], ledger: dict[str, Any]) -> tuple[dict[
         phrase_match = any(key in phrase for phrase in phrases for key in keys if len(key) >= 12)
         token_match = len(title_tokens & identities) >= 2 or len(subject_tokens & identities) >= 2
         if phrase_match or token_match:
-            skipped.append({"row": row_number, "title": title, "subject": subject, "reason": "ledger_identity_match"})
+            skipped.append({"row": row_number, "title": title, "subject": subject, "reason": skip_reason})
             continue
         selection = {
             "backlog_row": row_number,
@@ -89,14 +112,27 @@ def choose(backlog: list[dict[str, str]], ledger: dict[str, Any]) -> tuple[dict[
             "safety_boundary": row.get("Safety Boundary", "").strip(),
             "status": "selected_for_research",
         }
-        return selection, {"backlog_rows": len(backlog), "ledger_items": len(ledger["items"]), "skipped": skipped}
-    return None, {"backlog_rows": len(backlog), "ledger_items": len(ledger["items"]), "skipped": skipped}
+        return selection, {
+            "backlog_rows": len(backlog),
+            "ledger_items": len(ledger["items"]),
+            "external_claim_items": len(claims),
+            "identity_sources": ["ledger"] + (["drive_snapshot"] if claims else []),
+            "skipped": skipped,
+        }
+    return None, {
+        "backlog_rows": len(backlog),
+        "ledger_items": len(ledger["items"]),
+        "external_claim_items": len(claims),
+        "identity_sources": ["ledger"] + (["drive_snapshot"] if claims else []),
+        "skipped": skipped,
+    }
 
 
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--backlog", type=Path, default=DEFAULT_BACKLOG)
     parser.add_argument("--ledger", type=Path, default=DEFAULT_LEDGER)
+    parser.add_argument("--external-claims", type=Path, help="Optional review-controlled canonical Drive metadata snapshot")
     parser.add_argument("--output", type=Path)
     args = parser.parse_args()
 
@@ -104,8 +140,11 @@ def main() -> int:
         raise SystemExit(f"backlog not found: {args.backlog}")
     if not args.ledger.is_file():
         raise SystemExit(f"ledger not found: {args.ledger}")
+    if args.external_claims and not args.external_claims.is_file():
+        raise SystemExit(f"external claims not found: {args.external_claims}")
 
-    selection, audit = choose(load_rows(args.backlog), load_ledger(args.ledger))
+    claims = load_external_claims(args.external_claims) if args.external_claims else None
+    selection, audit = choose(load_rows(args.backlog), load_ledger(args.ledger), claims)
     payload = {"selection": selection, "audit": audit}
     encoded = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
     if args.output:
@@ -119,4 +158,4 @@ if __name__ == "__main__":
     raise SystemExit(main())
 
 
-__all__ = ["choose", "load_ledger", "load_rows"]
+__all__ = ["choose", "load_external_claims", "load_ledger", "load_rows"]

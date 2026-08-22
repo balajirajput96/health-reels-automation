@@ -32,6 +32,31 @@ class SelectNextReelTests(unittest.TestCase):
         self.assertEqual(selection["title"], "Regular Meal Timing And Everyday Energy Rhythms Explained")
         self.assertEqual(audit["skipped"][0]["reason"], "ledger_identity_match")
 
+    def test_external_drive_claims_skip_existing_canonical_topic(self):
+        backlog = [
+            {
+                "Canonical Title": "Predictive Processing And Perceptual Inference Explained",
+                "Subject": "Predictive processing and how the brain uses expectations",
+            },
+            {
+                "Canonical Title": "Regular Meal Timing And Everyday Energy Rhythms Explained",
+                "Subject": "Regular meal timing and everyday energy rhythms",
+            },
+        ]
+        selection, audit = choose(
+            backlog,
+            {"items": []},
+            [{
+                "reel_id": "REEL-0003",
+                "title": "Predictive processing: क्या predictive brain reality को ignore करता है?",
+                "topic": "Predictive processing and perceptual inference",
+                "status": "complete_drive_verified",
+            }],
+        )
+        self.assertEqual(selection["title"], "Regular Meal Timing And Everyday Energy Rhythms Explained")
+        self.assertEqual(audit["external_claim_items"], 1)
+        self.assertEqual(audit["skipped"][0]["reason"], "ledger_or_drive_identity_match")
+
     def test_selection_is_json_serializable_and_does_not_require_mutation(self):
         selection, audit = choose(
             [{"Canonical Title": "Fresh Topic", "Subject": "A new validated subject"}],
