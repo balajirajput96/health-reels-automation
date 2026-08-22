@@ -20,7 +20,7 @@
     "video": null,
     "audio": "production/audio/REEL-0007_narration_hi-IN.wav",
     "captions": "production/captions/REEL-0007_hi-IN.srt",
-    "qc": null
+    "qc": "production/rendered/REEL-0007_pending_qc.json"
   },
   "source_urls": [
     "https://pubmed.ncbi.nlm.nih.gov/28578930/",

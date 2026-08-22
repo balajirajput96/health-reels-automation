@@ -1,0 +1,44 @@
+{
+  "reel_id": "REEL-0007",
+  "status": "pending_visual_generation",
+  "publication_allowed": false,
+  "drive_verified": false,
+  "technical_checks": {
+    "narration_file_present": true,
+    "narration_codec": "pcm_s16le",
+    "narration_sample_rate_hz": 24000,
+    "narration_channels": 1,
+    "narration_duration_seconds": 64.88,
+    "captions_file_present": true,
+    "caption_span_count": 7,
+    "caption_end_seconds": 64.88,
+    "aspect_ratio_check": "not_started_video_missing",
+    "video_codec_check": "not_started_video_missing"
+  },
+  "editorial_checks": {
+    "approved_script_used": true,
+    "research_record_present": true,
+    "uncertainty_boundary_preserved": true,
+    "safety_disclaimer_preserved": true,
+    "topic_specific_visual_relevance": "not_verified_visual_missing"
+  },
+  "blocked_gates": [
+    {
+      "type": "image_generation_quota",
+      "detail": "Authorized provider rejected the mandatory primary topic-specific reference image at the daily free limit of 20/20.",
+      "publication_impact": "blocking"
+    },
+    {
+      "type": "native_video_quota",
+      "detail": "Inherited session state records native video quota exhausted at 1/1.",
+      "publication_impact": "blocking"
+    },
+    {
+      "type": "drive_package",
+      "detail": "Drive upload is forbidden until video and full QC pass.",
+      "publication_impact": "blocking"
+    }
+  ],
+  "next_resume_step": "After authorized quota reset, generate the topic-specific primary reference image, then native 9:16 video, assemble with this narration and captions, run full QC, and upload/re-list-verify the package in Batch_001.",
+  "generated_at_utc": "2026-08-22T10:45:00Z"
+}
