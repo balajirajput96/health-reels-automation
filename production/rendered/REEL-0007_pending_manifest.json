@@ -18,8 +18,8 @@
     "production_brief": "production/reel0007_meal_timing_brief.md",
     "script": "production/reel0007_script_hi-IN.md",
     "video": null,
-    "audio": null,
-    "captions": null,
+    "audio": "production/audio/REEL-0007_narration_hi-IN.wav",
+    "captions": "production/captions/REEL-0007_hi-IN.srt",
     "qc": null
   },
   "source_urls": [
@@ -51,5 +51,5 @@
     "verification_status": "not_started",
     "package_upload_allowed": false
   },
-  "notes": "Research and script are complete enough to resume production. Because the mandatory primary topic-specific reference image could not be generated within the authorized free quota, no audio, captions, video, QC, Drive upload, ledger registration, or publication claim is made. The repository's current lifecycle validator does not include research_ready, so this pending manifest is intentionally kept outside state/reels_ledger.json until a supported lifecycle change is reviewed through a PR."
+  "notes": "Research and script are complete enough to resume production. Hindi narration spans and captions were prepared locally from the approved script, but they are not a completed reel because the mandatory primary topic-specific reference image could not be generated within the authorized free quota. Video, QC, Drive upload, ledger registration, and publication remain blocked. The repository's current lifecycle validator does not include research_ready, so this pending manifest is intentionally kept outside state/reels_ledger.json until a supported lifecycle change is reviewed through a PR."
 }
