@@ -1,0 +1,23 @@
+{
+  "checks": {
+    "ai_disclosure_present": true,
+    "aspect_ratio_9_16": true,
+    "audio_stream": {
+      "channels": 1,
+      "codec": "aac",
+      "sample_rate": "48000"
+    },
+    "caption_cues": 11,
+    "caption_timing_ok": true,
+    "duration_45_to_75": true,
+    "duration_seconds": 66.733,
+    "height": 1920,
+    "safety_wording_ok": true,
+    "source_identifier_present": true,
+    "source_records": 2,
+    "width": 1080
+  },
+  "problems": [],
+  "valid": true,
+  "video": "assets/reel_0003_self_concept_what_studies_measure_hi.mp4"
+}
