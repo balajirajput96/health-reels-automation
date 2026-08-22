@@ -13,8 +13,10 @@
     "automation/continuity_check.py",
     "automation/state_guard.py",
     "automation/repository_maintenance.py",
+    "automation/select_next_reel.py",
     ".github/workflows/daily-automation-audit.yml",
-    ".github/workflows/repository-maintenance.yml"
+    ".github/workflows/repository-maintenance.yml",
+    ".github/workflows/reel-continuation.yml"
   ],
   "allowed_ledger_stages": [
     "original",
@@ -30,7 +32,8 @@
   "published_stage": "published",
   "workflow_schedules": {
     ".github/workflows/daily-automation-audit.yml": "30 0 * * *",
-    ".github/workflows/repository-maintenance.yml": "30 0 * * *"
+    ".github/workflows/repository-maintenance.yml": "30 0 * * *",
+    ".github/workflows/reel-continuation.yml": "45 0 * * *"
   },
   "non_secret_scope": [
     "repository file existence",
