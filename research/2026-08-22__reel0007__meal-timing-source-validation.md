@@ -1,4 +1,4 @@
-# Reel 0003 source validation — regular meal timing and everyday energy rhythms
+# Reel 0007 source validation — regular meal timing and everyday energy rhythms
 
 **Research date:** 2026-08-22
 **Selected title:** Regular Meal Timing And Everyday Energy Rhythms Explained
