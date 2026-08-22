@@ -1,0 +1,10 @@
+{
+  "items": 14,
+  "by_stage": {
+    "published": 4,
+    "final": 5,
+    "drive_verified": 3,
+    "drive_verified_fallback": 1,
+    "failed": 1
+  }
+}
