@@ -1,0 +1,172 @@
+{
+  "files": [
+    {
+      "id": "18ClGNNEWOaXMw2ePA6YJYR0nhrZ0NQEx",
+      "md5Checksum": "228628b10b75beb065eeec57d09c7941",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T05:46:26.753Z",
+      "name": "reel_0002_affective_forecasting_script.md",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "4577",
+      "webViewLink": "https://drive.google.com/file/d/18ClGNNEWOaXMw2ePA6YJYR0nhrZ0NQEx/view?usp=drivesdk"
+    },
+    {
+      "id": "1cAHLcB1YV2m3Wx_rYYLuWwwdFlFhZ5Gi",
+      "md5Checksum": "4538977cce4bbe999957e3d782034cf0",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T05:45:46.708Z",
+      "name": "reel_0002_affective_forecasting_source_notes.md",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "2477",
+      "webViewLink": "https://drive.google.com/file/d/1cAHLcB1YV2m3Wx_rYYLuWwwdFlFhZ5Gi/view?usp=drivesdk"
+    },
+    {
+      "id": "11zMxv4rkTZrL5KN_UjrRv-bBlLF3iybO",
+      "md5Checksum": "347050fc6e5a19d6109ff35f67c5dd9e",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T05:46:35.309Z",
+      "name": "reel_0002_affective_forecasting_sources.md",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "2293",
+      "webViewLink": "https://drive.google.com/file/d/11zMxv4rkTZrL5KN_UjrRv-bBlLF3iybO/view?usp=drivesdk"
+    },
+    {
+      "id": "1RrjwzrS0Xk7h6s_v6yS6Cd64251VJXAu",
+      "md5Checksum": "582d466d6cd365b80259bc4c0b710ea0",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T05:53:20.918Z",
+      "name": "reel_0002_drive_upload_manifest.json",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "2334",
+      "webViewLink": "https://drive.google.com/file/d/1RrjwzrS0Xk7h6s_v6yS6Cd64251VJXAu/view?usp=drivesdk"
+    },
+    {
+      "id": "1_evjjCfo759oCrwGQBr00LLVAMfoEvd4",
+      "md5Checksum": "cc604f22b92940e9136dd1e192853673",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-22T05:49:57.137Z",
+      "name": "reel_0002_emotion_prediction_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "930",
+      "webViewLink": "https://drive.google.com/file/d/1_evjjCfo759oCrwGQBr00LLVAMfoEvd4/view?usp=drivesdk"
+    },
+    {
+      "id": "1-Oynx_KRonORblG0qIy_KSzTDKiXaxIU",
+      "md5Checksum": "939fba351360eb3a68b3bb26b9084e9a",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-22T05:50:43.209Z",
+      "name": "reel_0002_emotion_prediction_what_studies_measure_hi.mp4",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "7581564",
+      "webViewLink": "https://drive.google.com/file/d/1-Oynx_KRonORblG0qIy_KSzTDKiXaxIU/view?usp=drivesdk"
+    },
+    {
+      "id": "1Qy2R1CcXBZTH7Ospt28bURTxSORTMt2P",
+      "md5Checksum": "8fec488aea3c0888fea2658d9063b1bf",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-22T05:47:19.277Z",
+      "name": "reel_0002_emotion_prediction_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "2964524",
+      "webViewLink": "https://drive.google.com/file/d/1Qy2R1CcXBZTH7Ospt28bURTxSORTMt2P/view?usp=drivesdk"
+    },
+    {
+      "id": "1FDdEXU4kPq0PSmiBqmyd8L48F-X5j-nb",
+      "md5Checksum": "5f0ede48ca603a8db33d0cb2b5ebd259",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T05:48:16.161Z",
+      "name": "reel_0002_emotion_prediction_what_studies_measure_visual_reference.png",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "3464136",
+      "webViewLink": "https://drive.google.com/file/d/1FDdEXU4kPq0PSmiBqmyd8L48F-X5j-nb/view?usp=drivesdk"
+    },
+    {
+      "id": "1aSWA0-beAq_0cggVp6sGJ07WjBEBGey5",
+      "md5Checksum": "ca67c213f4587d6a684d4cea205ac0e2",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T05:51:01.701Z",
+      "name": "reel_0002_metadata.json",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "2081",
+      "webViewLink": "https://drive.google.com/file/d/1aSWA0-beAq_0cggVp6sGJ07WjBEBGey5/view?usp=drivesdk"
+    },
+    {
+      "id": "1hnwG8ro8Xro0iev0Xnnqtwz56yGHwyfW",
+      "md5Checksum": "591eb298255938b430628e9f76218c54",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T05:50:56.733Z",
+      "name": "reel_0002_qc_report.json",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "552",
+      "webViewLink": "https://drive.google.com/file/d/1hnwG8ro8Xro0iev0Xnnqtwz56yGHwyfW/view?usp=drivesdk"
+    },
+    {
+      "id": "1KzeKw8m4j81zqR9oaE5OhrIVskJ6wQpp",
+      "md5Checksum": "d2424291ba8511325a99d8074c68bc12",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T05:49:29.677Z",
+      "name": "reel_0002_scene_01_future_prediction.png",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "4503362",
+      "webViewLink": "https://drive.google.com/file/d/1KzeKw8m4j81zqR9oaE5OhrIVskJ6wQpp/view?usp=drivesdk"
+    },
+    {
+      "id": "1p8xdyS4wd4XQPvxEFg2kf0vvOc8MkZTG",
+      "md5Checksum": "c698e81a34943f3e9bc676413baa9444",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T05:49:10.033Z",
+      "name": "reel_0002_scene_02_reports_compare.png",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "3809426",
+      "webViewLink": "https://drive.google.com/file/d/1p8xdyS4wd4XQPvxEFg2kf0vvOc8MkZTG/view?usp=drivesdk"
+    },
+    {
+      "id": "1p11tcyBOT-YVnNdZlq2taTKlXLYvMJ5C",
+      "md5Checksum": "463b1b8a48e50798dd3b73dca53305c2",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T05:49:38.593Z",
+      "name": "reel_0002_scene_03_measurement_gauges.png",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "4343838",
+      "webViewLink": "https://drive.google.com/file/d/1p11tcyBOT-YVnNdZlq2taTKlXLYvMJ5C/view?usp=drivesdk"
+    },
+    {
+      "id": "13iergbWEf8jETiPqt1t4NTvRakeTleCc",
+      "md5Checksum": "4c01162730092de9636631303075e05a",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T05:49:10.941Z",
+      "name": "reel_0002_scene_04_context_caveat.png",
+      "parents": [
+        "1je-D9r04GyJLT6_WcNPx0hbh3baAZTMO"
+      ],
+      "size": "4468933",
+      "webViewLink": "https://drive.google.com/file/d/13iergbWEf8jETiPqt1t4NTvRakeTleCc/view?usp=drivesdk"
+    }
+  ]
+}

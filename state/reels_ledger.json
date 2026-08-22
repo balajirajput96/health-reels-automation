@@ -90,6 +90,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T05:45:00Z",
       "notes": "Sleep environment: darkness, noise, temperature, and comfort. 64.64-second 720x1280 H.264/AAC portrait reel with Hindi narration and post-produced captions. Canonical Drive folder verified: https://drive.google.com/drive/folders/1JzyQOs5SYvvrk12rPOXD9kf1OtP1FVHP. Topic-specific AI visual generation was blocked by daily quotas; deterministic fallback montage only. Not publication-ready or published."
+    },
+    {
+      "source_id": "reel_0002_emotion_prediction_what_studies_measure",
+      "sha256": "730895cd4f480aa09eaeb347441955f6ecc6369da6f1e3f47568d54640cd20fd",
+      "filename": "final.mp4",
+      "stage": "drive_verified",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T06:45:29.354447Z",
+      "notes": "Existing authenticated Drive package reconciled at canonical nested path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0002; local deterministic QC passed; not published and no post ID created."
     }
   ]
 }
