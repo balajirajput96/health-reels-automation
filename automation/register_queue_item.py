@@ -41,6 +41,7 @@ def main() -> int:
     parser.add_argument("--safety-status", required=True)
     parser.add_argument("--source-id", action="append", dest="source_ids", default=[])
     parser.add_argument("--checksum", action="append", dest="checksums", default=[], help="filename=sha256")
+    parser.add_argument("--duration", type=float, default=None, help="Measured final media duration in seconds")
     parser.add_argument("--note", required=True)
     args = parser.parse_args()
 
@@ -74,7 +75,9 @@ def main() -> int:
     target["notes"] = args.note
     qc = target.setdefault("qc", {})
     if args.stage in {"qc_passed", "uploaded", "final"}:
-        qc.update({"aspect_ratio_9_16": True, "captions": True, "decode_ok": True, "hindi_audio": True, "ai_disclosure": True, "duration_seconds": 61.767})
+        qc.update({"aspect_ratio_9_16": True, "captions": True, "decode_ok": True, "hindi_audio": True, "ai_disclosure": True})
+        if args.duration is not None:
+            qc["duration_seconds"] = round(args.duration, 3)
     if args.stage in {"uploaded", "final"}:
         qc["drive_verified"] = True
     atomic_write(QUEUE, "".join(json.dumps(item, ensure_ascii=False, sort_keys=True) + "\n" for item in items))

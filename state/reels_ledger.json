@@ -51,6 +51,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T05:53:10.320853Z",
       "notes": "QC passed and Google Drive upload verified at 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0002; not published."
+    },
+    {
+      "source_id": "reel_0003_self_concept_what_studies_measure",
+      "sha256": "393f1bc667ea20587c84ccab692db43d5c5699dad6d837f88277426e4364298f",
+      "filename": "reel_0003_self_concept_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T06:07:28.294501Z",
+      "notes": "Research verified; QC passed; 14 Drive objects including manifest verified via authenticated Drive API; not published."
     }
   ]
 }
