@@ -124,9 +124,16 @@ def failure(args: argparse.Namespace) -> int:
     return 0
 
 
+def refresh_command(_: argparse.Namespace) -> int:
+    data = refresh(read_items())
+    print(json.dumps(data, ensure_ascii=False, indent=2))
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     sub = parser.add_subparsers(dest="command", required=True)
+    sub.add_parser("refresh").set_defaults(handler=refresh_command)
     sub.add_parser("next").set_defaults(handler=lambda _: select_next())
     mark_parser = sub.add_parser("mark")
     mark_parser.add_argument("--sequence", type=int, required=True)
