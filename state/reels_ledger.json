@@ -96,6 +96,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T13:02:23.512127Z",
       "notes": "Queue-final and Drive-verified Reel 0007; updated metadata and manifest verified in place; not published."
+    },
+    {
+      "source_id": "reel_0008_reward_learning_what_studies_measure",
+      "sha256": "ee381f5b834a022e89d93eb5378caf618da3938bae70f275c1c5756fb0c1cb1f",
+      "filename": "reel_0008_reward_learning_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:14:47.003338Z",
+      "notes": "Final Reel 0008: local QC passed; 11 current package objects and one manifest independently verified in authenticated Google Drive; not published."
     }
   ]
 }
