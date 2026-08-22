@@ -117,7 +117,7 @@
       "stage": "failed",
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T08:50:44.467119Z",
-      "notes": "Fresh authenticated Drive listing confirms the queued-topic package remains in the canonical folder, but the folder retains a prior different-topic package and the authenticated remote metadata SHA-256 (93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc) differs from the upload manifest record (bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67). Final status withheld; no upload, overwrite, duplicate, or publication. Evidence: records/reels/batch01/reel0004/remote_reverification_20260822T193744Z/."
+      "notes": "Fresh authenticated Drive listing confirms the queued-topic package remains in the canonical folder, but the folder retains a prior different-topic package and the authenticated remote metadata SHA-256 (93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc) differs from the upload manifest record (bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67). Final status withheld; no upload, overwrite, duplicate, or publication. Evidence: records/reels/batch01/reel0004/remote_reverification_20260822T173744Z/."
     }
   ]
 }
