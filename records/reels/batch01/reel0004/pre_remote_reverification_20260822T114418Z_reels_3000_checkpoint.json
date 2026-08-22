@@ -59,34 +59,6 @@
       },
       "evidence_ref": "remote_reverification_20260822T1041Z",
       "recorded_at": "2026-08-22T10:41:39.491959Z"
-    },
-    {
-      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
-      "stage": "canonical_path_topic_conflict_reverified",
-      "status": "blocked_retryable",
-      "exact_error": "Fresh authenticated Drive re-verification found canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 at folder ID 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa; remote QC file 1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7 reports state=verified, title=\"मन भटकता क्यों है? Default Mode Network की कहानी\", tuple=MND-L01-Q04, and the fresh child listing contains all remote artifacts as non-trashed (REEL-0004_captions.srt, REEL-0004_claims.json, REEL-0004_production_blueprint.md, REEL-0004_qc.json, REEL-0004_reel.mp4, REEL-0004_ref_caution.png, REEL-0004_ref_coordination.png, REEL-0004_ref_inward.png, REEL-0004_ref_primary.png, REEL-0004_research.md, REEL-0004_script_hi.md, REEL-0004_voice.wav). This conflicts with queued topic \"संज्ञानात्मक पूर्वाग्रह: अध्ययन वास्तव में क्या मापते हैं\". Upload, overwrite, and duplicate-folder creation remain refused to prevent ambiguous canonical identity.",
-      "retry_state": "keep next_reel at reel_0004; do not upload or overwrite; retry only after authoritative path/identity resolution",
-      "local_qc": "passed",
-      "remote_identity": {
-        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
-        "remote_qc_file_id": "1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7",
-        "remote_title": "मन भटकता क्यों है? Default Mode Network की कहानी",
-        "remote_tuple": "MND-L01-Q04",
-        "remote_state": "verified",
-        "evidence_ref": "remote_reverification_20260822T114418Z"
-      },
-      "evidence_ref": "remote_reverification_20260822T114418Z",
-      "recorded_at": "2026-08-22T11:48:59.382289Z"
-    },
-    {
-      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
-      "stage": "local_qc_rerun",
-      "status": "non_blocking",
-      "exact_error": "automation/qc_reel0004.py rerun could not write /home/ubuntu/repos/health-reels-automation/work/reel_0004/qc.json because the cloned worktree has no work/reel_0004 directory or local package. The authoritative queue already records the prior local QC as passed; no assets were fabricated or rebuilt.",
-      "retry_state": "retain next_reel at reel_0004; rerun local QC only when the authoritative local package is restored; canonical Drive conflict remains the blocking condition",
-      "local_qc": "previously_passed_but_not_rerun_in_current_clone",
-      "evidence_ref": "remote_reverification_20260822T114418Z",
-      "recorded_at": "2026-08-22T11:49:47.009079Z"
     }
   ],
   "generated_at": "2026-08-22T05:41:17.571278Z",
@@ -110,5 +82,5 @@
   "schema_version": 1,
   "total_batches": 100,
   "total_reels": 3000,
-  "updated_at": "2026-08-22T11:49:47.009095Z"
+  "updated_at": "2026-08-22T10:41:39.491959Z"
 }

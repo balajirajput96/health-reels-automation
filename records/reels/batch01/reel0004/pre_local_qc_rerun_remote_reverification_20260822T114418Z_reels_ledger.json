@@ -117,7 +117,7 @@
       "stage": "failed",
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T08:50:44.467119Z",
-      "notes": "Local QC passed, but fresh authenticated canonical Drive path Reel_0004 remains occupied by a verified different topic (MND-L01-Q04 / मन भटकता क्यों है? Default Mode Network की कहानी); upload and overwrite refused. Fresh re-verification evidence is stored under records/reels/batch01/reel0004/remote_reverification_20260822T114418Z/. No publication. Local QC rerun was non-blocking: cloned worktree lacks work/reel_0004; prior authoritative local QC remains recorded as passed; no assets fabricated."
+      "notes": "Local QC passed, but fresh authenticated canonical Drive path Reel_0004 remains occupied by a verified different topic (MND-L01-Q04 / मन भटकता क्यों है? Default Mode Network की कहानी); upload and overwrite refused. Fresh re-verification evidence is stored under records/reels/batch01/reel0004/remote_reverification_20260822T114418Z/. No publication."
     }
   ]
 }

@@ -77,16 +77,6 @@
       },
       "evidence_ref": "remote_reverification_20260822T114418Z",
       "recorded_at": "2026-08-22T11:48:59.382289Z"
-    },
-    {
-      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
-      "stage": "local_qc_rerun",
-      "status": "non_blocking",
-      "exact_error": "automation/qc_reel0004.py rerun could not write /home/ubuntu/repos/health-reels-automation/work/reel_0004/qc.json because the cloned worktree has no work/reel_0004 directory or local package. The authoritative queue already records the prior local QC as passed; no assets were fabricated or rebuilt.",
-      "retry_state": "retain next_reel at reel_0004; rerun local QC only when the authoritative local package is restored; canonical Drive conflict remains the blocking condition",
-      "local_qc": "previously_passed_but_not_rerun_in_current_clone",
-      "evidence_ref": "remote_reverification_20260822T114418Z",
-      "recorded_at": "2026-08-22T11:49:47.009079Z"
     }
   ],
   "generated_at": "2026-08-22T05:41:17.571278Z",
@@ -110,5 +100,5 @@
   "schema_version": 1,
   "total_batches": 100,
   "total_reels": 3000,
-  "updated_at": "2026-08-22T11:49:47.009095Z"
+  "updated_at": "2026-08-22T11:48:59.382324Z"
 }
