@@ -74,6 +74,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-21T22:10:19.153231Z",
       "notes": "Batch 05 Caffeine Timing and Sleep Quality; Instagram confirmed share; independently verified live URL https://www.instagram.com/balajirajput96/reel/DcUX5rJzI2g/; AI label enabled; Facebook not attempted."
+    },
+    {
+      "sha256": "fe01265a1af6a3fcb385e7357a708d3bee5dd40945a83e66c5eef6ad77744b27",
+      "filename": "REEL-0001.mp4",
+      "stage": "drive_verified",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T05:21:00Z",
+      "notes": "Affect labeling and emotional regulation; 60.352-second 720x1280 H.264/AAC portrait reel with Hindi narration and captions. Drive folder verified: https://drive.google.com/drive/folders/1-TVdwDN2HIf2OWfPb6Jv-FmCgFJ7LT4u. Sources and QC manifest uploaded; not published."
     }
   ]
 }
