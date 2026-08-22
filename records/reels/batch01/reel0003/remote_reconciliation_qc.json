@@ -1,0 +1,61 @@
+{
+  "valid": true,
+  "problems": [],
+  "canonical_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0003",
+  "drive_folder_id": "151fUghK2X7wURMqBZtPxTzD7AtlOZWtn",
+  "object_count": 13,
+  "remote_media": {
+    "duration_seconds": 66.733,
+    "width": 1080,
+    "height": 1920,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "geometry_and_codec_ok": true
+  },
+  "captions": {
+    "cue_count": 11,
+    "timing_ok": true,
+    "devanagari_present": true
+  },
+  "source_records": {
+    "source_ids": [
+      "DOI:10.1037/0022-3514.70.1.141",
+      "DEMARREE_BOBROWSKI_STRUCTURE_VALIDITY_REVIEW"
+    ],
+    "source_urls": [
+      "https://doi.org/10.1037/0022-3514.70.1.141",
+      "https://researchconnect.buffalo.edu/en/publications/structure-and-validity-of-self-concept-clarity-measures/"
+    ],
+    "source_file_ok": true
+  },
+  "disclosure_and_safety": {
+    "ai_disclosure": true,
+    "safety_wording": true,
+    "publication_allowed": false
+  },
+  "remote_recorded_qc": {
+    "checks": {
+      "ai_disclosure_present": true,
+      "aspect_ratio_9_16": true,
+      "audio_stream": {
+        "channels": 1,
+        "codec": "aac",
+        "sample_rate": "48000"
+      },
+      "caption_cues": 11,
+      "caption_timing_ok": true,
+      "duration_45_to_75": true,
+      "duration_seconds": 66.733,
+      "height": 1920,
+      "safety_wording_ok": true,
+      "source_identifier_present": true,
+      "source_records": 2,
+      "width": 1080
+    },
+    "problems": [],
+    "valid": true,
+    "video": "assets/reel_0003_self_concept_what_studies_measure_hi.mp4"
+  },
+  "downloaded_video_sha256": "393f1bc667ea20587c84ccab692db43d5c5699dad6d837f88277426e4364298f",
+  "manifest_expected_video_sha256": "393f1bc667ea20587c84ccab692db43d5c5699dad6d837f88277426e4364298f"
+}

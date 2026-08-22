@@ -1,14 +1,29 @@
 {
-  "completed_drive_verified": 2,
-  "failure_log": [],
+  "completed_drive_verified": 3,
+  "failure_log": [
+    {
+      "reel_id": "reel_0003_self_concept_what_studies_measure",
+      "stage": "drive_reconciliation_helper",
+      "status": "recovered",
+      "exact_error": "gws drive files download returned 500 backendError; alternate authenticated file-content get succeeded.",
+      "recorded_at": "2026-08-22T07:50:44.253449Z"
+    },
+    {
+      "reel_id": "reel_0003_self_concept_what_studies_measure",
+      "stage": "connector_config_inspection",
+      "status": "non_blocking",
+      "exact_error": "manus-config config load --search drive returned permission_denied: 403 Forbidden; authenticated Google Workspace Drive CLI remained available.",
+      "recorded_at": "2026-08-22T07:50:44.253470Z"
+    }
+  ],
   "generated_at": "2026-08-22T05:41:17.571278Z",
-  "last_completed": "reel_0002_emotion_prediction_what_studies_measure",
+  "last_completed": "reel_0003_self_concept_what_studies_measure",
   "mission": "3000 unique Hindi research reels",
-  "next_reel": "reel_0003_self_concept_what_studies_measure",
-  "next_sequence": 3,
+  "next_reel": "reel_0004_cognitive_biases_what_studies_measure",
+  "next_sequence": 4,
   "production_counts": {
-    "final": 2,
-    "planned": 2998
+    "final": 3,
+    "planned": 2997
   },
   "reels_per_batch": 30,
   "rules": {
@@ -22,5 +37,5 @@
   "schema_version": 1,
   "total_batches": 100,
   "total_reels": 3000,
-  "updated_at": "2026-08-22T06:45:29.292Z"
+  "updated_at": "2026-08-22T07:50:44.253474Z"
 }

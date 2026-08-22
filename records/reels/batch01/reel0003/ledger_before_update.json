@@ -99,17 +99,6 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T06:45:29.354447Z",
       "notes": "Existing authenticated Drive package reconciled at canonical nested path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0002; local deterministic QC passed; not published and no post ID created."
-    },
-    {
-      "source_id": "reel_0003_self_concept_what_studies_measure",
-      "sha256": "393f1bc667ea20587c84ccab692db43d5c5699dad6d837f88277426e4364298f",
-      "filename": "reel_0003_self_concept_what_studies_measure_hi.mp4",
-      "stage": "drive_verified",
-      "target_account": "@balajirajput96",
-      "drive_folder_id": "151fUghK2X7wURMqBZtPxTzD7AtlOZWtn",
-      "drive_file_id": "1tZ3BnBe1bpI0Cyv2iSVJbtwALZyB0bBr",
-      "recorded_at": "2026-08-22T07:50:44.253479Z",
-      "notes": "Existing authenticated Drive package reconciled at canonical nested path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0003; independent local QC passed; no social publication or post ID created."
     }
   ]
 }

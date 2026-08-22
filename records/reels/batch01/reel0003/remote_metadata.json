@@ -1,0 +1,39 @@
+{
+  "ai_content_disclosure": "Narration and visuals are AI-generated or AI-assisted; this is public educational content.",
+  "batch": "Batch_001",
+  "claims_boundary": "Measurement explainer only; no diagnosis, treatment, causal outcome, universal validity, or individual identity inference.",
+  "evidence_class": "PRIMARY_PEER_REVIEWED_STUDY_WITH_MEASUREMENT_REVIEW",
+  "language": "hi-IN",
+  "qc_gates": {
+    "captions_present": true,
+    "drive_verified": true,
+    "media_qc_passed": true,
+    "narration_present": true,
+    "needs_drive_upload_verification": false,
+    "needs_final_media_probe": false,
+    "no_treatment_guarantee": true,
+    "sources_present": true
+  },
+  "reel_id": "reel_0003_self_concept_what_studies_measure",
+  "required_assets": {
+    "captions": "reel_0003_self_concept_what_studies_measure_captions_hi.srt",
+    "narration": "reel_0003_self_concept_what_studies_measure_narration_hi.wav",
+    "script": "reel_0003_self_concept_script.md",
+    "sources": "reel_0003_self_concept_sources.md",
+    "video": "reel_0003_self_concept_what_studies_measure_hi.mp4",
+    "visual_reference": "reel_0003_self_concept_what_studies_measure_visual_reference.png"
+  },
+  "safety_status": "SAFE_WITH_CAVEATS",
+  "sequence": 3,
+  "source_ids": [
+    "DOI:10.1037/0022-3514.70.1.141",
+    "DEMARREE_BOBROWSKI_STRUCTURE_VALIDITY_REVIEW"
+  ],
+  "source_urls": [
+    "https://doi.org/10.1037/0022-3514.70.1.141",
+    "https://researchconnect.buffalo.edu/en/publications/structure-and-validity-of-self-concept-clarity-measures/"
+  ],
+  "topic": "स्व-अवधारणा: अध्ययन वास्तव में क्या मापते हैं",
+  "topic_key": "self_concept",
+  "unique_angle": "अलग self-concept clarity instruments अलग constructs पकड़ सकते हैं; कोई एक score पूरी identity नहीं बताता"
+}
