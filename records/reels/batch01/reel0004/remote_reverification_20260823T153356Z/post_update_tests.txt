@@ -1,0 +1,58 @@
+test_duplicate_service_identifier_is_reported (test_continuity_check.ContinuityCheckTests.test_duplicate_service_identifier_is_reported) ... ok
+test_local_command_check_does_not_invoke_commands (test_continuity_check.ContinuityCheckTests.test_local_command_check_does_not_invoke_commands) ... ok
+test_missing_required_file_is_reported (test_continuity_check.ContinuityCheckTests.test_missing_required_file_is_reported) ... ok
+test_valid_manifest_passes_with_required_file (test_continuity_check.ContinuityCheckTests.test_valid_manifest_passes_with_required_file) ... ok
+test_drive_verified_fallback_record_is_accepted_without_post_id (test_health_check.HealthCheckTests.test_drive_verified_fallback_record_is_accepted_without_post_id) ... ok
+test_drive_verified_record_is_accepted_without_post_id (test_health_check.HealthCheckTests.test_drive_verified_record_is_accepted_without_post_id) ... ok
+test_published_record_requires_post_id (test_health_check.HealthCheckTests.test_published_record_requires_post_id) ... ok
+test_target_account_drift_is_reported (test_health_check.HealthCheckTests.test_target_account_drift_is_reported) ... ok
+test_valid_ledger_and_workflow_passes (test_health_check.HealthCheckTests.test_valid_ledger_and_workflow_passes) ... ok
+test_workflow_schedule_drift_is_reported (test_health_check.HealthCheckTests.test_workflow_schedule_drift_is_reported) ... ok
+test_external_drive_claims_skip_existing_canonical_topic (test_select_next_reel.SelectNextReelTests.test_external_drive_claims_skip_existing_canonical_topic) ... ok
+test_no_unused_concept_returns_none (test_select_next_reel.SelectNextReelTests.test_no_unused_concept_returns_none) ... ok
+test_selection_is_json_serializable_and_does_not_require_mutation (test_select_next_reel.SelectNextReelTests.test_selection_is_json_serializable_and_does_not_require_mutation) ... ok
+test_skips_topic_recorded_in_notes_and_selects_next_unique_row (test_select_next_reel.SelectNextReelTests.test_skips_topic_recorded_in_notes_and_selects_next_unique_row) ... ok
+test_filename_is_fallback_identity_when_no_stronger_key_exists (test_state_guard.StateGuardTests.test_filename_is_fallback_identity_when_no_stronger_key_exists) ... ok
+test_register_accepts_drive_verified_fallback_stage (test_state_guard.StateGuardTests.test_register_accepts_drive_verified_fallback_stage) ... ok
+test_register_is_idempotent_for_a_file (test_state_guard.StateGuardTests.test_register_is_idempotent_for_a_file) ... ok
+test_register_requires_an_identity (test_state_guard.StateGuardTests.test_register_requires_an_identity) ... ok
+test_same_filename_with_different_hash_is_not_duplicate (test_state_guard.StateGuardTests.test_same_filename_with_different_hash_is_not_duplicate) ... ok
+test_same_source_hash_is_duplicate (test_state_guard.StateGuardTests.test_same_source_hash_is_duplicate) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.005s
+
+OK
+{
+  "decision": "registered",
+  "record": {
+    "sha256": "fallback-hash",
+    "filename": "REEL-0002.mp4",
+    "stage": "drive_verified_fallback",
+    "target_account": "@balajirajput96",
+    "recorded_at": "2026-08-23T15:35:51.756481Z",
+    "notes": "quota-limited fallback"
+  }
+}
+{
+  "decision": "registered",
+  "record": {
+    "sha256": "38819c94c5bdf6371cecf0506d3b137cca9c6f6d5d70ff636d63f60429f160c7",
+    "filename": "reel.mp4",
+    "stage": "final",
+    "target_account": "@balajirajput96",
+    "recorded_at": "2026-08-23T15:35:51.756787Z",
+    "notes": "test"
+  }
+}
+{
+  "decision": "duplicate",
+  "existing": {
+    "sha256": "38819c94c5bdf6371cecf0506d3b137cca9c6f6d5d70ff636d63f60429f160c7",
+    "filename": "reel.mp4",
+    "stage": "final",
+    "target_account": "@balajirajput96",
+    "recorded_at": "2026-08-23T15:35:51.756787Z",
+    "notes": "test"
+  }
+}

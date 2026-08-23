@@ -1,0 +1,15 @@
+{
+  "timestamp_utc": "2026-08-23T15:34:36.205296Z",
+  "status": "pass",
+  "manifest_version": 1,
+  "target_account": "@balajirajput96",
+  "missing_required_files": [],
+  "ledger_by_stage": {
+    "published": 4,
+    "final": 5,
+    "drive_verified": 3,
+    "drive_verified_fallback": 1,
+    "failed": 1
+  },
+  "errors": []
+}

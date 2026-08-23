@@ -710,33 +710,6 @@
       },
       "evidence_ref": "remote_reverification_20260823T143509Z",
       "recorded_at": "2026-08-23T14:35:36.799895Z"
-    },
-    {
-      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
-      "stage": "remote_package_integrity_and_canonical_ambiguity",
-      "status": "blocked_retryable",
-      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T153356Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with 24 non-trashed child entries, including both the queued-topic package and a prior different-topic REEL-0004_* package. The queued-topic remote QC is valid, but authenticated remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the upload manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Final Drive verification was refused to prevent ambiguous canonical identity and an integrity mismatch.",
-      "retry_state": "keep next_reel at reel_0004; preserve all remote files; retry only after canonical-folder identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, duplicate, advance, or publish",
-      "local_qc": "remote_qc_valid; portrait_media_and_safety_checks_passed; prior_conflicting_package_present; manifest_metadata_hash_mismatch",
-      "remote_identity": {
-        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
-        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
-        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
-        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
-        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
-        "prior_conflicting_qc_id": "1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7",
-        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
-        "prior_conflicting_package_present": true,
-        "fresh_non_trashed_child_count": 24,
-        "evidence_ref": "remote_reverification_20260823T153356Z"
-      },
-      "manifest_integrity": {
-        "asset": "reel_0004_metadata.json",
-        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
-        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
-      },
-      "evidence_ref": "remote_reverification_20260823T153356Z",
-      "recorded_at": "2026-08-23T15:33:56Z"
     }
   ],
   "generated_at": "2026-08-22T05:41:17.571278Z",
@@ -760,5 +733,5 @@
   "schema_version": 1,
   "total_batches": 100,
   "total_reels": 3000,
-  "updated_at": "2026-08-23T15:33:56Z"
+  "updated_at": "2026-08-23T14:35:36.799895Z"
 }
