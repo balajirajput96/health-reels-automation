@@ -1,0 +1,82 @@
+{
+  "reel_id": "REEL-0065",
+  "source_id": "reel_0065_reading_food_labels_added_sugars_decision_awareness",
+  "title": "Food Label पढ़ते समय सबसे पहले क्या देखें? Serving Size और Added Sugars",
+  "subject": "Reading food labels for added sugars and portion awareness",
+  "status": "drive_verified",
+  "lifecycle_stage": "drive_verified",
+  "production_mode": "topic_specific_ai_reference_montage",
+  "publication_allowed": false,
+  "target_account": "@balajirajput96",
+  "target_format": {
+    "aspect_ratio": "9:16",
+    "duration_seconds": 60.944,
+    "language": "hi-IN",
+    "captions": true
+  },
+  "artifacts": {
+    "research": "research/2026-08-23__reel0065__nutrition-label-source-validation.md",
+    "production_brief": "production/reel0065_label_literacy_brief.md",
+    "script": "production/reel0065_script_hi-IN.md",
+    "video": "production/rendered/REEL-0065_label_literacy_draft.mp4",
+    "audio": "production/audio/REEL-0065_narration_hi-IN.wav",
+    "captions": "production/captions/REEL-0065_hi-IN.srt",
+    "qc": "production/rendered/REEL-0065_pending_qc.json",
+    "assembly_metadata": "production/rendered/REEL-0065_assembly_metadata.json",
+    "visual_references": [
+      "production/assets/reel0065_primary_label_literacy_20260823.png",
+      "production/assets/reel0065_ref02_serving_size_20260823.png",
+      "production/assets/reel0065_ref03_total_vs_added_sugars_20260823.png",
+      "production/assets/reel0065_ref04_added_sugars_line_20260823.png",
+      "production/assets/reel0065_ref05_percent_dv_20260823.png",
+      "production/assets/reel0065_ref06_checklist_takeaway_20260823.png"
+    ]
+  },
+  "video_metadata": {
+    "sha256": "489bbbd4d062436c8e5a617aa94fa40a28beb412d707212b642bcc2fcb14d45f",
+    "dimensions": "720x1280",
+    "duration_seconds": 60.944,
+    "video_codec": "h264",
+    "frame_rate": 30,
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2
+  },
+  "source_urls": [
+    "https://www.fda.gov/food/nutrition-facts-label/added-sugars-nutrition-facts-label",
+    "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+    "https://www.cdc.gov/healthy-weight-growth/healthy-eating/nutrition-label.html"
+  ],
+  "drive": {
+    "root_folder_id": "1qBzjS18Pd4zNEmgNhZsDqKHrl17uCOyS",
+    "batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
+    "batch_name": "Batch_003",
+    "reel_folder_id": "1u8C8d3VmID0MpF1IhwKI3AEXlFO5GOXU",
+    "verification_status": "verified_relist_15_files",
+    "file_ids": {
+      "video": "1h5jyxOHKJS1wBkw_wEzF54h4aIiL6BkU",
+      "audio": "1Q-KYTwHrgxkXf20gLEm6Bru0Zov9vei4",
+      "captions": "1Ff6dPYRJSzvziHWQrETTZnxeJXY_F8qG",
+      "production_brief": "1bX1gR8LLnxZ48Bg5EFeLQ_st9IjKtSjF",
+      "script": "1iK-otgWl6f-DYOzufPV3N8zMbFXffD9S",
+      "research": "10DdhOkuRa-CRKOAO7SfE1ZfONJOErngA",
+      "qc": "1bJ_xDN-nUUg7-Lf78cTyA5B5_3BwMfHV",
+      "manifest": "1OzfEF-ci1g06vgG19E_oe7HWWwAO61yp",
+      "assembly_metadata": "1vIBrMOzKcWYTqv3563DGzXituyPgaI1p",
+      "primary_reference": "10yNrzkqAC7woFRoIVOfgRNYY-5rUxqFv",
+      "ref02": "16sE1UBypV072vixFpolVTGEcvTjksuiX",
+      "ref03": "1Y6Fs8_b2gwY_KhfWEejElxlC9hExsNKJ",
+      "ref04": "1FsakFzlyZZ0XMlVpGd13ll-LdXJBWi7B",
+      "ref05": "1d0CQwXINj5pOXvegQt9M1gNMOBM_VTmM",
+      "ref06": "1EPWUTLitp3wAlF2lURhybiwiQ6PAVI_O"
+    }
+  },
+  "blockers": [
+    {
+      "type": "publication_editorial_review",
+      "detail": "Drive storage and re-list verification passed, but publication remains prohibited pending separate editorial review and cadence rules.",
+      "retry_policy": "Do not publish or create a post ID without explicit editorial review and separate publishing verification."
+    }
+  ],
+  "notes": "This package is a general-education label-literacy reel. Serving size is not a personal portion recommendation, 50 g is a 2,000-calorie reference value rather than a universal prescription. The complete 15-file package was uploaded to the exact REEL-0065 folder and re-listed successfully. Publication remains prohibited until separate editorial review; no post ID exists."
+}

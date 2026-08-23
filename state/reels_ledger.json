@@ -142,6 +142,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-23T03:24:49.661155Z",
       "notes": "Drive verified fallback in Batch_002/REEL-0031; folder 1WDXbL14IuQu0dYDd50P3JkEZlSW-f4iq; 16 files re-listed and verified. Topic-specific AI visuals present; one native clip permitted, remaining native-video quota exhausted at 1/1. Not publication-ready; editorial re-review required."
+    },
+    {
+      "source_id": "reel_0065_reading_food_labels_added_sugars_decision_awareness",
+      "sha256": "489bbbd4d062436c8e5a617aa94fa40a28beb412d707212b642bcc2fcb14d45f",
+      "filename": "REEL-0065_label_literacy_draft.mp4",
+      "stage": "drive_verified",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-23T03:18:39.092340Z",
+      "notes": "Drive verified in Batch_003/REEL-0065_label-literacy-added-sugars; folder 1u8C8d3VmID0MpF1IhwKI3AEXlFO5GOXU; complete 15-file package uploaded and re-listed. Topic-specific AI reference montage with deterministic motion; technical and visual QC passed. Not publication-ready; separate editorial review required."
     }
   ]
 }

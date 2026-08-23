@@ -1,0 +1,35 @@
+{
+  "reel_id": "REEL-0065",
+  "source_id": "reel_0065_reading_food_labels_added_sugars_decision_awareness",
+  "output": "production/rendered/REEL-0065_label_literacy_draft.mp4",
+  "production_mode": "topic_specific_ai_reference_montage",
+  "visual_provenance": {
+    "ai_reference_images": [
+      "production/assets/reel0065_primary_label_literacy_20260823.png",
+      "production/assets/reel0065_ref02_serving_size_20260823.png",
+      "production/assets/reel0065_ref03_total_vs_added_sugars_20260823.png",
+      "production/assets/reel0065_ref04_added_sugars_line_20260823.png",
+      "production/assets/reel0065_ref05_percent_dv_20260823.png",
+      "production/assets/reel0065_ref06_checklist_takeaway_20260823.png",
+      "production/assets/reel0065_primary_label_literacy_20260823.png"
+    ],
+    "deterministic_motion": "Ken Burns-style zoom and crop animation applied to topic-specific AI references"
+  },
+  "audio": "production/audio/REEL-0065_narration_hi-IN.wav",
+  "captions": "production/captions/REEL-0065_hi-IN.srt",
+  "span_durations_seconds": [
+    6.935542,
+    5.799,
+    7.813417,
+    5.937625,
+    7.847417,
+    13.192625,
+    13.418667
+  ],
+  "target_duration_seconds": 60.944292,
+  "speed_adjustment": 1.18,
+  "publication_allowed": false,
+  "drive_verified": false,
+  "full_qc_required": true,
+  "note": "Topic-specific AI references were generated after research. This draft is not publication-ready until technical/editorial QC and Drive upload/re-list verification pass."
+}

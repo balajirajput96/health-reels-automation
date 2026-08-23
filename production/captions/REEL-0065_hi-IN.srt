@@ -1,0 +1,37 @@
+1
+00:00:00,000 --> 00:00:06,936
+Label पढ़ते समय पहले Serving Size देखिए।
+Calories और nutrients,
+इसी एक serving के हिसाब से लिखे होते हैं।
+2
+00:00:06,936 --> 00:00:12,735
+Serving Size यह नहीं बताता
+कि आपको कितना खाना चाहिए।
+यह label comparison के लिए एक reference amount है।
+3
+00:00:12,735 --> 00:00:20,548
+Servings per container भी देखिए।
+अगर पैकेट में दो servings हैं
+और आप पूरा पैकेट खाते हैं,
+तो एक serving से अलग total amount मिलेगा।
+4
+00:00:20,548 --> 00:00:26,486
+Total Sugars में फल या दूध की
+naturally मौजूद sugar और added sugar,
+दोनों शामिल हो सकती हैं।
+5
+00:00:26,486 --> 00:00:34,333
+Added Sugars processing में जोड़ी गई sugar होती है,
+जैसे कुछ syrups या sweeteners।
+Includes Added Sugars लाइन पढ़िए।
+6
+00:00:34,333 --> 00:00:47,526
+%DV बताता है कि एक serving पूरे दिन के
+reference value में कितना योगदान देती है।
+General guide में 5% या कम low, और 20% या अधिक high माना जाता है।
+Products compare करते समय serving size समान रखें।
+7
+00:00:47,526 --> 00:01:00,944
+FDA के 2,000-calorie reference में added sugars का Daily Value 50 grams है—
+यह personal prescription नहीं है।
+आपकी needs अलग हो सकती हैं; specific diet या health advice के लिए qualified professional से पूछें।
