@@ -123,6 +123,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-22T19:14:57.890043Z",
       "notes": "QC passed; Drive package independently verified in Batch_001/Reel_0010; manifest 1BfVjLBL3eNWgrNGrKy6VTH7c6qC47q35; not published."
+    },
+    {
+      "source_id": "reel_0011_prefrontal_control_what_studies_measure",
+      "sha256": "4040964cdcdce411d7cdd3254d55c0af532747c859b2e4d0a0d0071105a927d7",
+      "filename": "reel_0011_prefrontal_control_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-23T02:34:03.355485Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1paYv1SLKrooPlKXbhtBZ66ict_Wg8Tkb; not published."
     }
   ]
 }

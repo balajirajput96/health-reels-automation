@@ -1,0 +1,65 @@
+{
+  "reel_id": "reel_0011_prefrontal_control_what_studies_measure",
+  "queue_id": "0011",
+  "batch": "Batch_001",
+  "title_hi": "प्रीफ्रंटल नियंत्रण: studies क्या measure करती हैं?",
+  "topic": "prefrontal control measurement",
+  "unique_angle": "Prefrontal-control research operationalizes inhibition, interference control, working-memory updating, switching, and planning through distinct tasks; behavioral performance, BOLD contrasts, and connectivity are separate evidence layers rather than a single willpower readout.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 70.88,
+  "evidence_class": "peer-reviewed cognitive-control review + coordinate-based executive-function neuroimaging meta-analysis + human context-dependent inhibition fMRI experiment",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, willpower or character inference from scans, single-region control claim, or outcome guarantee.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1038/s41386-021-01132-0",
+      "citation": "Friedman & Robbins (2021), The role of prefrontal cortex in cognitive control and executive function",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8617292/",
+      "type": "cognitive_control_executive_function_review"
+    },
+    {
+      "source_id": "doi:10.3758/s13415-011-0083-5",
+      "citation": "Niendam, Laird, Ray, Dean, Glahn & Carter (2012), Meta-analytic evidence for a superordinate cognitive control network subserving diverse executive functions",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3660731/",
+      "type": "executive_function_neuroimaging_meta_analysis"
+    },
+    {
+      "source_id": "doi:10.1016/j.neuron.2017.11.010",
+      "citation": "Xu, Anderson, Emeric, Sali, Stuphorn, Yantis & Courtney (2017), Neural basis of cognitive control over movement inhibition: human fMRI and primate electrophysiology evidence",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5747365/",
+      "type": "human_context_dependent_inhibition_fmri_experiment"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0011_prefrontal_control_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0011_prefrontal_control_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0011_prefrontal_control_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0011_prefrontal_control_what_studies_measure_script.md",
+    "sources": "research/reel_0011_prefrontal_control_what_studies_measure_sources.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0011_scene_01.png",
+      "assets/reel_0011_scene_02.png",
+      "assets/reel_0011_scene_03.png",
+      "assets/reel_0011_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0011_qc_report.json",
+    "drive_manifest": "state/reel_0011_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No fabricated data, participant images, literal brain scan, or readable unsupported claims are embedded in the visuals.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals are explanatory, not literal fMRI data or a direct recording of thought, personality, or self-control. Not medical advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "13GCAH_Eu4ORD0YDqiYKLL1RVhPRU2vdr",
+    "drive_verification_note": "Verified by authenticated Drive listing; 11 expected package objects plus one durable manifest are present with nonzero sizes and correct parent. No unrelated objects were present in this newly created folder."
+  }
+}
