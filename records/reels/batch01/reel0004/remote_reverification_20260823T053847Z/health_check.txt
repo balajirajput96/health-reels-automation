@@ -1,0 +1,3 @@
+usage: health_check.py [-h] [--manifest MANIFEST] --report-json REPORT_JSON
+                       --summary-md SUMMARY_MD
+health_check.py: error: the following arguments are required: --report-json, --summary-md
