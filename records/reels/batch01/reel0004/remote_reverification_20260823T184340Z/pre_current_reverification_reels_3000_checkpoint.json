@@ -789,32 +789,6 @@
       },
       "evidence_ref": "remote_reverification_20260823T1738Z",
       "recorded_at": "2026-08-23T17:40:38.462437Z"
-    },
-    {
-      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
-      "stage": "remote_package_integrity_and_canonical_ambiguity",
-      "status": "blocked_retryable",
-      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T184340Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
-      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
-      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
-      "remote_identity": {
-        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
-        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
-        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
-        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
-        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
-        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
-        "prior_conflicting_package_present": true,
-        "fresh_child_count": 24,
-        "evidence_ref": "remote_reverification_20260823T184340Z"
-      },
-      "manifest_integrity": {
-        "asset": "reel_0004_metadata.json",
-        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
-        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
-      },
-      "evidence_ref": "remote_reverification_20260823T184340Z",
-      "recorded_at": "2026-08-23T18:44:02.423597Z"
     }
   ],
   "generated_at": "2026-08-22T05:41:17.571278Z",
@@ -838,5 +812,5 @@
   "schema_version": 1,
   "total_batches": 100,
   "total_reels": 3000,
-  "updated_at": "2026-08-23T18:44:02.423597Z"
+  "updated_at": "2026-08-23T17:40:38.462437Z"
 }
