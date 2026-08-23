@@ -117,9 +117,9 @@
       "stage": "failed",
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-23T06:37:47Z",
-      "notes": "Fresh authenticated Drive listing confirms the queued-topic package remains in the canonical folder, but the folder retains a prior different-topic package and the authenticated remote metadata SHA-256 (93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc) differs from the upload manifest record (bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67). Final status withheld; no upload, overwrite, duplicate, or publication. Evidence: records/reels/batch01/reel0004/remote_reverification_20260823T073347Z/.",
-      "latest_evidence_ref": "remote_reverification_20260823T073347Z",
-      "last_reverified_at": "2026-08-23T07:33:59.624663Z"
+      "notes": "Fresh authenticated Drive re-verification confirms the queued-topic package remains in the canonical folder alongside a prior conflicting REEL-0004 package. Remote metadata identifies the queued reel with 9:16 Hindi media, safety boundary, AI disclosure, and not_published status; remote QC reports passed media, caption-timing, and decode checks. The authenticated remote metadata SHA-256 (93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc) still differs from the upload manifest local_sha256 (bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67). Final Drive verification withheld; no upload, overwrite, duplicate, queue advance, or publication. Evidence: records/reels/batch01/reel0004/remote_reverification_20260823T063747Z/",
+      "latest_evidence_ref": "remote_reverification_20260823T063747Z",
+      "last_reverified_at": "2026-08-23T06:37:47Z"
     }
   ]
 }
