@@ -1,0 +1,36 @@
+{
+  "reel_id": "REEL-0069",
+  "source_id": "reel_0069_strength_activities_weekly_movement",
+  "title": "Integrating Strength Activities Into Your Weekly Movement Routine",
+  "subject": "Strength activities as one component of weekly movement",
+  "stage": "failed",
+  "status": "blocked_preproduction",
+  "blocked_reason": "Official image generation quota remains recorded as exhausted at 20/20 and native video quota at 1/1. No topic-specific REEL-0069 visual assets were legitimately generated. Unrelated reel visuals are prohibited as fallback.",
+  "drive_folder_id": null,
+  "batch_folder_id": null,
+  "identity_audit_checkpoint": "/home/ubuntu/github-workspace/checkpoints/reel0069_identity_audit_20260823.ndjson",
+  "audio_duration_seconds": 69.36,
+  "audio_duration_target_seconds": [55, 75],
+  "prepared_local_files": [
+    "research/2026-08-23__reel0069__strength-activities-source-validation.md",
+    "production/reel0069_script_hi-IN.md",
+    "production/reel0069_strength_activities_brief.md",
+    "production/audio/REEL-0069_span01_hi-IN.wav",
+    "production/audio/REEL-0069_span02_hi-IN.wav",
+    "production/audio/REEL-0069_span03_hi-IN.wav",
+    "production/audio/REEL-0069_span04_hi-IN.wav",
+    "production/audio/REEL-0069_span05_hi-IN.wav",
+    "production/audio/REEL-0069_span06_hi-IN.wav",
+    "production/audio/REEL-0069_span07_hi-IN.wav"
+  ],
+  "retry_conditions": [
+    "Wait for an official image-generation quota reset; do not bypass, upgrade billing, use another account, or repeatedly retry before reset.",
+    "After reset, repeat the exact paginated root and Batch_003 identity audit before creating any Drive folder.",
+    "Generate a REEL-0069-specific 9:16 primary visual anchor, then only needed companion references using the primary as reference.",
+    "Use native video only if its official quota is available; otherwise use a sufficiently diverse, topic-specific deterministic still-motion montage.",
+    "Rerun subtitle, decode, geometry, duration, visual, editorial, and source-integrity QC before any Drive upload."
+  ],
+  "publication": "prohibited",
+  "post_id": null,
+  "recorded_at": "2026-08-23T13:25:00Z"
+}
