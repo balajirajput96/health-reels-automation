@@ -1,0 +1,61 @@
+{
+  "reel_id": "REEL-0066",
+  "source_id": "reel_0066_dietary_fiber_varied_eating_patterns",
+  "lifecycle_stage": "drive_verified",
+  "topic": "Dietary fiber and varied eating patterns for general education",
+  "technical_qc": {
+    "status": "PASS",
+    "video_path": "production/rendered/REEL-0066_dietary_fiber_varied_eating.mp4",
+    "sha256": "b37ecad291861d334df82abc57453e26b66277c68b1876f283d63c954f6a8ce8",
+    "dimensions": "720x1280",
+    "aspect_ratio": "9:16",
+    "duration_seconds": 68.92,
+    "video_stream": "H.264, 30 fps",
+    "audio_stream": "AAC",
+    "ffmpeg_decode": "PASS",
+    "caption_blocks": 7,
+    "caption_structure": "PASS",
+    "literal_backslash_n": false
+  },
+  "visual_qc": {
+    "status": "PASS",
+    "contact_sheet": "/home/ubuntu/github-workspace/checkpoints/reel0066_visual_qc_contact_20260823_r2.png",
+    "findings": "Corrected bottom-center Hindi captions are readable and remain within the lower-third safe area. Topic-specific plant-food visuals are consistent, with no obvious fatal crop, watermark, logo, fabricated label, or diagnostic imagery."
+  },
+  "evidence_qc": {
+    "status": "PASS_WITH_BOUNDARIES",
+    "research_register": "research/2026-08-23__reel0066__dietary-fiber-source-validation.md",
+    "sources": [
+      "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "https://nutritionsource.hsph.harvard.edu/carbohydrates/fiber/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9787832/"
+    ],
+    "boundaries": [
+      "WHO guidance is population-level and not a universal personal target.",
+      "The 25-gram figure is not a personal prescription.",
+      "Fiber-microbiome effects vary by fiber type, amount, duration and context.",
+      "The reel does not claim guaranteed weight loss, disease prevention or treatment."
+    ]
+  },
+  "drive_verification": {
+    "status": "PASS",
+    "root_id": "1qBzjS18Pd4zNEmgNhZsDqKHrl17uCOyS",
+    "batch_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
+    "reel_folder_id": "1ocdj-xm2gCRkJKpLi8a9GQp7eJc4ztLN",
+    "relisted_file_count": 15,
+    "all_relisted_children_match_parent": true,
+    "relist_artifact": "/home/ubuntu/github-workspace/checkpoints/reel0066_drive_relist_20260823.ndjson"
+  },
+  "package": {
+    "narration_spans": 7,
+    "narration_file": "production/audio/REEL-0066_narration_hi-IN.wav",
+    "caption_file": "production/captions/REEL-0066_hi-IN.srt",
+    "script_file": "production/reel0066_script_hi-IN.md",
+    "brief_file": "production/reel0066_dietary_fiber_brief.md",
+    "research_file": "research/2026-08-23__reel0066__dietary-fiber-source-validation.md",
+    "assembly_metadata": "production/rendered/REEL-0066_dietary_fiber_assembly.json",
+    "visual_reference_count": 6
+  },
+  "publication_allowed": false,
+  "publication_block_reason": "Requires editorial review; this is general education and not a personalized diet plan. No post ID exists."
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "source": "Google Drive exact paginated Batch_002 audit plus preserved canonical inventory",
-  "captured_at_utc": "2026-08-23T03:01:24Z",
+  "captured_at_utc": "2026-08-23T05:22:40Z",
   "note": "Metadata snapshot only. This file does not authenticate to Drive or grant cloud access. Refreshes require a reviewed repository change.",
   "canonical_packages": [
     {
@@ -376,6 +376,16 @@
       "topic": "Reading food labels for added sugars and portion awareness",
       "status": "drive_verified",
       "drive_folder_id": "1u8C8d3VmID0MpF1IhwKI3AEXlFO5GOXU",
+      "batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
+      "publication_allowed": false,
+      "editorial_re_review_required": true
+    },
+    {
+      "reel_id": "REEL-0066",
+      "title": "Fiber सिर्फ कब्ज के लिए नहीं: varied diet में इसका role क्या है?",
+      "topic": "Dietary fiber and varied eating patterns; gut-microbiome evidence boundary",
+      "status": "drive_verified",
+      "drive_folder_id": "1ocdj-xm2gCRkJKpLi8a9GQp7eJc4ztLN",
       "batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
       "publication_allowed": false,
       "editorial_re_review_required": true
