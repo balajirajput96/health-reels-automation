@@ -1,9 +1,315 @@
 {
   "schema_version": "1.1",
-  "source": "Google Drive re-list inventory checkpoint drive_reel0031_relist_20260823.json plus preserved canonical inventory",
-  "captured_at_utc": "2026-08-23T02:22:48Z",
+  "source": "Google Drive exact paginated Batch_002 audit plus preserved canonical inventory",
+  "captured_at_utc": "2026-08-23T03:01:24Z",
   "note": "Metadata snapshot only. This file does not authenticate to Drive or grant cloud access. Refreshes require a reviewed repository change.",
   "canonical_packages": [
+    {
+      "reel_id": "R0031",
+      "title": "stroop color word mini experiment",
+      "topic": "stroop color word mini experiment",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1PpJPMCkLPxfVQQck2S07ii0rLI-pAWmw",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0032",
+      "title": "attention span myth vs evidence",
+      "topic": "attention span myth vs evidence",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1OaALPwooiMQVQXjPtlZGPXQhrrHpUIpT",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0033",
+      "title": "feature binding illusory conjunction case",
+      "topic": "feature binding illusory conjunction case",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1_2iYAklsQhS8ZPdTmnDvzc-D3ZbYOEqY",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0034",
+      "title": "cognitive training transfer question",
+      "topic": "cognitive training transfer question",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1PyyYLSyuMwTv9pFGcS4FJpllLe_pDWkj",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0035",
+      "title": "attentional capture mini experiment",
+      "topic": "attentional capture mini experiment",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1vuksXMMAvkup9tBvuy9o3BKsPSTR7Nlh",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0036",
+      "title": "task switching cost myth vs evidence",
+      "topic": "task switching cost myth vs evidence",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "19k1ppbrvtG6JW3DAHoNOJCaDzTKZ0cMM",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0037",
+      "title": "change blindness real world case",
+      "topic": "change blindness real world case",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1OxAP0Cfl_LRNHfhkvsyYsCSjJrFSuAPk",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0038",
+      "title": "own name cocktail party effect",
+      "topic": "own name cocktail party effect",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1uBIIsVWDS6zF-jwzlAhHL6_n_WapHwD5",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0039",
+      "title": "turn taking prediction mini experiment",
+      "topic": "turn taking prediction mini experiment",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1vENUwMb4tLSzK5Fk_qh8dqBQ_KbwNBe-",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0040",
+      "title": "eye contact myth vs evidence",
+      "topic": "eye contact myth vs evidence",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1gU_CrxlllXtn09J17SFaJ65MBwHuKrlT",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0041",
+      "title": "audiovisual speech mcgurk case",
+      "topic": "audiovisual speech mcgurk case",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1-gz-XYxgt-eUxQ7QNuuOfKwi4gZzQOiY",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0042",
+      "title": "multitasking task switching",
+      "topic": "multitasking task switching",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "12s0foIoprYftZt3LtKYSmEGo76ENcT8L",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0043",
+      "title": "acute stress threat attention",
+      "topic": "acute stress threat attention",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1F3emIjaIdwBJfX2s_mevPLDAkCvRGt_H",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0044",
+      "title": "stress performance myth evidence",
+      "topic": "stress performance myth evidence",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1P9UYZ771ECDQ-MXMPOhuBgZ4wp0rPmaP",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0045",
+      "title": "social stress contagion case story",
+      "topic": "social stress contagion case story",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1q-ooU1IgDw5vCP8QhnpCJrqfgIhY2i9v",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0046",
+      "title": "prospection future thinking",
+      "topic": "prospection future thinking",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1IMY9nDp9wXQv0KgkPwpBjPR6V-nl4-i4",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0047",
+      "title": "delay discounting",
+      "topic": "delay discounting",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1cvx7Byo6F6bA2ojH_b65Y4WlBeNkfdGK",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0048",
+      "title": "loss aversion",
+      "topic": "loss aversion",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1HV8n1tLWOREVT-2kheYcES6Y5H9XuO06",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0049",
+      "title": "framing effect",
+      "topic": "framing effect",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1_GST8gnpwneWaOTT3dPFhwcmbHZTyDaE",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0050",
+      "title": "sunk cost",
+      "topic": "sunk cost",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1rCARkYyp9uXN8Qr-EKF3rwUORdPlsrS9",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0051",
+      "title": "mere exposure",
+      "topic": "mere exposure",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1_lR0rSRz_fnSerjrCyLjqGYWOQBVJ8mm",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0052",
+      "title": "inattentional blindness",
+      "topic": "inattentional blindness",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1kU508PPgPSNMa56-e7NLFH1JTebnsVt3",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0053",
+      "title": "desirable difficulties",
+      "topic": "desirable difficulties",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1Ql-Eml3MmS-jvbtKRKAQSuo9KHZGsgwe",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0054",
+      "title": "testing effect",
+      "topic": "testing effect",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1Yb9THoRWolLTupqgmsu5KX-5Keht9duD",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0055",
+      "title": "pretesting effect",
+      "topic": "pretesting effect",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1bwNthm4rySPwAWrYvngmX54zxM-1ekWW",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0056",
+      "title": "generation effect",
+      "topic": "generation effect",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1fLCuOZVnf9F1sjlhXbM_hAS3EwtdU-aK",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0057",
+      "title": "self explanation",
+      "topic": "self explanation",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1F_EElpmyOpFcZmdX4fgjpFXi56zqZEOc",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0058",
+      "title": "social proof",
+      "topic": "social proof",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1OgIDpAEFWFPLZjR6j4eG-PNuFhSEndIs",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0059",
+      "title": "authority bias",
+      "topic": "authority bias",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "10zs0-uHBKKCocI3KLTTmXonCOQS8wDYE",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0060",
+      "title": "halo effect",
+      "topic": "halo effect",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1wc7EYlxdG7G3_KzuscA_RqhtCdwcjupl",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0061",
+      "title": "anchoring effect",
+      "topic": "anchoring effect",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1FQk81wX_v1wg6JOdFLDd-VyFRkBhia7G",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0062",
+      "title": "availability heuristic",
+      "topic": "availability heuristic",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1K1uErnRvhoM6olaIi5TTGCcuCJ2gxiDR",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0063",
+      "title": "representativeness heuristic",
+      "topic": "representativeness heuristic",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1lgKplE9t_FG0jnXgOpJePA_o5W0qKT-5",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
+    {
+      "reel_id": "R0064",
+      "title": "base rate neglect",
+      "topic": "base rate neglect",
+      "status": "legacy_drive_identity_only",
+      "drive_folder_id": "1I8tqumiF2qydY6Ru_hUhg-57cpaA-W7K",
+      "batch_folder_id": "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt",
+      "identity_collision_note": "Preserved legacy R-prefixed Drive package. Do not overwrite, rename, or infer publication status from folder presence."
+    },
     {
       "reel_id": "REEL-0001",
       "title": "भावना को नाम देने से दिमाग को क्या मदद मिल सकती है?",
