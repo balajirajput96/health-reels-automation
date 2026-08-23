@@ -1,0 +1,34 @@
+{
+  "timestamp_utc": "2026-08-23T02:38:10.246485Z",
+  "status": "pass",
+  "manifest_version": 1,
+  "check_local_commands": true,
+  "services": [
+    {
+      "id": "anti_gravity_cli",
+      "command": "agy",
+      "local_command_available": false
+    },
+    {
+      "id": "google_jules",
+      "command": null,
+      "local_command_available": null
+    },
+    {
+      "id": "gemini_cli",
+      "command": "gemini",
+      "local_command_available": false
+    },
+    {
+      "id": "github_cli",
+      "command": "gh",
+      "local_command_available": true
+    },
+    {
+      "id": "google_workspace_cli",
+      "command": "gws",
+      "local_command_available": true
+    }
+  ],
+  "errors": []
+}
