@@ -4,6 +4,7 @@
   "subject": "Regular meal timing and everyday energy rhythms",
   "status": "research_ready",
   "lifecycle_stage": "research_ready",
+  "production_mode": "quota_limited_topic_specific_fallback",
   "publication_allowed": false,
   "drive_verified": false,
   "backlog_row": 5,
@@ -17,10 +18,30 @@
     "research": "research/2026-08-22__reel0008__meal-timing-source-validation.md",
     "production_brief": "production/reel0008_meal_timing_brief.md",
     "script": "production/reel0008_script_hi-IN.md",
-    "video": null,
+    "video": "production/rendered/REEL-0008_quota_limited_topic_fallback.mp4",
     "audio": "production/audio/REEL-0008_narration_hi-IN.wav",
     "captions": "production/captions/REEL-0008_hi-IN.srt",
-    "qc": "production/rendered/REEL-0008_pending_qc.json"
+    "qc": "production/rendered/REEL-0008_pending_qc.json",
+    "assembly_metadata": "production/rendered/REEL-0008_quota_limited_fallback_assembly.json",
+    "native_reference": "production/assets/reel0008_meal_timing_primary_reference_20260823.png",
+    "native_clip": "production/video/reel0008_clip01_morning_meal_timing.mp4",
+    "topic_reference_images": [
+      "production/assets/reel0008_ref02_circadian_dial_20260823.png",
+      "production/assets/reel0008_ref03_controlled_study_20260823.png",
+      "production/assets/reel0008_ref04_no_perfect_time_20260823.png",
+      "production/assets/reel0008_ref05_review_uncertainty_20260823.png",
+      "production/assets/reel0008_ref06_practical_cues_20260823.png"
+    ]
+  },
+  "video_metadata": {
+    "sha256": "221cd5ab5a935c6f14b8669a78f50af5233fddba1256a96cd14750941aad4e91",
+    "dimensions": "720x1280",
+    "duration_seconds": 64.88,
+    "video_codec": "h264",
+    "frame_rate": 30,
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2
   },
   "source_urls": [
     "https://pubmed.ncbi.nlm.nih.gov/28578930/",
@@ -32,16 +53,16 @@
   ],
   "blockers": [
     {
-      "type": "image_generation_quota",
-      "detail": "Daily free image quota is exhausted at 20/20; primary topic-specific reference generation was rejected.",
-      "recorded_at": "2026-08-22T06:01:00Z",
-      "retry_policy": "Retry after provider quota reset; do not substitute unrelated or generic visuals."
+      "type": "native_video_quota_partial",
+      "detail": "One native topic-specific clip was generated; the second native clip request was rejected at today's free plan limit of 1/1.",
+      "recorded_at": "2026-08-23T02:08:05Z",
+      "retry_policy": "Do not retry until the provider quota resets; keep the fallback clearly labeled and require editorial re-review."
     },
     {
-      "type": "native_video_quota",
-      "detail": "Inherited session state records the daily native video quota as exhausted at 1/1.",
-      "recorded_at": "2026-08-22T06:01:00Z",
-      "retry_policy": "Re-check after provider quota reset; do not claim topic-specific video generation until verified."
+      "type": "editorial_fallback_review",
+      "detail": "The assembled video uses one native topic-specific clip plus five topic-specific AI reference images with deterministic motion. It is not equivalent to a multi-clip native-video production and is not publication-ready without explicit re-review.",
+      "recorded_at": "2026-08-23T02:12:48Z",
+      "retry_policy": "Re-review before Drive completion or publication; regenerate native clips after quota reset when required."
     }
   ],
   "drive": {
@@ -51,5 +72,5 @@
     "verification_status": "not_started",
     "package_upload_allowed": false
   },
-  "notes": "Research and script are complete enough to resume production. Hindi narration spans and captions were prepared locally from the approved script, but they are not a completed reel because the mandatory primary topic-specific reference image could not be generated within the authorized free quota. Video, QC, Drive upload, ledger registration, and publication remain blocked. The repository's current lifecycle validator does not include research_ready, so this pending manifest is intentionally kept outside state/reels_ledger.json until a supported lifecycle change is reviewed through a PR."
+  "notes": "Research, script, Hindi narration, captions, topic-specific AI references, one native topic-specific clip, and a technically valid 720x1280 assembly are prepared locally. Because native video quota allowed only one clip, the fallback requires editorial re-review and must not be represented as final, Drive-verified, or published. The repository lifecycle validator does not include research_ready in the ledger; keep this item outside state/reels_ledger.json until all required review and Drive gates pass."
 }

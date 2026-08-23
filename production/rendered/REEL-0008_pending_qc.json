@@ -1,6 +1,7 @@
 {
   "reel_id": "REEL-0008",
-  "status": "pending_visual_generation",
+  "status": "technical_qc_passed_editorial_drive_pending",
+  "production_mode": "quota_limited_topic_specific_fallback",
   "publication_allowed": false,
   "drive_verified": false,
   "technical_checks": {
@@ -12,33 +13,54 @@
     "captions_file_present": true,
     "caption_span_count": 7,
     "caption_end_seconds": 64.88,
-    "aspect_ratio_check": "not_started_video_missing",
-    "video_codec_check": "not_started_video_missing"
+    "video_file_present": true,
+    "video_dimensions": "720x1280",
+    "video_aspect_ratio": "9:16",
+    "video_duration_seconds": 64.88,
+    "video_codec": "h264",
+    "video_frame_rate": 30,
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2,
+    "video_sha256": "221cd5ab5a935c6f14b8669a78f50af5233fddba1256a96cd14750941aad4e91",
+    "technical_result": "pass"
   },
   "editorial_checks": {
     "approved_script_used": true,
     "research_record_present": true,
     "uncertainty_boundary_preserved": true,
     "safety_disclaimer_preserved": true,
-    "topic_specific_visual_relevance": "not_verified_visual_missing"
+    "topic_specific_visual_relevance": "verified_from_one_native_clip_and_five_AI_reference_images",
+    "unrelated_visuals_used": false,
+    "universal_meal_time_claim": false,
+    "medical_outcome_claim": false,
+    "editorial_result": "pending_fallback_re_review"
+  },
+  "visual_provenance": {
+    "native_ai_clip_count": 1,
+    "topic_specific_ai_reference_image_count": 6,
+    "deterministic_motion_on_images": true,
+    "native_clip": "production/video/reel0008_clip01_morning_meal_timing.mp4",
+    "reference_anchor": "production/assets/reel0008_meal_timing_primary_reference_20260823.png",
+    "assembly_metadata": "production/rendered/REEL-0008_quota_limited_fallback_assembly.json"
   },
   "blocked_gates": [
     {
-      "type": "image_generation_quota",
-      "detail": "Authorized provider rejected the mandatory primary topic-specific reference image at the daily free limit of 20/20.",
+      "type": "native_video_quota_partial",
+      "detail": "The second native topic-specific clip request was rejected at today's free plan limit of 1/1. One native clip is available, but the planned multi-clip native production was not possible.",
       "publication_impact": "blocking"
     },
     {
-      "type": "native_video_quota",
-      "detail": "Inherited session state records native video quota exhausted at 1/1.",
+      "type": "editorial_fallback_review",
+      "detail": "The assembly combines one native topic-specific clip with five topic-specific AI reference images animated deterministically. It is a relevant fallback, but it is not equivalent to a full multi-clip native-video production and requires explicit re-review.",
       "publication_impact": "blocking"
     },
     {
       "type": "drive_package",
-      "detail": "Drive upload is forbidden until video and full QC pass.",
+      "detail": "Drive upload is forbidden until the fallback is editorially reviewed and the complete package contract is approved. No Reel 0008 folder currently exists.",
       "publication_impact": "blocking"
     }
   ],
-  "next_resume_step": "After authorized quota reset, generate the topic-specific primary reference image, then native 9:16 video, assemble with this narration and captions, run full QC, and upload/re-list-verify the package in Batch_001 for Reel 0008.",
-  "generated_at_utc": "2026-08-22T11:29:00Z"
+  "next_resume_step": "After authorized video quota reset, either generate the remaining topic-specific native clips or complete the documented fallback re-review, then upload and re-list-verify the full package in Batch_001/REEL-0008. Do not publish before that review and verification.",
+  "generated_at_utc": "2026-08-23T02:12:48Z"
 }

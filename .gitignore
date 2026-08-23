@@ -9,6 +9,7 @@ state/
 production/assets/
 production/audio/
 production/clips/
+production/video/
 production/assembled_clips/
 production/assembly_work/
 production/rendered/*.mp4
