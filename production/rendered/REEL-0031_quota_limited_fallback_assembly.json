@@ -1,0 +1,24 @@
+{
+  "reel_id": "REEL-0031",
+  "output": "production/rendered/REEL-0031_quota_limited_topic_fallback.mp4",
+  "production_mode": "quota_limited_topic_specific_fallback",
+  "visual_provenance": {
+    "native_ai_clip": "production/video/reel0031_clip01_morning_meal_timing.mp4",
+    "ai_reference_images": [
+      "production/assets/reel0031_meal_timing_primary_reference_20260823.png",
+      "production/assets/reel0031_ref02_circadian_dial_20260823.png",
+      "production/assets/reel0031_ref03_controlled_study_20260823.png",
+      "production/assets/reel0031_ref04_no_perfect_time_20260823.png",
+      "production/assets/reel0031_ref05_review_uncertainty_20260823.png",
+      "production/assets/reel0031_ref06_practical_cues_20260823.png"
+    ],
+    "deterministic_motion": "Ken Burns-style zoom/pan animation applied only to topic-specific AI reference images"
+  },
+  "audio": "production/audio/REEL-0031_narration_hi-IN.wav",
+  "captions": "production/captions/REEL-0031_hi-IN.srt",
+  "target_duration_seconds": 64.88,
+  "publication_allowed": false,
+  "drive_verified": false,
+  "full_qc_required": true,
+  "note": "Topic-specific AI visuals were available after quota reset, but only one native video clip was permitted by the daily video quota. Requires explicit editorial re-review before any Drive completion or publication."
+}

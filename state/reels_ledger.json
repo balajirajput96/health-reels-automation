@@ -133,6 +133,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T04:26:36.334241Z",
       "notes": "Batch 06 Movement Breaks: Instagram success confirmation and independent public-grid verification on 2026-08-25."
+    },
+    {
+      "source_id": "reel_0031_regular_meal_timing_everyday_energy",
+      "sha256": "221cd5ab5a935c6f14b8669a78f50af5233fddba1256a96cd14750941aad4e91",
+      "filename": "REEL-0031_quota_limited_topic_fallback.mp4",
+      "stage": "drive_verified_fallback",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-23T03:24:49.661155Z",
+      "notes": "Drive verified fallback in Batch_002/REEL-0031; folder 1WDXbL14IuQu0dYDd50P3JkEZlSW-f4iq; 16 files re-listed and verified. Topic-specific AI visuals present; one native clip permitted, remaining native-video quota exhausted at 1/1. Not publication-ready; editorial re-review required."
     }
   ]
 }
