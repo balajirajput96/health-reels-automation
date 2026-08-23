@@ -1,0 +1,47 @@
+{
+  "reel_id": "REEL-0065",
+  "source_id": "reel_0065_reading_food_labels_added_sugars_decision_awareness",
+  "status": "drive_verified",
+  "technical_qc": {
+    "decode_check": "passed",
+    "video_dimensions": "720x1280",
+    "aspect_ratio": "9:16",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2,
+    "frame_rate_fps": 30,
+    "duration_seconds": 60.944,
+    "captions_file_present": true,
+    "caption_block_count": 7,
+    "caption_layout_visual_check": "passed after reduced font size and controlled line breaks",
+    "sha256": "489bbbd4d062436c8e5a617aa94fa40a28beb412d707212b642bcc2fcb14d45f"
+  },
+  "editorial_qc": {
+    "research_register_present": true,
+    "primary_sources": [
+      "https://www.fda.gov/food/nutrition-facts-label/added-sugars-nutrition-facts-label",
+      "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "https://www.cdc.gov/healthy-weight-growth/healthy-eating/nutrition-label.html"
+    ],
+    "total_vs_added_sugars_distinction": "passed",
+    "serving_size_not_personal_recommendation": "passed",
+    "percent_daily_value_boundaries": "passed",
+    "50_gram_reference_is_not_personal_prescription": "passed",
+    "medical_or_personal_diet_advice": "not presented",
+    "ai_visual_disclosure": "included in production brief and final manifest",
+    "visuals_topic_specific": true,
+    "obvious_visual_fatal_defect": false
+  },
+  "drive_qc": {
+    "drive_uploaded": true,
+    "drive_relisted": true,
+    "relisted_file_count": 15,
+    "drive_batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
+    "drive_reel_folder_id": "1u8C8d3VmID0MpF1IhwKI3AEXlFO5GOXU",
+    "relist_artifact": "/home/ubuntu/github-workspace/checkpoints/reel0065_drive_relist_20260823.ndjson",
+    "publication_allowed": false,
+    "blocking_step": "Separate editorial review and publishing verification remain required; no post ID exists."
+  },
+  "notes": "The draft passed local technical and visual checks. The complete 15-file evidence/media package was uploaded and re-listed from the exact Drive folder. It is drive_verified but not published; separate editorial review remains required."
+}
