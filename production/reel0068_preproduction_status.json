@@ -1,0 +1,37 @@
+{
+  "reel_id": "REEL-0068",
+  "source_id": "reel_0068_walking_meetings_daily_movement",
+  "title": "Walking Meetings And Daily Movement For Health",
+  "subject": "Walking meetings and low-barrier daily movement",
+  "stage": "failed",
+  "status": "blocked_preproduction",
+  "blocked_reason": "Official image generation quota was previously exhausted at 20/20 and native video quota at 1/1. No topic-specific REEL-0068 visual assets had been legitimately generated before the boundary. Unrelated reel visuals are prohibited as fallback.",
+  "drive_folder_id": "1pavmo2MZawrpSEHvqJzGWqlXuJ5RaGo_",
+  "batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
+  "identity_audit_checkpoint": "/home/ubuntu/github-workspace/checkpoints/reel0068_identity_audit_20260823_final.ndjson",
+  "folder_create_checkpoint": "/home/ubuntu/github-workspace/checkpoints/reel0068_drive_folder_create_20260823.json",
+  "audio_duration_seconds": 67.52,
+  "preproduction_drive_child_count": 12,
+  "preproduction_drive_relist_checkpoint": "/home/ubuntu/github-workspace/checkpoints/reel0068_drive_preupload_relist_20260823_final.ndjson",
+  "prepared_local_files": [
+    "research/2026-08-23__reel0068__walking-meetings-source-validation.md",
+    "production/reel0068_script_hi-IN.md",
+    "production/reel0068_walking_meetings_brief.md",
+    "production/audio/REEL-0068_span01_hi-IN.wav",
+    "production/audio/REEL-0068_span02_hi-IN.wav",
+    "production/audio/REEL-0068_span03_hi-IN.wav",
+    "production/audio/REEL-0068_span04_hi-IN.wav",
+    "production/audio/REEL-0068_span05_hi-IN.wav",
+    "production/audio/REEL-0068_span06_hi-IN.wav",
+    "production/audio/REEL-0068_span07_hi-IN.wav"
+  ],
+  "retry_conditions": [
+    "Wait for an official image-generation quota reset; do not bypass, upgrade billing, use another account, or repeatedly retry before reset.",
+    "After reset, generate a REEL-0068-specific 9:16 primary visual anchor first, then only the companion references actually needed, using the primary as reference for consistency.",
+    "Use native video only if the official native-video quota is also available; otherwise use a sufficiently diverse, topic-specific deterministic still-motion montage.",
+    "Re-run local audio, visual, subtitle, decode, duration, geometry, editorial, and source-integrity QC before any package upload."
+  ],
+  "publication": "prohibited",
+  "post_id": null,
+  "recorded_at": "2026-08-23T10:10:43Z"
+}
