@@ -147,6 +147,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-23T05:23:16.992613Z",
       "notes": "Drive folder 1ocdj-xm2gCRkJKpLi8a9GQp7eJc4ztLN under Batch_003 1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f; 15 files uploaded and re-listed with parent match; Hindi narration and captions; AI topic-specific still-motion fallback; general education only; editorial review required; no publication or post ID."
+    },
+    {
+      "source_id": "reel_0067_plant_diversity_balanced_meal_variety",
+      "sha256": "45cf3c0b71c14ab28f878eec3615ec663c4ced4c4613bfb550627df94f1306e2",
+      "filename": "REEL-0067_plant-diversity-balanced-meal-variety.mp4",
+      "stage": "drive_verified",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-23T07:06:17.308943Z",
+      "notes": "Drive folder 14ZoQzejjrwNnAfvSmGpHLGCKJsc9xHaz in Batch_003; 13 files re-listed with all children matching parent; two-image topic-specific still-motion fallback after official image-generation limit 20/20; publication prohibited pending editorial review."
     }
   ]
 }
