@@ -400,6 +400,19 @@
       "publication_allowed": false,
       "editorial_re_review_required": true,
       "quota_limited_fallback": true
+    },
+    {
+      "reel_id": "REEL-0068",
+      "title": "Walking Meetings And Daily Movement For Health",
+      "topic": "Walking meetings and low-barrier daily movement; feasibility and safety boundaries",
+      "status": "failed_preproduction_quota_block",
+      "drive_folder_id": "1pavmo2MZawrpSEHvqJzGWqlXuJ5RaGo_",
+      "batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
+      "publication_allowed": false,
+      "editorial_re_review_required": true,
+      "quota_limited_fallback": false,
+      "preproduction_only": true,
+      "retry_required_after_official_quota_reset": true
     }
   ]
 }

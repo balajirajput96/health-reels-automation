@@ -169,6 +169,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-23T07:06:17.308943Z",
       "notes": "Drive folder 14ZoQzejjrwNnAfvSmGpHLGCKJsc9xHaz in Batch_003; 13 files re-listed with all children matching parent; two-image topic-specific still-motion fallback after official image-generation limit 20/20; publication prohibited pending editorial review."
+    },
+    {
+      "source_id": "reel_0068_walking_meetings_daily_movement",
+      "filename": "REEL-0068_walking-meetings-daily-movement.mp4",
+      "stage": "failed",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-23T10:06:52.251885Z",
+      "notes": "Blocked in preproduction: official image generation quota previously exhausted at 20/20 and native video quota at 1/1; no topic-specific visual assets existed; do not use unrelated visuals, bypass quotas, upload as complete, or publish. Drive preproduction folder 1pavmo2MZawrpSEHvqJzGWqlXuJ5RaGo_ created under audited Batch_003. Retry only after official quota reset and repeat identity audit."
     }
   ]
 }
