@@ -184,6 +184,8 @@ def main() -> int:
     if len(ledger_matches) != 1:
         raise RuntimeError(f"Expected one Reel_0004 ledger identity, found {len(ledger_matches)}")
     ledger_matches[0]["stage"] = "failed"
+    ledger_matches[0]["latest_evidence_ref"] = EVIDENCE_REF
+    ledger_matches[0]["last_reverified_at"] = recorded_at
     ledger_matches[0]["notes"] = (
         "Fresh authenticated Drive listing confirms the queued-topic package remains in the canonical folder, but the folder retains a prior different-topic package and the authenticated remote metadata SHA-256 "
         f"({observed_metadata_sha}) differs from the upload manifest record ({expected_metadata_sha}). Final status withheld; no upload, overwrite, duplicate, or publication. Evidence: records/reels/batch01/reel0004/{EVIDENCE_REF}/."
