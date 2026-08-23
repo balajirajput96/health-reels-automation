@@ -120,6 +120,15 @@
       "notes": "Fresh authenticated Drive listing confirms the queued-topic package remains in the canonical folder, but the folder retains a prior different-topic package and the authenticated remote metadata SHA-256 (93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc) differs from the upload manifest record (bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67). Final status withheld; no upload, overwrite, duplicate, or publication. Evidence: records/reels/batch01/reel0004/remote_reverification_20260823T023735Z/.",
       "latest_evidence_ref": "remote_reverification_20260823T023735Z",
       "last_reverified_at": "2026-08-23T02:37:54.266965Z"
+    },
+    {
+      "source_id": "reel_0031_regular_meal_timing_everyday_energy",
+      "sha256": "221cd5ab5a935c6f14b8669a78f50af5233fddba1256a96cd14750941aad4e91",
+      "filename": "REEL-0031_quota_limited_topic_fallback.mp4",
+      "stage": "drive_verified_fallback",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-23T03:24:49.661155Z",
+      "notes": "Drive verified fallback in Batch_002/REEL-0031; folder 1WDXbL14IuQu0dYDd50P3JkEZlSW-f4iq; 16 files re-listed and verified. Topic-specific AI visuals present; one native clip permitted, remaining native-video quota exhausted at 1/1. Not publication-ready; editorial re-review required."
     }
   ]
 }

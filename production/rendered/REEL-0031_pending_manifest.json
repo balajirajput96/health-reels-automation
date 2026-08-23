@@ -1,0 +1,95 @@
+{
+  "reel_id": "REEL-0031",
+  "title": "Regular Meal Timing And Everyday Energy Rhythms Explained",
+  "subject": "Regular meal timing and everyday energy rhythms",
+  "status": "drive_verified_fallback",
+  "lifecycle_stage": "drive_verified_fallback",
+  "production_mode": "quota_limited_topic_specific_fallback",
+  "publication_allowed": false,
+  "drive_verified": true,
+  "backlog_row": 5,
+  "target_format": {
+    "aspect_ratio": "9:16",
+    "target_duration_seconds": 60,
+    "language": "hi-IN",
+    "captions": true
+  },
+  "artifacts": {
+    "research": "research/2026-08-22__reel0031__meal-timing-source-validation.md",
+    "production_brief": "production/reel0031_meal_timing_brief.md",
+    "script": "production/reel0031_script_hi-IN.md",
+    "video": "production/rendered/REEL-0031_quota_limited_topic_fallback.mp4",
+    "audio": "production/audio/REEL-0031_narration_hi-IN.wav",
+    "captions": "production/captions/REEL-0031_hi-IN.srt",
+    "qc": "production/rendered/REEL-0031_pending_qc.json",
+    "assembly_metadata": "production/rendered/REEL-0031_quota_limited_fallback_assembly.json",
+    "native_reference": "production/assets/reel0031_meal_timing_primary_reference_20260823.png",
+    "native_clip": "production/video/reel0031_clip01_morning_meal_timing.mp4",
+    "topic_reference_images": [
+      "production/assets/reel0031_ref02_circadian_dial_20260823.png",
+      "production/assets/reel0031_ref03_controlled_study_20260823.png",
+      "production/assets/reel0031_ref04_no_perfect_time_20260823.png",
+      "production/assets/reel0031_ref05_review_uncertainty_20260823.png",
+      "production/assets/reel0031_ref06_practical_cues_20260823.png"
+    ]
+  },
+  "video_metadata": {
+    "sha256": "221cd5ab5a935c6f14b8669a78f50af5233fddba1256a96cd14750941aad4e91",
+    "dimensions": "720x1280",
+    "duration_seconds": 64.88,
+    "video_codec": "h264",
+    "frame_rate": 30,
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2
+  },
+  "source_urls": [
+    "https://pubmed.ncbi.nlm.nih.gov/28578930/",
+    "https://pubmed.ncbi.nlm.nih.gov/32998085/",
+    "https://www.nhlbi.nih.gov/news/2023/chrononutrition-timing-meals-matters-your-health",
+    "https://www.hopkinsmedicine.org/health/wellness-and-prevention/does-the-time-of-day-you-eat-matter",
+    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2825750",
+    "https://sleep.hms.harvard.edu/news/study-finds-well-timed-meals-reduce-risk-glucose-intolerance-despite-mistimed-sleep"
+  ],
+  "blockers": [
+    {
+      "type": "native_video_quota_partial",
+      "detail": "One native topic-specific clip was generated; additional native clip generation was rejected at the daily free plan limit of 1/1.",
+      "recorded_at": "2026-08-23T02:08:05Z",
+      "retry_policy": "Do not retry until the provider quota resets; keep the fallback clearly labeled and require editorial re-review."
+    },
+    {
+      "type": "editorial_fallback_review",
+      "detail": "Drive-verified fallback: one native topic-specific clip plus five topic-specific AI reference images with deterministic motion. This is not equivalent to a multi-clip native-video production and is not publication-ready without editorial re-review.",
+      "recorded_at": "2026-08-23T02:22:48Z",
+      "retry_policy": "Re-review before publication; regenerate remaining native clips after quota reset when required."
+    }
+  ],
+  "drive": {
+    "root_folder_id": "1qBzjS18Pd4zNEmgNhZsDqKHrl17uCOyS",
+    "batch_folder_id": "1c3hEXIJuID7GnnlBv6gXv9RKDUQBBfGT",
+    "batch_name": "Batch_002",
+    "reel_folder_id": "1WDXbL14IuQu0dYDd50P3JkEZlSW-f4iq",
+    "verification_status": "verified_relist_16_files",
+    "package_upload_allowed": true,
+    "file_ids": {
+      "video": "1P0PUOGOOfKplvFL9jUIYhEeq_XylleTW",
+      "audio": "1w7sstRupOYazS3ESRwOOrIEZjVCUQZFF",
+      "captions": "1pypT5BBg6WeTmANZs-e30uBBIOvR4dUc",
+      "production_brief": "1m4R8-tofoaBdiUP10_qKz5BHPCLcn04V",
+      "script": "1AH2R0BfpSjx6uFQGbXMMkDQ1Nyt0FdzK",
+      "research": "1TuMtmkXUbvzpVorRlXUDpVEll6jlLe_F",
+      "manifest": "1-DRYf2-5mYlsbmwn3oNhUTuPhtwlF3bV",
+      "qc": "1J87N2rUAwDVqqMjZHooj-RpHoSpZdstg",
+      "assembly_metadata": "1iThnwH_h6TWByU2cemQIMMyoOlRZeQ74",
+      "native_clip": "1OEL-cHTPM_tnZJgspp4herIG12wogiwC",
+      "native_reference": "1Ky8xZjpe3jXyCXkes9p5uzEWFheWsbyf",
+      "ref02": "13pdF7xy846wWgKtutWZpHD2pYf1COosA",
+      "ref03": "1GfB2utAR8vm1lDu2hakKnzyZ0KaDEqUK",
+      "ref04": "1Y8sYMI2aTAqoSnmkHo2vt3CM2wJE7Cd-",
+      "ref05": "1oM2VnkTv9lhIB5V9mAb2oL1Qj8eQQ38i",
+      "ref06": "1UpBsgABF9jMG6GqpWCxsv0d1Fm1NXe7I"
+    }
+  },
+  "notes": "The complete 16-file fallback package was uploaded to the collision-free Batch_002/REEL-0031 folder and re-listed from Drive. Technical media integrity passed. The fallback remains non-publication-ready and requires editorial re-review because only one native video clip was available under the daily limit. No post ID exists and no publication was attempted."
+}
