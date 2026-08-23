@@ -138,6 +138,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-23T03:18:39.092340Z",
       "notes": "Drive verified in Batch_003/REEL-0065_label-literacy-added-sugars; folder 1u8C8d3VmID0MpF1IhwKI3AEXlFO5GOXU; complete 15-file package uploaded and re-listed. Topic-specific AI reference montage with deterministic motion; technical and visual QC passed. Not publication-ready; separate editorial review required."
+    },
+    {
+      "source_id": "reel_0066_dietary_fiber_varied_eating_patterns",
+      "sha256": "b37ecad291861d334df82abc57453e26b66277c68b1876f283d63c954f6a8ce8",
+      "filename": "REEL-0066_dietary_fiber_varied_eating.mp4",
+      "stage": "drive_verified",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-23T05:23:16.992613Z",
+      "notes": "Drive folder 1ocdj-xm2gCRkJKpLi8a9GQp7eJc4ztLN under Batch_003 1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f; 15 files uploaded and re-listed with parent match; Hindi narration and captions; AI topic-specific still-motion fallback; general education only; editorial review required; no publication or post ID."
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "reel_id": "REEL-0066",
+  "source_id": "reel_0066_dietary_fiber_varied_eating_patterns",
+  "assembly_type": "quota_aware_topic_specific_still_motion_fallback",
+  "disclosure": "AI-generated topic-specific reference images animated with deterministic Ken Burns motion; no native multi-clip video generation claimed.",
+  "narration_spans": 7,
+  "span_durations_seconds": [
+    5.84,
+    7.8,
+    13.6,
+    8.72,
+    14.24,
+    8.16,
+    10.56
+  ],
+  "narration_duration_seconds": 68.92,
+  "video_duration_seconds": 68.92,
+  "images": [
+    "/home/ubuntu/github-workspace/repos/health-reels-automation/production/assets/reel0066_primary_varied_fiber.png",
+    "/home/ubuntu/github-workspace/repos/health-reels-automation/production/assets/reel0066_ref02_plant_sources.png",
+    "/home/ubuntu/github-workspace/repos/health-reels-automation/production/assets/reel0066_ref03_gut_microbe_concept.png",
+    "/home/ubuntu/github-workspace/repos/health-reels-automation/production/assets/reel0066_ref04_varied_meal.png",
+    "/home/ubuntu/github-workspace/repos/health-reels-automation/production/assets/reel0066_ref05_gradual_addition.png",
+    "/home/ubuntu/github-workspace/repos/health-reels-automation/production/assets/reel0066_ref06_closing_safety.png"
+  ],
+  "caption_file": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/captions/REEL-0066_hi-IN.srt",
+  "narration_file": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/audio/REEL-0066_narration_hi-IN.wav",
+  "final_video": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/rendered/REEL-0066_dietary_fiber_varied_eating.mp4",
+  "sha256": "b37ecad291861d334df82abc57453e26b66277c68b1876f283d63c954f6a8ce8",
+  "evidence_register": "/home/ubuntu/github-workspace/repos/health-reels-automation/research/2026-08-23__reel0066__dietary-fiber-source-validation.md",
+  "publication_allowed": false,
+  "publication_block_reason": "Requires editorial review; general education only and not a personalized diet prescription."
+}
