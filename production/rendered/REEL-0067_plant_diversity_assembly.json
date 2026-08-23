@@ -1,0 +1,39 @@
+{
+  "reel_id": "REEL-0067",
+  "source_id": "reel_0067_plant_diversity_balanced_meal_variety",
+  "assembly_type": "quota_limited_topic_specific_still_motion_fallback",
+  "disclosure": "Two AI-generated topic-specific reference images animated with deterministic Ken Burns motion after the official image-generation limit prevented additional companion references; no native multi-clip video generation claimed.",
+  "quota_event": "image_generation_free_plan_limit_20_of_20",
+  "narration_spans": 7,
+  "span_durations_seconds": [
+    8.04,
+    10.56,
+    9.24,
+    10.76,
+    8.36,
+    8.36,
+    8.72
+  ],
+  "narration_duration_seconds": 64.04,
+  "video_duration_seconds": 64.04,
+  "images": [
+    "/home/ubuntu/github-workspace/repos/health-reels-automation/production/assets/reel0067_primary_plant_diversity.png",
+    "/home/ubuntu/github-workspace/repos/health-reels-automation/production/assets/reel0067_ref02_plant_food_groups.png"
+  ],
+  "image_sequence": [
+    "reel0067_primary_plant_diversity.png",
+    "reel0067_ref02_plant_food_groups.png",
+    "reel0067_primary_plant_diversity.png",
+    "reel0067_ref02_plant_food_groups.png",
+    "reel0067_primary_plant_diversity.png",
+    "reel0067_ref02_plant_food_groups.png",
+    "reel0067_ref02_plant_food_groups.png"
+  ],
+  "caption_file": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/captions/REEL-0067_hi-IN.srt",
+  "narration_file": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/audio/REEL-0067_narration_hi-IN.wav",
+  "final_video": "/home/ubuntu/github-workspace/repos/health-reels-automation/production/rendered/REEL-0067_plant-diversity-balanced-meal-variety.mp4",
+  "sha256": "45cf3c0b71c14ab28f878eec3615ec663c4ced4c4613bfb550627df94f1306e2",
+  "evidence_register": "/home/ubuntu/github-workspace/repos/health-reels-automation/research/2026-08-23__reel0067__plant-diversity-source-validation.md",
+  "publication_allowed": false,
+  "publication_block_reason": "Requires editorial review; general education only and not a personalized diet prescription."
+}

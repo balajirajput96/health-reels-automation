@@ -1,0 +1,62 @@
+{
+  "reel_id": "REEL-0067",
+  "source_id": "reel_0067_plant_diversity_balanced_meal_variety",
+  "stage": "drive_verified",
+  "drive": {
+    "root_folder_id": "1qBzjS18Pd4zNEmgNhZsDqKHrl17uCOyS",
+    "batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
+    "batch_name": "Batch_003",
+    "reel_folder_id": "14ZoQzejjrwNnAfvSmGpHLGCKJsc9xHaz",
+    "reel_folder_name": "REEL-0067_plant-diversity-balanced-meal-variety",
+    "relist_artifact": "/home/ubuntu/github-workspace/checkpoints/reel0067_drive_relist_20260823.ndjson",
+    "relisted_file_count": 13,
+    "all_children_match_parent": true,
+    "relist_verified": true,
+    "remote_file_ids": {
+      "video": "1YuQVq7Jc5PS0rvV7wRg69LcXBcZaGj_1",
+      "narration": "1Bdbnc9xk8WH0RkNARBKkIp9B9ILqAGsz",
+      "captions": "152VXVXmPHtR5ijvzYOraeaHPOmk5OQqK",
+      "brief": "1PCt3KmdhqmPz3XMSkAbhUc3JFLOr5hnT",
+      "script": "1Pj1rncjY9G6WGSnR5MqmOHMkHGoIE_yI",
+      "research": "17HTnTRdwQt0oJ7J8-Bx9yQAyDR-zb9RR",
+      "assembly": "1KcFSrx5hayQahqHygqxCyhFALHw3ZVOX",
+      "qc": "1XEo5N5vPbA6tW_YpYDBMl38V7gEZjpOt",
+      "manifest": "1sQ7xa8abNk7XhrIycQKqIbkH-7ahCzsP",
+      "quota_event": "1RXeLfpFGEwgPIyFijYqmzmsZA8Q-9dtA",
+      "direct_source_check": "1WtbrJOwguKEiYO61xYypdl1UFhzqYbgT",
+      "visual_primary": "18nSMKs2owPG86t3b-qUAlZ49D3VEqj1L",
+      "visual_companion": "18xwne2wl9wIG50e6ltQuHVcoD64Pjkd1"
+    }
+  },
+  "video": {
+    "filename": "REEL-0067_plant-diversity-balanced-meal-variety.mp4",
+    "local_path": "production/rendered/REEL-0067_plant-diversity-balanced-meal-variety.mp4",
+    "sha256": "45cf3c0b71c14ab28f878eec3615ec663c4ced4c4613bfb550627df94f1306e2",
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "duration_seconds": 64.04,
+    "frame_rate_fps": 30,
+    "video_codec": "h264",
+    "audio_codec": "aac"
+  },
+  "package_files": [
+    "REEL-0067_plant-diversity-balanced-meal-variety.mp4",
+    "REEL-0067_narration_hi-IN.wav",
+    "REEL-0067_hi-IN.srt",
+    "reel0067_plant_diversity_brief.md",
+    "reel0067_script_hi-IN.md",
+    "2026-08-23__reel0067__plant-diversity-source-validation.md",
+    "REEL-0067_plant_diversity_assembly.json",
+    "REEL-0067_pending_qc.json",
+    "REEL-0067_pending_manifest.json",
+    "reel0067_image_quota_fallback_20260823.md",
+    "research_plant_diversity_20260823_direct_sources.md",
+    "reel0067_primary_plant_diversity.png",
+    "reel0067_ref02_plant_food_groups.png"
+  ],
+  "assembly_type": "quota_limited_topic_specific_still_motion_fallback",
+  "publication_allowed": false,
+  "post_id": null,
+  "notes": "Two topic-specific AI images were generated before the official image-generation limit 20/20 was reached. The video reuses those two references with deterministic Ken Burns motion. No unrelated substitute visuals, native multi-clip claim, quota bypass, or publication is permitted."
+}

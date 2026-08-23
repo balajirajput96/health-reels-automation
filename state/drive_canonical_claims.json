@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "source": "Google Drive exact paginated Batch_002 audit plus preserved canonical inventory",
-  "captured_at_utc": "2026-08-23T05:22:40Z",
+  "captured_at_utc": "2026-08-23T07:05:55Z",
   "note": "Metadata snapshot only. This file does not authenticate to Drive or grant cloud access. Refreshes require a reviewed repository change.",
   "canonical_packages": [
     {
@@ -389,6 +389,17 @@
       "batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
       "publication_allowed": false,
       "editorial_re_review_required": true
+    },
+    {
+      "reel_id": "REEL-0067",
+      "title": "थाली में plant diversity: variety क्यों मायने रख सकती है?",
+      "topic": "Plant diversity and balanced meal variety; mixed evidence and gut-microbiome uncertainty",
+      "status": "drive_verified",
+      "drive_folder_id": "14ZoQzejjrwNnAfvSmGpHLGCKJsc9xHaz",
+      "batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
+      "publication_allowed": false,
+      "editorial_re_review_required": true,
+      "quota_limited_fallback": true
     }
   ]
 }

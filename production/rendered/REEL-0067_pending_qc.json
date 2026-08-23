@@ -1,0 +1,55 @@
+{
+  "reel_id": "REEL-0067",
+  "source_id": "reel_0067_plant_diversity_balanced_meal_variety",
+  "stage": "drive_verified",
+  "technical": {
+    "status": "PASS",
+    "video_path": "production/rendered/REEL-0067_plant-diversity-balanced-meal-variety.mp4",
+    "sha256": "45cf3c0b71c14ab28f878eec3615ec663c4ced4c4613bfb550627df94f1306e2",
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "duration_seconds": 64.04,
+    "frame_rate_fps": 30,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "caption_blocks": 7,
+    "full_decode": true
+  },
+  "visual": {
+    "status": "PASS_WITH_FALLBACK_DISCLOSURE",
+    "contact_sheet": "/home/ubuntu/github-workspace/checkpoints/reel0067_visual_qc_contact_20260823.png",
+    "findings": "Representative frames show a clean upright crop, topic-specific plant-food imagery, readable Hindi captions, and no obvious watermark, logo, fabricated label, diagnostic scan, or fatal framing defect. Two references are reused with deterministic motion because the official image quota prevented additional companion images.",
+    "caption_placement": "Bottom-centered lower-third placement is readable and does not create a fatal obstruction of the food focal point."
+  },
+  "evidence": {
+    "status": "PASS_WITH_BOUNDARIES",
+    "register": "research/2026-08-23__reel0067__plant-diversity-source-validation.md",
+    "direct_source_check": "checkpoints/research_plant_diversity_20260823_direct_sources.md",
+    "boundaries": [
+      "Plant-rich dietary patterns are discussed as associations and mixed review-level evidence, not proof of causation.",
+      "Gut-microbiome findings are promising but contradictory in places and not guaranteed for every person.",
+      "No fixed plant-count target, vegan prescription, disease-prevention claim, weight-loss claim, or supplement advice is given.",
+      "This is general education, not individualized medical or nutritional advice."
+    ]
+  },
+  "quota": {
+    "status": "official_limit_reached",
+    "event": "image_generation_free_plan_limit_20_of_20",
+    "successful_topic_specific_images": 2,
+    "additional_images": "not generated; no bypass or repeated retry"
+  },
+  "drive": {
+    "folder_id": "14ZoQzejjrwNnAfvSmGpHLGCKJsc9xHaz",
+    "batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
+    "relist_artifact": "/home/ubuntu/github-workspace/checkpoints/reel0067_drive_relist_20260823.ndjson",
+    "relisted_file_count": 13,
+    "all_children_match_parent": true,
+    "manifest_file_id": "1sQ7xa8abNk7XhrIycQKqIbkH-7ahCzsP",
+    "qc_file_id": "1XEo5N5vPbA6tW_YpYDBMl38V7gEZjpOt",
+    "video_file_id": "1YuQVq7Jc5PS0rvV7wRg69LcXBcZaGj_1"
+  },
+  "publication_allowed": false,
+  "publication_block_reason": "Requires editorial review; general education only and not a personalized diet prescription.",
+  "post_id": null
+}
