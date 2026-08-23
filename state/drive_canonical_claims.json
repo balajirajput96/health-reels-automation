@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
-  "source": "Google Drive read-only inventory checkpoint reels_mission_checkpoint_20260822T1129Z",
-  "captured_at_utc": "2026-08-22T19:18:53Z",
+  "source": "Google Drive re-list inventory checkpoint drive_reel0031_relist_20260823.json plus preserved canonical inventory",
+  "captured_at_utc": "2026-08-23T02:22:48Z",
   "note": "Metadata snapshot only. This file does not authenticate to Drive or grant cloud access. Refreshes require a reviewed repository change.",
   "canonical_packages": [
     {
@@ -53,6 +53,16 @@
       "topic": "Prediction / visual perception myth-check",
       "status": "complete_drive_verified",
       "drive_folder_id": "1pPOeS7gzF9_5KxNUmad7hswD-MZ7Ty9v"
+    },
+    {
+      "reel_id": "REEL-0031",
+      "title": "Regular Meal Timing And Everyday Energy Rhythms Explained",
+      "topic": "Regular meal timing and everyday energy rhythms",
+      "status": "drive_verified_fallback",
+      "drive_folder_id": "1WDXbL14IuQu0dYDd50P3JkEZlSW-f4iq",
+      "batch_folder_id": "1c3hEXIJuID7GnnlBv6gXv9RKDUQBBfGT",
+      "publication_allowed": false,
+      "editorial_re_review_required": true
     }
   ]
 }
