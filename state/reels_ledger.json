@@ -185,6 +185,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-23T13:26:20.200259Z",
       "notes": "Blocked in preproduction: official image generation quota recorded at 20/20 and native video quota at 1/1; no REEL-0069-specific visual assets existed; no Drive folder created; do not use unrelated visuals, bypass quotas, or publish. Retry only after official quota reset and a fresh exact paginated identity audit."
+    },
+    {
+      "source_id": "reel_0070_postural_variability_desk_work",
+      "filename": "REEL-0070_postural-variability-desk-work.mp4",
+      "stage": "failed",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-23T15:06:03.638455Z",
+      "notes": "Blocked in preproduction: official image generation quota recorded at 20/20 and native video quota at 1/1; no REEL-0070-specific visual assets existed; no Drive folder created; do not use unrelated visuals, bypass quotas, or publish. Retry only after official quota reset and a fresh exact paginated identity audit."
     }
   ]
 }
