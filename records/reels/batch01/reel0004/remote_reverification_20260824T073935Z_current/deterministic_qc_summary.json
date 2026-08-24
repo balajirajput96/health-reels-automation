@@ -1,0 +1,11 @@
+{
+  "evidence_ref": "remote_reverification_20260824T073935Z_current",
+  "metadata_checks": "passed",
+  "remote_qc_checks": "passed",
+  "folder_identity_check": "passed",
+  "child_listing_check": "passed",
+  "manifest_integrity_check": "mismatch_confirmed",
+  "remote_metadata_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc",
+  "manifest_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+  "publication_status": "not_published"
+}
