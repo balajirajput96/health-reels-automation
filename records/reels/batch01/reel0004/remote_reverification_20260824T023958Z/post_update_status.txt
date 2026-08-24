@@ -1,0 +1,3 @@
+continuity_status=0
+health_status=0
+tests_status=0

@@ -1,0 +1,12 @@
+started_at=2026-08-24T02:39:58Z
+evidence_ref=remote_reverification_20260824T023958Z
+folder_id=1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa
+folder_metadata_status=0
+child_listing_status=0
+metadata_download_status=1
+qc_download_status=1
+manifest_download_status=1
+metadata_get_alt_media_status=0
+qc_get_alt_media_status=0
+manifest_get_alt_media_status=0
+normalized_and_validated=true

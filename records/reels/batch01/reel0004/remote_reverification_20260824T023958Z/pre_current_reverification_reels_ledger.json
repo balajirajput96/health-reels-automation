@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "sha256": "592e439be43e7470cc1480de5b78850ec34274231db64cd966f1dbe5ecc21494",
+      "filename": "2026-08-16__batch02__circadian-rhythm__draft.mp4",
+      "post_id": "DcIcwDPT6qw",
+      "stage": "published",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-17T07:11:38.930656Z",
+      "notes": "Instagram confirmed share at 06:59 IST on 2026-08-17; Reel-grid verification completed."
+    },
+    {
+      "sha256": "1b4fd0b2bfecb3bf11bd10fc4d3b169d5a8b1c535853377ed3d6305aea85d414",
+      "filename": "2026-08-17__batch03__morning-light__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-18T02:45:54.811189Z",
+      "notes": "60.0-second 720x1280 H.264/AAC draft; seven narration spans transcribed with Gemini and burned as subtitles; AI-content disclosure required before public share."
+    },
+    {
+      "filename": "instagram-reel-DcM7NBaznd1",
+      "post_id": "DcM7NBaznd1",
+      "stage": "published",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-19T00:44:25.650792Z",
+      "notes": "Batch 03 Morning Daylight and Sleep Timing; verified live URL https://www.instagram.com/balajirajput96/reel/DcM7NBaznd1/"
+    },
+    {
+      "sha256": "c0145867561c24af0b6e116859ba649397489210452f5fced92dd412ea3c42dc",
+      "filename": "2026-08-19__batch04__evening-screens__final.mp4",
+      "post_id": "DcRFkqcz4eH",
+      "stage": "published",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-20T15:31:37Z",
+      "notes": "Batch 04 Evening Screens and Sleep Wind-Down: final video had actual-audio subtitles; Instagram AI label enabled; Instagram confirmed share; independently verified live URL https://www.instagram.com/balajirajput96/reel/DcRFkqcz4eH/"
+    },
+    {
+      "sha256": "3c01732e2cc1aed22ff2e6babe9ba84bfa867d98f7913ceb950d6b5d1debf3d0",
+      "filename": "2026-08-20__batch05__caffeine-timing__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-20T18:22:45.871341Z",
+      "notes": "Complete 60-second Batch 05 final; actual-audio subtitles verified through Gemini fallback; same-day public release prohibited by cadence."
+    },
+    {
+      "sha256": "950a13d37c820b963e8c7e1a3906fc070ca2cb350c8fe0e7393aaf7923cf1979",
+      "filename": "2026-08-20__batch06__movement-breaks__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-20T18:56:26.300916Z",
+      "notes": "Complete 60-second Batch 06 final; subtitles omitted because primary transcription returned quota error and Gemini fallback returned temporary high-demand error; not uploaded or published due same-day cadence."
+    },
+    {
+      "sha256": "d03fff6c32219c9061a5b492bf300b42766036a1bc2753fface422730dc61fa4",
+      "filename": "2026-08-20__batch07__physical-activity-stress__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-20T19:27:12.199189Z",
+      "notes": "Complete 60-second source-validated Hinglish education Reel; actual-audio subtitles rendered from Gemini 3.6 Flash transcript; non-public queue position after Batch 05 and Batch 06."
+    },
+    {
+      "sha256": "74bd325828b0808d9617e2fdcc7ab02f22e3da151c66955a847ba80a2ee8379b",
+      "filename": "2026-08-20__batch08__social-connection__final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-21T21:18:29.918711Z",
+      "notes": "Complete 60-second source-validated Hinglish education Reel; actual-audio subtitles rendered from Gemini 3.6 Flash transcript; non-public queue position after Batch 05, Batch 06, and Batch 07."
+    },
+    {
+      "filename": "instagram-reel-DcUX5rJzI2g",
+      "post_id": "DcUX5rJzI2g",
+      "stage": "published",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-21T22:10:19.153231Z",
+      "notes": "Batch 05 Caffeine Timing and Sleep Quality; Instagram confirmed share; independently verified live URL https://www.instagram.com/balajirajput96/reel/DcUX5rJzI2g/; AI label enabled; Facebook not attempted."
+    },
+    {
+      "sha256": "fe01265a1af6a3fcb385e7357a708d3bee5dd40945a83e66c5eef6ad77744b27",
+      "filename": "REEL-0001.mp4",
+      "stage": "drive_verified",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T05:21:00Z",
+      "notes": "Affect labeling and emotional regulation; 60.352-second 720x1280 H.264/AAC portrait reel with Hindi narration and captions. Drive folder verified: https://drive.google.com/drive/folders/1-TVdwDN2HIf2OWfPb6Jv-FmCgFJ7LT4u. Sources and QC manifest uploaded; not published."
+    },
+    {
+      "sha256": "8c3d5aaf137583af7337ce76dfa45ec74f8b30f59c1ac7c27772bf6c1e10caeb",
+      "filename": "REEL-0002.mp4",
+      "stage": "drive_verified_fallback",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T05:45:00Z",
+      "notes": "Sleep environment: darkness, noise, temperature, and comfort. 64.64-second 720x1280 H.264/AAC portrait reel with Hindi narration and post-produced captions. Canonical Drive folder verified: https://drive.google.com/drive/folders/1JzyQOs5SYvvrk12rPOXD9kf1OtP1FVHP. Topic-specific AI visual generation was blocked by daily quotas; deterministic fallback montage only. Not publication-ready or published."
+    },
+    {
+      "source_id": "reel_0002_emotion_prediction_what_studies_measure",
+      "sha256": "730895cd4f480aa09eaeb347441955f6ecc6369da6f1e3f47568d54640cd20fd",
+      "filename": "final.mp4",
+      "stage": "drive_verified",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T06:45:29.354447Z",
+      "notes": "Existing authenticated Drive package reconciled at canonical nested path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0002; local deterministic QC passed; not published and no post ID created."
+    },
+    {
+      "source_id": "reel_0003_self_concept_what_studies_measure",
+      "sha256": "393f1bc667ea20587c84ccab692db43d5c5699dad6d837f88277426e4364298f",
+      "filename": "reel_0003_self_concept_what_studies_measure_hi.mp4",
+      "stage": "drive_verified",
+      "target_account": "@balajirajput96",
+      "drive_folder_id": "151fUghK2X7wURMqBZtPxTzD7AtlOZWtn",
+      "drive_file_id": "1tZ3BnBe1bpI0Cyv2iSVJbtwALZyB0bBr",
+      "recorded_at": "2026-08-22T07:50:44.253479Z",
+      "notes": "Existing authenticated Drive package reconciled at canonical nested path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0003; independent local QC passed; no social publication or post ID created."
+    },
+    {
+      "sha256": "ebcda495f46d5d6ead78eb2de5ee5eab550757ebadf6374a2ed52f3e96605eb9",
+      "filename": "reel_0004_cognitive_biases_what_studies_measure.mp4",
+      "stage": "failed",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-23T06:37:47Z",
+      "notes": "Fresh authenticated Drive listing confirms the queued-topic package remains in the canonical folder, but the folder retains a prior different-topic package and the authenticated remote metadata SHA-256 (93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc) differs from the upload manifest record (bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67). Final status withheld; no upload, overwrite, duplicate, or publication. Evidence: records/reels/batch01/reel0004/remote_reverification_20260824T014103Z/.",
+      "latest_evidence_ref": "remote_reverification_20260824T014103Z",
+      "last_reverified_at": "2026-08-24T01:41:36.443147Z",
+      "remote_folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+      "remote_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+      "remote_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb"
+    }
+  ]
+}

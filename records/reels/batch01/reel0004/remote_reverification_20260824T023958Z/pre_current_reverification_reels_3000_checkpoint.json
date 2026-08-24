@@ -1,0 +1,1024 @@
+{
+  "completed_drive_verified": 3,
+  "failure_log": [
+    {
+      "reel_id": "reel_0003_self_concept_what_studies_measure",
+      "stage": "drive_reconciliation_helper",
+      "status": "recovered",
+      "exact_error": "gws drive files download returned 500 backendError; alternate authenticated file-content get succeeded.",
+      "recorded_at": "2026-08-22T07:50:44.253449Z"
+    },
+    {
+      "reel_id": "reel_0003_self_concept_what_studies_measure",
+      "stage": "connector_config_inspection",
+      "status": "non_blocking",
+      "exact_error": "manus-config config load --search drive returned permission_denied: 403 Forbidden; authenticated Google Workspace Drive CLI remained available.",
+      "recorded_at": "2026-08-22T07:50:44.253470Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "canonical_path_topic_conflict",
+      "status": "blocked_retryable",
+      "exact_error": "Canonical Drive path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 already contains folder ID 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with a verified package titled \"मन भटकते क्यों है? Default Mode Network की कहानी\" (tuple MND-L01-Q04), which conflicts with queued topic \"संज्ञानात्मक पूर्वाग्रह: अध्ययन वास्तव में क्या मापते हैं\". Upload and overwrite were refused to prevent duplicate or ambiguous canonical records.",
+      "retry_state": "keep next_reel at reel_0004; re-check authoritative remote identity before upload",
+      "local_qc": "passed",
+      "recorded_at": "2026-08-22T08:50:44.399865Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "canonical_path_topic_conflict_reverified",
+      "status": "blocked_retryable",
+      "exact_error": "Authenticated Drive re-verification found canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 at folder ID 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa; remote QC file 1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7 reports state=verified, title=\"मन भटकता क्यों है? Default Mode Network की कहानी\", tuple=MND-L01-Q04, and all remote artifacts listed non-trashed. This conflicts with queued topic \"संज्ञानात्मक पूर्वाग्रह: अध्ययन वास्तव में क्या मापते हैं\". The initial files.download request returned HTTP 500 backendError, but alternate authenticated files.get alt=media retrieved the remote script and QC records. Upload, overwrite, and duplicate-folder creation remain refused to prevent ambiguous canonical identity.",
+      "retry_state": "keep next_reel at reel_0004; do not upload or overwrite; retry only after authoritative path/identity resolution",
+      "local_qc": "passed",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "remote_qc_file_id": "1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7",
+        "remote_title": "मन भटकता क्यों है? Default Mode Network की कहानी",
+        "remote_tuple": "MND-L01-Q04",
+        "remote_state": "verified",
+        "evidence_ref": "remote_reverification_20260822T0937Z"
+      },
+      "evidence_ref": "remote_reverification_20260822T0937Z",
+      "recorded_at": "2026-08-22T09:38:15.875702Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "canonical_path_topic_conflict_reverified",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive re-verification found canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 at folder ID 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa; remote QC file 1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7 reports state=verified, title=\"मन भटकता क्यों है? Default Mode Network की कहानी\", tuple=MND-L01-Q04, and the fresh child listing contains the remote artifacts as non-trashed. This conflicts with queued topic \"संज्ञानात्मक पूर्वाग्रह: अध्ययन वास्तव में क्या मापते हैं\". Upload, overwrite, and duplicate-folder creation remain refused to prevent ambiguous canonical identity.",
+      "retry_state": "keep next_reel at reel_0004; do not upload or overwrite; retry only after authoritative path/identity resolution",
+      "local_qc": "passed",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "remote_qc_file_id": "1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7",
+        "remote_title": "मन भटकता क्यों है? Default Mode Network की कहानी",
+        "remote_tuple": "MND-L01-Q04",
+        "remote_state": "verified",
+        "evidence_ref": "remote_reverification_20260822T1041Z"
+      },
+      "evidence_ref": "remote_reverification_20260822T1041Z",
+      "recorded_at": "2026-08-22T10:41:39.491959Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "canonical_path_topic_conflict_reverified",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive re-verification found canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 at folder ID 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa; remote QC file 1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7 reports state=verified, title=\"मन भटकता क्यों है? Default Mode Network की कहानी\", tuple=MND-L01-Q04, and the fresh child listing contains all remote artifacts as non-trashed (REEL-0004_captions.srt, REEL-0004_claims.json, REEL-0004_production_blueprint.md, REEL-0004_qc.json, REEL-0004_reel.mp4, REEL-0004_ref_caution.png, REEL-0004_ref_coordination.png, REEL-0004_ref_inward.png, REEL-0004_ref_primary.png, REEL-0004_research.md, REEL-0004_script_hi.md, REEL-0004_voice.wav). This conflicts with queued topic \"संज्ञानात्मक पूर्वाग्रह: अध्ययन वास्तव में क्या मापते हैं\". Upload, overwrite, and duplicate-folder creation remain refused to prevent ambiguous canonical identity.",
+      "retry_state": "keep next_reel at reel_0004; do not upload or overwrite; retry only after authoritative path/identity resolution",
+      "local_qc": "passed",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "remote_qc_file_id": "1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7",
+        "remote_title": "मन भटकता क्यों है? Default Mode Network की कहानी",
+        "remote_tuple": "MND-L01-Q04",
+        "remote_state": "verified",
+        "evidence_ref": "remote_reverification_20260822T114418Z"
+      },
+      "evidence_ref": "remote_reverification_20260822T114418Z",
+      "recorded_at": "2026-08-22T11:48:59.382289Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "local_qc_rerun",
+      "status": "non_blocking",
+      "exact_error": "automation/qc_reel0004.py rerun could not write /home/ubuntu/repos/health-reels-automation/work/reel_0004/qc.json because the cloned worktree has no work/reel_0004 directory or local package. The authoritative queue already records the prior local QC as passed; no assets were fabricated or rebuilt.",
+      "retry_state": "retain next_reel at reel_0004; rerun local QC only when the authoritative local package is restored; canonical Drive conflict remains the blocking condition",
+      "local_qc": "previously_passed_but_not_rerun_in_current_clone",
+      "evidence_ref": "remote_reverification_20260822T114418Z",
+      "recorded_at": "2026-08-22T11:49:47.009079Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T124055Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "evidence_ref": "remote_reverification_20260822T124055Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T124055Z",
+      "recorded_at": "2026-08-22T12:47:02.668443Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T133841Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260822T133841Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T133841Z",
+      "recorded_at": "2026-08-22T13:41:55.600683Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T1442Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260822T1442Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T1442Z",
+      "recorded_at": "2026-08-22T14:41:18.647150Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T154336Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260822T154336Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T154336Z",
+      "recorded_at": "2026-08-22T15:45:00.597208Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T164110Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260822T164110Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T164110Z",
+      "recorded_at": "2026-08-22T16:41:52.272303Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T173744Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260822T173744Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T173744Z",
+      "recorded_at": "2026-08-22T17:38:45.353746Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T193744Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260822T193744Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T193744Z",
+      "recorded_at": "2026-08-22T19:37:54.372487Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T203441Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04, remote QC 1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the authenticated remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, duplicate, advance, or publish",
+      "local_qc": "remote_qc_valid; prior_conflicting_package_present; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_qc_id": "1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7",
+        "prior_conflicting_package_present": true,
+        "fresh_non_trashed_child_count": 24,
+        "evidence_ref": "remote_reverification_20260822T203441Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T203441Z",
+      "recorded_at": "2026-08-22T20:36:45.351474Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T213436Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260822T213436Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T213436Z",
+      "recorded_at": "2026-08-22T21:34:47.267089Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T224218Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260822T224218Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T224218Z",
+      "recorded_at": "2026-08-22T22:42:25.863042Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260822T234120Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "evidence_ref": "remote_reverification_20260822T234120Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260822T234120Z",
+      "recorded_at": "2026-08-22T23:43:07.018657Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T0041Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T0041Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T0041Z",
+      "recorded_at": "2026-08-23T00:42:07.498804Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T0140Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T0140Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T0140Z",
+      "recorded_at": "2026-08-23T01:38:20.638304Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T023735Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T023735Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T023735Z",
+      "recorded_at": "2026-08-23T02:37:54.266965Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T033953Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T033953Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T033953Z",
+      "recorded_at": "2026-08-23T03:40:40.051083Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T053847Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T053847Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T053847Z",
+      "recorded_at": "2026-08-23T05:39:54.285821Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive re-verification at remote_reverification_20260823T063747Z still finds canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa containing both the queued-topic package (video 1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, metadata 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, manifest 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, QC 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb) and the prior conflicting REEL-0004 package. The queued-topic remote metadata identifies reel_0004_cognitive_biases_what_studies_measure and the remote QC reports passed media, caption-timing, and decode checks, but the authenticated remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Final Drive verification remains refused because canonical identity is ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, create a duplicate folder/file, advance, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T063747Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T063747Z",
+      "recorded_at": "2026-08-23T06:37:47Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T073347Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T073347Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T073347Z",
+      "recorded_at": "2026-08-23T07:33:59.624663Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T094225Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T094225Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T094225Z",
+      "recorded_at": "2026-08-23T09:42:39.870393Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T104555Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T104555Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T104555Z",
+      "recorded_at": "2026-08-23T10:46:30.553151Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T113601Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T113601Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T113601Z",
+      "recorded_at": "2026-08-23T11:36:12.191962Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T123516Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T123516Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T123516Z",
+      "recorded_at": "2026-08-23T12:35:31.292514Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T133253Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T133253Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T133253Z",
+      "recorded_at": "2026-08-23T13:33:34.316183Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T143509Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T143509Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T143509Z",
+      "recorded_at": "2026-08-23T14:35:36.799895Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T153356Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with 24 non-trashed child entries, including both the queued-topic package and a prior different-topic REEL-0004_* package. The queued-topic remote QC is valid, but authenticated remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the upload manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Final Drive verification was refused to prevent ambiguous canonical identity and an integrity mismatch.",
+      "retry_state": "keep next_reel at reel_0004; preserve all remote files; retry only after canonical-folder identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, duplicate, advance, or publish",
+      "local_qc": "remote_qc_valid; portrait_media_and_safety_checks_passed; prior_conflicting_package_present; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "prior_conflicting_qc_id": "1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_non_trashed_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T153356Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T153356Z",
+      "recorded_at": "2026-08-23T15:33:56Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T163802Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T163802Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T163802Z",
+      "recorded_at": "2026-08-23T16:38:15.350758Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T1738Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T1738Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T1738Z",
+      "recorded_at": "2026-08-23T17:40:38.462437Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T184340Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T184340Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T184340Z",
+      "recorded_at": "2026-08-23T18:44:02.423597Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T193554Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T193554Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T193554Z",
+      "recorded_at": "2026-08-23T19:36:32.315444Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T204036Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T204036Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T204036Z",
+      "recorded_at": "2026-08-23T20:41:10.064682Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T213606Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T213606Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T213606Z",
+      "recorded_at": "2026-08-23T21:37:12.536472Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T224122Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T224122Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T224122Z",
+      "recorded_at": "2026-08-23T22:41:51.866998Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260823T234101Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260823T234101Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260823T234101Z",
+      "recorded_at": "2026-08-23T23:42:05.793711Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260824T0041Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260824T0041Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260824T0041Z",
+      "recorded_at": "2026-08-24T00:40:54.997928Z"
+    },
+    {
+      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "stage": "remote_package_integrity_and_canonical_ambiguity",
+      "status": "blocked_retryable",
+      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260824T014103Z shows canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa with both the prior verified package (REEL-0004_qc.json, tuple MND-L01-Q04) and the queued-topic package (1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ, 1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw, 1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5, 1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb). The queued-topic remote QC is valid and metadata reel_id is reel_0004_cognitive_biases_what_studies_measure, but the downloaded remote metadata SHA-256 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc differs from the manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Because the canonical folder is identity-ambiguous and the manifest integrity record does not match the authenticated remote metadata bytes, final Drive verification was refused.",
+      "retry_state": "keep next_reel at reel_0004; re-verify after canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, or publish",
+      "local_qc": "remote_qc_valid_and_prior_independent_ffprobe_passed; manifest_metadata_hash_mismatch",
+      "remote_identity": {
+        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
+        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
+        "prior_conflicting_package_present": true,
+        "fresh_child_count": 24,
+        "evidence_ref": "remote_reverification_20260824T014103Z"
+      },
+      "manifest_integrity": {
+        "asset": "reel_0004_metadata.json",
+        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
+      },
+      "evidence_ref": "remote_reverification_20260824T014103Z",
+      "recorded_at": "2026-08-24T01:41:36.443147Z"
+    }
+  ],
+  "generated_at": "2026-08-22T05:41:17.571278Z",
+  "last_completed": "reel_0003_self_concept_what_studies_measure",
+  "mission": "3000 unique Hindi research reels",
+  "next_reel": "reel_0004_cognitive_biases_what_studies_measure",
+  "next_sequence": 4,
+  "production_counts": {
+    "final": 3,
+    "planned": 2997
+  },
+  "reels_per_batch": 30,
+  "rules": {
+    "ai_disclosure_required": true,
+    "no_silent_skips": true,
+    "one_complete_reel_at_a_time": true,
+    "publication_requires_separate_verification": true,
+    "research_before_script": true,
+    "source_reuse_requires_new_angle": true
+  },
+  "schema_version": 1,
+  "total_batches": 100,
+  "total_reels": 3000,
+  "updated_at": "2026-08-24T01:41:36.443147Z"
+}
