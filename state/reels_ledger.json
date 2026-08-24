@@ -209,6 +209,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-24T11:34:27.909694Z",
       "notes": "Blocked in preproduction: official image generation quota recorded at 20/20 and native video quota at 1/1; no REEL-0072-specific visual assets existed; no Drive folder created; do not use unrelated visuals, bypass quotas, or publish. Retry only after official quota reset and a fresh exact paginated identity audit."
+    },
+    {
+      "source_id": "reel_0073_affect_labeling_emotion_naming",
+      "filename": "REEL-0073_affect-labeling-emotion-naming.mp4",
+      "stage": "failed",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-24T11:43:16.674092Z",
+      "notes": "Blocked in preproduction: official image generation quota recorded at 20/20 and native video quota at 1/1; no REEL-0073-specific visual assets existed; no Drive folder created; do not use unrelated visuals, bypass quotas, or publish. Retry only after official quota reset and a fresh exact paginated identity audit."
     }
   ]
 }
