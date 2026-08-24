@@ -236,6 +236,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-24T12:12:23.901588Z",
       "notes": "Blocked in preproduction: official image generation quota recorded at 20/20 and native video quota at 1/1; no REEL-0077-specific visual assets existed; no Drive folder created; do not use unrelated visuals, bypass quotas, or publish. Retry only after official quota reset and a fresh exact paginated identity audit."
+    },
+    {
+      "source_id": "reel_0078_reducing_habit_friction",
+      "filename": "REEL-0078_reducing-habit-friction.mp4",
+      "stage": "failed",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-24T12:20:08.054225Z",
+      "notes": "REEL-0078 blocked in preproduction: official image quota remains exhausted at 20/20 and native-video quota at 1/1; no topic-specific visual media or MP4; seven validated Hindi WAV spans total 64.20 seconds; Drive identity audit at checkpoints/reel0078_identity_audit_20260824.ndjson found no exact or broad 0078 collision under root or Batch_003; publication prohibited; resume only after official quota reset and fresh identity audit."
     }
   ]
 }
