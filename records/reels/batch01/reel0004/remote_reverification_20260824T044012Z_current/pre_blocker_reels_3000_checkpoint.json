@@ -1049,31 +1049,6 @@
       },
       "evidence_ref": "remote_reverification_20260824T033837Z_capture",
       "recorded_at": "2026-08-24T03:38:53.909578Z"
-    },
-    {
-      "reel_id": "reel_0004_cognitive_biases_what_studies_measure",
-      "stage": "remote_package_integrity_and_canonical_ambiguity",
-      "status": "blocked_retryable",
-      "exact_error": "Fresh authenticated Drive listing at remote_reverification_20260824T044012Z_current confirms canonical path 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004 in folder 1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa contains both the queued-topic package and prior package artifacts ['REEL-0004_qc.json', 'REEL-0004_reel.mp4', 'REEL-0004_research.md', 'REEL-0004_script_hi.md']. The queued remote metadata identifies reel_id=reel_0004_cognitive_biases_what_studies_measure; remote QC valid=true; however, SHA-256 of the authenticated remote metadata bytes is 93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc, differing from manifest local_sha256 bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67. Final Drive verification remains unsafe because the canonical folder is identity-ambiguous and the manifest integrity record does not match the remote metadata bytes.",
-      "retry_state": "keep next_reel at reel_0004; re-verify only after authoritative canonical-folder cleanup/identity resolution and a manifest-consistent metadata artifact; do not upload, overwrite, duplicate, or publish",
-      "local_qc": "passed; remote_qc_valid; manifest_metadata_hash_mismatch; canonical_topic_conflict",
-      "remote_identity": {
-        "folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
-        "queued_topic_reel_id": "reel_0004_cognitive_biases_what_studies_measure",
-        "queued_topic_manifest_id": "1MZiWUSiqjQuT3L_tkXWrNA-OhZVZ6af5",
-        "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
-        "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
-        "prior_conflicting_package_present": true,
-        "evidence_ref": "remote_reverification_20260824T044012Z_current",
-        "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ"
-      },
-      "manifest_integrity": {
-        "asset": "reel_0004_metadata.json",
-        "expected_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
-        "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc"
-      },
-      "evidence_ref": "remote_reverification_20260824T044012Z_current",
-      "recorded_at": "2026-08-24T04:41:40.273671Z"
     }
   ],
   "generated_at": "2026-08-22T05:41:17.571278Z",
@@ -1097,5 +1072,5 @@
   "schema_version": 1,
   "total_batches": 100,
   "total_reels": 3000,
-  "updated_at": "2026-08-24T04:41:40.273671Z"
+  "updated_at": "2026-08-24T03:38:53.909578Z"
 }
