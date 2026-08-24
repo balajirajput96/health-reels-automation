@@ -1,0 +1,33 @@
+{
+  "decision": "registered",
+  "record": {
+    "sha256": "fallback-hash",
+    "filename": "REEL-0002.mp4",
+    "stage": "drive_verified_fallback",
+    "target_account": "@balajirajput96",
+    "recorded_at": "2026-08-24T06:45:22.856503Z",
+    "notes": "quota-limited fallback"
+  }
+}
+{
+  "decision": "registered",
+  "record": {
+    "sha256": "38819c94c5bdf6371cecf0506d3b137cca9c6f6d5d70ff636d63f60429f160c7",
+    "filename": "reel.mp4",
+    "stage": "final",
+    "target_account": "@balajirajput96",
+    "recorded_at": "2026-08-24T06:45:22.857114Z",
+    "notes": "test"
+  }
+}
+{
+  "decision": "duplicate",
+  "existing": {
+    "sha256": "38819c94c5bdf6371cecf0506d3b137cca9c6f6d5d70ff636d63f60429f160c7",
+    "filename": "reel.mp4",
+    "stage": "final",
+    "target_account": "@balajirajput96",
+    "recorded_at": "2026-08-24T06:45:22.857114Z",
+    "notes": "test"
+  }
+}
