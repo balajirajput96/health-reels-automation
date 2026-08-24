@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "observed_at": "2026-08-24T11:44:57.115295Z",
+  "evidence_ref": "remote_reverification_20260824T_current",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0004",
+  "drive_folder_id": "1dL1yz1Lx3tnT9ali6nujGLHvmAbJLwIa",
+  "drive_verification": "authenticated_gws_files_list_completed; final_verification_refused",
+  "children_listing_file": "children_listing.json",
+  "remote_metadata_file": "remote_metadata.json",
+  "remote_qc_file": "remote_qc_report.json",
+  "identity_ambiguity": {
+    "prior_conflicting_package_present": true,
+    "prior_conflicting_qc_id": "1s7pb4eDrEXozxDct22V7bSDHYQWOrhy7",
+    "queued_topic_package_present": true,
+    "queued_topic_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw",
+    "queued_topic_qc_id": "1ZyRn1M-IIuxkcjpn6ORO28rbjKf9ObIb",
+    "queued_topic_video_id": "1RFDW_qFKbNETKUZGNcEE3NGoDTI683AZ",
+    "fresh_non_trashed_child_count": 24
+  },
+  "manifest_integrity": {
+    "asset": "reel_0004_metadata.json",
+    "expected_manifest_local_sha256": "bcd191f2afbfffa8bd37b85c679a21d610c43e6901924d524272ef0bf335dc67",
+    "observed_remote_sha256": "93e48f4ae055f392ed20d4af827c8f66b242227ac31ae3933968645a35fe32cc",
+    "remote_metadata_id": "1MypkEiQmIcVdcddM6cx5oqoHlIzS-upw"
+  },
+  "remote_qc": {
+    "valid": true,
+    "problems": [],
+    "ai_disclosure_present": true,
+    "safety_wording_ok": true,
+    "aspect_ratio_9_16": true,
+    "hindi_audio_present": true,
+    "captions_present": true,
+    "decode_ok": true,
+    "duration_seconds": 63.467
+  },
+  "safe_action": "No upload, overwrite, duplicate-folder creation, deletion, advance, or social publication performed. Keep next_reel at reel_0004 until canonical identity and manifest integrity are resolved."
+}
