@@ -225,6 +225,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-24T11:49:25.952171Z",
       "notes": "Blocked in preproduction: official image generation quota recorded at 20/20 and native video quota at 1/1; no REEL-0074-specific visual assets existed; no Drive folder created; do not use unrelated visuals, bypass quotas, or publish. Retry only after official quota reset and a fresh exact paginated identity audit."
+    },
+    {
+      "source_id": "reel_0075_meaningful_hobbies_recovery",
+      "filename": "REEL-0075_meaningful-hobbies-recovery.mp4",
+      "stage": "failed",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-24T11:57:41.024483Z",
+      "notes": "Blocked in preproduction: official image generation quota recorded at 20/20 and native video quota at 1/1; no REEL-0075-specific visual assets existed; no Drive folder created; do not use unrelated visuals, bypass quotas, or publish. Retry only after official quota reset and a fresh exact paginated identity audit."
     }
   ]
 }
