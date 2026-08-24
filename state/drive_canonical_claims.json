@@ -465,6 +465,19 @@
       "quota_limited_fallback": false,
       "preproduction_only": true,
       "retry_required_after_official_quota_reset": true
+    },
+    {
+      "reel_id": "REEL-0073",
+      "title": "Why Naming Your Emotions Can Help Calm the Mind",
+      "topic": "Naming emotions as a reflection skill; affect-labeling neuroscience and care boundaries",
+      "status": "failed_preproduction_quota_block",
+      "drive_folder_id": null,
+      "batch_folder_id": null,
+      "publication_allowed": false,
+      "editorial_re_review_required": true,
+      "quota_limited_fallback": false,
+      "preproduction_only": true,
+      "retry_required_after_official_quota_reset": true
     }
   ]
 }
