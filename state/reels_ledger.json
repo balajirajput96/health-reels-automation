@@ -228,6 +228,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-24T12:05:44.559241Z",
       "notes": "Blocked in preproduction: official image generation quota recorded at 20/20 and native video quota at 1/1; no REEL-0076-specific visual assets existed; no Drive folder created; do not use unrelated visuals, bypass quotas, or publish. Retry only after official quota reset and a fresh exact paginated identity audit."
+    },
+    {
+      "source_id": "reel_0077_implementation_intentions",
+      "filename": "REEL-0077_implementation-intentions.mp4",
+      "stage": "failed",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-24T12:12:23.901588Z",
+      "notes": "Blocked in preproduction: official image generation quota recorded at 20/20 and native video quota at 1/1; no REEL-0077-specific visual assets existed; no Drive folder created; do not use unrelated visuals, bypass quotas, or publish. Retry only after official quota reset and a fresh exact paginated identity audit."
     }
   ]
 }
