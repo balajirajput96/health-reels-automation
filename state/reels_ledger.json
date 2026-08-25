@@ -303,6 +303,24 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T16:55:24.784786Z",
       "notes": "Drive verified in Reel_0030 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0031_behavior_change_what_studies_measure",
+      "sha256": "4ab0ab9e6974d848e1f2a2c2a6a096b7fb8a8389f1aff7ca88a0d13526061b64",
+      "filename": "reel_0031_behavior_change_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T17:08:42.819013Z",
+      "notes": "Drive verified in canonical Reel_0031 folder under the newer Batch_002 source-of-truth folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0032_affect_labeling_context_what_studies_measure",
+      "sha256": "6552b6cdebae6cbcb077d06036701bcc405fb700bf222f4818c610884802e85c",
+      "filename": "reel_0032_affect_labeling_context_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T17:19:19.949160Z",
+      "notes": "Drive verified in Reel_0032 folder under canonical newer Batch_002 source-of-truth folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
     }
   ]
 }

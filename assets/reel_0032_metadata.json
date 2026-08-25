@@ -1,0 +1,37 @@
+{
+  "reel_id": "reel_0032_affect_labeling_context_what_studies_measure",
+  "queue_id": "0032",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0032",
+  "title_hi": "Affect labeling और context: studies क्या मापती हैं?",
+  "topic": "affect labeling and emotion measurement context",
+  "unique_angle": "Affect-labeling research separates the emotion word chosen, subjective ratings, task performance, and physiological or neural correlates; timing, intensity, and comparison condition matter.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 66.08,
+  "evidence_class": "peer-reviewed affect-labeling behavioral and neuroimaging measurement studies",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, coping prescription, universal rule, mind-reading claim, guarantee, or individualized psychological inference.",
+  "source_ids": [
+    {"source_id":"doi:10.1111/j.1467-9280.2007.01916.x","citation":"Lieberman et al. (2007), Putting feelings into words: affect labeling disrupts amygdala activity in response to affective stimuli","url":"https://doi.org/10.1111/j.1467-9280.2007.01916.x","type":"peer_reviewed_fmri_affect_labeling"},
+    {"source_id":"doi:10.1037/a0023503","citation":"Lieberman et al. (2011), Subjective Responses to Emotional Stimuli During Labeling, Reappraisal, and Distraction","url":"https://doi.org/10.1037/a0023503","type":"peer_reviewed_subjective_affect_labeling"},
+    {"source_id":"doi:10.3389/fpsyg.2014.00221","citation":"Burklund et al. (2014), The common and distinct neural bases of affect labeling and reappraisal in healthy adults","url":"https://doi.org/10.3389/fpsyg.2014.00221","type":"peer_reviewed_neural_self_report_comparison"},
+    {"source_id":"doi:10.1371/journal.pone.0279303","citation":"Levy-Gigi and Shamay-Tsoory (2022), Affect labeling: The role of timing and intensity","url":"https://doi.org/10.1371/journal.pone.0279303","type":"peer_reviewed_performance_timing_intensity_study"}
+  ],
+  "assets": {
+    "video":"assets/reel_0032_affect_labeling_context_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0032_affect_labeling_context_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0032_affect_labeling_context_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0032_affect_labeling_context_what_studies_measure_script.md",
+    "sources":"research/reel_0032_affect_labeling_context_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0032_scene_01.png","assets/reel_0032_scene_02.png","assets/reel_0032_scene_03.png","assets/reel_0032_scene_04.png"],
+    "qc_report":"assets/reel_0032_qc_report.json",
+    "drive_manifest":"state/reel_0032_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes showing label selection, self-report and task-performance layers, a non-decodable neural correlate illustration, and context checkpoints. No participant likenesses, diagnostic labels, or private-thought display.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research methods, not exact thoughts, diagnoses, or individual prediction. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"113qme4I040K7kRkrwuI_c09hYhdzmBDA","drive_verification_note":"Initial independent Drive verification passed: 11 expected package objects, all nonzero, all in the Reel_0032 parent, one nonzero manifest control object, and 0 unrelated remote objects."}
+}

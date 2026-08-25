@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:03,800
+क्या “मैं बदलूँगा” कहना
+behavior change का proof है?
+
+2
+00:00:03,800 --> 00:00:06,800
+नहीं। Intention और action
+अलग measures हैं।
+
+3
+00:00:06,800 --> 00:00:10,500
+Study पहले target behavior
+और time window तय करती है।
+
+4
+00:00:10,500 --> 00:00:14,400
+फिर पूछती है: लोग क्या report करते हैं,
+और क्या objectively record हुआ?
+
+5
+00:00:14,400 --> 00:00:17,900
+Behavior कितनी बार हुआ,
+और follow-up में बना रहा या नहीं?
+
+6
+00:00:17,900 --> 00:00:21,500
+Survey intention, attitude
+या confidence माप सकता है।
+
+7
+00:00:21,500 --> 00:00:25,000
+लेकिन stated plan
+actual action नहीं।
+
+8
+00:00:25,000 --> 00:00:29,200
+Observation, attendance record,
+device data या task performance
+
+9
+00:00:29,200 --> 00:00:32,600
+अलग evidence देते हैं;
+हर measure की limitation है।
+
+10
+00:00:32,600 --> 00:00:36,100
+Efficacy controlled conditions
+का सवाल है।
+
+11
+00:00:36,100 --> 00:00:39,600
+Effectiveness real-world setting
+का सवाल है।
+
+12
+00:00:39,600 --> 00:00:43,300
+Process research देखती है कि intervention
+सच में deliver हुआ या नहीं।
+
+13
+00:00:43,300 --> 00:00:47,100
+Mechanism research पूछती है:
+change कैसे हुआ?
+
+14
+00:00:47,100 --> 00:00:50,800
+Short-term improvement को
+long-term maintenance न समझिए।
+
+15
+00:00:50,800 --> 00:00:54,500
+Adherence घट सकती है,
+और barriers बदल सकते हैं।
+
+16
+00:00:54,500 --> 00:00:58,400
+अलग population या context में
+result भी बदल सकता है।
+
+17
+00:00:58,400 --> 00:01:02,100
+Study पढ़ते समय outcome,
+follow-up और comparison पूछिए।
+
+18
+00:01:02,100 --> 00:01:05,800
+Context भी देखिए;
+केवल headline पर निर्भर न रहें।
+
+19
+00:01:05,800 --> 00:01:09,500
+Group average को
+personal guarantee मत समझिए।
+
+20
+00:01:09,500 --> 00:01:12,800
+Behavior change research useful है,
+magic promise नहीं।
+
+21
+00:01:12,800 --> 00:01:14,500
+यह education है,
+personal, medical या financial advice नहीं।
