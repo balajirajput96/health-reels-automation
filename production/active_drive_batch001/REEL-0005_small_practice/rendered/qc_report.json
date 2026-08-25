@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "reel_id": "0005",
+  "width": 720,
+  "height": 1280,
+  "aspect_ratio": "9:16",
+  "duration_seconds": 74.72,
+  "audio_codec": "aac",
+  "caption_entries": 6,
+  "sha256": "005ca2eeae03660eb98ba2c24c9d202ce37bd86a90588959588a00890882639b",
+  "frames": [
+    "qc_frame_02s.jpg",
+    "qc_frame_37s.jpg",
+    "qc_frame_72s.jpg"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "reel_id": "0005",
+  "display_id": "REEL-0005",
+  "batch": "Batch_001",
+  "working_title_hi": "एक छोटा tracking अभ्यास",
+  "status": "rendered_local_pending_qc_and_drive_upload",
+  "canonical_drive_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0005",
+  "format": {
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "duration_seconds": 74.72
+  },
+  "language": "hi-IN",
+  "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions",
+  "evidence_status": "verified_with_limits",
+  "sources": [
+    {
+      "title": "Hennessy et al. (2020), Self-Regulation Mechanisms in Health Behaviour Change",
+      "url": "https://doi.org/10.1080/17437199.2019.1679654"
+    },
+    {
+      "title": "Michie et al. (2018), Evaluating the effectiveness of behavior change techniques",
+      "url": "https://doi.org/10.1093/tbm/ibx019"
+    },
+    {
+      "title": "Singh et al. (2024), Time to Form a Habit",
+      "url": "https://doi.org/10.3390/healthcare12232488"
+    }
+  ],
+  "claims_boundary": "Self-monitoring, goal review, and feedback can help in some contexts, but no single behaviour-change technique works consistently for every behaviour or population. Tracking is an optional low-pressure experiment, not a diagnosis or personal medical advice.",
+  "ai_content_disclosure": "Hindi narration and visual scenes were AI-assisted; motion assembly and captions were deterministic.",
+  "files": {
+    "video": "REEL-0005_small_practice_QC_pending.mp4",
+    "narration": "narration_hi-IN.wav",
+    "captions_ass": "captions_hi-IN.ass",
+    "captions_srt": "captions_hi-IN.srt",
+    "script": "script_hi-IN.md",
+    "production_brief": "production_brief.md",
+    "source_validation": "../../../research/2026-08-25__reel0005__small-practice-source-validation.md"
+  },
+  "sha256": {
+    "REEL-0005_small_practice_QC_pending.mp4": "005ca2eeae03660eb98ba2c24c9d202ce37bd86a90588959588a00890882639b",
+    "narration_hi-IN.wav": "5436c862718863d4c8d3193dea9acee2c6efbea2aa379d5d4583fd8412fa33ff",
+    "captions_hi-IN.ass": "5e97232eafce0dbbced8a43a543290f3664667fd14cbdcf13c028a4c5ea5f3d6",
+    "captions_hi-IN.srt": "b56b078d8140b7d4b0bb9c52a26b7f2a0034bf04c32c01e67fed8efee8821317"
+  },
+  "segment_durations_seconds": [
+    8.966,
+    13.45,
+    12.702,
+    14.944,
+    11.955,
+    12.702
+  ]
+}
