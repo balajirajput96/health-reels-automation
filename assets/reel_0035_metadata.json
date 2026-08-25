@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0035_mood_congruent_memory_what_studies_measure",
+  "queue_id": "0035",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0035",
+  "title_hi": "मूड-कॉन्ग्रुएंट स्मृति: studies क्या मापती हैं?",
+  "topic": "mood-congruent memory measurement across encoding, retrieval, and memory tasks",
+  "unique_angle": "Mood-congruent memory is not one switch: studies can measure mood timing, encoding, retrieval, recognition, free recall, autobiographical recall, false-memory responses, and delayed consolidation, with task reliability affecting interpretation.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 68.88,
+  "evidence_class": "peer-reviewed systematic review, meta-analysis, and natural-mood memory studies",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, character judgment, guaranteed benefit, mind-reading claim, or individualized psychological inference.",
+  "source_ids": [
+    {"source_id":"doi:10.1037/rev0000394","citation":"Faul and LaBar (2023), Mood-congruent memory revisited","url":"https://doi.org/10.1037/rev0000394","type":"peer_reviewed_systematic_review"},
+    {"source_id":"doi:10.1016/0272-7358(92)90116-P","citation":"Matt, Vázquez, and Campbell (1992), Mood-congruent recall of affectively toned stimuli: A meta-analytic review","url":"https://doi.org/10.1016/0272-7358(92)90116-P","type":"peer_reviewed_meta_analysis"},
+    {"source_id":"doi:10.1177/0146167295217008","citation":"Mayer, McCormick, and Strong (1995), Mood-Congruent Memory and Natural Mood: New Evidence","url":"https://doi.org/10.1177/0146167295217008","type":"peer_reviewed_natural_mood_memory_studies"}
+  ],
+  "assets": {
+    "video":"assets/reel_0035_mood_congruent_memory_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0035_mood_congruent_memory_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0035_mood_congruent_memory_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0035_mood_congruent_memory_what_studies_measure_script.md",
+    "sources":"research/reel_0035_mood_congruent_memory_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0035_scene_01.png","assets/reel_0035_scene_02.png","assets/reel_0035_scene_03.png","assets/reel_0035_scene_04.png"],
+    "qc_report":"assets/reel_0035_qc_report.json",
+    "drive_manifest":"state/reel_0035_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes showing distinct memory stages, recognition versus free recall, multiple memory outcomes including false-memory lures, and interpretation guardrails. No participant likenesses, diagnostic labels, private-thought display, or literal memory decoding.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research methods, not exact memories, diagnoses, emotion detection, or individual prediction. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"14JK6bQrB1Uq0K_5wtDcMuMjD9Plmf46S","drive_verification_note":"Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0035 parent, one nonzero manifest control object, and zero unrelated remote objects."}
+}
