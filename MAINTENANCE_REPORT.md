@@ -1,12 +1,19 @@
 # Daily Repository Maintenance Report
 
-**Date:** 2026-08-22
+**Date:** 2026-08-25
 
 This report identifies configuration drift, stale references, and safety constraints checked across the private health-reels automation repository.
 
 ## Findings
 
-1. **Unsafe Health-Language Patterns:**
+1. **Duplicated State:**
+   - Duplicated content found.
+   - **Affected files:**
+     - `records/reels/batch01/reel0004/remote/REEL-0004_script_hi.md` and `records/reels/batch01/reel0004/remote_reverification_20260822T1041Z/remote_script_hi.md`
+     - `records/reels/batch01/reel0004/remote/REEL-0004_script_hi.md` and `records/reels/batch01/reel0004/remote_reverification_20260822T0937Z/remote_script_hi.md`
+     - `records/reels/batch01/reel0003/source_validation.md` and `research/2026-08-22__reel0003__self-concept-source-validation.md`
+
+2. **Unsafe Health-Language Patterns:**
    - Unsafe patterns detected.
      - `records/metadata/2026-08-19__batch04__evening-screens__metadata.md` contains 'medical advice'
      - `records/reels-ops/2026-08-16_health_reels_batch01_manifest.md` contains 'diagnosis'
@@ -24,6 +31,19 @@ This report identifies configuration drift, stale references, and safety constra
      - `records/reels-ops/batch07/2026-08-20__batch07__physical-activity-stress__source-validation.md` contains 'medical advice'
      - `records/reels-ops/batch07/2026-08-20__batch07__physical-activity-stress__metadata.md` contains 'medical advice'
      - `records/reels/batch01_manifest.md` contains 'diagnosis'
+     - `records/reels/batch01/reel0004/remote/REEL-0004_script_hi.md` contains 'diagnosis'
+     - `records/reels/batch01/reel0004/remote_reverification_20260822T124055Z/remote_sources.md` contains 'guarantee'
+     - `records/reels/batch01/reel0004/remote_reverification_20260822T124055Z/remote_sources.md` contains 'diagnosis'
+     - `records/reels/batch01/reel0004/remote_reverification_20260822T124055Z/remote_script_hi.md` contains 'guarantee'
+     - `records/reels/batch01/reel0004/remote_reverification_20260822T124055Z/remote_script_hi.md` contains 'diagnosis'
+     - `records/reels/batch01/reel0004/remote_reverification_20260822T1041Z/remote_script_hi.md` contains 'diagnosis'
+     - `records/reels/batch01/reel0004/remote_reverification_20260822T0937Z/remote_script_hi.md` contains 'diagnosis'
+     - `records/reels/batch01/reel0002/reconciliation.md` contains 'guarantee'
+     - `records/reels/batch01/reel0002/reconciliation.md` contains 'diagnosis'
+     - `records/reels/batch01/reel0003/reconciliation.md` contains 'diagnosis'
+     - `records/reels/batch01/reel0003/source_validation.md` contains 'guarantee'
+     - `records/reels/batch01/reel0003/source_validation.md` contains 'diagnosis'
+     - `records/reels/batch01/reel0003/source_validation.md` contains 'medical advice'
      - `records/reels/batch05/2026-08-20__batch05__caffeine-timing__source-validation.md` contains 'medical advice'
      - `records/reels/batch05/2026-08-20__batch05__caffeine-timing__production-plan.md` contains 'diagnosis'
      - `records/reels/batch05/2026-08-20__batch05__caffeine-timing__production-plan.md` contains 'medical advice'
@@ -35,14 +55,57 @@ This report identifies configuration drift, stale references, and safety constra
      - `records/reels/batch06/2026-08-20__batch06__movement-breaks__production-plan.md` contains 'guarantee'
      - `records/reels/batch06/2026-08-20__batch06__movement-breaks__production-plan.md` contains 'medical advice'
      - `records/manifests/2026-08-16_health_reels_batch01_manifest.md` contains 'diagnosis'
+     - `research/2026-08-22__reel0003__self-concept-source-validation.md` contains 'guarantee'
+     - `research/2026-08-22__reel0003__self-concept-source-validation.md` contains 'diagnosis'
+     - `research/2026-08-22__reel0003__self-concept-source-validation.md` contains 'medical advice'
+     - `research/2026-08-22__reel0008__meal-timing-source-validation.md` contains 'cure'
+     - `research/2026-08-22__reel0008__meal-timing-source-validation.md` contains 'guarantee'
      - `research/2026-08-17__batch03__morning-light__source-validation.md` contains 'guarantee'
      - `research/2026-08-17__batch03__morning-light__source-validation.md` contains 'diagnosis'
+     - `research/2026-08-22__reel0004__cognitive-biases-source-validation.md` contains 'cure'
+     - `research/2026-08-22__reel0004__cognitive-biases-source-validation.md` contains 'guarantee'
+     - `research/2026-08-22__reel0004__cognitive-biases-source-validation.md` contains 'diagnosis'
+     - `research/2026-08-22__reel0004__cognitive-biases-source-validation.md` contains 'medical advice'
      - `research/batch04_evening_screens_source-validation.md` contains 'guarantee'
      - `research/batch04_evening_screens_source-validation.md` contains 'diagnosis'
      - `research/batch04_evening_screens_source-validation.md` contains 'medical advice'
+     - `research/2026-08-22__reel0001__affect-labeling-source-validation.md` contains 'guarantee'
+     - `research/2026-08-22__reel0001__affect-labeling-source-validation.md` contains 'diagnosis'
+     - `research/2026-08-22__reel0002__sleep-environment-source-validation.md` contains 'cure'
+     - `research/2026-08-22__reel0002__sleep-environment-source-validation.md` contains 'guarantee'
+     - `research/2026-08-22__reel0007__meal-timing-source-validation.md` contains 'cure'
+     - `research/2026-08-22__reel0007__meal-timing-source-validation.md` contains 'guarantee'
+     - `research/2026-08-22__reel0004__source-notes.md` contains 'diagnosis'
      - `content/batches/2026-08-16_health_reels_batch01_manifest.md` contains 'diagnosis'
      - `content/batches/batch04_evening_screens/metadata.md` contains 'medical advice'
      - `content/batches/batch04_evening_screens/production-plan.md` contains 'medical advice'
+     - `production/reel0007_script_hi-IN.md` contains 'medical advice'
+     - `production/reel0004_cognitive_biases_brief.md` contains 'guarantee'
+     - `production/reel0004_cognitive_biases_brief.md` contains 'diagnosis'
+     - `production/reel0004_cognitive_biases_brief.md` contains 'medical advice'
+     - `production/reel0001_affect_labeling_brief.md` contains 'guarantee'
+     - `production/reel0001_affect_labeling_brief.md` contains 'diagnosis'
+     - `production/reel0008_script_hi-IN.md` contains 'medical advice'
+     - `production/reel0008_meal_timing_brief.md` contains 'diagnosis'
+     - `production/reel0008_meal_timing_brief.md` contains 'medical advice'
+     - `production/reel0007_meal_timing_brief.md` contains 'diagnosis'
+     - `production/reel0007_meal_timing_brief.md` contains 'medical advice'
+     - `production/reel0003_self_concept_brief.md` contains 'guarantee'
+     - `production/reel0003_self_concept_brief.md` contains 'diagnosis'
+     - `production/reel0003_self_concept_brief.md` contains 'medical advice'
+     - `production/reel0002_sleep_environment_brief.md` contains 'cure'
+     - `production/reel0002_sleep_environment_brief.md` contains 'guarantee'
+     - `production/reel0002_sleep_environment_brief.md` contains 'diagnosis'
+     - `production/reel0002_sleep_environment_brief.md` contains 'medical advice'
+     - `production/rendered/REEL-0001_script_hi-IN.md` contains 'guarantee'
+     - `production/rendered/REEL-0001_script_hi-IN.md` contains 'diagnosis'
+     - `production/rendered/REEL-0003_script_hi-IN.md` contains 'guarantee'
+     - `production/rendered/REEL-0003_script_hi-IN.md` contains 'diagnosis'
+     - `production/rendered/REEL-0003_script_hi-IN.md` contains 'medical advice'
+     - `production/rendered/REEL-0004_script_hi-IN.md` contains 'guarantee'
+     - `production/rendered/REEL-0004_script_hi-IN.md` contains 'diagnosis'
+     - `production/rendered/REEL-0004_script_hi-IN.md` contains 'medical advice'
+     - `production/rendered/REEL-0002_script_hi-IN.md` contains 'guarantee'
      - `policy/ZERO_TOUCH_REELS_OPERATING_POLICY.md` contains 'medical advice'
      - `docs/cross_platform_integration_audit.md` contains 'medical advice'
      - `docs/AUTONOMOUS_SOCIAL_VIDEO_AUTOMATION_BLUEPRINT.md` contains 'cure'
