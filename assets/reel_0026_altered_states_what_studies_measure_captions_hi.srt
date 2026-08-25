@@ -1,0 +1,87 @@
+1
+00:00:00,000 --> 00:00:03,400
+Altered state को single score से माप सकते हैं?
+
+2
+00:00:03,400 --> 00:00:06,700
+Research का practical जवाब: नहीं
+
+3
+00:00:06,700 --> 00:00:09,900
+पहली layer है phenomenology
+
+4
+00:00:09,900 --> 00:00:13,200
+व्यक्ति बाद में questionnaire भरता है
+
+5
+00:00:13,200 --> 00:00:16,300
+Perception, time, body और emotion
+
+6
+00:00:16,300 --> 00:00:19,500
+Thought और self-experience में बदलाव
+
+7
+00:00:19,500 --> 00:00:22,700
+OAV, 5D-ASC, PCI, HRS, MEQ30
+
+8
+00:00:22,700 --> 00:00:25,700
+अलग instruments, अलग dimensions
+
+9
+00:00:25,700 --> 00:00:28,900
+दूसरी layer है behavior
+
+10
+00:00:28,900 --> 00:00:32,000
+Response, attention और task performance
+
+11
+00:00:32,000 --> 00:00:35,200
+तीसरी layer: physiology और brain signals
+
+12
+00:00:35,200 --> 00:00:38,500
+EEG, MEG, fMRI और blood flow
+
+13
+00:00:38,500 --> 00:00:41,700
+Connectivity और complexity measures
+
+14
+00:00:41,700 --> 00:00:44,900
+Reports को signals से relate किया जाता है
+
+15
+00:00:44,900 --> 00:00:48,100
+Relation, direct mind-reading नहीं
+
+16
+00:00:48,100 --> 00:00:51,200
+Factor कोई biological module नहीं
+
+17
+00:00:51,200 --> 00:00:54,400
+और universal truth भी नहीं
+
+18
+00:00:54,400 --> 00:00:57,500
+State कैसे induce हुई? Measure कब हुआ?
+
+19
+00:00:57,500 --> 00:01:00,300
+Correlation है या causal claim?
+
+20
+00:01:00,300 --> 00:01:02,000
+Method और limits याद रखिए
+
+21
+00:01:02,000 --> 00:01:03,300
+यह education है
+
+22
+00:01:03,300 --> 00:01:04,280
+Diagnosis, treatment या substance advice नहीं

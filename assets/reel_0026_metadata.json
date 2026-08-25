@@ -1,0 +1,37 @@
+{
+  "reel_id": "reel_0026_altered_states_what_studies_measure",
+  "queue_id": "0026",
+  "batch": "Batch_001",
+  "title_hi": "बदली हुई चेतना: studies वास्तव में क्या मापते हैं?",
+  "topic": "altered states of consciousness measurement",
+  "unique_angle": "Altered states research combines subjective phenomenology with behavioral, physiological, neuroimaging, and model-derived measures; none alone is a universal consciousness meter.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 64.28,
+  "evidence_class": "peer-reviewed psychometric evaluation + systematic database review + consciousness-neuroscience review + primary fMRI correlate study",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No substance, breathing, fasting, meditation, hypnosis, or sensory-deprivation instructions; no diagnosis, treatment, personalized advice, spiritual certainty, or claim that a questionnaire or brain signal directly reads private experience.",
+  "source_ids": [
+    {"source_id":"doi:10.1371/journal.pone.0012412","citation":"Studerus, Gamma, and Vollenweider (2010), Psychometric Evaluation of the Altered States of Consciousness Rating Scale (OAV)","url":"https://doi.org/10.1371/journal.pone.0012412","type":"peer_reviewed_psychometric_evaluation"},
+    {"source_id":"doi:10.3389/fpsyg.2018.01028","citation":"Schmidt and Berkemeyer (2018), The Altered States Database: Psychometric Data of Altered States of Consciousness","url":"https://doi.org/10.3389/fpsyg.2018.01028","type":"peer_reviewed_data_report"},
+    {"source_id":"doi:10.1038/s41597-022-01822-4","citation":"Prugger et al. (2022), The Altered States Database: Psychometric data from a systematic literature review","url":"https://doi.org/10.1038/s41597-022-01822-4","type":"peer_reviewed_systematic_literature_review"},
+    {"source_id":"doi:10.1073/pnas.1119598109","citation":"Carhart-Harris et al. (2012), Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin","url":"https://doi.org/10.1073/pnas.1119598109","type":"peer_reviewed_primary_fmri_study"},
+    {"source_id":"doi:10.3390/brainsci10090626","citation":"Cofré et al. (2020), Whole-Brain Models to Explore Altered States of Consciousness from the Bottom Up","url":"https://doi.org/10.3390/brainsci10090626","type":"peer_reviewed_consciousness_neuroscience_review"}
+  ],
+  "assets": {
+    "video":"assets/reel_0026_altered_states_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0026_altered_states_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0026_altered_states_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0026_altered_states_what_studies_measure_script.md",
+    "sources":"research/reel_0026_altered_states_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0026_scene_01.png","assets/reel_0026_scene_02.png","assets/reel_0026_scene_03.png","assets/reel_0026_scene_04.png"],
+    "qc_report":"assets/reel_0026_qc_report.json",
+    "drive_manifest":"state/reel_0026_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes showing phenomenology dimensions, questionnaire and behavior measures, multimodal brain signals, and interpretation limits. No participant likenesses, substance instructions, fabricated measurements, or private-experience readouts.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. The visuals illustrate research methods, not a diagnostic test or direct neural readout. Not medical advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1GQsyZKj12lWuAP3WDp1T6uFnCbNRuyh7","drive_verification_note":"Initial independent Drive verification passed: 11 expected package objects, all nonzero, all in the Reel_0026 parent, one nonzero manifest control object, and 0 unrelated remote objects."}
+}

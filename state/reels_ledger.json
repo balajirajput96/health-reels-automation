@@ -258,6 +258,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T13:19:28.330731Z",
       "notes": "Drive verified in Reel_0025 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0026_altered_states_what_studies_measure",
+      "sha256": "280f34013f52a9e76218194911dcc2df3b55cc326c5b2319f335e93f212d2494",
+      "filename": "reel_0026_altered_states_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T13:30:52.966486Z",
+      "notes": "Drive verified in Reel_0026 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
     }
   ]
 }
