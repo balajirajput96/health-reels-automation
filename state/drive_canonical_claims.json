@@ -545,6 +545,23 @@
       "retry_required_after_official_quota_reset": true,
       "identity_audit_checkpoint": "checkpoints/reel0078_identity_audit_20260824.ndjson",
       "audio_duration_seconds": 64.2
+    },
+    {
+      "reel_id": "REEL-0079",
+      "title": "Tracking Habits Without Perfectionism: A Behavioral Science Perspective",
+      "topic": "Flexible habit tracking, self-tracking setbacks, self-compassion associations, and non-moralizing reflection",
+      "status": "failed_preproduction_quota_block",
+      "drive_folder_id": null,
+      "batch_folder_id": null,
+      "publication_allowed": false,
+      "editorial_re_review_required": true,
+      "quota_limited_fallback": false,
+      "preproduction_only": true,
+      "retry_required_after_official_quota_reset": true,
+      "identity_audit_checkpoint": "checkpoints/reel0079_identity_audit_20260825.ndjson",
+      "audio_duration_seconds": 73.12,
+      "preserved_broad_collision_folder_id": "17K5hMFp51_OMvwaKoJVHp6rGQFkz-MNe",
+      "preserved_broad_collision_name": "R0079_psychology-social-context-conversation-mini-experiment"
     }
   ]
 }
