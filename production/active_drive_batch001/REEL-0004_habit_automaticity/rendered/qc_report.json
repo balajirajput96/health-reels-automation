@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "video": "rendered/REEL-0004_habit_automaticity_QC_pending.mp4",
+  "duration_seconds": 67.766667,
+  "dimensions": "720x1280",
+  "aspect_ratio": "9:16",
+  "audio": "AAC present",
+  "captions": "burned-in plus ASS/SRT sidecars",
+  "sample_frames": [
+    "qc_frame_02s.jpg",
+    "qc_frame_32s.jpg",
+    "qc_frame_62s.jpg"
+  ],
+  "checks": [
+    "ffprobe readable",
+    "portrait dimensions",
+    "duration 55-75 seconds",
+    "audio stream present",
+    "caption sidecars non-empty",
+    "sample frames extracted"
+  ]
+}

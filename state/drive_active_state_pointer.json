@@ -2,7 +2,7 @@
   "schema_version": 1,
   "project": "3000_HINDI_RESEARCH_REELS",
   "provider": "Google Drive",
-  "verified_at": "2026-08-25T04:37:22Z",
+  "verified_at": "2026-08-25T04:50:25Z",
   "root": {
     "name": "3000_HINDI_RESEARCH_REELS",
     "id": "1vYLRarvedtfaYzNcINGKpKAeeFaz0OnD"
@@ -35,9 +35,21 @@
       "duration_seconds": 63.6,
       "evidence_status": "verified_with_limits",
       "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions"
+    },
+    "reel_0004": {
+      "status": "qc_passed_drive_verified",
+      "folder_id": "1pMndpw3G02gMDWwN4zORJK03mD_i-D4n",
+      "video_file_id": "1IoN_gUwjaR-XYmbsJ-92F8JHNmrfvDqZ",
+      "manifest_file_id": "1RB8CILU91K8RQXtt2ydd5P7SKQgzW29I",
+      "source_metadata_file_id": "1ZOkcE4z-2skPY-G7BT44K4RH7KmzVlPN",
+      "qc_report_file_id": "1pZbjA9IORNwgbEyDmfZKrWH6NF5mJdKA",
+      "artifact_count": 21,
+      "duration_seconds": 67.767,
+      "evidence_status": "verified_with_limits",
+      "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions"
     }
   },
-  "next_reel_id": "0004",
+  "next_reel_id": "0005",
   "target_total_reels": 3000,
   "reels_per_batch": 30,
   "format": {
