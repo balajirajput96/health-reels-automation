@@ -330,6 +330,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T17:35:30.352770Z",
       "notes": "Drive verified in reused canonical Reel_0033 folder; 11 expected lowercase package objects plus one nonzero manifest, 11 unrelated legacy uppercase objects retained unchanged; no social publication."
+    },
+    {
+      "source_id": "reel_0034_reappraisal_what_studies_measure",
+      "sha256": "c080bb5327d51e18d6115ef88b2e7a6cfeecf80b9f20a3569d565b3f99a3d77e",
+      "filename": "reel_0034_reappraisal_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T19:59:00.932705Z",
+      "notes": "Drive verified in canonical Batch_002/Reel_0034 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
     }
   ]
 }
