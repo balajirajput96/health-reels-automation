@@ -1,0 +1,37 @@
+{
+  "reel_id": "REEL-0079",
+  "source_id": "reel_0079_tracking_habits_without_perfectionism",
+  "title": "Tracking Habits Without Perfectionism: A Behavioral Science Perspective",
+  "subject": "Tracking habits without perfectionism",
+  "stage": "failed",
+  "status": "blocked_preproduction",
+  "blocked_reason": "A non-trashed broad identity collision exists under Batch_003: folder R0079_psychology-social-context-conversation-mini-experiment (id 17K5hMFp51_OMvwaKoJVHp6rGQFkz-MNe). It is not the intended exact name, but it must be preserved and not overwritten, renamed, duplicated, or inferred to represent this reel. Official image generation remains recorded as exhausted at 20/20 and native video at 1/1, so no topic-specific visual package can be formed.",
+  "drive_folder_id": null,
+  "batch_folder_id": "1JRFdVaDUFx3Mz4Ju3JFu_j9ikxSKSh-f",
+  "collision_folder_id": "17K5hMFp51_OMvwaKoJVHp6rGQFkz-MNe",
+  "collision_folder_name": "R0079_psychology-social-context-conversation-mini-experiment",
+  "identity_audit_checkpoint": "/home/ubuntu/github-workspace/checkpoints/reel0079_identity_audit_20260825.ndjson",
+  "audio_duration_seconds": 73.12,
+  "audio_duration_target_seconds": [55, 75],
+  "prepared_local_files": [
+    "research/2026-08-25__reel0079__tracking-habits-without-perfectionism-source-validation.md",
+    "production/reel0079_script_hi-IN.md",
+    "production/reel0079_tracking_habits_without_perfectionism_brief.md",
+    "production/audio/REEL-0079_span01_hi-IN.wav",
+    "production/audio/REEL-0079_span02_hi-IN.wav",
+    "production/audio/REEL-0079_span03_hi-IN.wav",
+    "production/audio/REEL-0079_span04_hi-IN.wav",
+    "production/audio/REEL-0079_span05_hi-IN.wav",
+    "production/audio/REEL-0079_span06_hi-IN.wav",
+    "production/audio/REEL-0079_span07_hi-IN.wav"
+  ],
+  "retry_conditions": [
+    "Preserve the existing R0079 folder and do not treat it as the intended REEL-0079 package without a separately verified canonical identity decision.",
+    "After an official visual-quota reset, repeat exact and broad paginated audits under root and Batch_003.",
+    "If the broad collision remains, keep this source identity blocked rather than creating a duplicate folder; resolve only through a reviewed identity-reconciliation change.",
+    "If identity is safely resolved, generate only REEL-0079-specific 9:16 visuals, then run full subtitle, decode, geometry, duration, visual, editorial, and source-integrity QC before any Drive package write."
+  ],
+  "publication": "prohibited",
+  "post_id": null,
+  "recorded_at": "2026-08-25T03:45:00Z"
+}

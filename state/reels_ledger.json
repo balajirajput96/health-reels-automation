@@ -244,6 +244,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-24T12:20:08.054225Z",
       "notes": "REEL-0078 blocked in preproduction: official image quota remains exhausted at 20/20 and native-video quota at 1/1; no topic-specific visual media or MP4; seven validated Hindi WAV spans total 64.20 seconds; Drive identity audit at checkpoints/reel0078_identity_audit_20260824.ndjson found no exact or broad 0078 collision under root or Batch_003; publication prohibited; resume only after official quota reset and fresh identity audit."
+    },
+    {
+      "source_id": "reel_0079_tracking_habits_without_perfectionism",
+      "filename": "REEL-0079_tracking-habits-without-perfectionism.mp4",
+      "stage": "failed",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T03:52:24.112548Z",
+      "notes": "REEL-0079 blocked in preproduction: exact intended identity absent, but fresh paginated Batch_003 audit found preserved non-trashed broad collision R0079_psychology-social-context-conversation-mini-experiment id 17K5hMFp51_OMvwaKoJVHp6rGQFkz-MNe; do not rename, overwrite, duplicate, or infer identity. Official image quota remains recorded at 20/20 and native-video quota at 1/1; no topic-specific visual media or MP4; seven validated Hindi WAV spans total 73.12 seconds; no Drive write; publication prohibited; resume only after reviewed identity resolution, official visual reset, and fresh audit."
     }
   ]
 }
