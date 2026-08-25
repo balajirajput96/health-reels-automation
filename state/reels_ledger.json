@@ -285,6 +285,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T16:23:21.760712Z",
       "notes": "Drive verified in Reel_0028 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0029_choice_architecture_what_studies_measure",
+      "sha256": "1ec786dc1338b25c778400f249455f871d378b6074b7811fba703e28b6dd6000",
+      "filename": "reel_0029_choice_architecture_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T16:35:59.477087Z",
+      "notes": "Drive verified in Reel_0029 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
     }
   ]
 }
