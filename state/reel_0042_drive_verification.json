@@ -1,0 +1,94 @@
+{
+  "folder_id": "1Z3uw9jiA5kxo_pkO5ucAgYZxvuDgNIjh",
+  "manifest_id": "1uKwp6zDc6flhiEiKR9abMB5mKCb6DKQr",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 10,
+  "unrelated_remote_objects": [
+    "R0042_QC.json",
+    "R0042_captions.ass",
+    "R0042_drive_readback_audit.json",
+    "R0042_final.mp4",
+    "R0042_local_checksums.sha256",
+    "R0042_manifest.json",
+    "R0042_narration_hi-IN.wav",
+    "R0042_production_pack.md",
+    "R0042_reference.png",
+    "R0042_sources.txt"
+  ],
+  "expected_objects": [
+    {
+      "name": "reel_0042_metadata.json",
+      "id": "1AIYrMIYq_7H-3eJjYwl5HUe2jB5Oyd6_",
+      "size": 4129,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0042_mindfulness_attention_what_studies_measure_captions_hi.srt",
+      "id": "1-HwXhhn1l67wR8ZLcGk5ONTSO36okQHN",
+      "size": 2112,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0042_mindfulness_attention_what_studies_measure_hi.mp4",
+      "id": "1wz-hSN4uUQm71yiN56s7Tj1BNUmdqynS",
+      "size": 3654412,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0042_mindfulness_attention_what_studies_measure_narration_hi.wav",
+      "id": "1K3atp8hDvCxoUPfwofw1B-ltZL4SzC5C",
+      "size": 2789804,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0042_mindfulness_attention_what_studies_measure_script.md",
+      "id": "12fxqWxWsfWljuobKiVn1yCAys2VohZRo",
+      "size": 5649,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0042_mindfulness_attention_what_studies_measure_sources.md",
+      "id": "1xmJHOIjNk8wtUnbdo_aj5pNyntL2-bd1",
+      "size": 4757,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0042_qc_report.json",
+      "id": "14G7MvbgTWnIZBPXvajWdNRFbkd2D0pWD",
+      "size": 556,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0042_scene_01.png",
+      "id": "1czIfqph06-BmViDOCEv0YmGW4RJUoLrx",
+      "size": 110886,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0042_scene_02.png",
+      "id": "1SBa2H1QoGiF4Y0-Jw-TCn0MQCIBW-Tux",
+      "size": 114690,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0042_scene_03.png",
+      "id": "1fzO2wPaLP3Jxq2rRl-sKBuXeZbPr39H4",
+      "size": 119178,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0042_scene_04.png",
+      "id": "1e9yMuh0mHZXqLtUVEXzeKDrHqY1mgNpb",
+      "size": 111072,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}

@@ -402,6 +402,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T21:51:22.641327Z",
       "notes": "Drive independently verified in canonical Batch_002/Reel_0041; 11 expected lowercase nonzero package objects plus one nonzero manifest; 10 pre-existing uppercase legacy objects preserved as unrelated; no social publication."
+    },
+    {
+      "source_id": "reel_0042_mindfulness_attention_what_studies_measure",
+      "sha256": "e884579fe41f8f3852301726b6577f81dded9c0d30cfd92f945ebb5fc925947e",
+      "filename": "reel_0042_mindfulness_attention_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T22:02:19.493701Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0042; 11 expected lowercase nonzero package objects plus one nonzero manifest; 10 pre-existing uppercase legacy objects preserved as unrelated; no social publication."
     }
   ]
 }
