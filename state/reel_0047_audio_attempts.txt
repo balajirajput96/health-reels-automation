@@ -1,0 +1,2 @@
+attempt1=assets/reel_0047_retrieval_practice_what_studies_measure_narration_hi_attempt1_87s.wav duration_seconds=87.68 status=overlong_preserved
+attempt2=assets/reel_0047_retrieval_practice_what_studies_measure_narration_hi_attempt2_78s.wav duration_seconds=78.12 status=overlong_preserved

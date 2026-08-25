@@ -1,0 +1,67 @@
+{
+  "reel_id": "reel_0047_retrieval_practice_what_studies_measure",
+  "queue_id": "0047",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0047",
+  "title_hi": "रिट्रीवल प्रैक्टिस: studies क्या मापते हैं?",
+  "topic": "retrieval practice measurement",
+  "unique_angle": "Retrieval-practice research separates assigned opportunities, observed participation, answer correctness, delayed retention, and transfer to new formats; a quiz log or one score is not a complete certificate of learning.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_class": "peer-reviewed quasi-experimental classroom research, transfer meta-analysis, and original memory research",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis of intelligence, attention, motivation, or learning disability; no individualized educational prescription, grade guarantee, ability label, or universal transfer claim.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1007/s40670-021-01298-8",
+      "citation": "Azzam and Easteal (2021), Retrieval Practice for Improving Long-Term Retention in Anatomical Education: A Quasi-Experimental Study",
+      "url": "https://doi.org/10.1007/s40670-021-01298-8",
+      "type": "peer_reviewed_quasi_experimental_classroom_research"
+    },
+    {
+      "source_id": "doi:10.1037/bul0000151",
+      "citation": "Pan and Rickard (2018), Transfer of Test-Enhanced Learning: Meta-Analytic Review and Synthesis",
+      "url": "https://doi.org/10.1037/bul0000151",
+      "type": "peer_reviewed_meta_analysis"
+    },
+    {
+      "source_id": "doi:10.1080/09658210802647009",
+      "citation": "Karpicke, Butler, and Roediger (2009), Metacognitive Strategies in Student Learning: Do Students Practise Retrieval When They Study on Their Own?",
+      "url": "https://doi.org/10.1080/09658210802647009",
+      "type": "peer_reviewed_original_memory_research"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0047_retrieval_practice_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0047_retrieval_practice_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0047_retrieval_practice_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0047_retrieval_practice_what_studies_measure_script.md",
+    "sources": "research/reel_0047_retrieval_practice_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0047_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0047_scene_01.png",
+      "assets/reel_0047_scene_02.png",
+      "assets/reel_0047_scene_03.png",
+      "assets/reel_0047_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0047_qc_report.json",
+    "drive_manifest": "state/reel_0047_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes showing a recall attempt, participation log, delayed retention and transfer tasks, with no student likenesses, private records, or individual prediction.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate learning-study measures, not intelligence, diagnosis, guaranteed grades, private cognition, or individual prediction. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1pgf_w-G0f52T90ai64b1Y8cIU81fTcZY",
+    "drive_verification_note": "Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0047 parent, one nonzero manifest control object, and zero unrelated remote objects."
+  },
+  "measured_narration_duration_seconds": 72.24
+}

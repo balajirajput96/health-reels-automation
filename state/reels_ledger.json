@@ -447,6 +447,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T22:43:05.775591Z",
       "notes": "Drive independently verified in canonical Batch_002/Reel_0046; 11 expected lowercase nonzero package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0047_retrieval_practice_what_studies_measure",
+      "sha256": "c32ac6aed2bc0f84abdaf07a90accc67d8c6d6ea73f602c20371c50edc6be001",
+      "filename": "reel_0047_retrieval_practice_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T22:53:58.561559Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0047; 11 expected lowercase nonzero package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
     }
   ]
 }
