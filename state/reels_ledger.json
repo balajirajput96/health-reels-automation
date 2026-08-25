@@ -465,6 +465,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T23:11:26.518659Z",
       "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0048; no social publication attempted."
+    },
+    {
+      "source_id": "reel_0049_interleaving_what_studies_measure",
+      "sha256": "ac023501529db0085130e201ac672bd0ae200f7038bd094880277d046338c9a2",
+      "filename": "reel_0049_interleaving_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T23:23:12.152126Z",
+      "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0049; no social publication attempted."
     }
   ]
 }

@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,700
+क्या interleaving हमेशा बेहतर learning देता है?
+
+2
+00:00:03,800 --> 00:00:07,300
+Study का test देखे बिना answer risky है।
+
+3
+00:00:07,400 --> 00:00:10,900
+Blocked में एक ही तरह के examples साथ आते हैं।
+
+4
+00:00:11,000 --> 00:00:14,600
+Interleaving में categories बारी-बारी से आती हैं।
+
+5
+00:00:14,700 --> 00:00:18,300
+Practice मुश्किल, immediate score कम हो सकता है।
+
+6
+00:00:18,400 --> 00:00:22,000
+लेकिन delayed या transfer test picture बदल सकता है।
+
+7
+00:00:22,100 --> 00:00:25,700
+Physics study में 350 students और 8 weeks थे।
+
+8
+00:00:25,800 --> 00:00:29,400
+दोनों arrangements में total practice वही थी।
+
+9
+00:00:29,500 --> 00:00:33,100
+Interleaved homework harder और accuracy कम थी।
+
+10
+00:00:33,200 --> 00:00:36,800
+फिर भी surprise tests में novel problems बेहतर थे।
+
+11
+00:00:36,900 --> 00:00:40,500
+एक category study ने immediate test भी लिया।
+
+12
+00:00:40,600 --> 00:00:44,200
+और करीब 24-hour delayed transfer test भी।
+
+13
+00:00:44,300 --> 00:00:47,900
+Category similarity से schedule का असर बदल सकता है।
+
+14
+00:00:48,000 --> 00:00:51,600
+Delay ने result को universal advantage नहीं बनाया।
+
+15
+00:00:51,700 --> 00:00:55,300
+Review में subtle differences पर benefit दिखा।
+
+16
+00:00:55,400 --> 00:00:59,000
+पर studies का बड़ा हिस्सा laboratory undergraduates था।
+
+17
+00:00:59,100 --> 00:01:02,700
+Score practice का था या delayed test का?
+
+18
+00:01:02,800 --> 00:01:06,400
+Items पुराने थे या novel transfer?
+
+19
+00:01:06,500 --> 00:01:10,100
+Categories similar थीं? Rule या memory?
+
+20
+00:01:10,200 --> 00:01:12,900
+Interleaving conditional research pattern है।
+
+21
+00:01:13,000 --> 00:01:13,300
+यह education है—diagnosis या treatment नहीं।

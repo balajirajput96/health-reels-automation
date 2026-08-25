@@ -1,0 +1,42 @@
+{
+  "reel_id":"reel_0049_interleaving_what_studies_measure",
+  "queue_id":"0049",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0049",
+  "title_hi":"इंटरलीविंग: studies क्या मापते हैं?",
+  "topic":"interleaving and learning measurement",
+  "unique_angle":"Interleaving is not a universal best method; studies separate practice difficulty, immediate performance, delayed retention, category similarity, strategy, and novel transfer.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed authentic-course study, category-learning experiment, and systematic review",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. No individualized study schedule, grade guarantee, diagnosis of intelligence or ability, universal retention promise, or guaranteed transfer claim.",
+  "source_ids":[
+    {"source_id":"doi:10.1038/s41539-021-00110-x","citation":"Samani and Pan (2021), Interleaved practice enhances memory and problem-solving ability in undergraduate physics","url":"https://doi.org/10.1038/s41539-021-00110-x","type":"peer_reviewed_authentic_course_study"},
+    {"source_id":"doi:10.3389/fpsyg.2014.00936","citation":"Carvalho and Goldstone (2014), Effects of interleaved and blocked study on delayed test of category learning generalization","url":"https://doi.org/10.3389/fpsyg.2014.00936","type":"peer_reviewed_category_learning_experiment"},
+    {"source_id":"doi:10.1002/rev3.3266","citation":"Firth, Rivers, Boyle, and colleagues (2021), A systematic review of interleaving as a concept learning strategy","url":"https://doi.org/10.1002/rev3.3266","type":"peer_reviewed_systematic_review_meta_analysis"}
+  ],
+  "assets":{
+    "video":"assets/reel_0049_interleaving_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0049_interleaving_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0049_interleaving_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0049_interleaving_what_studies_measure_script.md",
+    "sources":"research/reel_0049_interleaving_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0049_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":[
+      "assets/reel_0049_scene_01.png",
+      "assets/reel_0049_scene_02.png",
+      "assets/reel_0049_scene_03.png",
+      "assets/reel_0049_scene_04.png"
+    ],
+    "qc_report":"assets/reel_0049_qc_report.json",
+    "drive_manifest":"state/reel_0049_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes illustrating blocked versus interleaved sequences, practice versus delayed transfer, category similarity, and a measurement checklist. No student likenesses or private records.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate study-measure distinctions, not intelligence, diagnosis, individualized schedules, guaranteed grades, or guaranteed transfer. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":73.44,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"11qKB3VT-I-MiW_7jg5sEGWddXRzL_xag","drive_verification_note":"Local QC passed; exact 11-object package, metadata, manifest, and final independent Drive verification passed. No social publication attempted."}
+}
