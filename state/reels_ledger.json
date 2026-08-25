@@ -348,6 +348,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T20:26:55.231109Z",
       "notes": "Drive verified in canonical Batch_002/Reel_0035 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0036_emotional_contagion_what_studies_measure",
+      "sha256": "a925d66c46b10da5d5e96edad7d6ea22b2e07e05879eb84ce49ba12216ee3fbc",
+      "filename": "reel_0036_emotional_contagion_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T20:40:51.427074Z",
+      "notes": "Drive verified in canonical Batch_002/Reel_0036 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
     }
   ]
 }

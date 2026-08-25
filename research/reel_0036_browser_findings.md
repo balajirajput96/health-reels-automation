@@ -1,0 +1,10 @@
+
+
+## Source-level retrieval findings
+
+Herrando and Constantinides (2021), *Frontiers in Psychology*, DOI 10.3389/fpsyg.2021.712606, was opened from the publisher page. The review frames emotional contagion as a social process associated with behavioral synchrony and surveys methodological approaches including facial expressions, indirect interactions, physiological reactions, neurophysiological tools, and self-report. It notes that skin conductance is widely used as an arousal-related measure, but arousal is more closely tied to intensity than to positive versus negative valence; therefore, physiology alone cannot identify a specific emotion or prove interpersonal transmission. The review also discusses measurement and theoretical limitations.
+
+Marx, Frenzel, Fiedler, and Reck (2024), *PLOS ONE*, DOI 10.1371/journal.pone.0302890, was opened from the full publisher article. The study developed separate self-report scales for susceptibility to positive and negative emotional contagion. It used exploratory factor analysis in Study 1 (N=257), confirmatory factor analysis in Study 2 (N=247), and correlational validity tests; the abstract reports a two-factor structure and good internal consistency. These are self-reported susceptibility dispositions, not direct observation of moment-to-moment emotional transmission and not a diagnosis.
+
+
+Lin, Zhu, and Wang (2024), *Physiology & Behavior*, DOI 10.1016/j.physbeh.2023.114434, PubMed PMID 38092069, was opened from the official PubMed page. The abstract describes 28 friend dyads and 29 stranger dyads in a laboratory task. One participant watched a neutral, positive, or negative film clip while the partner observed facial expressions; ECG and facial EMG were recorded. The abstract reports spontaneous mimicry, reported emotional contagion, and enhanced physiological synchrony, with stronger positive-emotion effects in friend than stranger dyads. This is a specific dyadic laboratory result with interpersonal closeness and emotion type as moderators, not evidence that emotions always spread or that a wearable can read a person’s exact emotion.

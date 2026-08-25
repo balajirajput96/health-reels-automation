@@ -1,0 +1,82 @@
+{
+  "folder_id": "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer",
+  "manifest_id": "1oK9Su-GzRncyQERgmV2fJKhPlUk-JEKr",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "expected_objects": [
+    {
+      "name": "reel_0036_emotional_contagion_what_studies_measure_captions_hi.srt",
+      "id": "1IpDn1iryjCjjqLNOceX9nPPOyFPt8gVo",
+      "size": 2561,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0036_emotional_contagion_what_studies_measure_hi.mp4",
+      "id": "1N997mQYxKuqIVxUnGGZUh68CokexKmQD",
+      "size": 4219998,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0036_emotional_contagion_what_studies_measure_narration_hi.wav",
+      "id": "1Z2RrEAP9o34FNnSdRxVhjWlyz2yhHQSx",
+      "size": 3465644,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0036_emotional_contagion_what_studies_measure_script.md",
+      "id": "1y3xfom_KqMIYYFyx6zvxSTXcz6bnndlx",
+      "size": 3526,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0036_emotional_contagion_what_studies_measure_sources.md",
+      "id": "1uOfsVEo6xVfyx-YIMyFds_z2F68Q1Qx7",
+      "size": 5380,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0036_metadata.json",
+      "id": "1Jv_iDQNsGC_QjXGg44h3EBEPEv09gniJ",
+      "size": 3676,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0036_qc_report.json",
+      "id": "13tWzD7l4MxpD5uZ_tg9bUWY-Lz25GsxP",
+      "size": 552,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0036_scene_01.png",
+      "id": "1adLjD2EAbOMlee1ZlRZWJlOGQ1KdVlAc",
+      "size": 118845,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0036_scene_02.png",
+      "id": "1rmhWZ5sdw-ZQ3SQc3_ypDYBu3IdWhlwH",
+      "size": 114695,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0036_scene_03.png",
+      "id": "11mo6ibAjX7YU4N5NbZk2OAw522-W40M4",
+      "size": 121338,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0036_scene_04.png",
+      "id": "11m6k71lIg1WTKg_AL9mz9RbC9IlZcYTH",
+      "size": 116382,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}
