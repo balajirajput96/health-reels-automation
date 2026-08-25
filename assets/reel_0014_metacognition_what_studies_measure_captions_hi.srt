@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:04,500
+क्या एक confidence score सब बता सकता है?
+
+2
+00:00:04,500 --> 00:00:08,000
+Metacognition के कई अलग measurements हैं
+
+3
+00:00:08,000 --> 00:00:12,000
+Questionnaire: memory, knowledge या ability?
+
+4
+00:00:12,000 --> 00:00:15,500
+यह self-report है, accuracy की guarantee नहीं
+
+5
+00:00:15,500 --> 00:00:19,800
+हर trial के बाद confidence पूछा जा सकता है
+
+6
+00:00:19,800 --> 00:00:23,800
+Confidence को objective accuracy से मिलाते हैं
+
+7
+00:00:23,800 --> 00:00:27,800
+Sensitivity: सही और गलत trials अलग दिखें?
+
+8
+00:00:27,800 --> 00:00:31,600
+Average confidence अलग सवाल है
+
+9
+00:00:31,600 --> 00:00:35,400
+Bias और calibration को sensitivity से अलग रखें
+
+10
+00:00:35,400 --> 00:00:39,200
+बहुत confidence ≠ सही-गलत की अच्छी पहचान
+
+11
+00:00:39,200 --> 00:00:43,000
+Prediction पहले: बाद में कितना याद रहेगा?
+
+12
+00:00:43,000 --> 00:00:46,800
+Retrospective judgment: answer के बाद confidence
+
+13
+00:00:46,800 --> 00:00:51,000
+AUROC-two और meta-d′/d′ formal summaries हैं
+
+14
+00:00:51,000 --> 00:00:55,000
+हर metric task और assumptions से बंधा है
+
+15
+00:00:55,000 --> 00:00:59,000
+एक score पूरी self-knowledge नहीं बताता
+
+16
+00:00:59,000 --> 00:01:03,000
+Defined task की report और performance measure होती है
+
+17
+00:01:03,000 --> 00:01:08,000
+Private mind का direct meter नहीं
+
+18
+00:01:08,000 --> 00:01:13,000
+Educational reel; diagnosis या treatment advice नहीं

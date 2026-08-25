@@ -1,0 +1,65 @@
+{
+  "reel_id": "reel_0014_metacognition_what_studies_measure",
+  "queue_id": "0014",
+  "batch": "Batch_001",
+  "title_hi": "मेटाकॉग्निशन: studies वास्तव में क्या मापते हैं?",
+  "topic": "metacognition measurement",
+  "unique_angle": "Global self-beliefs, trial-by-trial confidence, prospective and retrospective judgments, and model-derived metrics sample different windows of metacognition; one score is not a universal mind meter.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 73.08,
+  "evidence_class": "peer-reviewed metacognition methods review + critical measurement review + confidence synthesis",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, intelligence ranking, or claim that questionnaires, confidence scores, brain signals, or models directly read private thoughts.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.3389/fnhum.2014.00443",
+      "citation": "Fleming & Lau (2014), How to measure metacognition",
+      "url": "https://doi.org/10.3389/fnhum.2014.00443",
+      "type": "metacognition_measurement_methodological_review"
+    },
+    {
+      "source_id": "doi:10.1016/j.cortex.2023.11.002",
+      "citation": "Katyal & Fleming (2024), The future of metacognition research: Balancing construct breadth with measurement rigor",
+      "url": "https://doi.org/10.1016/j.cortex.2023.11.002",
+      "type": "metacognition_measurement_critical_review"
+    },
+    {
+      "source_id": "doi:10.1146/annurev-psych-022423-032425",
+      "citation": "Fleming (2024), Metacognition and Confidence: A Review and Synthesis",
+      "url": "https://doi.org/10.1146/annurev-psych-022423-032425",
+      "type": "confidence_metacognition_review"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0014_metacognition_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0014_metacognition_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0014_metacognition_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0014_metacognition_what_studies_measure_script.md",
+    "sources": "research/reel_0014_metacognition_what_studies_measure_sources.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0014_scene_01.png",
+      "assets/reel_0014_scene_02.png",
+      "assets/reel_0014_scene_03.png",
+      "assets/reel_0014_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0014_qc_report.json",
+    "drive_manifest": "state/reel_0014_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No participant likenesses, private thought text, fabricated data, or literal mind-reading visuals are used.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain research methods and are not literal recordings of private thoughts or neural decoding. Not medical advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1gkWyhJvAdXaqBJqSCPYXfr2nMXsJJh00",
+    "drive_verification_note": "Verified by authenticated Drive listing; 11 expected current-package objects plus one durable manifest are present with nonzero sizes and correct parent. No unrelated objects were present in this newly created Reel_0014 folder."
+  }
+}
