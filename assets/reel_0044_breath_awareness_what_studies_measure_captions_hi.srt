@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,700
+“Breath awareness” पूरी mindfulness मापना नहीं।
+
+2
+00:00:03,800 --> 00:00:07,500
+Breath counting में सांसों की गिनती track की जाती है।
+
+3
+00:00:07,600 --> 00:00:10,800
+Probe पर count बताने से task score बनता है।
+
+4
+00:00:10,900 --> 00:00:14,300
+यह behavioral performance है, पूरी जिंदगी की attention नहीं।
+
+5
+00:00:14,400 --> 00:00:18,000
+Accuracy का संबंध meta-awareness और कम mind wandering से मिला।
+
+6
+00:00:18,100 --> 00:00:21,100
+Correlation, पूरा mindfulness proof नहीं।
+
+7
+00:00:21,200 --> 00:00:24,000
+Counting, timing और probe demands भी matter करते हैं।
+
+8
+00:00:24,100 --> 00:00:27,500
+दूसरा तरीका respiratory interoception है।
+
+9
+00:00:27,600 --> 00:00:31,700
+Controlled resistance में सांस का बदलाव detect करना होता है।
+
+10
+00:00:31,800 --> 00:00:34,700
+Respiratory signal record हो सकता है।
+
+11
+00:00:34,800 --> 00:00:37,500
+Waveform private thoughts नहीं पढ़ती।
+
+12
+00:00:37,600 --> 00:00:40,500
+Outcome detection-task accuracy है।
+
+13
+00:00:40,600 --> 00:00:44,300
+Overall detection accuracy लगभग 83 percent थी।
+
+14
+00:00:44,400 --> 00:00:48,000
+पूरे task scores में meditators और nonmeditators अलग नहीं मिले।
+
+15
+00:00:48,100 --> 00:00:51,500
+High accuracy से ceiling effect आ सकता है।
+
+16
+00:00:51,600 --> 00:00:55,000
+Lower-ceiling condition में difference सीमित और borderline था।
+
+17
+00:00:55,100 --> 00:00:59,000
+Counting या detection? Self-report या sensor?
+
+18
+00:00:59,100 --> 00:01:02,800
+Correlation या randomized comparison?
+
+19
+00:01:02,900 --> 00:01:06,700
+Breath score को universal meter मत बनाइए।
+
+20
+00:01:06,800 --> 00:01:14,000
+यह education है—diagnosis या treatment नहीं।

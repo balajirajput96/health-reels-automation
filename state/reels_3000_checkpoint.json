@@ -5,15 +5,15 @@
   "total_batches": 100,
   "reels_per_batch": 30,
   "generated_at": "2026-08-22T05:41:17.571278Z",
-  "updated_at": "2026-08-25T22:13:42.947997Z",
+  "updated_at": "2026-08-25T22:22:33.760392Z",
   "production_counts": {
-    "final": 43,
-    "planned": 2957
+    "final": 44,
+    "planned": 2956
   },
-  "completed_drive_verified": 43,
-  "next_reel": "reel_0044_breath_awareness_what_studies_measure",
-  "next_sequence": 44,
-  "last_completed": "reel_0043_meditation_training_what_studies_measure",
+  "completed_drive_verified": 44,
+  "next_reel": "reel_0045_compassion_practice_what_studies_measure",
+  "next_sequence": 45,
+  "last_completed": "reel_0044_breath_awareness_what_studies_measure",
   "failure_log": [],
   "rules": {
     "one_complete_reel_at_a_time": true,
