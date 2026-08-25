@@ -393,6 +393,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T21:38:36.561782Z",
       "notes": "Drive independently verified in canonical Batch_002/Reel_0040; 11 expected lowercase nonzero package objects plus one nonzero manifest; zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0041_identity_and_habits_what_studies_measure",
+      "sha256": "ff56834186eda87884d83fbc1424a26f89dab407da2974f0c082382bcc44ff09",
+      "filename": "reel_0041_identity_and_habits_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T21:51:22.641327Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0041; 11 expected lowercase nonzero package objects plus one nonzero manifest; 10 pre-existing uppercase legacy objects preserved as unrelated; no social publication."
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "reel_id": "reel_0041_identity_and_habits_what_studies_measure",
+  "queue_id": "0041",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0041",
+  "title_hi": "Identity और habits: studies क्या मापते हैं?",
+  "topic": "identity and habits measurement",
+  "unique_angle": "Identity self-report, repeated behavior, context, automaticity, and longitudinal habit-strength scores are separate variables; an identity label is not causal proof or a fixed trait.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 74.28,
+  "evidence_class": "peer-reviewed research and longitudinal field study",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, individualized behavioral plan, fixed habit-formation timeline, guaranteed behavior change, permanent identity label, or inference of hidden personality from a proxy measure.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.3389/fpsyg.2019.01504",
+      "citation": "Verplanken and Sui (2019), Habit and Identity: Behavioral, Cognitive, Affective, and Motivational Facets of an Intertwined Relationship",
+      "url": "https://doi.org/10.3389/fpsyg.2019.01504",
+      "type": "peer_reviewed_research"
+    },
+    {
+      "source_id": "doi:10.3389/fpsyg.2020.00560",
+      "citation": "van der Weiden, Benjamins, Gillebaart, Ybema, and de Ridder (2020), How to Form Good Habits? A Longitudinal Field Study on the Role of Self-Control in Habit Formation",
+      "url": "https://doi.org/10.3389/fpsyg.2020.00560",
+      "type": "peer_reviewed_longitudinal_field_study"
+    },
+    {
+      "source_id": "doi:10.1186/1479-5868-9-102",
+      "citation": "Gardner, Abraham, Lally, and de Bruijn (2012), Towards parsimony in habit measurement",
+      "url": "https://doi.org/10.1186/1479-5868-9-102",
+      "type": "peer_reviewed_original_research"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0041_identity_and_habits_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0041_identity_and_habits_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0041_identity_and_habits_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0041_identity_and_habits_what_studies_measure_script.md",
+    "sources": "research/reel_0041_identity_and_habits_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0041_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0041_scene_01.png",
+      "assets/reel_0041_scene_02.png",
+      "assets/reel_0041_scene_03.png",
+      "assets/reel_0041_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0041_qc_report.json",
+    "drive_manifest": "state/reel_0041_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes showing identity self-report, separate habit variables, longitudinal measurement, and association-versus-causation uncertainty. No participant likenesses, diagnosis, literal mind-reading, or individual prediction.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research methods and measured constructs, not hidden personality, guaranteed habit formation, or individual prediction. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "drive_legacy_note": "The canonical Reel_0041 folder already contained 10 pre-existing uppercase R0041 legacy objects. They are preserved and remain unrelated remote objects; the new package uses exact lowercase names and does not overwrite or delete them.",
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1htfVQV9-TsaDgMh35I_7X2Ti5fkGv8Eu",
+    "drive_verification_note": "Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0041 parent, one nonzero manifest control object, and 10 preserved unrelated uppercase legacy objects. Legacy objects were not modified or deleted."
+  }
+}

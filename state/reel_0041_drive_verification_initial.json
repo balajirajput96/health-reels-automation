@@ -1,0 +1,94 @@
+{
+  "folder_id": "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP",
+  "manifest_id": "1htfVQV9-TsaDgMh35I_7X2Ti5fkGv8Eu",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 10,
+  "unrelated_remote_objects": [
+    "R0041_QC.json",
+    "R0041_captions.ass",
+    "R0041_drive_readback_audit.json",
+    "R0041_final.mp4",
+    "R0041_local_checksums.sha256",
+    "R0041_manifest.json",
+    "R0041_narration_hi-IN.wav",
+    "R0041_production_pack.md",
+    "R0041_reference.png",
+    "R0041_sources.txt"
+  ],
+  "expected_objects": [
+    {
+      "name": "reel_0041_identity_and_habits_what_studies_measure_captions_hi.srt",
+      "id": "1a7BtlzBHcZBHs8mTvyQuK-b3HPzT8-4u",
+      "size": 2509,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0041_identity_and_habits_what_studies_measure_hi.mp4",
+      "id": "10Vvfwt9PSHWwjHWdKyL1tykuDYSLT7EA",
+      "size": 4047827,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0041_identity_and_habits_what_studies_measure_narration_hi.wav",
+      "id": "1OC1TFfxNaDCdCPMatI-lKTMeiTEF1H3h",
+      "size": 3565484,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0041_identity_and_habits_what_studies_measure_script.md",
+      "id": "1oPcFnrs3fcMfRBtVvXzABL9RRCzSE8Wd",
+      "size": 5692,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0041_identity_and_habits_what_studies_measure_sources.md",
+      "id": "12X-N5xYi3AXo82KTqMIPQw1QwL9T3gru",
+      "size": 5266,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0041_metadata.json",
+      "id": "17vSygJIBcKCQUUG2Q779CsHIup_k5NWV",
+      "size": 3961,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0041_qc_report.json",
+      "id": "1y3m0rbVGL1rVAq7URAJvwMp7ITzZE4Zi",
+      "size": 552,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0041_scene_01.png",
+      "id": "1hClnEms0G_dpD7kL8f6ypX4EOYylp_76",
+      "size": 113386,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0041_scene_02.png",
+      "id": "1XBrEMVJC0PDsZbZM59rt60EJMTV-cvh1",
+      "size": 110184,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0041_scene_03.png",
+      "id": "1zHjBhQosAvcEizqF_HrLmLwV8uLu3p7C",
+      "size": 115348,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0041_scene_04.png",
+      "id": "1HQlzsvdB8PY_QKZuF3vRRVssSTFHxAnX",
+      "size": 121075,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}
