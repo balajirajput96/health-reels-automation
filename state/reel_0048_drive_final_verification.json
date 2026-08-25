@@ -1,0 +1,83 @@
+{
+  "folder_id": "1sXl--n6ybUlQexogSplEFV8LiOBwiz6z",
+  "manifest_id": "1J-YnpJrfM2-dicVH1IWYSFM2gWq7WLaa",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0048_metadata.json",
+      "id": "1tda7csqqPTqaKtKIkk0UTxr6J4C1BRO3",
+      "size": 3712,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0048_qc_report.json",
+      "id": "1Bqzyar-0IPEenpYNtrij4qbnqV8CoomT",
+      "size": 549,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0048_scene_01.png",
+      "id": "1ObIye-NCTG2eCHGd1tQeBtsz28wjbFF_",
+      "size": 102263,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0048_scene_02.png",
+      "id": "1cOwhhADxDTWwkvm1cnCSJxREtj65ZDfy",
+      "size": 97748,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0048_scene_03.png",
+      "id": "1ks7_L7Yja-T-LTW2OczDAuvcUFBIFnuk",
+      "size": 109362,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0048_scene_04.png",
+      "id": "16Pds13mK8C9cMeRhybNpEKpBt_jhL7qH",
+      "size": 111628,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0048_spacing_effect_what_studies_measure_captions_hi.srt",
+      "id": "1QbnVqq8eBAR-uG0H9sJhyLSMXJRpSAto",
+      "size": 2162,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0048_spacing_effect_what_studies_measure_hi.mp4",
+      "id": "1uV0I3EZsefWbnRidK5PQiBzWxkIAzDpg",
+      "size": 3706043,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0048_spacing_effect_what_studies_measure_narration_hi.wav",
+      "id": "1sfxFXI6boiEtWBE_--ZSHkMygSVJ9Zx7",
+      "size": 3385004,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0048_spacing_effect_what_studies_measure_script.md",
+      "id": "1kuJ1sgSkkfpYSejwab90doRPwUsUbaiv",
+      "size": 5486,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0048_spacing_effect_what_studies_measure_sources.md",
+      "id": "1F8T3K6S2PPfwXDZoovvETjnr5hpWhdO4",
+      "size": 5072,
+      "mimeType": "text/markdown"
+    }
+  ],
+  "valid": true
+}
