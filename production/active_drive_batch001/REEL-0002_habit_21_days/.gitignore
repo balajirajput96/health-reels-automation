@@ -1,0 +1,19 @@
+# Generated media is preserved in the local workspace and verified Google Drive package.
+assets/*.png
+narration_hi-IN.wav
+work/
+rendered/*.mp4
+rendered/ffprobe.json
+drive_upload_results/
+drive_remote_inventory.json
+drive_folder_create.json
+drive_upload.log
+remote_*_result.json
+remote_*_verified.json
+remote_*_after_reel0002.json
+state_update_prepare.log
+render.log
+
+# Keep manifests and reproducible text/source files tracked.
+!rendered/REEL-0002_local_manifest.json
+!rendered/REEL-0002_local_manifest.json
