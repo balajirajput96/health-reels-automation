@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0037_implementation_intentions_what_studies_measure",
+  "queue_id": "0037",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0037",
+  "title_hi": "If-then planning: studies क्या मापती हैं?",
+  "topic": "implementation intentions and the intention-behavior gap",
+  "unique_angle": "Implementation intentions are if-then plans, but studies separately measure plan formation, cue processing, immediate action, longer-term adherence, and physiological or neural correlates.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 61.52,
+  "evidence_class": "peer-reviewed review, meta-analysis, and current review",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, guaranteed behavior change, mind-reading, or individualized psychological inference.",
+  "source_ids": [
+    {"source_id":"doi:10.3389/fnhum.2015.00395","citation":"Wieber, Thürmer, and Gollwitzer (2015), Promoting the translation of intentions into action by implementation intentions","url":"https://doi.org/10.3389/fnhum.2015.00395","type":"peer_reviewed_review"},
+    {"source_id":"doi:10.1016/S0065-2601(06)38002-1","citation":"Gollwitzer and Sheeran (2006), Implementation intentions and goal achievement: A meta-analysis of effects and processes","url":"https://doi.org/10.1016/S0065-2601(06)38002-1","type":"peer_reviewed_meta_analysis"},
+    {"source_id":"doi:10.1080/10463283.2020.1808936","citation":"Bieleke, Keller, and Gollwitzer (2021), If-then planning","url":"https://doi.org/10.1080/10463283.2020.1808936","type":"peer_reviewed_review"}
+  ],
+  "assets": {
+    "video":"assets/reel_0037_implementation_intentions_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0037_implementation_intentions_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0037_implementation_intentions_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0037_implementation_intentions_what_studies_measure_script.md",
+    "sources":"research/reel_0037_implementation_intentions_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0037_scene_01.png","assets/reel_0037_scene_02.png","assets/reel_0037_scene_03.png","assets/reel_0037_scene_04.png"],
+    "qc_report":"assets/reel_0037_qc_report.json",
+    "drive_manifest":"state/reel_0037_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes showing broad goals versus if-then plans, separate measurement layers, study panels with moderators, and interpretation guardrails. No participant likenesses, diagnosis, literal mind-reading, or individual prediction.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research methods and outcomes, not guaranteed behavior change or individual prediction. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"14KmP8w0kwNivt78gq8rkYjYTVLe00oGq","drive_verification_note":"Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0037 parent, one nonzero manifest control object, and zero unrelated remote objects."}
+}

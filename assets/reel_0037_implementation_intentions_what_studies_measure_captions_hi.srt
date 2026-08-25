@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:03,500
+क्या “अगर ऐसा हुआ, तो मैं वैसा करूँगा” कहना अपने-आप habit बना देता है?
+
+2
+00:00:03,600 --> 00:00:06,700
+Research में ऐसा कहना जल्दबाज़ी होगी।
+
+3
+00:00:06,800 --> 00:00:10,200
+Goal intention है—“मैं exercise करना चाहता हूँ।”
+
+4
+00:00:10,300 --> 00:00:14,500
+Implementation intention अलग है: “अगर शाम को काम खत्म हुआ, तो मैं दस मिनट walk शुरू करूँगा।”
+
+5
+00:00:14,600 --> 00:00:17,900
+यह situation और response को जोड़ता है।
+
+6
+00:00:18,000 --> 00:00:21,900
+Studies अलग outcomes मापती हैं।
+
+7
+00:00:22,000 --> 00:00:25,400
+Plan बना या नहीं, और critical cue पहचानने की speed।
+
+8
+00:00:25,500 --> 00:00:29,400
+उसी situation में task पूरा हुआ या नहीं।
+
+9
+00:00:29,500 --> 00:00:33,300
+और बाद में behavior या adherence कैसी रही।
+
+10
+00:00:33,400 --> 00:00:37,500
+कुछ studies heart rate, cortisol, EEG या fMRI जैसे correlates भी report करती हैं।
+
+11
+00:00:37,600 --> 00:00:41,300
+लेकिन brain signal या तेज़ cue response, long-term habit का proof नहीं है।
+
+12
+00:00:41,400 --> 00:00:45,300
+94 independent tests की meta-analysis में goal attainment पर positive average effect report हुआ।
+
+13
+00:00:45,400 --> 00:00:48,900
+फिर भी goal, obstacle, context और participant के अनुसार परिणाम बदल सकते हैं।
+
+14
+00:00:49,000 --> 00:00:52,700
+पूछिए: measure plan था, immediate action था, या months-long adherence?
+
+15
+00:00:52,800 --> 00:00:56,200
+Self-report था या recorded behavior?
+
+16
+00:00:56,300 --> 00:00:59,100
+If-then plan useful research strategy हो सकता है, magic button नहीं।
+
+17
+00:00:59,200 --> 00:01:01,400
+यह education है—personal treatment या guaranteed result नहीं।
