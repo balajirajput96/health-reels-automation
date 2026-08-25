@@ -1,0 +1,65 @@
+{
+  "reel_id": "reel_0019_glial_cells_what_studies_measure",
+  "queue_id": "0019",
+  "batch": "Batch_001",
+  "title_hi": "ग्लियल कोशिकाएँ: studies वास्तव में क्या मापते हैं?",
+  "topic": "glial-cell measurement",
+  "unique_angle": "Glial activity is not one meter reading: studies measure markers, morphology, physiology, molecular profiles, tissue snapshots, or indirect human signals, each with distinct limits.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 72.16,
+  "evidence_class": "peer-reviewed glial-methods review + peer-reviewed human glial methods review + peer-reviewed systematic glial omics review",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, or inference about a person from glial markers, PET/MRI, fluid biomarkers, culture models, or animal findings.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1084/jem.20180200",
+      "citation": "Guttenplan & Liddelow (2019), Astrocytes and microglia: Models and tools",
+      "url": "https://doi.org/10.1084/jem.20180200",
+      "type": "glial_methods_review"
+    },
+    {
+      "source_id": "doi:10.3389/fnins.2022.824888",
+      "citation": "Garland, Hartnell & Boche (2022), Microglia and Astrocyte Function and Communication: What Do We Know in Humans?",
+      "url": "https://doi.org/10.3389/fnins.2022.824888",
+      "type": "human_glial_methods_review"
+    },
+    {
+      "source_id": "doi:10.1002/glia.24652",
+      "citation": "İş, Min, Wang, Oatman, Daniel & Ertekin-Taner (2024), Multi Layered Omics Approaches Reveal Glia Specific Alterations in Alzheimer’s Disease",
+      "url": "https://doi.org/10.1002/glia.24652",
+      "type": "glial_omics_systematic_review"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0019_glial_cells_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0019_glial_cells_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0019_glial_cells_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0019_glial_cells_what_studies_measure_script.md",
+    "sources": "research/reel_0019_glial_cells_what_studies_measure_sources.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0019_scene_01.png",
+      "assets/reel_0019_scene_02.png",
+      "assets/reel_0019_scene_03.png",
+      "assets/reel_0019_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0019_qc_report.json",
+    "drive_manifest": "state/reel_0019_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No participant likenesses, fabricated measurements, clinical labels, or literal glia activity readings are used.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain glial measurement concepts and are not a scan or a direct readout of a person’s brain state. Not medical advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1nMCfMBmYmoOrjsXSKujYFdRIXF9D-k0c",
+    "drive_verification_note": "Verified by authenticated Drive listing; 11 expected current-package objects plus one durable manifest are present with nonzero sizes and correct parent. No unrelated objects were present in this newly created Reel_0019 folder."
+  }
+}

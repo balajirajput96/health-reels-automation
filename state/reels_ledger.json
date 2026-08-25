@@ -195,6 +195,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T12:05:01.028363Z",
       "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0019_glial_cells_what_studies_measure",
+      "sha256": "5bee34366b2700f9e78760e66bad90af31f39e77bfd25260c670a3dbbac8f355",
+      "filename": "reel_0019_glial_cells_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T12:14:34.658936Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1qg1ASuE0Q9LBa4nS9rpSpRs10nlgs1vA; no unrelated objects present; not published."
     }
   ]
 }

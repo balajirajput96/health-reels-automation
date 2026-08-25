@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:04,500
+क्या scan से glia की पूरी activity दिख जाती है?
+
+2
+00:00:04,500 --> 00:00:08,500
+अक्सर नहीं—कई methods और validation चाहिए
+
+3
+00:00:08,500 --> 00:00:12,500
+Cell identity: markers और genetic labels
+
+4
+00:00:12,500 --> 00:00:16,500
+एक marker हर cell या state नहीं पकड़ता
+
+5
+00:00:16,500 --> 00:00:20,300
+Morphology: cell body और processes
+
+6
+00:00:20,300 --> 00:00:24,100
+Shape बताता है, पूरी function नहीं
+
+7
+00:00:24,100 --> 00:00:28,000
+Culture, slices, animals या iPSC models
+
+8
+00:00:28,000 --> 00:00:32,000
+Calcium, membrane response, metabolism
+
+9
+00:00:32,000 --> 00:00:35,900
+Controlled model = human brain नहीं
+
+10
+00:00:35,900 --> 00:00:39,900
+Transcriptomics और दूसरे omics
+
+11
+00:00:39,900 --> 00:00:43,800
+RNA, chromatin, proteins, metabolites, lipids
+
+12
+00:00:43,800 --> 00:00:47,700
+Molecular association, causation नहीं
+
+13
+00:00:47,700 --> 00:00:51,500
+Post-mortem: static tissue snapshot
+
+14
+00:00:51,500 --> 00:00:55,500
+PET: selected molecular targets के indirect signals
+
+15
+00:00:55,500 --> 00:00:59,400
+MRI non-invasive, पर glia-specific नहीं
+
+16
+00:00:59,400 --> 00:01:03,400
+Marker, shape, response या molecular profile?
+
+17
+00:01:03,400 --> 00:01:07,700
+Glial label mind-reading या diagnosis नहीं
+
+18
+00:01:07,700 --> 00:01:12,160
+Educational reel; diagnosis या treatment advice नहीं
