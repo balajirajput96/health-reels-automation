@@ -1,0 +1,65 @@
+{
+  "reel_id": "reel_0018_hemispheric_myths_what_studies_measure",
+  "queue_id": "0018",
+  "batch": "Batch_001",
+  "title_hi": "मस्तिष्क-गोलार्ध मिथक: studies वास्तव में क्या मापते हैं?",
+  "topic": "hemispheric lateralization measurement",
+  "unique_angle": "Hemispheric specialization can be measured for defined functions and tasks, but resting-state and task-based results do not support assigning a whole-person left-brained or right-brained personality type.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 64.8,
+  "evidence_class": "peer-reviewed resting-state connectivity study + peer-reviewed task-based lateralization study + peer-reviewed synthesis essay",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, or inference about intelligence, personality, talent, creativity, logic, or life outcomes from hemispheric labels, handedness, or imaging.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1371/journal.pone.0071275",
+      "citation": "Nielsen, Zielinski, Ferguson, Lainhart & Anderson (2013), An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging",
+      "url": "https://doi.org/10.1371/journal.pone.0071275",
+      "type": "resting_state_hemispheric_connectivity_study"
+    },
+    {
+      "source_id": "doi:10.1073/pnas.1212956110",
+      "citation": "Cai, Van der Haegen & Brysbaert (2013), Complementary hemispheric specialization for language production and visuospatial attention",
+      "url": "https://doi.org/10.1073/pnas.1212956110",
+      "type": "task_based_hemispheric_lateralization_study"
+    },
+    {
+      "source_id": "doi:10.1371/journal.pbio.1001767",
+      "citation": "Corballis (2014), Left Brain, Right Brain: Facts and Fantasies",
+      "url": "https://doi.org/10.1371/journal.pbio.1001767",
+      "type": "hemispheric_lateralization_synthesis"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0018_hemispheric_myths_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0018_hemispheric_myths_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0018_hemispheric_myths_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0018_hemispheric_myths_what_studies_measure_script.md",
+    "sources": "research/reel_0018_hemispheric_myths_what_studies_measure_sources.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0018_scene_01.png",
+      "assets/reel_0018_scene_02.png",
+      "assets/reel_0018_scene_03.png",
+      "assets/reel_0018_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0018_qc_report.json",
+    "drive_manifest": "state/reel_0018_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No participant likenesses, fabricated measurements, clinical labels, or literal left/right personality claims are used.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain hemispheric-lateralization measurement concepts and are not scans or direct readouts of a viewer’s personality. Not medical advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1_K3c7HsveeK-bawfYQuzeynMlA410ifq",
+    "drive_verification_note": "Verified by authenticated Drive listing; 11 expected current-package objects plus one durable manifest are present with nonzero sizes and correct parent. No unrelated objects were present in this newly created Reel_0018 folder."
+  }
+}

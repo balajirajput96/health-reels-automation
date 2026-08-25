@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:04,000
+क्या कोई इंसान सचमुच left-brained होता है?
+
+2
+00:00:04,000 --> 00:00:07,600
+कुछ functions lateralized हो सकते हैं
+
+3
+00:00:07,600 --> 00:00:11,000
+पूरा personality label नहीं निकलता
+
+4
+00:00:11,000 --> 00:00:14,600
+Language production: left-hemisphere bias
+
+5
+00:00:14,600 --> 00:00:18,200
+Visuospatial attention: right-hemisphere bias
+
+6
+00:00:18,200 --> 00:00:21,700
+मगर ये अलग tasks हैं
+
+7
+00:00:21,700 --> 00:00:25,300
+पूरे दिमाग का report card नहीं
+
+8
+00:00:25,300 --> 00:00:28,900
+Activation या laterality index मापा जाता है
+
+9
+00:00:28,900 --> 00:00:32,600
+Resting-state fMRI: BOLD time-series
+
+10
+00:00:32,600 --> 00:00:36,300
+Regions के बीच statistical connections
+
+11
+00:00:36,300 --> 00:00:39,900
+Lateralized hubs और networks मिल सकते हैं
+
+12
+00:00:39,900 --> 00:00:43,400
+पर global left-brain व्यक्ति नहीं
+
+13
+00:00:43,400 --> 00:00:47,000
+Network number method पर depend करता है
+
+14
+00:00:47,000 --> 00:00:50,400
+Atlas और preprocessing matter करते हैं
+
+15
+00:00:50,400 --> 00:00:54,000
+“Right brain creative, left brain logical”?
+
+16
+00:00:54,000 --> 00:00:57,500
+यह complete measurement नहीं
+
+17
+00:00:57,500 --> 00:01:01,200
+Specialization से personality तय नहीं होती
+
+18
+00:01:01,200 --> 00:01:04,800
+Educational reel; diagnosis या treatment advice नहीं

@@ -1,0 +1,82 @@
+{
+  "folder_id": "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6",
+  "manifest_id": "1_K3c7HsveeK-bawfYQuzeynMlA410ifq",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "expected_objects": [
+    {
+      "name": "reel_0018_hemispheric_myths_what_studies_measure_captions_hi.srt",
+      "id": "14nOt4fV5hI5vB6w514BtdfwE1aQmqIoD",
+      "size": 1622,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0018_hemispheric_myths_what_studies_measure_hi.mp4",
+      "id": "10klHrBFkbCS7vMlAaitMQLXUcii-4Hk9",
+      "size": 3277124,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0018_hemispheric_myths_what_studies_measure_narration_hi.wav",
+      "id": "1M3Ho7trzhPSNWcfmlKGJpD2ugntsCqYC",
+      "size": 3110444,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0018_hemispheric_myths_what_studies_measure_script.md",
+      "id": "1CriRtG0R0pEQIPyam1NovZw2mOHG7H9T",
+      "size": 7098,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0018_hemispheric_myths_what_studies_measure_sources.md",
+      "id": "1w8kZceMLMHha9jyemS-0iep5P_Aac4mY",
+      "size": 4915,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0018_metadata.json",
+      "id": "1ywC4KsoUiXcYZ3pHneTq1fEElJmk4GJC",
+      "size": 4096,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0018_qc_report.json",
+      "id": "1TC5Wao2cDiYSwLsFBwgotShnRtQwQdMs",
+      "size": 550,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0018_scene_01.png",
+      "id": "1XM3RbIDt4g4ucz2z9ieK-9FD_ZjoHqLQ",
+      "size": 107958,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0018_scene_02.png",
+      "id": "1h8D50ND3gC-dK-OQVm9tjuXBt2NX8EsJ",
+      "size": 125838,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0018_scene_03.png",
+      "id": "16EGQXXQCn8FOzqoqQtV5k3Q8RgP_gOLc",
+      "size": 129010,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0018_scene_04.png",
+      "id": "1-tcdXl-Ch2-QpeXnarSpRr267BGX1MF1",
+      "size": 118140,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}

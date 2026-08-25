@@ -1,0 +1,136 @@
+{
+  "files": [
+    {
+      "id": "1_K3c7HsveeK-bawfYQuzeynMlA410ifq",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T12:04:50.566Z",
+      "name": "reel_0018_drive_upload_manifest.json",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "6612",
+      "trashed": false
+    },
+    {
+      "id": "1ywC4KsoUiXcYZ3pHneTq1fEElJmk4GJC",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T12:04:47.843Z",
+      "name": "reel_0018_metadata.json",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "4096",
+      "trashed": false
+    },
+    {
+      "id": "1-tcdXl-Ch2-QpeXnarSpRr267BGX1MF1",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T12:04:00.650Z",
+      "name": "reel_0018_scene_04.png",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "118140",
+      "trashed": false
+    },
+    {
+      "id": "16EGQXXQCn8FOzqoqQtV5k3Q8RgP_gOLc",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T12:03:57.445Z",
+      "name": "reel_0018_scene_03.png",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "129010",
+      "trashed": false
+    },
+    {
+      "id": "1h8D50ND3gC-dK-OQVm9tjuXBt2NX8EsJ",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T12:03:53.469Z",
+      "name": "reel_0018_scene_02.png",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "125838",
+      "trashed": false
+    },
+    {
+      "id": "1XM3RbIDt4g4ucz2z9ieK-9FD_ZjoHqLQ",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T12:03:50.006Z",
+      "name": "reel_0018_scene_01.png",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "107958",
+      "trashed": false
+    },
+    {
+      "id": "1CriRtG0R0pEQIPyam1NovZw2mOHG7H9T",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-25T12:03:47.498Z",
+      "name": "reel_0018_hemispheric_myths_what_studies_measure_script.md",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "7098",
+      "trashed": false
+    },
+    {
+      "id": "1w8kZceMLMHha9jyemS-0iep5P_Aac4mY",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-25T12:03:45.011Z",
+      "name": "reel_0018_hemispheric_myths_what_studies_measure_sources.md",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "4915",
+      "trashed": false
+    },
+    {
+      "id": "1TC5Wao2cDiYSwLsFBwgotShnRtQwQdMs",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T12:03:42.428Z",
+      "name": "reel_0018_qc_report.json",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "550",
+      "trashed": false
+    },
+    {
+      "id": "14nOt4fV5hI5vB6w514BtdfwE1aQmqIoD",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-25T12:03:35.340Z",
+      "name": "reel_0018_hemispheric_myths_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "1622",
+      "trashed": false
+    },
+    {
+      "id": "1M3Ho7trzhPSNWcfmlKGJpD2ugntsCqYC",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-25T12:03:32.743Z",
+      "name": "reel_0018_hemispheric_myths_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "3110444",
+      "trashed": false
+    },
+    {
+      "id": "10klHrBFkbCS7vMlAaitMQLXUcii-4Hk9",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-25T12:03:29.740Z",
+      "name": "reel_0018_hemispheric_myths_what_studies_measure_hi.mp4",
+      "parents": [
+        "1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6"
+      ],
+      "size": "3277124",
+      "trashed": false
+    }
+  ]
+}

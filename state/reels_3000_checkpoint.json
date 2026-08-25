@@ -5,15 +5,15 @@
   "total_batches": 100,
   "reels_per_batch": 30,
   "generated_at": "2026-08-22T05:41:17.571278Z",
-  "updated_at": "2026-08-25T11:56:18.021594Z",
+  "updated_at": "2026-08-25T12:05:01.427092Z",
   "production_counts": {
-    "final": 17,
-    "planned": 2983
+    "final": 18,
+    "planned": 2982
   },
-  "completed_drive_verified": 17,
-  "next_reel": "reel_0018_hemispheric_myths_what_studies_measure",
-  "next_sequence": 18,
-  "last_completed": "reel_0017_brain_networks_what_studies_measure",
+  "completed_drive_verified": 18,
+  "next_reel": "reel_0019_glial_cells_what_studies_measure",
+  "next_sequence": 19,
+  "last_completed": "reel_0018_hemispheric_myths_what_studies_measure",
   "failure_log": [],
   "rules": {
     "one_complete_reel_at_a_time": true,
