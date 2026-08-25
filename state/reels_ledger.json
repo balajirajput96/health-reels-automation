@@ -375,6 +375,24 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T21:06:44.592077Z",
       "notes": "Drive verified in canonical Batch_002/Reel_0038 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0039_habit_automaticity_what_studies_measure",
+      "sha256": "d75422d2275262745189b2957d26aa5561e9f5725dfb0747f2d6954a391693aa",
+      "filename": "reel_0039_habit_automaticity_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T21:18:46.015494Z",
+      "notes": "Drive verified in canonical Batch_002/Reel_0039 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0040_environmental_friction_what_studies_measure",
+      "sha256": "175a0e48452e7eb2060f99933c63a4e194134cb2f59742b0b31dc401f712ea8d",
+      "filename": "reel_0040_environmental_friction_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T21:38:36.561782Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0040; 11 expected lowercase nonzero package objects plus one nonzero manifest; zero unrelated objects; no social publication."
     }
   ]
 }

@@ -1,0 +1,82 @@
+{
+  "folder_id": "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2",
+  "manifest_id": "__not_uploaded__",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": false,
+  "manifest_parent_ok": false,
+  "manifest_nonzero": false,
+  "unrelated_remote_object_count": 0,
+  "expected_objects": [
+    {
+      "name": "reel_0040_environmental_friction_what_studies_measure_captions_hi.srt",
+      "id": "1WAV44WzZv9kTM2HQhY5S7t30y_VM2T4B",
+      "size": 2258,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0040_environmental_friction_what_studies_measure_hi.mp4",
+      "id": "1bxCWl5XR79QErIKYs5a5iq889trXVmbm",
+      "size": 3734339,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0040_environmental_friction_what_studies_measure_narration_hi.wav",
+      "id": "1nromGLQqRP8S1FV-duCL1bIsv2pQUvIt",
+      "size": 3312044,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0040_environmental_friction_what_studies_measure_script.md",
+      "id": "1YaAhBqGwfD0nQu0irqjkUrheDNiSDV8z",
+      "size": 6225,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0040_environmental_friction_what_studies_measure_sources.md",
+      "id": "1sQO-XtWEhmWPT7Pb_vSUjOEtILMSQ7xU",
+      "size": 6817,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0040_metadata.json",
+      "id": "1AQMUhZ2VsVCq5u2BRe6KQICjsKusCLlz",
+      "size": 3826,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0040_qc_report.json",
+      "id": "1pucD7vJNGctO5nTDXevg_3aau3Uk2pfz",
+      "size": 555,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0040_scene_01.png",
+      "id": "1LpFkt-Aq76z2xsxlC4mPQCxkZu1xH59t",
+      "size": 111948,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0040_scene_02.png",
+      "id": "1mqruUw62zwl48wqpCXp2kV-9nFD3gG2i",
+      "size": 109006,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0040_scene_03.png",
+      "id": "1nA64n64NeSoVoKyRLDAFX8cg8VqUxN3h",
+      "size": 115566,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0040_scene_04.png",
+      "id": "1AhDbdaMPFsTJKTjsUJML0qM42a8E7sqL",
+      "size": 118237,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": false
+}

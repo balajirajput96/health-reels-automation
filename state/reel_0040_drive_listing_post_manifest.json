@@ -1,0 +1,148 @@
+{
+  "files": [
+    {
+      "id": "1YRDbV78RMOl-Sjo8071KaOXs_AadCHHb",
+      "md5Checksum": "8cfbf21653fde9c256cb7acce6d6e03f",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T21:37:57.975Z",
+      "name": "reel_0040_drive_upload_manifest.json",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "7888",
+      "webViewLink": "https://drive.google.com/file/d/1YRDbV78RMOl-Sjo8071KaOXs_AadCHHb/view?usp=drivesdk"
+    },
+    {
+      "id": "1AhDbdaMPFsTJKTjsUJML0qM42a8E7sqL",
+      "md5Checksum": "8a0adabedbac9dbd2e375796939f7f77",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T21:37:41.026Z",
+      "name": "reel_0040_scene_04.png",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "118237",
+      "webViewLink": "https://drive.google.com/file/d/1AhDbdaMPFsTJKTjsUJML0qM42a8E7sqL/view?usp=drivesdk"
+    },
+    {
+      "id": "1nA64n64NeSoVoKyRLDAFX8cg8VqUxN3h",
+      "md5Checksum": "bc0b0d5cf152e11b87d3ac25f2677c04",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T21:37:37.684Z",
+      "name": "reel_0040_scene_03.png",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "115566",
+      "webViewLink": "https://drive.google.com/file/d/1nA64n64NeSoVoKyRLDAFX8cg8VqUxN3h/view?usp=drivesdk"
+    },
+    {
+      "id": "1mqruUw62zwl48wqpCXp2kV-9nFD3gG2i",
+      "md5Checksum": "33fd8a13309dbb401ad72fbb4e6a5cff",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T21:37:34.359Z",
+      "name": "reel_0040_scene_02.png",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "109006",
+      "webViewLink": "https://drive.google.com/file/d/1mqruUw62zwl48wqpCXp2kV-9nFD3gG2i/view?usp=drivesdk"
+    },
+    {
+      "id": "1LpFkt-Aq76z2xsxlC4mPQCxkZu1xH59t",
+      "md5Checksum": "e7c838430a9c954adf6d69825f2433ba",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T21:37:30.961Z",
+      "name": "reel_0040_scene_01.png",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "111948",
+      "webViewLink": "https://drive.google.com/file/d/1LpFkt-Aq76z2xsxlC4mPQCxkZu1xH59t/view?usp=drivesdk"
+    },
+    {
+      "id": "1YaAhBqGwfD0nQu0irqjkUrheDNiSDV8z",
+      "md5Checksum": "e1080eea8e1d3d05367746c8188b3699",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-25T21:37:28.476Z",
+      "name": "reel_0040_environmental_friction_what_studies_measure_script.md",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "6225",
+      "webViewLink": "https://drive.google.com/file/d/1YaAhBqGwfD0nQu0irqjkUrheDNiSDV8z/view?usp=drivesdk"
+    },
+    {
+      "id": "1sQO-XtWEhmWPT7Pb_vSUjOEtILMSQ7xU",
+      "md5Checksum": "59f8b6f97abfaf80141f12ca6acba34a",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-25T21:37:26.010Z",
+      "name": "reel_0040_environmental_friction_what_studies_measure_sources.md",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "6817",
+      "webViewLink": "https://drive.google.com/file/d/1sQO-XtWEhmWPT7Pb_vSUjOEtILMSQ7xU/view?usp=drivesdk"
+    },
+    {
+      "id": "1pucD7vJNGctO5nTDXevg_3aau3Uk2pfz",
+      "md5Checksum": "f370204faacddc75c7a4af915be3e330",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T21:37:23.466Z",
+      "name": "reel_0040_qc_report.json",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "555",
+      "webViewLink": "https://drive.google.com/file/d/1pucD7vJNGctO5nTDXevg_3aau3Uk2pfz/view?usp=drivesdk"
+    },
+    {
+      "id": "1AQMUhZ2VsVCq5u2BRe6KQICjsKusCLlz",
+      "md5Checksum": "c1ae379aa34aefa09f7c2fd828550c5b",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T21:37:20.857Z",
+      "name": "reel_0040_metadata.json",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "3826",
+      "webViewLink": "https://drive.google.com/file/d/1AQMUhZ2VsVCq5u2BRe6KQICjsKusCLlz/view?usp=drivesdk"
+    },
+    {
+      "id": "1WAV44WzZv9kTM2HQhY5S7t30y_VM2T4B",
+      "md5Checksum": "239e117991ddb44d647335aa4bac5f14",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-25T21:37:18.170Z",
+      "name": "reel_0040_environmental_friction_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "2258",
+      "webViewLink": "https://drive.google.com/file/d/1WAV44WzZv9kTM2HQhY5S7t30y_VM2T4B/view?usp=drivesdk"
+    },
+    {
+      "id": "1nromGLQqRP8S1FV-duCL1bIsv2pQUvIt",
+      "md5Checksum": "2ecba0efe931d66912ad375b842cc39f",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-25T21:37:15.668Z",
+      "name": "reel_0040_environmental_friction_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "3312044",
+      "webViewLink": "https://drive.google.com/file/d/1nromGLQqRP8S1FV-duCL1bIsv2pQUvIt/view?usp=drivesdk"
+    },
+    {
+      "id": "1bxCWl5XR79QErIKYs5a5iq889trXVmbm",
+      "md5Checksum": "9ea7745f724bc756cf9e03e3789d36bb",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-25T21:37:12.527Z",
+      "name": "reel_0040_environmental_friction_what_studies_measure_hi.mp4",
+      "parents": [
+        "1dxeOTMWmZX1hJtynY00dUy4Z1IQ7m6U2"
+      ],
+      "size": "3734339",
+      "webViewLink": "https://drive.google.com/file/d/1bxCWl5XR79QErIKYs5a5iq889trXVmbm/view?usp=drivesdk"
+    }
+  ]
+}
