@@ -1,0 +1,290 @@
+{
+  "files": [
+    {
+      "id": "17JeyHSz5SimwiAtvZFpYV1y3PcM2H0Cc",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T11:15:59.531Z",
+      "name": "reel_0013_metadata.json",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "3825",
+      "trashed": false
+    },
+    {
+      "id": "1CfnyRpxSBNDZybULPRyokS34ATQlYYxt",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T11:15:38.651Z",
+      "name": "reel_0013_drive_upload_manifest.json",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "6557",
+      "trashed": false
+    },
+    {
+      "id": "1ShjY7_BqJg9XR5p1wMWiR1-Yx35ZJC2x",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T11:15:01.186Z",
+      "name": "reel_0013_scene_04.png",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "134998",
+      "trashed": false
+    },
+    {
+      "id": "1Zl7g6JANePJGTubBKUFdJ5s1c1cdMcra",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T11:14:57.583Z",
+      "name": "reel_0013_scene_03.png",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "127230",
+      "trashed": false
+    },
+    {
+      "id": "1eLNm1r2X1BIAmqhOG3g4Mwp_KKwoO_L7",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T11:14:54.218Z",
+      "name": "reel_0013_scene_02.png",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "120048",
+      "trashed": false
+    },
+    {
+      "id": "1ttyNUiXj0h_1GSpl2xE6wmoDunL9xhok",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T11:14:50.558Z",
+      "name": "reel_0013_scene_01.png",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "114716",
+      "trashed": false
+    },
+    {
+      "id": "1FEkSlqLxT61Wi0TDBgiNVj_IjuUSW0P_",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-25T11:14:47.780Z",
+      "name": "reel_0013_inner_speech_what_studies_measure_script.md",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "7142",
+      "trashed": false
+    },
+    {
+      "id": "1P9lzpKTkfYU6usnvs7QHHpGb9D0mQcmZ",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-25T11:14:45.171Z",
+      "name": "reel_0013_inner_speech_what_studies_measure_sources.md",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "5781",
+      "trashed": false
+    },
+    {
+      "id": "1_qD51GxNTBva1tchqBu_PY62nA2lN15s",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T11:14:42.765Z",
+      "name": "reel_0013_qc_report.json",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "547",
+      "trashed": false
+    },
+    {
+      "id": "1YyCf4Y_RyKVbsxxcojBTwNbjPMEx6uGR",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-25T11:14:37.384Z",
+      "name": "reel_0013_inner_speech_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "2127",
+      "trashed": false
+    },
+    {
+      "id": "1wu3OxS2gy-OdHzaoLDBCxiec94RvzY64",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-25T11:14:34.624Z",
+      "name": "reel_0013_inner_speech_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "3578924",
+      "trashed": false
+    },
+    {
+      "id": "1xzMFF04ArESV6AtuDfjMIK-NJqlfnueE",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-25T11:14:31.500Z",
+      "name": "reel_0013_inner_speech_what_studies_measure_hi.mp4",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "3918521",
+      "trashed": false
+    },
+    {
+      "id": "1GIsyOqyqSEAQcYHKmEf4f8azVEYP_MHt",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T11:48:12.583Z",
+      "name": "REEL-0013_manifest.json",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "2831",
+      "trashed": false
+    },
+    {
+      "id": "1muw5mFukfjfocz7DNpaCReJQaqg8JSVg",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T11:48:11.270Z",
+      "name": "REEL-0013_qc.json",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "2420",
+      "trashed": false
+    },
+    {
+      "id": "1cybM1gR1ZU9qz2gg3ORW4_vpgKzGY2h5",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T11:47:47.995Z",
+      "name": "REEL-0013_ref_reused_caution.png",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "4684991",
+      "trashed": false
+    },
+    {
+      "id": "1unfPCKHw7QheqXXgjS1EGIm2dOJ1I-15",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T11:47:45.725Z",
+      "name": "REEL-0013_ref_reused_coordination.png",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "5013104",
+      "trashed": false
+    },
+    {
+      "id": "1p2KEJSahMZrFsNhAa2-5Do7OIaqn3f3S",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T11:47:43.521Z",
+      "name": "REEL-0013_ref_reused_reading.png",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "4181708",
+      "trashed": false
+    },
+    {
+      "id": "10Qh1g2zw-iyme8BmCGKUyvmLdpjsUGaF",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T11:47:41.158Z",
+      "name": "REEL-0013_ref_reused_primary.png",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "4084706",
+      "trashed": false
+    },
+    {
+      "id": "1kJXVWWqmSqIN6SPCCPlCb3N_kdCKGylO",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T11:47:39.724Z",
+      "name": "REEL-0013_visual_source_log.md",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "1355",
+      "trashed": false
+    },
+    {
+      "id": "1YC04QrlGBEwi6d-zKfDFIEQT5-RLCbwm",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T11:47:38.505Z",
+      "name": "REEL-0013_research_sources.md",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "3214",
+      "trashed": false
+    },
+    {
+      "id": "1Gq01yhPqqR0HFnCwP7OIVA7EP-uvDlMZ",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T11:47:37.085Z",
+      "name": "REEL-0013_production_blueprint.md",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "2011",
+      "trashed": false
+    },
+    {
+      "id": "1oBvW4T79vBz4sVzmHL3PCu7nF-mvNeoH",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T11:47:35.869Z",
+      "name": "REEL-0013_claims.json",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "3748",
+      "trashed": false
+    },
+    {
+      "id": "189icnIPtYW_42ACiVbOqeKlfQ-gkuZUm",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T11:47:34.620Z",
+      "name": "REEL-0013_script_hi-IN.md",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "2720",
+      "trashed": false
+    },
+    {
+      "id": "1dsrgpeHODFhj_6ULnLI7kiX4k3jl7I-a",
+      "mimeType": "text/plain",
+      "modifiedTime": "2026-08-22T11:47:33.364Z",
+      "name": "REEL-0013_captions.srt",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "1527",
+      "trashed": false
+    },
+    {
+      "id": "1oq8s1GBYeU8vp1Nw2MqNQxQMQzH5rveX",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-22T11:47:32.130Z",
+      "name": "REEL-0013_narration_hi-IN.wav",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "3096182",
+      "trashed": false
+    },
+    {
+      "id": "1Z0WlMOUXRD7tXmzIDIb6H_xMEukopuu8",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-22T11:47:30.791Z",
+      "name": "REEL-0013.mp4",
+      "parents": [
+        "1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv"
+      ],
+      "size": "12704818",
+      "trashed": false
+    }
+  ]
+}

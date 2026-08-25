@@ -141,6 +141,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T09:03:56.375587Z",
       "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1IdbsUtBkvXAXUyHi3WpIcDqygCKy1-5e; not published."
+    },
+    {
+      "source_id": "reel_0013_inner_speech_what_studies_measure",
+      "sha256": "1529beaa9a81244d1a319c07d396d5200bd99266a7043663e306363a3d211608",
+      "filename": "reel_0013_inner_speech_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T11:18:41.240038Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv; 14 unrelated legacy objects preserved; not published."
     }
   ]
 }
