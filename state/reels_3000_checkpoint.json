@@ -5,15 +5,15 @@
   "total_batches": 100,
   "reels_per_batch": 30,
   "generated_at": "2026-08-22T05:41:17.571278Z",
-  "updated_at": "2026-08-25T20:53:23.028991Z",
+  "updated_at": "2026-08-25T21:06:53.399403Z",
   "production_counts": {
-    "final": 37,
-    "planned": 2963
+    "final": 38,
+    "planned": 2962
   },
-  "completed_drive_verified": 37,
-  "next_reel": "reel_0038_cue_competition_what_studies_measure",
-  "next_sequence": 38,
-  "last_completed": "reel_0037_implementation_intentions_what_studies_measure",
+  "completed_drive_verified": 38,
+  "next_reel": "reel_0039_habit_automaticity_what_studies_measure",
+  "next_sequence": 39,
+  "last_completed": "reel_0038_cue_competition_what_studies_measure",
   "failure_log": [],
   "rules": {
     "one_complete_reel_at_a_time": true,

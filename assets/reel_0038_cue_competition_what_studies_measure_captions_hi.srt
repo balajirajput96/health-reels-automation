@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:04,000
+क्या दिमाग में हर cue अपनी जगह के लिए competition करता है?
+
+2
+00:00:04,100 --> 00:00:07,900
+यह useful metaphor है, लेकिन research में इसे अलग-अलग tasks से measure किया जाता है।
+
+3
+00:00:08,000 --> 00:00:11,800
+Prospective memory है—future में planned action करना, जबकि कोई दूसरा task चलता रहे।
+
+4
+00:00:11,900 --> 00:00:15,800
+Cue आया यह याद रखना, और cue पर कौन-सा action करना, अलग हिस्से हैं।
+
+5
+00:00:15,900 --> 00:00:19,800
+Cue focal हो, तो ongoing task उसी cue को process करता है।
+
+6
+00:00:19,900 --> 00:00:23,700
+Non-focal cue के लिए extra monitoring लग सकती है।
+
+7
+00:00:23,800 --> 00:00:27,900
+इसलिए researchers target पहचानने की speed, action recall और correct response देखते हैं।
+
+8
+00:00:28,000 --> 00:00:31,700
+Trade-off भी हो सकता है।
+
+9
+00:00:31,800 --> 00:00:36,100
+Planned cue पर ज्यादा conscious attention लगे, तो ongoing task की accuracy या speed पर cost आ सकती है।
+
+10
+00:00:36,200 --> 00:00:39,900
+Prospective-memory score बेहतर होना, long-term habit का proof नहीं है।
+
+11
+00:00:40,000 --> 00:00:44,300
+एक study में young और older adults को laboratory और ecological tasks दिए गए।
+
+12
+00:00:44,400 --> 00:00:48,400
+Single-session strategy का overall effect strong नहीं था।
+
+13
+00:00:48,500 --> 00:00:52,400
+नए या longer-term tasks में transfer significant नहीं था।
+
+14
+00:00:52,500 --> 00:00:56,700
+पूछिए: cue focal था या non-focal? Measure detection, action recall या actual behavior था?
+
+15
+00:00:56,800 --> 00:01:00,800
+Ongoing task पर cost क्या थी? Result उसी session का था या बाद में भी दिखा?
+
+16
+00:01:00,900 --> 00:01:05,200
+If-then plan cue competition को कभी बदल सकता है, automatic memory या guaranteed performance नहीं देता।
+
+17
+00:01:05,300 --> 00:01:08,700
+यह education है—personal treatment या diagnosis नहीं।

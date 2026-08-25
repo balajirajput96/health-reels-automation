@@ -366,6 +366,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T20:53:10.518133Z",
       "notes": "Drive verified in canonical Batch_002/Reel_0037 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0038_cue_competition_what_studies_measure",
+      "sha256": "914932a32ea1227a335ef30a5c9bca774cf0dd037bef02f54d6eadb61086b881",
+      "filename": "reel_0038_cue_competition_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T21:06:44.592077Z",
+      "notes": "Drive verified in canonical Batch_002/Reel_0038 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
     }
   ]
 }
