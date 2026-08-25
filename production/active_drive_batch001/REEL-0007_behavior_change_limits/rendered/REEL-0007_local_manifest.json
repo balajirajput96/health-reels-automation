@@ -1,0 +1,57 @@
+{
+  "reel_id": "0007",
+  "display_id": "REEL-0007",
+  "batch": "Batch_001",
+  "working_title_hi": "Behaviour-change tools की context सीमा",
+  "status": "rendered_local_pending_qc_and_drive_upload",
+  "canonical_drive_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0007",
+  "format": {
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "duration_seconds": 67.866
+  },
+  "language": "hi-IN",
+  "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions",
+  "evidence_status": "verified_with_limits",
+  "sources": [
+    {
+      "title": "Michie et al. (2018), Evaluating the effectiveness of behavior change techniques",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6062857/"
+    },
+    {
+      "title": "Gardner et al. (2023), Developing habit-based health behaviour change interventions",
+      "url": "https://doi.org/10.1080/08870446.2021.2003362"
+    },
+    {
+      "title": "Singh et al. (2024), Time to Form a Habit",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/"
+    }
+  ],
+  "claims_boundary": "Behaviour-change technique effects depend on behaviour, person, context, and delivery. Short-term improvement does not prove durable change, and no single tool is a universal formula. This is general education, not treatment, diagnosis, or a guarantee.",
+  "ai_content_disclosure": "Hindi narration and visual scenes were AI-assisted; motion assembly and captions were deterministic.",
+  "files": {
+    "video": "REEL-0007_behavior_change_limits_QC_pending.mp4",
+    "narration": "narration_hi-IN.wav",
+    "captions_ass": "captions_hi-IN.ass",
+    "captions_srt": "captions_hi-IN.srt",
+    "script": "script_hi-IN.md",
+    "production_brief": "production_brief.md",
+    "source_validation": "../../../research/2026-08-25__reel0007__behavior-change-limits-source-validation.md"
+  },
+  "sha256": {
+    "REEL-0007_behavior_change_limits_QC_pending.mp4": "66828b12d9fc38143773dbf0430552ba4de921aeadd9c1964d8a86a5fbde6a48",
+    "narration_hi-IN.wav": "e81ca44c1a65f1e4d65fd51f8db834268af91cd9ba473f2307da454b8e66f8aa",
+    "captions_hi-IN.ass": "69d54c02cdc847f2ce48941c0f6006f7105cf1631bc9e85e72b08702c7243930",
+    "captions_hi-IN.srt": "22574843911743d5a45edb2eb0cb12ad979f13b684c312026699449ec9bec090"
+  },
+  "segment_durations_seconds": [
+    8.823,
+    11.537,
+    12.216,
+    10.859,
+    10.859,
+    13.573
+  ]
+}
