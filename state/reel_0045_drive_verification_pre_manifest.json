@@ -1,0 +1,83 @@
+{
+  "folder_id": "1w1G1O6VzgBJoUbPf4jilsOQdQcC_zqys",
+  "manifest_id": "__not_uploaded__",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": false,
+  "manifest_parent_ok": false,
+  "manifest_nonzero": false,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0045_compassion_practice_what_studies_measure_captions_hi.srt",
+      "id": "1Tstm1Ys4NWM_I-iZ2wIVtZuj_w-FM5ci",
+      "size": 1993,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0045_compassion_practice_what_studies_measure_hi.mp4",
+      "id": "1HThTtAIcR8Wz1Dbpv-L55-Ctx4WCu1HB",
+      "size": 3731708,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0045_compassion_practice_what_studies_measure_narration_hi.wav",
+      "id": "1yDpj7-er3foNVq5IVKfrGcZCxHjTMy1-",
+      "size": 3486764,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0045_compassion_practice_what_studies_measure_script.md",
+      "id": "18DsoivITTWgGVmlBdiyeimTURyJmfx0H",
+      "size": 5791,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0045_compassion_practice_what_studies_measure_sources.md",
+      "id": "1o3eETa_oB7bEbTh2ENWMMqhFrkmmdny_",
+      "size": 6197,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0045_metadata.json",
+      "id": "1fLbo8kpEAyTEz1DakptEVcFOZgTcCNUq",
+      "size": 3825,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0045_qc_report.json",
+      "id": "1HcwjJsFXtjA8byqIdqmcP8Ydg8aeozcy",
+      "size": 554,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0045_scene_01.png",
+      "id": "1lINt3spWFJld0pMI7mrt7czPZMirQGez",
+      "size": 103089,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0045_scene_02.png",
+      "id": "1_27nohLMvjzjjR9dOuvoFbRVgjI-56dP",
+      "size": 108524,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0045_scene_03.png",
+      "id": "17rOZx2xGS6ZiOOLksUECHHVthG-jNHnT",
+      "size": 112658,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0045_scene_04.png",
+      "id": "1pJQ4YNLoyxjXRg-F5mQuEMmF2Bb2i0QU",
+      "size": 104573,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": false
+}

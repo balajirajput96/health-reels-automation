@@ -1,0 +1,67 @@
+{
+  "reel_id": "reel_0045_compassion_practice_what_studies_measure",
+  "queue_id": "0045",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0045",
+  "title_hi": "करुणा-अभ्यास: studies क्या मापते हैं?",
+  "topic": "compassion practice measurement",
+  "unique_angle": "Compassion studies operationalize different outcomes—self-report, helping in a designed game, visual attention, fMRI associations, and other observable measures; no single score is a universal kindness or character meter.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_class": "peer-reviewed behavioral research, systematic review/meta-analysis, and eye-tracking/fMRI original research",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, individualized compassion practice, moral judgment, guaranteed benefit, universal kindness claim, or inference of character from one score or brain signal.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1371/journal.pone.0017798",
+      "citation": "Leiberg, Klimecki, and Singer (2011), Short-Term Compassion Training Increases Prosocial Behavior in a Newly Developed Prosocial Game",
+      "url": "https://doi.org/10.1371/journal.pone.0017798",
+      "type": "peer_reviewed_original_behavioral_research"
+    },
+    {
+      "source_id": "doi:10.1007/s12671-017-0841-8",
+      "citation": "Luberto et al. (2017), A Systematic Review and Meta-analysis of the Effects of Meditation on Empathy, Compassion, and Prosocial Behaviors",
+      "url": "https://doi.org/10.1007/s12671-017-0841-8",
+      "type": "peer_reviewed_systematic_review_meta_analysis"
+    },
+    {
+      "source_id": "doi:10.3389/fpsyg.2018.00771",
+      "citation": "Weng et al. (2018), Visual Attention to Suffering After Compassion Training Is Associated With Decreased Amygdala Responses",
+      "url": "https://doi.org/10.3389/fpsyg.2018.00771",
+      "type": "peer_reviewed_original_eye_tracking_fMRI_research"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0045_compassion_practice_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0045_compassion_practice_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0045_compassion_practice_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0045_compassion_practice_what_studies_measure_script.md",
+    "sources": "research/reel_0045_compassion_practice_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0045_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0045_scene_01.png",
+      "assets/reel_0045_scene_02.png",
+      "assets/reel_0045_scene_03.png",
+      "assets/reel_0045_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0045_qc_report.json",
+    "drive_manifest": "state/reel_0045_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes showing self-report, a designed helping game, eye tracking plus generic fMRI association, and a methods checklist. No participant likenesses, clinical scans, literal thought readouts, or individual prediction.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research measures, not compassion skill, moral character, hidden mental state, diagnosis, treatment, guaranteed prosocial change, or individual prediction. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "175ONRDLCLcjRaJzubby_hEz3AS689Odd",
+    "drive_verification_note": "Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0045 parent, one nonzero manifest control object, and zero unrelated remote objects."
+  },
+  "measured_narration_duration_seconds": 72.64
+}

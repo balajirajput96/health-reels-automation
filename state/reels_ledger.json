@@ -429,6 +429,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T22:22:33.372998Z",
       "notes": "Drive independently verified in canonical Batch_002/Reel_0044; 11 expected lowercase nonzero package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0045_compassion_practice_what_studies_measure",
+      "sha256": "b86b2ed0b1476efd5ef49ca9a75518bd52fd5b9ed1e6df50d6afda2b02c06354",
+      "filename": "reel_0045_compassion_practice_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T22:33:56.712162Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0045; 11 expected lowercase nonzero package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
     }
   ]
 }
