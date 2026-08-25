@@ -168,6 +168,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T11:39:45.636845Z",
       "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1Bv_05DAxQgDaDEjdeGmPC9xhtzNKm5tl; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0016_mental_time_travel_what_studies_measure",
+      "sha256": "fc9de2483f8f6612497080ffee40230058e59bf09454580da1d63a8335d56358",
+      "filename": "reel_0016_mental_time_travel_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T11:48:03.298119Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1uls-iL0Wolut5-IpjfzsoEMOjvWcABsD; no unrelated objects present; not published."
     }
   ]
 }
