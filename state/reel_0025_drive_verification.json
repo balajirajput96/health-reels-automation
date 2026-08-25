@@ -1,0 +1,82 @@
+{
+  "folder_id": "1WRLtVNXOPehlc_wtHhmFvD5eIq2DsrBL",
+  "manifest_id": "1rdf-40lKeEEey728gi_pW70V5xccQnDJ",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "expected_objects": [
+    {
+      "name": "reel_0025_metadata.json",
+      "id": "1T60eUAbQsmeF7iGDsEqDvELjuHV-xKHI",
+      "size": 3966,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0025_qc_report.json",
+      "id": "1CjOoIrNFNPxGA2yYysMByvKnQ1Yk1Xwb",
+      "size": 549,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0025_scene_01.png",
+      "id": "1jdrhEqyISHibZxO9cgkGNCHSTVwfNBeP",
+      "size": 137049,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0025_scene_02.png",
+      "id": "11gCwk5jDOKcUm49oVgEdDlXwTe4k6gvt",
+      "size": 119124,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0025_scene_03.png",
+      "id": "1khbXvq4qYlIMexkRHNo64ymacrins_Y6",
+      "size": 116506,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0025_scene_04.png",
+      "id": "1X1LKkdAaUzSfLGDkDRl7Ngma2beYSX1H",
+      "size": 113172,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0025_self_awareness_what_studies_measure_captions_hi.srt",
+      "id": "1GcOfpLUnWuctAJVFYKXm4McKvn5Pc9pE",
+      "size": 1915,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0025_self_awareness_what_studies_measure_hi.mp4",
+      "id": "1jEyScmYd9JUYt0SSyZW0b04BhKNNoI2X",
+      "size": 3938668,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0025_self_awareness_what_studies_measure_narration_hi.wav",
+      "id": "1qkCq-Ya7ZPx9LZzzglbyN9-nTQ5EUfuD",
+      "size": 3569324,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0025_self_awareness_what_studies_measure_script.md",
+      "id": "1R3PfGbtZpXPFwptOSxMAUxCQ2TKC9z5L",
+      "size": 6809,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0025_self_awareness_what_studies_measure_sources.md",
+      "id": "1YqMj-wcqOEIMjVoD-3GUNeUO5t-iq51Y",
+      "size": 5355,
+      "mimeType": "text/markdown"
+    }
+  ],
+  "valid": true
+}
