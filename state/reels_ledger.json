@@ -321,6 +321,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T17:19:19.949160Z",
       "notes": "Drive verified in Reel_0032 folder under canonical newer Batch_002 source-of-truth folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0033_emotion_granularity_what_studies_measure",
+      "sha256": "7af46261fe05646010c5e475850f267d4daf5a59245f1d5b32838220a53fe6f4",
+      "filename": "reel_0033_emotion_granularity_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T17:35:30.352770Z",
+      "notes": "Drive verified in reused canonical Reel_0033 folder; 11 expected lowercase package objects plus one nonzero manifest, 11 unrelated legacy uppercase objects retained unchanged; no social publication."
     }
   ]
 }
