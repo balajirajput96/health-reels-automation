@@ -1,0 +1,57 @@
+{
+  "reel_id": "0006",
+  "display_id": "REEL-0006",
+  "batch": "Batch_001",
+  "working_title_hi": "सामान्य भूल और prospective memory",
+  "status": "rendered_local_pending_qc_and_drive_upload",
+  "canonical_drive_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0006",
+  "format": {
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "duration_seconds": 72.7
+  },
+  "language": "hi-IN",
+  "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions",
+  "evidence_status": "verified_with_limits",
+  "sources": [
+    {
+      "title": "Matos et al. (2020), How Does Performing Demanding Activities Influence Prospective Remembering?",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7594016/"
+    },
+    {
+      "title": "Koo et al. (2022), The effects of implementation intentions on prospective memory",
+      "url": "https://doi.org/10.3389/fpsyg.2022.905860"
+    },
+    {
+      "title": "McDaniel & Einstein (2014), How important is importance for prospective memory?",
+      "url": "https://doi.org/10.3389/fpsyg.2014.00657"
+    }
+  ],
+  "claims_boundary": "Prospective memory is remembering to perform an intended action later. Ongoing task demands can influence remembering, but ordinary lapses have multiple possible causes. Importance alone does not guarantee retrieval. This is general education, not diagnosis or personal medical advice.",
+  "ai_content_disclosure": "Hindi narration and visual scenes were AI-assisted; motion assembly and captions were deterministic.",
+  "files": {
+    "video": "REEL-0006_ordinary_forgetting_QC_pending.mp4",
+    "narration": "narration_hi-IN.wav",
+    "captions_ass": "captions_hi-IN.ass",
+    "captions_srt": "captions_hi-IN.srt",
+    "script": "script_hi-IN.md",
+    "production_brief": "production_brief.md",
+    "source_validation": "../../../research/2026-08-25__reel0006__ordinary-forgetting-source-validation.md"
+  },
+  "sha256": {
+    "REEL-0006_ordinary_forgetting_QC_pending.mp4": "b25a28e030c46e4eecb64aaf0e96602043e533c1ebea6d277d38c28388c63829",
+    "narration_hi-IN.wav": "8c76494bd63c9004386c0ade55b70315334486d9b7e605683dc10658bc1c145a",
+    "captions_hi-IN.ass": "f80ad4308d11ed612767f1883b99a12665ab6ea9e5edf30159aca2c1bad8e018",
+    "captions_hi-IN.srt": "1776695f4fe81c8db6c52654bf79bb0d13e9b55e2651df59579fc18b0a3c206c"
+  },
+  "segment_durations_seconds": [
+    9.451,
+    11.632,
+    13.086,
+    11.632,
+    11.632,
+    15.267
+  ]
+}
