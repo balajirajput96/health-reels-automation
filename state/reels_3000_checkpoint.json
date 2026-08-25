@@ -5,15 +5,15 @@
   "total_batches": 100,
   "reels_per_batch": 30,
   "generated_at": "2026-08-22T05:41:17.571278Z",
-  "updated_at": "2026-08-25T12:14:35.040725Z",
+  "updated_at": "2026-08-25T12:23:26.939270Z",
   "production_counts": {
-    "final": 19,
-    "planned": 2981
+    "final": 20,
+    "planned": 2980
   },
-  "completed_drive_verified": 19,
-  "next_reel": "reel_0020_brain_energy_what_studies_measure",
-  "next_sequence": 20,
-  "last_completed": "reel_0019_glial_cells_what_studies_measure",
+  "completed_drive_verified": 20,
+  "next_reel": "reel_0021_sensory_integration_what_studies_measure",
+  "next_sequence": 21,
+  "last_completed": "reel_0020_brain_energy_what_studies_measure",
   "failure_log": [],
   "rules": {
     "one_complete_reel_at_a_time": true,
