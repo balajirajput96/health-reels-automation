@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,700
+“Meditation training का असर”—training को मापा कैसे गया?
+
+2
+00:00:03,800 --> 00:00:07,400
+Assigned dose: कितने मिनट और कितने दिन practice करनी थी।
+
+3
+00:00:07,500 --> 00:00:10,500
+यह actual practice के बराबर नहीं होता।
+
+4
+00:00:10,600 --> 00:00:14,300
+Adherence: कितने sessions किए गए।
+
+5
+00:00:14,400 --> 00:00:18,000
+कई online studies इसे बाद में self-report से पूछती हैं।
+
+6
+00:00:18,100 --> 00:00:21,700
+यह reported count है, sensor की exact minute-by-minute recording नहीं।
+
+7
+00:00:21,800 --> 00:00:25,200
+Outcome अलग है: well-being या mindfulness questionnaire score।
+
+8
+00:00:25,300 --> 00:00:28,400
+यह participant responses हैं, neural skill meter नहीं।
+
+9
+00:00:28,500 --> 00:00:31,700
+Dropout भी अलग measure है।
+
+10
+00:00:31,800 --> 00:00:35,500
+एक randomized online trial दो हफ्तों तक चला।
+
+11
+00:00:35,600 --> 00:00:39,300
+अलग meditation types और लगभग दस बनाम तीस मिनट की daily doses।
+
+12
+00:00:39,400 --> 00:00:43,200
+Adherence 14 assigned sessions में से report हुई।
+
+13
+00:00:43,300 --> 00:00:46,400
+Dose, adherence और outcome को एक न समझें।
+
+14
+00:00:46,500 --> 00:00:50,500
+एक EEG study में 11 novice MBSR practitioners थे।
+
+15
+00:00:50,600 --> 00:00:54,600
+Machine-learning classifiers ने EEG patterns classify किए।
+
+16
+00:00:54,700 --> 00:00:58,200
+Accuracy model और validation strategy पर निर्भर थी।
+
+17
+00:00:58,300 --> 00:01:01,000
+EEG thought-reading नहीं है।
+
+18
+00:01:01,100 --> 00:01:04,200
+Assigned या completed? Self-report या sensor?
+
+19
+00:01:04,300 --> 00:01:08,000
+Questionnaire, behavior या EEG? Method पढ़िए।
+
+20
+00:01:08,100 --> 00:01:14,000
+यह education है—diagnosis या treatment नहीं।

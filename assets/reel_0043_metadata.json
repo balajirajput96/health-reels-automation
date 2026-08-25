@@ -1,0 +1,67 @@
+{
+  "reel_id": "reel_0043_meditation_training_what_studies_measure",
+  "queue_id": "0043",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0043",
+  "title_hi": "ध्यान-अभ्यास: studies क्या मापते हैं?",
+  "topic": "meditation training measurement",
+  "unique_angle": "Assigned dose, completed sessions, self-reported adherence, questionnaire outcomes, dropout, and model-derived EEG outputs are distinct measures; practice minutes are not automatically skill or guaranteed benefit.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_class": "peer-reviewed randomized dose-and-type trial and original EEG machine-learning research",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, individualized meditation plan, guaranteed benefit, universal dose-response claim, thought-reading, or inference of mental health from adherence, questionnaire, or EEG.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.3389/fnhum.2023.1033420",
+      "citation": "Shang et al. (2023), EEG-based investigation of effects of mindfulness meditation training on state and trait by deep learning and traditional machine learning",
+      "url": "https://doi.org/10.3389/fnhum.2023.1033420",
+      "type": "peer_reviewed_original_EEG_machine_learning_research"
+    },
+    {
+      "source_id": "doi:10.1007/s12671-023-02119-2",
+      "citation": "Fincham, Mavor, and Dritschel (2023), Effects of Mindfulness Meditation Duration and Type on Well-being: an Online Dose-Ranging Randomized Controlled Trial",
+      "url": "https://doi.org/10.1007/s12671-023-02119-2",
+      "type": "peer_reviewed_randomized_dose_trial"
+    },
+    {
+      "source_id": "doi:10.3389/fnhum.2012.00018",
+      "citation": "Moore, Gruber, Derose, and Malinowski (2012), Regular, brief mindfulness meditation practice improves electrophysiological markers of attentional control",
+      "url": "https://doi.org/10.3389/fnhum.2012.00018",
+      "type": "peer_reviewed_randomized_longitudinal_EEG_study"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0043_meditation_training_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0043_meditation_training_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0043_meditation_training_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0043_meditation_training_what_studies_measure_script.md",
+    "sources": "research/reel_0043_meditation_training_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0043_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0043_scene_01.png",
+      "assets/reel_0043_scene_02.png",
+      "assets/reel_0043_scene_03.png",
+      "assets/reel_0043_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0043_qc_report.json",
+    "drive_manifest": "state/reel_0043_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes showing assigned dose, self-reported adherence and questionnaire outcomes, EEG model outputs, and a method checklist. No participant likenesses, clinical scans, literal thought readouts, or individual prediction.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate study measures, not meditation skill, hidden mental state, diagnosis, guaranteed brain change, or individual prediction. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1H83w0uwfeIOBp7BjqKRxo8DAAljtzC9m",
+    "drive_verification_note": "Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0043 parent, one nonzero manifest control object, and zero unrelated remote objects."
+  },
+  "measured_narration_duration_seconds": 74.16
+}

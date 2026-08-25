@@ -411,6 +411,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T22:02:19.493701Z",
       "notes": "Drive independently verified in canonical Batch_002/Reel_0042; 11 expected lowercase nonzero package objects plus one nonzero manifest; 10 pre-existing uppercase legacy objects preserved as unrelated; no social publication."
+    },
+    {
+      "source_id": "reel_0043_meditation_training_what_studies_measure",
+      "sha256": "0100583b2e637e2991f43d54b9da14f651b3377d14baa2a9856558d6348d08c5",
+      "filename": "reel_0043_meditation_training_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T22:13:42.532523Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0043; 11 expected lowercase nonzero package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
     }
   ]
 }
