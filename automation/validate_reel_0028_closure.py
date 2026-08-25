@@ -1,0 +1,16 @@
+import json
+from pathlib import Path
+rows=[json.loads(x) for x in Path('state/reels_3000_queue.jsonl').read_text().splitlines() if x.strip()]
+assert len(rows)==3000
+r=next(x for x in rows if int(x.get('sequence',-1))==28)
+assert r['production_stage']=='final' and r['research_stage']=='verified' and r['qc']['drive_verified'] is True
+cp=json.loads(Path('state/reels_3000_checkpoint.json').read_text())
+assert cp['production_counts']=={'final':28,'planned':2972} and cp['completed_drive_verified']==28 and cp['next_sequence']==29
+assert json.loads(Path('assets/reel_0028_qc_report.json').read_text())['valid'] is True
+v=json.loads(Path('state/reel_0028_drive_verification.json').read_text())
+assert v['valid'] is True and v['expected_count']==11 and v['found_expected_count']==11 and v['unrelated_remote_object_count']==0
+m=json.loads(Path('assets/reel_0028_metadata.json').read_text())
+assert m['qc']['local_media_qc']=='passed' and m['qc']['drive_verified'] is True and m['publication']['status']=='not_published'
+items=json.loads(Path('state/reels_ledger.json').read_text())['items']
+assert sum(1 for x in items if x.get('source_id')=='reel_0028_social_norms_what_studies_measure' and x.get('stage')=='final')==1
+print('REEL28_CLOSURE_OK queue=3000 final=28 planned=2972 next=29 qc=true drive=true ledger=true')

@@ -5,15 +5,15 @@
   "total_batches": 100,
   "reels_per_batch": 30,
   "generated_at": "2026-08-22T05:41:17.571278Z",
-  "updated_at": "2026-08-25T16:11:40.005662Z",
+  "updated_at": "2026-08-25T16:23:22.226281Z",
   "production_counts": {
-    "final": 27,
-    "planned": 2973
+    "final": 28,
+    "planned": 2972
   },
-  "completed_drive_verified": 27,
-  "next_reel": "reel_0028_social_norms_what_studies_measure",
-  "next_sequence": 28,
-  "last_completed": "reel_0027_observational_learning_what_studies_measure",
+  "completed_drive_verified": 28,
+  "next_reel": "reel_0029_choice_architecture_what_studies_measure",
+  "next_sequence": 29,
+  "last_completed": "reel_0028_social_norms_what_studies_measure",
   "failure_log": [],
   "rules": {
     "one_complete_reel_at_a_time": true,

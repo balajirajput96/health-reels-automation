@@ -276,6 +276,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T16:11:39.580509Z",
       "notes": "Drive verified in Reel_0027 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0028_social_norms_what_studies_measure",
+      "sha256": "6247de45b60405478fe7794dfe90595edb980ebe5ab85383c663bf12034b049c",
+      "filename": "reel_0028_social_norms_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T16:23:21.760712Z",
+      "notes": "Drive verified in Reel_0028 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
     }
   ]
 }
