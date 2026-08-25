@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0023_global_workspace_what_studies_measure",
+  "queue_id": "0023",
+  "batch": "Batch_001",
+  "title_hi": "ग्लोबल वर्कस्पेस: studies वास्तव में क्या मापते हैं?",
+  "topic": "global neuronal workspace measurement",
+  "unique_angle": "Global workspace is a testable theory, not a single brain switch: studies separate reportability, behavior, late neural signals, connectivity, and model predictions.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 65.28,
+  "evidence_class": "peer-reviewed GNW review + peer-reviewed adversarial theory-testing study + peer-reviewed preregistered protocol + peer-reviewed intracranial conscious-access study",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, mind-reading, or claim that one brain region, ERP, connectivity measure, or model proves or causes consciousness.",
+  "source_ids": [
+    {"source_id":"doi:10.1016/j.neuron.2020.01.026","citation":"Mashour et al. (2020), Conscious Processing and the Global Neuronal Workspace Hypothesis","url":"https://doi.org/10.1016/j.neuron.2020.01.026","type":"peer_reviewed_theory_review"},
+    {"source_id":"doi:10.1038/s41586-025-08888-1","citation":"Cogitate Consortium (2025), Adversarial testing of global neuronal workspace and integrated information theories of consciousness","url":"https://doi.org/10.1038/s41586-025-08888-1","type":"peer_reviewed_adversarial_collaboration"},
+    {"source_id":"doi:10.1371/journal.pone.0268577","citation":"Melloni et al. (2023), An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory","url":"https://doi.org/10.1371/journal.pone.0268577","type":"peer_reviewed_preregistered_protocol"},
+    {"source_id":"doi:10.1371/journal.pbio.1000061","citation":"Gaillard et al. (2009), Converging Intracranial Markers of Conscious Access","url":"https://doi.org/10.1371/journal.pbio.1000061","type":"peer_reviewed_intracranial_study"}
+  ],
+  "assets": {
+    "video":"assets/reel_0023_global_workspace_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0023_global_workspace_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0023_global_workspace_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0023_global_workspace_what_studies_measure_script.md",
+    "sources":"research/reel_0023_global_workspace_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0023_scene_01.png","assets/reel_0023_scene_02.png","assets/reel_0023_scene_03.png","assets/reel_0023_scene_04.png"],
+    "qc_report":"assets/reel_0023_qc_report.json",
+    "drive_manifest":"state/reel_0023_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No participant likenesses, fabricated measurements, clinical labels, or personal consciousness readings are used.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain global-workspace research methods and are not brain scans or direct readouts of private experience. Not medical advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1Shrpxa_4J8OgaUQZJ_O6kBLcyR9DN5X6","drive_verification_note":"Verified by authenticated Drive listing; 11 expected current-package objects plus one durable manifest are present with nonzero sizes and correct parent. No unrelated objects were present in this newly created Reel_0023 folder."}
+}

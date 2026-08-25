@@ -5,15 +5,15 @@
   "total_batches": 100,
   "reels_per_batch": 30,
   "generated_at": "2026-08-22T05:41:17.571278Z",
-  "updated_at": "2026-08-25T12:39:42.854726Z",
+  "updated_at": "2026-08-25T12:55:02.482089Z",
   "production_counts": {
-    "final": 22,
-    "planned": 2978
+    "final": 23,
+    "planned": 2977
   },
-  "completed_drive_verified": 22,
-  "next_reel": "reel_0023_global_workspace_what_studies_measure",
-  "next_sequence": 23,
-  "last_completed": "reel_0022_conscious_access_what_studies_measure",
+  "completed_drive_verified": 23,
+  "next_reel": "reel_0024_predictive_processing_what_studies_measure",
+  "next_sequence": 24,
+  "last_completed": "reel_0023_global_workspace_what_studies_measure",
   "failure_log": [],
   "rules": {
     "one_complete_reel_at_a_time": true,
