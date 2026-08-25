@@ -24,6 +24,9 @@ jobs:
       - name: Validate idempotency ledger
         run: python automation/state_guard.py status
 
+      - name: Validate active Drive production checkpoint
+        run: python automation/drive_checkpoint_guard.py
+
       - name: Run idempotency guard tests
         run: python -m unittest discover -s tests -v
 
