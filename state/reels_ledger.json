@@ -177,6 +177,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T11:48:03.298119Z",
       "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1uls-iL0Wolut5-IpjfzsoEMOjvWcABsD; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0017_brain_networks_what_studies_measure",
+      "sha256": "d5bb62d25840088ae4764178b3b7cbb075a38eac5a6992175d920ac443a260c9",
+      "filename": "reel_0017_brain_networks_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T11:56:17.667830Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1Xnh_qRGJnOKSqtU7CJfzrtuJkexNT5kR; no unrelated objects present; not published."
     }
   ]
 }

@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:04,100
+क्या scan ने पूरी brain wiring पढ़ ली?
+
+2
+00:00:04,100 --> 00:00:07,800
+Node, connection और data पहले define होते हैं
+
+3
+00:00:07,800 --> 00:00:11,400
+Structural connectivity: white-matter tracts
+
+4
+00:00:11,400 --> 00:00:15,000
+या anatomical organization का model
+
+5
+00:00:15,000 --> 00:00:18,800
+Functional connectivity अलग चीज़ है
+
+6
+00:00:18,800 --> 00:00:22,500
+Time-series में statistical dependence
+
+7
+00:00:22,500 --> 00:00:26,000
+Literal wire या causation नहीं
+
+8
+00:00:26,000 --> 00:00:29,800
+Task fMRI: BOLD एक indirect signal है
+
+9
+00:00:29,800 --> 00:00:33,600
+EEG/MEG: time-resolved signals
+
+10
+00:00:33,600 --> 00:00:37,100
+हर method की limits अलग होती हैं
+
+11
+00:00:37,100 --> 00:00:40,900
+Graph theory: nodes और edges की matrix
+
+12
+00:00:40,900 --> 00:00:44,600
+Degree, strength, modules, hubs, efficiency
+
+13
+00:00:44,600 --> 00:00:48,300
+Numbers analysis choices पर depend करते हैं
+
+14
+00:00:48,300 --> 00:00:52,000
+Atlas और parcellation भी matter करते हैं
+
+15
+00:00:52,000 --> 00:00:55,800
+Functional connection को physical cable न समझें
+
+16
+00:00:55,800 --> 00:00:59,600
+एक region complex behavior का अकेला कारण नहीं
+
+17
+00:00:59,600 --> 00:01:03,300
+Scan thoughts नहीं पढ़ता
+
+18
+00:01:03,300 --> 00:01:07,300
+Educational reel; diagnosis या treatment advice नहीं
