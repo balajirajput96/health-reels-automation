@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0022_conscious_access_what_studies_measure",
+  "queue_id": "0022",
+  "batch": "Batch_001",
+  "title_hi": "चेतन पहुँच: studies वास्तव में क्या मापते हैं?",
+  "topic": "conscious access measurement",
+  "unique_angle": "Conscious access has no universal meter: studies distinguish subjective reports, objective performance, masking contrasts, no-report proxies, and neural correlates.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 73.92,
+  "evidence_class": "peer-reviewed consciousness measurement review + peer-reviewed no-report critical review + peer-reviewed simultaneous EEG-fMRI awareness study + peer-reviewed intracranial conscious-access study",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, mind-reading, or claim that EEG, fMRI, intracranial recordings, pupil, eye movements, or performance directly read another person’s subjective experience.",
+  "source_ids": [
+    {"source_id":"doi:10.1002/wcs.1697","citation":"Jimenez et al. (2024), Consciousness Under the Spotlight: The Problem of Measuring Subjective Experience","url":"https://doi.org/10.1002/wcs.1697","type":"methodological_review"},
+    {"source_id":"doi:10.3389/fnhum.2022.861517","citation":"Duman et al. (2022), The No-Report Paradigm: A Revolution in Consciousness Research?","url":"https://doi.org/10.3389/fnhum.2022.861517","type":"no_report_critical_review"},
+    {"source_id":"doi:10.1523/JNEUROSCI.2799-20.2021","citation":"Dellert et al. (2021), Dissociating the Neural Correlates of Consciousness and Task Relevance in Face Perception Using Simultaneous EEG-fMRI","url":"https://doi.org/10.1523/JNEUROSCI.2799-20.2021","type":"simultaneous_eeg_fmri_experiment"},
+    {"source_id":"doi:10.1371/journal.pbio.1000061","citation":"Gaillard et al. (2009), Converging Intracranial Markers of Conscious Access","url":"https://doi.org/10.1371/journal.pbio.1000061","type":"intracranial_electrophysiology_study"}
+  ],
+  "assets": {
+    "video":"assets/reel_0022_conscious_access_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0022_conscious_access_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0022_conscious_access_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0022_conscious_access_what_studies_measure_script.md",
+    "sources":"research/reel_0022_conscious_access_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0022_scene_01.png","assets/reel_0022_scene_02.png","assets/reel_0022_scene_03.png","assets/reel_0022_scene_04.png"],
+    "qc_report":"assets/reel_0022_qc_report.json",
+    "drive_manifest":"state/reel_0022_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No participant likenesses, fabricated measurements, clinical labels, or personal consciousness readings are used.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain consciousness research methods and are not scans or direct readouts of another person’s subjective experience. Not medical advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1q_eYEZ7CL4JJkV5kIKmlrKZzgd6_2S9_","drive_verification_note":"Verified by authenticated Drive listing; 11 expected current-package objects plus one durable manifest are present with nonzero sizes and correct parent. No unrelated objects were present in this newly created Reel_0022 folder."}
+}

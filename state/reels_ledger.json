@@ -222,6 +222,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T12:31:36.604115Z",
       "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1QN7nvy_RdKVNTxFqVUbihE9xxLNmOIJ_; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0022_conscious_access_what_studies_measure",
+      "sha256": "5ea42847106de2d280472f89db70f282dfb5485ec63f2ab370c1bef7537fe928",
+      "filename": "reel_0022_conscious_access_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T12:39:42.475774Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 16VFoz28qo24SM7G7JSJ7LZYvbYqHrTHF; no unrelated objects present; not published."
     }
   ]
 }
