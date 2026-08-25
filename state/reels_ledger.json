@@ -294,6 +294,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T16:35:59.477087Z",
       "notes": "Drive verified in Reel_0029 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0030_prosocial_behavior_what_studies_measure",
+      "sha256": "c2b7afb0d927b88657921e5f842b7979ca9422a350c06c4ac2c512cd70db727d",
+      "filename": "reel_0030_prosocial_behavior_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T16:55:24.784786Z",
+      "notes": "Drive verified in Reel_0030 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
     }
   ]
 }
