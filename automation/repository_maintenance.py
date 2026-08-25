@@ -17,7 +17,7 @@ from pathlib import Path
 
 TARGET_ACCOUNT = "@balajirajput96"
 SCHEDULE = "30 0 * * *"
-UNSAFE_PATTERNS = ["cure", "guarantee", "diagnosis", "medical advice"]
+UNSAFE_PATTERNS = ["cure", "guarantee", "diagnosis", "medical advice", "treat"]
 ROOT_DIR = Path(__file__).resolve().parents[1]
 
 def read_files():

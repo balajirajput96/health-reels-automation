@@ -25,6 +25,9 @@ jobs:
       - name: Run maintenance audit
         run: python automation/repository_maintenance.py
 
+      - name: Run test suite to verify patch is non-breaking
+        run: PYTHONPATH=. python -m unittest discover -s tests -v
+
       - name: Create draft pull request
         uses: peter-evans/create-pull-request@v6
         with:
