@@ -5,15 +5,15 @@
   "total_batches": 100,
   "reels_per_batch": 30,
   "generated_at": "2026-08-22T05:41:17.571278Z",
-  "updated_at": "2026-08-25T12:23:26.939270Z",
+  "updated_at": "2026-08-25T12:31:36.972407Z",
   "production_counts": {
-    "final": 20,
-    "planned": 2980
+    "final": 21,
+    "planned": 2979
   },
-  "completed_drive_verified": 20,
-  "next_reel": "reel_0021_sensory_integration_what_studies_measure",
-  "next_sequence": 21,
-  "last_completed": "reel_0020_brain_energy_what_studies_measure",
+  "completed_drive_verified": 21,
+  "next_reel": "reel_0022_conscious_access_what_studies_measure",
+  "next_sequence": 22,
+  "last_completed": "reel_0021_sensory_integration_what_studies_measure",
   "failure_log": [],
   "rules": {
     "one_complete_reel_at_a_time": true,

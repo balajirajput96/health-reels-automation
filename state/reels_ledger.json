@@ -213,6 +213,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T12:23:26.576341Z",
       "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 10wxO1NH1rw0Ji2CnfjvOw6P1lmQ2wrAQ; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0021_sensory_integration_what_studies_measure",
+      "sha256": "150912ec8606df22cb35887565a85442c57889a565bca2f214173f55cbd43366",
+      "filename": "reel_0021_sensory_integration_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T12:31:36.604115Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1QN7nvy_RdKVNTxFqVUbihE9xxLNmOIJ_; no unrelated objects present; not published."
     }
   ]
 }
