@@ -132,6 +132,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-23T02:34:03.355485Z",
       "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1paYv1SLKrooPlKXbhtBZ66ict_Wg8Tkb; not published."
+    },
+    {
+      "source_id": "reel_0012_mental_models_what_studies_measure",
+      "sha256": "ac09cc5c682f9a34a73448d885e27cae8806db6cc42f65e428612f640d51c9d1",
+      "filename": "reel_0012_mental_models_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T09:03:56.375587Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1IdbsUtBkvXAXUyHi3WpIcDqygCKy1-5e; not published."
     }
   ]
 }
