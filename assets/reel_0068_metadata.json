@@ -1,0 +1,37 @@
+{
+  "reel_id":"reel_0068_social_learning_what_studies_measure",
+  "queue_id":"0068",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0068",
+  "title_hi":"सामाजिक सीखना: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"social learning, observational learning, imitation, emulation, retention, transfer, and measurement limits",
+  "unique_angle":"Social-learning studies measure specific observable outcomes after defined social exposure—not one universal ability to learn from people.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed observational-learning and social-learning reviews distinguishing imitation, emulation, attention, retention, and transfer",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Task outcomes are context-bound and are not diagnosis, treatment, direct thought reading, personal assessment, or a universal measure of social learning.",
+  "source_ids":[
+    {"source_id":"doi:10.1007/BF03393102","citation":"Fryling, Johnston, and Hayes (2011), Understanding Observational Learning: An Interbehavioral Approach, The Analysis of Verbal Behavior","url":"https://doi.org/10.1007/BF03393102","type":"peer_reviewed_observational_learning_review"},
+    {"source_id":"doi:10.3389/fpsyg.2024.1466618","citation":"Ishikawa and Itakura (2024), The development of social learning: from pedagogical cues to selective learning, Frontiers in Psychology","url":"https://doi.org/10.3389/fpsyg.2024.1466618","type":"peer_reviewed_developmental_social_learning_review"},
+    {"source_id":"doi:10.3389/fnins.2014.00058","citation":"Gariépy et al. (2014), Social learning in humans and other animals, Frontiers in Neuroscience","url":"https://doi.org/10.3389/fnins.2014.00058","type":"peer_reviewed_social_learning_review"}
+  ],
+  "assets":{
+    "video":"assets/reel_0068_social_learning_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0068_social_learning_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0068_social_learning_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0068_social_learning_what_studies_measure_script.md",
+    "sources":"research/reel_0068_social_learning_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0068_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0068_scene_01.png","assets/reel_0068_scene_02.png","assets/reel_0068_scene_03.png","assets/reel_0068_scene_04.png"],
+    "qc_report":"assets/reel_0068_qc_report.json",
+    "drive_manifest":"state/reel_0068_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes show a model and observer, parallel imitation/emulation paths, outcome tiles, and context-bound interpretation limits. No real person, private data, brain scan, or direct mind-reading claim is depicted.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate social-learning task structure and measurement limits, not a complete psychological assessment. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":62.76,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1gdC2mZhIPxMs2p42ktWUPjYMpJ4ztCEW","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; manifest finalized in place."}
+}

@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,500
+रुकिए—social learning study में असल में क्या record होता है?
+
+2
+00:00:04,500 --> 00:00:08,700
+पहले किसी व्यक्ति का demonstration दिखाया जाता है।
+
+3
+00:00:08,700 --> 00:00:13,300
+फिर observer की later choice, attention या action record होती है।
+
+4
+00:00:13,300 --> 00:00:18,000
+वही outcome, लेकिन अलग actions से पहुँचना emulation हो सकता है।
+
+5
+00:00:18,000 --> 00:00:22,800
+Goal के साथ model का action sequence दोहराना imitation की ओर evidence देता है।
+
+6
+00:00:22,800 --> 00:00:27,000
+Surface copying, model का उद्देश्य समझने का पक्का प्रमाण नहीं है।
+
+7
+00:00:27,000 --> 00:00:31,200
+Researchers gaze, tool use और word-object association भी मापते हैं।
+
+8
+00:00:31,200 --> 00:00:35,700
+Retention और नए context में transfer भी अलग outcomes हैं।
+
+9
+00:00:35,700 --> 00:00:40,200
+Eye contact जैसा social cue performance बदल सकता है।
+
+10
+00:00:40,200 --> 00:00:44,800
+वजह communicative intention या सिर्फ attention capture—दोनों हो सकती हैं।
+
+11
+00:00:44,800 --> 00:00:49,300
+एक task score universal social-learning ability नहीं मापता।
+
+12
+00:00:49,300 --> 00:00:53,500
+Memory, motivation, motor skill और prior experience भी असर डालते हैं।
+
+13
+00:00:53,500 --> 00:00:57,500
+निष्कर्ष: यह observable behavior है—सीधे mind-reading नहीं।
+
+14
+00:00:57,500 --> 00:01:00,100
+Outcome, action sequence, retention और transfer अलग evidence हैं।
+
+15
+00:01:00,100 --> 00:01:02,760
+AI-generated educational visuals; यह diagnosis या personal assessment नहीं है।

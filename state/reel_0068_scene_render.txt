@@ -1,0 +1,4 @@
+/home/ubuntu/repos/health-reels-automation/assets/reel_0068_scene_01.png
+/home/ubuntu/repos/health-reels-automation/assets/reel_0068_scene_02.png
+/home/ubuntu/repos/health-reels-automation/assets/reel_0068_scene_03.png
+/home/ubuntu/repos/health-reels-automation/assets/reel_0068_scene_04.png
