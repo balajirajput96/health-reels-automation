@@ -1,0 +1,12 @@
+{
+  "decision": "registered",
+  "record": {
+    "source_id": "reel_0066_deep_work_claims_what_studies_measure",
+    "sha256": "0c555d84dc142c927bdfb384351129f167b25dd2424c4195679fe7943eaf5aec",
+    "filename": "reel_0066_deep_work_claims_what_studies_measure_hi.mp4",
+    "stage": "final",
+    "target_account": "@balajirajput96",
+    "recorded_at": "2026-08-26T08:01:43.751077Z",
+    "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
+  }
+}

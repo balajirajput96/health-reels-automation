@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,600
+क्या uninterrupted काम हमेशा बेहतर होता है?
+
+2
+00:00:03,600 --> 00:00:07,200
+Science में जवाब measurement से आता है।
+
+3
+00:00:07,200 --> 00:00:10,800
+Deep work एक standardized lab variable नहीं।
+
+4
+00:00:10,800 --> 00:00:14,400
+Vigilance task में signal detect किया जाता है।
+
+5
+00:00:14,400 --> 00:00:18,000
+Accuracy, reaction time और omissions देखे जाते हैं।
+
+6
+00:00:18,000 --> 00:00:21,600
+False alarms और time-on-task बदलाव भी।
+
+7
+00:00:21,600 --> 00:00:25,200
+Simple repetitive task में performance घट सकती है।
+
+8
+00:00:25,200 --> 00:00:28,800
+Vigilant attention multi-component process है।
+
+9
+00:00:28,800 --> 00:00:32,400
+कुछ experiments interruptions या task switching बदलते हैं।
+
+10
+00:00:32,400 --> 00:00:36,000
+Interrupted और uninterrupted conditions compare होती हैं।
+
+11
+00:00:36,000 --> 00:00:39,600
+यह task-specific cost है, universal number नहीं।
+
+12
+00:00:39,600 --> 00:00:43,200
+Effort, fatigue और focus की self-report अलग है।
+
+13
+00:00:43,200 --> 00:00:46,800
+Subjective report objective output के बराबर नहीं।
+
+14
+00:00:46,800 --> 00:00:50,400
+fMRI और EEG neural correlates दिखा सकते हैं।
+
+15
+00:00:50,400 --> 00:00:54,000
+पर ये deep work की live recording नहीं।
+
+16
+00:00:54,000 --> 00:00:57,600
+Real-world outcome context के साथ पढ़िए।
+
+17
+00:00:57,600 --> 00:01:01,200
+Association causation का proof नहीं होती।
+
+18
+00:01:01,200 --> 00:01:04,800
+Task, interruption, outcome और population पूछिए।
+
+19
+00:01:04,800 --> 00:01:08,400
+एक score से discipline या intelligence label मत दीजिए।
+
+20
+00:01:08,400 --> 00:01:12,920
+यह diagnosis नहीं और personal, medical, या financial advice नहीं है। AI narration और conceptual visuals उपयोग हुए हैं।
