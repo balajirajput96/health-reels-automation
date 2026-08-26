@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:05,000
+Study कहे “stress मापा”, तो पूछिए: कौन-सा layer?
+
+2
+00:00:05,000 --> 00:00:10,000
+घटना, appraisal, शरीर का signal या outcome?
+
+3
+00:00:10,000 --> 00:00:15,000
+एक layer है exposure—क्या हुआ और किस context में?
+
+4
+00:00:15,000 --> 00:00:20,000
+दूसरा है perceived stress.
+
+5
+00:00:20,000 --> 00:00:25,000
+PSS recent life को कितना stressful महसूस किया गया, यह मापता है।
+
+6
+00:00:25,000 --> 00:00:30,000
+यह perception है, घटनाओं की गिनती नहीं।
+
+7
+00:00:30,000 --> 00:00:35,000
+कुछ scales आने वाली situation का cognitive appraisal मापते हैं।
+
+8
+00:00:35,000 --> 00:00:40,000
+Threat या challenge—instrument और sample matter करते हैं।
+
+9
+00:00:40,000 --> 00:00:45,000
+एक population का validation हर जगह लागू नहीं होता।
+
+10
+00:00:45,000 --> 00:00:50,000
+तीसरा layer physiology: heart rate या HRV जैसे signals.
+
+11
+00:00:50,000 --> 00:00:55,000
+Self-report और cardiovascular measures कुछ analyses में associate हुए।
+
+12
+00:00:55,000 --> 00:01:00,000
+लेकिन subjective score और bodily signal एक ही चीज़ नहीं हैं।
+
+13
+00:01:00,000 --> 00:01:05,000
+Mood, behavior और health अलग outcomes हैं।
+
+14
+00:01:05,000 --> 00:01:10,000
+Association cause या diagnosis का proof नहीं।
+
+15
+00:01:10,000 --> 00:01:14,760
+Instrument, time window, sample और outcome पूछिए।
+Stress को layers की तरह पढ़िए—यह research literacy है।

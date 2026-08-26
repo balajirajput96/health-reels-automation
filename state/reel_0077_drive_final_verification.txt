@@ -1,0 +1,117 @@
+{
+  "folder_id": "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM",
+  "manifest_id": "1H1y-0Sc48e1SCMugTKjdC55N9uCM2Yyn",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "duplicate_expected_names": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0077_metadata.json",
+      "id": "1c2nDtUghWDJEixTWkz6kggIOzhgut7yj",
+      "size": 4938,
+      "mimeType": "application/json",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    },
+    {
+      "name": "reel_0077_qc_report.json",
+      "id": "1AkgPvOvd92DfOtwx7fet17gnGdFX7DcI",
+      "size": 551,
+      "mimeType": "application/json",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    },
+    {
+      "name": "reel_0077_scene_01.png",
+      "id": "1T68CpWlx8QeEw9r7_hxSx9-ko_bOKINf",
+      "size": 170747,
+      "mimeType": "image/png",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    },
+    {
+      "name": "reel_0077_scene_02.png",
+      "id": "1oGFNrcaSbTXZjw07hBFWGUNSNguzo6TG",
+      "size": 128637,
+      "mimeType": "image/png",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    },
+    {
+      "name": "reel_0077_scene_03.png",
+      "id": "1BDpeHW-QQL8oYkS4NTWZvv7NMYONhOCG",
+      "size": 143803,
+      "mimeType": "image/png",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    },
+    {
+      "name": "reel_0077_scene_04.png",
+      "id": "1M18c7rzVGzt7UV55wOwwPX-lFW_mQPcQ",
+      "size": 114080,
+      "mimeType": "image/png",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    },
+    {
+      "name": "reel_0077_stress_appraisal_what_studies_measure_captions_hi.srt",
+      "id": "1ZdiiYmQJ_HZy-iPJB7N1KqgQh3kRgStL",
+      "size": 1843,
+      "mimeType": "text/plain",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    },
+    {
+      "name": "reel_0077_stress_appraisal_what_studies_measure_hi.mp4",
+      "id": "1kVPbVBkbKnlO8qAI_aHCoS-3rtToyjJK",
+      "size": 4995745,
+      "mimeType": "video/mp4",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    },
+    {
+      "name": "reel_0077_stress_appraisal_what_studies_measure_narration_hi.wav",
+      "id": "1Pw6NxCegY2n-9--4GXe36-5RC839ozDx",
+      "size": 3588524,
+      "mimeType": "audio/wav",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    },
+    {
+      "name": "reel_0077_stress_appraisal_what_studies_measure_script.md",
+      "id": "1SoWnfqsmBPJJr0WDhnP2dAzj7vHjcatZ",
+      "size": 5164,
+      "mimeType": "text/markdown",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    },
+    {
+      "name": "reel_0077_stress_appraisal_what_studies_measure_sources.md",
+      "id": "10RawX_cTq7BUrybPky2jEt55xsBn6h9q",
+      "size": 6402,
+      "mimeType": "text/markdown",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ]
+    }
+  ],
+  "valid": true
+}
