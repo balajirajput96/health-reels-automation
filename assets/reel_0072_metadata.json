@@ -1,0 +1,37 @@
+{
+  "reel_id":"reel_0072_intrinsic_motivation_what_studies_measure",
+  "queue_id":"0072",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0072",
+  "title_hi":"आंतरिक प्रेरणा: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"intrinsic motivation, interest/enjoyment, free-choice behavior, persistence, related dimensions, performance, experimental context, and neural correlates",
+  "unique_angle":"Intrinsic-motivation studies separate activity-specific enjoyment self-report from free-choice behavior, persistence, performance, experimental manipulations, and neural correlates; no single stream is a universal motivation meter.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed neuroscience/measurement review, meta-analysis of motivation measurement streams, and activity-specific inventory documentation",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Intrinsic motivation measures are activity-, time-, population-, and protocol-bound; self-report, behavior, performance, and neural correlates must not be treated as diagnosis, moral ranking, direct mind reading, or proof of a universal motivation trait.",
+  "source_ids":[
+    {"source_id":"pmc:PMC5364176","citation":"Di Domenico & Ryan (2017), The Emerging Neuroscience of Intrinsic Motivation: A New Frontier in Self-Determination Research","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC5364176/","type":"peer_reviewed_neuroscience_measurement_review"},
+    {"source_id":"pmc:PMC6083441","citation":"Luther et al. (2018), A Meta-analytic Review of Self-reported, Clinician-rated, and Performance-based Motivation Measures: Are We Measuring the Same Stuff?","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC6083441/","type":"peer_reviewed_measurement_meta_analysis"},
+    {"source_id":"sdt:IMI","citation":"Self-Determination Theory, Intrinsic Motivation Inventory documentation","url":"https://selfdeterminationtheory.org/intrinsic-motivation-inventory/","type":"activity_specific_measurement_documentation"}
+  ],
+  "assets":{
+    "video":"assets/reel_0072_intrinsic_motivation_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0072_intrinsic_motivation_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0072_intrinsic_motivation_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0072_intrinsic_motivation_what_studies_measure_script.md",
+    "sources":"research/reel_0072_intrinsic_motivation_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0072_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0072_scene_01.png","assets/reel_0072_scene_02.png","assets/reel_0072_scene_03.png","assets/reel_0072_scene_04.png"],
+    "qc_report":"assets/reel_0072_qc_report.json",
+    "drive_manifest":"state/reel_0072_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes depict activity-specific interest/enjoyment, free-choice behavior under a protocol, related dimensions, and reward/outcome plus neural-correlate boundaries. No real person, private data, brain scan, or direct mind-reading claim is depicted.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate measurement concepts and limits, not a complete psychological assessment. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":66.12,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1YHhq0c_kEgQ8H5LC4pOv_DjOM7YVkXMW","drive_verification_note":"Initial exact-package verification passed: 11 expected objects, one nonzero correctly parented manifest, zero missing/zero-size/wrong-parent/duplicate/unrelated objects; final manifest update remains to be applied in place."}
+}
