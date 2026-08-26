@@ -735,6 +735,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T11:38:30.355933Z",
       "notes": "R0078 final: 4 verified sources; local QC passed; 73.600s 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0079_recovery_what_studies_measure",
+      "sha256": "e4fc1e29c97993cbc933218bc4d12fa4dde89df38424c2ea70c6f8bba260de76",
+      "filename": "reel_0079_recovery_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T12:07:49.224886Z",
+      "notes": "R0079 final: 4 fresh verified sources; local QC passed; 68.167s encoded 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
     }
   ]
 }
