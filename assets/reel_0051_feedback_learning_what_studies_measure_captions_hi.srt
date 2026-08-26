@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,400
+Feedback से score सुधर जाए, तो learning पक्की है?
+
+2
+00:00:03,500 --> 00:00:06,900
+ज़रूरी नहीं। Feedback एक single switch नहीं।
+
+3
+00:00:07,000 --> 00:00:10,400
+Researchers timing और content दोनों देखते हैं।
+
+4
+00:00:10,500 --> 00:00:13,900
+Timing: तुरंत या delay के बाद?
+
+5
+00:00:14,000 --> 00:00:17,400
+Content: सही-गलत, answer, या explanation?
+
+6
+00:00:17,500 --> 00:00:20,900
+एक engineering course में delayed feedback से transfer बेहतर दिखा।
+
+7
+00:00:21,000 --> 00:00:24,400
+लेकिन students को immediate feedback ज्यादा मददगार लगा।
+
+8
+00:00:24,500 --> 00:00:27,900
+Perceived benefit और measured learning अलग हो सकते हैं।
+
+9
+00:00:28,000 --> 00:00:31,400
+दूसरे multimedia task में immediate feedback बेहतर था।
+
+10
+00:00:31,500 --> 00:00:34,900
+कोई एक timing हर task में best नहीं।
+
+11
+00:00:35,000 --> 00:00:38,400
+Adaptive feedback ने भी context में अच्छा प्रदर्शन किया।
+
+12
+00:00:38,500 --> 00:00:41,900
+Meta-analysis में elaborated feedback के effects बड़े थे।
+
+13
+00:00:42,000 --> 00:00:45,400
+खासकर higher-order outcomes पर।
+
+14
+00:00:45,500 --> 00:00:48,900
+लेकिन learner को feedback notice करना होता है।
+
+15
+00:00:49,000 --> 00:00:52,400
+उसे समझकर अगली कोशिश में इस्तेमाल करना होता है।
+
+16
+00:00:52,500 --> 00:00:55,900
+Study में score कब मापा गया?
+
+17
+00:00:56,000 --> 00:00:59,400
+उसी सवाल पर या नए problem पर?
+
+18
+00:00:59,500 --> 00:01:02,900
+Feedback explanation था या सिर्फ result?
+
+19
+00:01:03,000 --> 00:01:06,400
+Preference self-report थी या actual outcome?
+
+20
+00:01:06,500 --> 00:01:10,000
+Feedback useful हो सकता है, पर universal rule नहीं।
+
+21
+00:01:10,100 --> 00:01:13,600
+Evidence task और learner पर निर्भर है। यह diagnosis या treatment नहीं।

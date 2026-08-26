@@ -1,0 +1,43 @@
+{
+  "reel_id":"reel_0051_feedback_learning_what_studies_measure",
+  "queue_id":"0051",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0051",
+  "title_hi":"फीडबैक से सीखना: studies क्या मापते हैं?",
+  "topic":"feedback timing, content, retention, and transfer",
+  "unique_angle":"Feedback should be judged across timing, message content, learner processing, delayed retention, and transfer rather than one immediate score or preference.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed classroom experiment, multimedia feedback experiment, meta-analysis, and developmental systematic review",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. No universal feedback schedule, individualized learning prescription, grade guarantee, diagnosis of ability, or treatment claim.",
+  "source_ids":[
+    {"source_id":"doi:10.1016/j.jarmac.2014.05.001","citation":"Mullet, Butler, Verdin, von Borries, and Marsh (2014), Delaying feedback promotes transfer of knowledge despite student preferences to receive feedback immediately","url":"https://doi.org/10.1016/j.jarmac.2014.05.001","type":"peer_reviewed_classroom_feedback_experiment"},
+    {"source_id":"doi:10.3389/fpsyg.2021.706821","citation":"Taxipulati and Lu (2021), The influence of feedback content and feedback time on multimedia learning achievement of college students and its mechanism","url":"https://doi.org/10.3389/fpsyg.2021.706821","type":"peer_reviewed_multimedia_feedback_experiment"},
+    {"source_id":"doi:10.3102/0034654314564881","citation":"Van der Kleij, Feskens, and Eggen (2015), Effects of feedback in a computer-based learning environment on students’ learning outcomes: A meta-analysis","url":"https://doi.org/10.3102/0034654314564881","type":"peer_reviewed_meta_analysis"},
+    {"source_id":"doi:10.1080/00461520.2022.2108426","citation":"Fyfe, Borriello, and Merrick (2022), A developmental perspective on feedback: How corrective feedback influences children’s literacy, mathematics, and problem solving","url":"https://doi.org/10.1080/00461520.2022.2108426","type":"peer_reviewed_systematic_review"}
+  ],
+  "assets":{
+    "video":"assets/reel_0051_feedback_learning_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0051_feedback_learning_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0051_feedback_learning_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0051_feedback_learning_what_studies_measure_script.md",
+    "sources":"research/reel_0051_feedback_learning_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0051_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":[
+      "assets/reel_0051_scene_01.png",
+      "assets/reel_0051_scene_02.png",
+      "assets/reel_0051_scene_03.png",
+      "assets/reel_0051_scene_04.png"
+    ],
+    "qc_report":"assets/reel_0051_qc_report.json",
+    "drive_manifest":"state/reel_0051_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes illustrating timing versus later outcome, feedback content, contrasting study contexts, and a measurement checklist. No real student likenesses or private records.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research-measure distinctions, not intelligence, diagnosis, individualized schedules, guaranteed grades, or guaranteed transfer. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":73.76,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1BVSkYZcpPfzhfby9htEVhoGA1p12-6Oz","drive_verification_note":"Local QC passed; exact 11-object package, metadata, manifest, and final independent Drive verification passed. No social publication attempted."}
+}
