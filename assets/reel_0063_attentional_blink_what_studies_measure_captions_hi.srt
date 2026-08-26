@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,700
+दूसरा target miss होना मतलब attention कमजोर?
+
+2
+00:00:03,700 --> 00:00:07,200
+पहले experiment समझिए।
+
+3
+00:00:07,200 --> 00:00:10,900
+Letters या images तेज़ी से एक stream में दिखते हैं।
+
+4
+00:00:10,900 --> 00:00:14,500
+इसे RSVP कहते हैं।
+
+5
+00:00:14,500 --> 00:00:18,100
+दो targets: T1 और T2
+
+6
+00:00:18,100 --> 00:00:21,800
+Stream के बाद participant report करता है।
+
+7
+00:00:21,800 --> 00:00:25,500
+T1 accuracy और T2 given T1 accuracy
+
+8
+00:00:25,500 --> 00:00:29,200
+Researchers इन्हें मापते हैं।
+
+9
+00:00:29,200 --> 00:00:32,900
+Lag बदलने पर performance curve बनती है।
+
+10
+00:00:32,900 --> 00:00:36,600
+Short lag पर T2 report कम हो सकती है।
+
+11
+00:00:36,600 --> 00:00:40,200
+इसे attentional blink कहते हैं।
+
+12
+00:00:40,200 --> 00:00:43,900
+Lag one पर T2 बच सकती है।
+
+13
+00:00:43,900 --> 00:00:47,500
+इसे lag-one sparing कहते हैं।
+
+14
+00:00:47,500 --> 00:00:51,200
+Mask और distractors result बदल सकते हैं।
+
+15
+00:00:51,200 --> 00:00:54,800
+कई mechanisms प्रस्तावित हैं।
+
+16
+00:00:54,800 --> 00:00:58,500
+Working memory, response selection और interference
+
+17
+00:00:58,500 --> 00:01:02,200
+अलग लोगों में blink magnitude अलग हो सकता है।
+
+18
+00:01:02,200 --> 00:01:05,900
+Strategy से performance बदल सकती है।
+
+19
+00:01:05,900 --> 00:01:09,600
+Emotional version stimulus-driven capture पूछता है।
+
+20
+00:01:09,600 --> 00:01:13,240
+यह permanent distractibility का proof नहीं। एक curve से intelligence, memory loss या diagnosis तय नहीं होती। यह diagnosis नहीं और personal, medical, या financial advice नहीं है। AI narration और conceptual visuals उपयोग हुए हैं।

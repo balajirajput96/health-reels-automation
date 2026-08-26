@@ -591,6 +591,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T06:57:04.345553Z",
       "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
+    },
+    {
+      "source_id": "reel_0063_attentional_blink_what_studies_measure",
+      "sha256": "e1beaa17261debe5c9b8598cbf57f94107ebb8e1f6a3790f0c1ca51f2d134148",
+      "filename": "reel_0063_attentional_blink_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T07:18:43.911292Z",
+      "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
     }
   ]
 }
