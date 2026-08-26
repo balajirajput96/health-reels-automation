@@ -1,8 +1,8 @@
 # Reel 0005 — मनोवैज्ञानिक लचीलापन: अध्ययन वास्तव में क्या मापते हैं?
 
-**Evidence label:** Mixed Evidence  
-**Language:** Hindi (hi-IN)  
-**Target:** approximately 60 seconds  
+**Evidence label:** Mixed Evidence
+**Language:** Hindi (hi-IN)
+**Target:** approximately 60 seconds
 **Claim boundary:** Educational explanation of a research construct; not diagnosis, therapy, or personal advice.
 
 | Segment | Narration | Visual direction |

@@ -1,8 +1,8 @@
 # Reel 0005 Research Brief — Psychological Flexibility: studies actually measure what?
 
-**Canonical reel ID:** `reel_0005_psychological_flexibility_what_studies_measure`  
-**Domain:** Psychology  
-**Evidence label:** **Mixed Evidence**  
+**Canonical reel ID:** `reel_0005_psychological_flexibility_what_studies_measure`
+**Domain:** Psychology
+**Evidence label:** **Mixed Evidence**
 **Research status:** Verified for a measurement-aware public-education script; not a clinical recommendation.
 
 ## Bounded finding
