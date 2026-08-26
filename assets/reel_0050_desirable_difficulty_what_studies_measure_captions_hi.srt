@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,600
+कठिन पढ़ाई हमेशा बेहतर पढ़ाई नहीं होती।
+
+2
+00:00:03,700 --> 00:00:07,300
+Desirable difficulty कोई भी struggle नहीं है।
+
+3
+00:00:07,400 --> 00:00:11,000
+फायदा बाद के test में दिखना चाहिए।
+
+4
+00:00:11,100 --> 00:00:14,700
+Practice score और later learning अलग measures हैं।
+
+5
+00:00:14,800 --> 00:00:18,400
+Effort rating actual learning नहीं होती।
+
+6
+00:00:18,500 --> 00:00:22,100
+Retrieval, interleaving और spacing में fluency कम लग सकती है।
+
+7
+00:00:22,200 --> 00:00:25,800
+फिर भी फायदा delay के बाद दिख सकता है।
+
+8
+00:00:25,900 --> 00:00:29,500
+इसलिए delayed retention और novel transfer भी मापिए।
+
+9
+00:00:29,600 --> 00:00:33,200
+Spacing experiments में response time proxy था।
+
+10
+00:00:33,300 --> 00:00:36,900
+Proxy पूरा mechanism साबित नहीं करता।
+
+11
+00:00:37,000 --> 00:00:40,600
+Retrieval timing भी matter करती है।
+
+12
+00:00:40,700 --> 00:00:44,300
+Post-testing ने 7 दिन बाद retention बढ़ाई।
+
+13
+00:00:44,400 --> 00:00:48,000
+Previously untested questions पर transfer भी दिखा।
+
+14
+00:00:48,100 --> 00:00:51,700
+Pre-testing में वही transfer pattern नहीं था।
+
+15
+00:00:51,800 --> 00:00:55,400
+Method को judge करने से पहले measure पहचानिए।
+
+16
+00:00:55,500 --> 00:00:59,100
+Practice था या delayed test?
+
+17
+00:00:59,200 --> 00:01:02,800
+Trained items थे या novel transfer?
+
+18
+00:01:02,900 --> 00:01:06,500
+Effort subjective था या proxy?
+
+19
+00:01:06,600 --> 00:01:10,200
+Difficulty appropriate थी या excessive?
+
+20
+00:01:10,300 --> 00:01:13,900
+Desirable का मतलब हर मुश्किल अच्छी नहीं।
+
+21
+00:01:14,000 --> 00:01:14,300
+यह education है—diagnosis या treatment नहीं।

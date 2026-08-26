@@ -1,0 +1,42 @@
+{
+  "reel_id":"reel_0050_desirable_difficulty_what_studies_measure",
+  "queue_id":"0050",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0050",
+  "title_hi":"वांछनीय कठिनाई: studies क्या मापते हैं?",
+  "topic":"desirable difficulties and learning measurement",
+  "unique_angle":"Difficulty is not automatically desirable; researchers must compare effort and practice measures with delayed retention and novel transfer outcomes.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed framework/review, spacing experiment, and retrieval-timing experiment",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. No individualized study schedule, grade guarantee, diagnosis of intelligence or ability, universal retention promise, or treatment claim.",
+  "source_ids":[
+    {"source_id":"doi:10.1007/s10648-023-09766-w","citation":"de Bruin, Biwer, Hui, Onan, David, and Wiradhany (2023), Worth the effort: the start and stick to desirable difficulties (S2D2) framework","url":"https://doi.org/10.1007/s10648-023-09766-w","type":"peer_reviewed_framework_review"},
+    {"source_id":"doi:10.3758/s13421-018-0843-3","citation":"Maddox, Pyc, Kauffman, Gatewood, and Schonhoff (2018), Examining the contributions of desirable difficulty and reminding to the spacing effect","url":"https://doi.org/10.3758/s13421-018-0843-3","type":"peer_reviewed_spacing_experiment"},
+    {"source_id":"doi:10.1038/s41539-019-0053-1","citation":"Latimier, Riegert, Peyre, Ly, Casati, and colleagues (2019), Does pre-testing promote better retention than post-testing?","url":"https://doi.org/10.1038/s41539-019-0053-1","type":"peer_reviewed_retrieval_timing_experiment"}
+  ],
+  "assets":{
+    "video":"assets/reel_0050_desirable_difficulty_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0050_desirable_difficulty_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0050_desirable_difficulty_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0050_desirable_difficulty_what_studies_measure_script.md",
+    "sources":"research/reel_0050_desirable_difficulty_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0050_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":[
+      "assets/reel_0050_scene_01.png",
+      "assets/reel_0050_scene_02.png",
+      "assets/reel_0050_scene_03.png",
+      "assets/reel_0050_scene_04.png"
+    ],
+    "qc_report":"assets/reel_0050_qc_report.json",
+    "drive_manifest":"state/reel_0050_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes illustrating effort versus later outcome, measurement types, proxy versus outcome, and a conditional evidence checklist. No student likenesses or private records.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research-measure distinctions, not intelligence, diagnosis, individualized schedules, guaranteed grades, or guaranteed transfer. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":74.4,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1SRpRDaZwFfGdUFNS6fn2ti2tm3uZZqLn","drive_verification_note":"Local QC passed; exact 11-object package, metadata, manifest, and final independent Drive verification passed. No social publication attempted."}
+}
