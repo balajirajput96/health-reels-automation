@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,600
+Task में गलती होना = mind wandering?
+
+2
+00:00:03,600 --> 00:00:07,000
+जरूरी नहीं—पहले measurement समझिए।
+
+3
+00:00:07,000 --> 00:00:10,600
+Mind wandering: task से ध्यान हटकर unrelated thoughts
+
+4
+00:00:10,600 --> 00:00:14,100
+Experience sampling में अचानक probe आता है।
+
+5
+00:00:14,100 --> 00:00:17,700
+ध्यान task पर था या किसी और विचार पर?
+
+6
+00:00:17,700 --> 00:00:21,200
+यह momentary self-report है।
+
+7
+00:00:21,200 --> 00:00:24,700
+Mind की live recording नहीं।
+
+8
+00:00:24,700 --> 00:00:28,300
+On-task, off-task और thought categories
+
+9
+00:00:28,300 --> 00:00:31,900
+Wording और probe frequency report बदल सकते हैं।
+
+10
+00:00:31,900 --> 00:00:35,400
+Questionnaire typical tendency का अंदाज़ देता है।
+
+11
+00:00:35,400 --> 00:00:38,900
+Recall और self-report bias संभव है।
+
+12
+00:00:38,900 --> 00:00:42,500
+Reaction time, accuracy, omission और variability
+
+13
+00:00:42,500 --> 00:00:46,000
+Error task-related disruption दिखा सकता है।
+
+14
+00:00:46,000 --> 00:00:49,500
+पर thought content या कारण अकेले नहीं बताता।
+
+15
+00:00:49,500 --> 00:00:53,100
+fMRI, EEG, eye और cardiac signals
+
+16
+00:00:53,100 --> 00:00:56,600
+Neural या physiological correlates हैं।
+
+17
+00:00:56,600 --> 00:01:00,100
+Direct thought-reading नहीं।
+
+18
+00:01:00,100 --> 00:01:03,700
+कोई single method हर पहलू नहीं पकड़ता।
+
+19
+00:01:03,700 --> 00:01:07,200
+एक score से lazy, inattentive या impaired label मत दीजिए।
+
+20
+00:01:07,200 --> 00:01:10,320
+यह diagnosis नहीं और personal, medical, या financial advice नहीं है। AI narration और conceptual visuals उपयोग हुए हैं।
