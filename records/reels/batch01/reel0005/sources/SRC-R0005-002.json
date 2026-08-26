@@ -1,0 +1,21 @@
+{
+  "source_id": "SRC-R0005-002",
+  "title": "Psychological flexibility: What we know, what we do not know, and what we think we know",
+  "authors": ["James D. Doorley", "Fallon R. Goodman", "Kerry C. Kelso", "Todd B. Kashdan"],
+  "journal": "Social and Personality Psychology Compass",
+  "publication_year": 2020,
+  "doi": "10.1111/spc3.12566",
+  "url_or_doi": "https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12566",
+  "source_type": "Peer-reviewed theoretical review and measurement critique",
+  "evidence_label": "Mixed Evidence",
+  "verification_status": "VERIFIED",
+  "finding": "The review defines psychological flexibility in relation to valued goals under challenge and cautions that common Acceptance and Action Questionnaire measures may correlate strongly with distress rather than directly measuring flexible responses to distress.",
+  "claim_boundaries": "The source supports a measurement-aware explanation of the construct. It does not support using a questionnaire or a short self-check as a diagnostic tool, a treatment, or proof of a person’s mental health.",
+  "limitations": [
+    "The article identifies conceptual and measurement gaps in the literature.",
+    "Findings about questionnaire overlap do not invalidate every related intervention or every contextual flexibility process.",
+    "Clinical outcome claims require separate disorder-, intervention-, and population-specific evidence."
+  ],
+  "used_status": "USED_REEL_0005",
+  "retrieved_at": "2026-08-26T15:57:30Z"
+}
