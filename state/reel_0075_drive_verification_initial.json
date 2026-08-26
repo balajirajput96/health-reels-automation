@@ -1,0 +1,84 @@
+{
+  "folder_id": "1q48Kcr-yjriCljkHu9cXESntPHD4UoXD",
+  "manifest_id": "1HGJzVtPOdWu_YVaRk_4xaIlZBxtPSl3I",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "duplicate_expected_names": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0075_metadata.json",
+      "id": "12taMn-x4lmRhV98A-z25cY2xvnr5kfjL",
+      "size": 4199,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0075_qc_report.json",
+      "id": "1SJiEQ2PIBnwKECF9-nRGpXt4s08SHLXJ",
+      "size": 553,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0075_scene_01.png",
+      "id": "1hrpdUmAqVN4vzfOf4qHfpXVs7d5V418X",
+      "size": 36221,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0075_scene_02.png",
+      "id": "16LK9uY9eg99tw5piXlWCWagqSX-zgI9q",
+      "size": 39568,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0075_scene_03.png",
+      "id": "1Q2wYmfHDxmM478n2MPezn-7FCQsLUmUW",
+      "size": 36741,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0075_scene_04.png",
+      "id": "1hfpoTNlZh07KAbG5cHTDW3I496fsqh88",
+      "size": 28461,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0075_self_determination_what_studies_measure_captions_hi.srt",
+      "id": "1wQIKIwZUqQ7GnQ-Y1Ukuop_oExxSFonP",
+      "size": 1729,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0075_self_determination_what_studies_measure_hi.mp4",
+      "id": "1Zl2yhy2AZ_wJ7kRN0H0ozDazPBryv1pi",
+      "size": 2099927,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0075_self_determination_what_studies_measure_narration_hi.wav",
+      "id": "1mizuHpz75ulPyugI6GBPXUIgl7mqo0j3",
+      "size": 3335084,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0075_self_determination_what_studies_measure_script.md",
+      "id": "1hLew4JR8_t70Tk0j5cnuNK4ZG1ZminqF",
+      "size": 5085,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0075_self_determination_what_studies_measure_sources.md",
+      "id": "1eSsaK0J5JSKHzYiJIZerLkq7jbgDvJCT",
+      "size": 5896,
+      "mimeType": "text/markdown"
+    }
+  ],
+  "valid": true
+}

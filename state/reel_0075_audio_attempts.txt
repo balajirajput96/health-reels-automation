@@ -1,0 +1,2 @@
+attempt1	76.84	failed_duration	assets/reel_0075_self_determination_what_studies_measure_narration_hi_attempt1_attempt1_76.84s.wav
+attempt2	69.48	accepted_canonical	assets/reel_0075_self_determination_what_studies_measure_narration_hi_attempt2.wav

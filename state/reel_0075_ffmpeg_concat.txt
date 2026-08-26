@@ -1,0 +1,10 @@
+ffconcat version 1.0
+file '/home/ubuntu/repos/health-reels-automation/assets/reel_0075_scene_01.png'
+duration 17.37
+file '/home/ubuntu/repos/health-reels-automation/assets/reel_0075_scene_02.png'
+duration 17.37
+file '/home/ubuntu/repos/health-reels-automation/assets/reel_0075_scene_03.png'
+duration 17.37
+file '/home/ubuntu/repos/health-reels-automation/assets/reel_0075_scene_04.png'
+duration 17.37
+file '/home/ubuntu/repos/health-reels-automation/assets/reel_0075_scene_04.png'
