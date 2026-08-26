@@ -1,7 +1,7 @@
 # Reel 0005 Quality-Control Report
 
-**Canonical reel ID:** `reel_0005_psychological_flexibility_what_studies_measure`  
-**Final media file:** `assets/Reel_0005_psychological_flexibility_hi-IN.mp4`  
+**Canonical reel ID:** `reel_0005_psychological_flexibility_what_studies_measure`
+**Final media file:** `assets/Reel_0005_psychological_flexibility_hi-IN.mp4`
 **QC status:** **PASS for local render; Drive verification pending**
 
 ## Technical checks

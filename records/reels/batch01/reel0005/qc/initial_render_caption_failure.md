@@ -1,7 +1,7 @@
 # Reel 0005 Initial Render — Caption QC Failure
 
-**Reviewed artifacts:** `qc/contact_sheet.png` and `qc/final_boundary_frame.png`  
-**Technical render:** Valid 1080×1920 MP4 with 54.00-second audio/video duration.  
+**Reviewed artifacts:** `qc/contact_sheet.png` and `qc/final_boundary_frame.png`
+**Technical render:** Valid 1080×1920 MP4 with 54.00-second audio/video duration.
 **Editorial QC decision:** **FAIL — do not upload or claim completion.**
 
 ## Finding

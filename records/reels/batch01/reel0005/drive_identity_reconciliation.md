@@ -1,7 +1,7 @@
 # Reel 0005 Drive Identity Reconciliation
 
-**Checked:** 2026-08-26  
-**Canonical Batch_001 folder:** `1J2CPqxCzK0gBQ1KmlxCjgGT7GMBJy-cz`  
+**Checked:** 2026-08-26
+**Canonical Batch_001 folder:** `1J2CPqxCzK0gBQ1KmlxCjgGT7GMBJy-cz`
 **Result:** **Identity collision confirmed — no upload performed.**
 
 ## Local package under review
