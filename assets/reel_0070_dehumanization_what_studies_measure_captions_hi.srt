@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,600
+क्या score बता सकता है कि कोई दूसरों को इंसान समझता है?
+
+2
+00:00:04,600 --> 00:00:09,000
+Dehumanization को एक ही meter से नहीं मापा जाता।
+
+3
+00:00:09,000 --> 00:00:13,600
+Explicit rating: target कितना human माना गया?
+
+4
+00:00:13,600 --> 00:00:18,000
+यह target, सवाल और context पर निर्भर है।
+
+5
+00:00:18,000 --> 00:00:22,800
+Relationship questionnaire reported treatment पूछ सकता है।
+
+6
+00:00:22,800 --> 00:00:27,400
+उसका score उसी construct और population के लिए होता है।
+
+7
+00:00:27,400 --> 00:00:32,000
+Implicit task में speed और errors record होते हैं।
+
+8
+00:00:32,000 --> 00:00:36,600
+इससे association-strength index बनता है।
+
+9
+00:00:36,600 --> 00:00:41,200
+यह private belief का पूरा transcript नहीं।
+
+10
+00:00:41,200 --> 00:00:46,000
+Cooperation या empathic accuracy एक interaction में मापी जा सकती है।
+
+11
+00:00:46,000 --> 00:00:50,600
+एक interaction हर situation का behavior नहीं बताता।
+
+12
+00:00:50,600 --> 00:00:55,200
+EEG signal protocol का correlate है, direct mind-reading नहीं।
+
+13
+00:00:55,200 --> 00:00:59,800
+अलग measures अलग सवाल पूछते हैं।
+
+14
+00:00:59,800 --> 00:01:04,400
+एक score moral character या universal trait तय नहीं करता।
+
+15
+00:01:04,400 --> 00:01:08,840
+AI-generated educational visuals; diagnosis या personal assessment नहीं।
