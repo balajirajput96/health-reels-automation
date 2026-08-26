@@ -1,0 +1,7 @@
+R0081 content commit remote equality
+branch: repair/maintenance-pr-permission-fallback
+content_commit: f2183d0b66fc876c7e3ef3f0aa3317014ec3aab9
+origin_ref: origin/repair/maintenance-pr-permission-fallback
+origin_commit_after_content_push: f2183d0b66fc876c7e3ef3f0aa3317014ec3aab9
+content_remote_equal: true
+verified_at: 2026-08-26T13:22:00Z
