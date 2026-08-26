@@ -1,0 +1,2 @@
+attempt1	86.28	failed_duration	assets/reel_0071_belonging_what_studies_measure_narration_hi_attempt1_attempt1_86.28s.wav
+attempt2	71.56	accepted_canonical	assets/reel_0071_belonging_what_studies_measure_narration_hi_attempt2.wav
