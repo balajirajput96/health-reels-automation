@@ -1,0 +1,103 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://balajirajput96.github.io/health-reels-automation/schemas/reel_source_record.schema.json",
+  "title": "Hindi Research Reel Source Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_id",
+    "title",
+    "source_type",
+    "url_or_doi",
+    "evidence_label",
+    "verification_status",
+    "claim_boundaries",
+    "retrieved_at"
+  ],
+  "properties": {
+    "source_id": {
+      "type": "string",
+      "minLength": 3
+    },
+    "title": {
+      "type": "string",
+      "minLength": 5
+    },
+    "authors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "publication_year": {
+      "type": "integer",
+      "minimum": 1600,
+      "maximum": 2100
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "systematic_review",
+        "meta_analysis",
+        "peer_reviewed_primary_study",
+        "academic_book",
+        "historical_primary_text",
+        "professional_guideline",
+        "expert_commentary"
+      ]
+    },
+    "url_or_doi": {
+      "type": "string",
+      "minLength": 6
+    },
+    "evidence_label": {
+      "type": "string",
+      "enum": [
+        "Established Evidence",
+        "Strong Evidence",
+        "Emerging Evidence",
+        "Mixed Evidence",
+        "Preliminary Finding",
+        "Expert Interpretation",
+        "Philosophical Concept",
+        "Spiritual/Traditional Belief"
+      ]
+    },
+    "verification_status": {
+      "type": "string",
+      "enum": [
+        "PENDING",
+        "VERIFIED",
+        "REJECTED"
+      ]
+    },
+    "claims_supported": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 3
+      }
+    },
+    "claim_boundaries": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 8
+      }
+    },
+    "population_or_context": {
+      "type": "string"
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "retrieved_at": {
+      "type": "string",
+      "format": "date-time"
+    }
+  }
+}
