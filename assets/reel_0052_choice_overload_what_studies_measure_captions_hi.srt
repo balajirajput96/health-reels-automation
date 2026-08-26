@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,000
+बहुत सारे options देखकर decision मुश्किल लगे?
+
+2
+00:00:03,100 --> 00:00:06,200
+ज़रूरी नहीं। यह हमेशा choice overload नहीं।
+
+3
+00:00:06,300 --> 00:00:09,400
+Researchers option count के साथ context देखते हैं।
+
+4
+00:00:09,500 --> 00:00:12,600
+एक meta-analysis में चार moderators मिले।
+
+5
+00:00:12,700 --> 00:00:15,800
+Complexity, task difficulty और preference uncertainty।
+
+6
+00:00:15,900 --> 00:00:19,000
+साथ में effort कम करने का goal भी।
+
+7
+00:00:19,100 --> 00:00:22,200
+इसलिए same options, अलग context में अलग असर।
+
+8
+00:00:22,300 --> 00:00:25,400
+Overload को choice टालने से मापा जा सकता है।
+
+9
+00:00:25,500 --> 00:00:28,600
+या switching, regret, satisfaction और confidence से।
+
+10
+00:00:28,700 --> 00:00:31,800
+लेकिन कोई measure अकेले best decision नहीं बताता।
+
+11
+00:00:31,900 --> 00:00:35,000
+Attributes और time pressure burden बदल सकते हैं।
+
+12
+00:00:35,100 --> 00:00:38,200
+Presentation format और dominant option भी।
+
+13
+00:00:38,300 --> 00:00:41,400
+ज्यादा choice से preferred match मिल सकता है।
+
+14
+00:00:41,500 --> 00:00:44,600
+कभी comparison कठिन भी हो जाता है।
+
+15
+00:00:44,700 --> 00:00:47,800
+एक mechanism पूरी कहानी नहीं बताता।
+
+16
+00:00:47,900 --> 00:00:51,000
+Study में options कितने और कितने complex थे?
+
+17
+00:00:51,100 --> 00:00:54,200
+Preferences clear थीं या uncertain?
+
+18
+00:00:54,300 --> 00:00:57,400
+Outcome deferral था या satisfaction?
+
+19
+00:00:57,500 --> 00:01:00,600
+या actual choice quality मापी गई?
+
+20
+00:01:00,700 --> 00:01:03,900
+Choice overload universal diagnosis नहीं है।
+
+21
+00:01:04,000 --> 00:01:05,700
+यह education है—personal financial या medical advice नहीं।

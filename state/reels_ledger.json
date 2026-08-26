@@ -492,6 +492,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T04:19:59.246078Z",
       "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0051; no social publication attempted."
+    },
+    {
+      "source_id": "reel_0052_choice_overload_what_studies_measure",
+      "sha256": "0d3f338088a238042801d35cc910beb15d9e3c4c14c6e85cf56c04f497b67ed3",
+      "filename": "reel_0052_choice_overload_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T04:33:35.142040Z",
+      "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0052; no social publication attempted."
     }
   ]
 }
