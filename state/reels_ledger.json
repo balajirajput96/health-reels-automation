@@ -519,6 +519,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T05:03:13.703739Z",
       "notes": "Drive verified in canonical folder 10PxUwSOcrJsDUkyGr0CSr3C8HsGb-UNA with exact 11-object package plus one manifest; no social publishing."
+    },
+    {
+      "source_id": "reel_0055_uncertainty_what_studies_measure",
+      "sha256": "800107f5a09bcc4364e222f6164c06df0541d979dc1e96d64e690ad41b72d390",
+      "filename": "reel_0055_uncertainty_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T05:22:08.927109Z",
+      "notes": "Drive verified in canonical folder 1w-SfS719bDoqZ8Z4-KPUNPVCEyNyyfFG with exact 11-object package plus one manifest; no social publishing."
     }
   ]
 }

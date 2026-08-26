@@ -1,0 +1,83 @@
+{
+  "folder_id": "1w-SfS719bDoqZ8Z4-KPUNPVCEyNyyfFG",
+  "manifest_id": "1tU7LSNsp5pPM2Pd9STnDKW7cmC1Dz-6E",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0055_metadata.json",
+      "id": "1VssO_oY1UyLYeFYJ2wgtwOGlWzM6Ubme",
+      "size": 3888,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0055_qc_report.json",
+      "id": "1vnF1duTFkZg6hE7F8d5WSxggDj64lnCo",
+      "size": 544,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0055_scene_01.png",
+      "id": "1xggrcV8wkiqaHPKclVxu-8m5iYcy18QH",
+      "size": 72119,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0055_scene_02.png",
+      "id": "1df_QePpjEkZb7r_RRsvS2kPNdP6LemP-",
+      "size": 59723,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0055_scene_03.png",
+      "id": "1tDhZjm00y4Cm4-TG3Db0j50JYHA34YuA",
+      "size": 67760,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0055_scene_04.png",
+      "id": "10NTZ8AYMDf65R5zAlSkZN2ghkVypbhFZ",
+      "size": 66180,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0055_uncertainty_what_studies_measure_captions_hi.srt",
+      "id": "1aQ1QAJQGzOu0A_gQ7bEAUnIFGG6JbcUy",
+      "size": 2294,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0055_uncertainty_what_studies_measure_hi.mp4",
+      "id": "1y--71iqOPEQA8RxWChiwMG1BHAIFHqW_",
+      "size": 3590546,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0055_uncertainty_what_studies_measure_narration_hi.wav",
+      "id": "1eHNHbAQdEKGUhZCBCcr3JXeFpsCLTEi9",
+      "size": 3498284,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0055_uncertainty_what_studies_measure_script.md",
+      "id": "1G-lEhETMa_bQzUouxJTwVFHKXDb94TJh",
+      "size": 4876,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0055_uncertainty_what_studies_measure_sources.md",
+      "id": "1Nuh57jNs7WYhA2HflCpSGnHBUiweXetK",
+      "size": 4098,
+      "mimeType": "text/markdown"
+    }
+  ],
+  "valid": true
+}
