@@ -1,0 +1,8 @@
+R0080 visual QC checkpoint
+
+Viewed assets/reel_0080_scene_01.png and assets/reel_0080_scene_02.png at 1440x2560. Composition, contrast, color hierarchy, cards, timelines, and 9:16 framing are appropriate for the social-buffering measurement topic. However, Hindi and some Latin labels render as tofu boxes in the visual preview, indicating the configured font does not provide the required glyph coverage or is not the correct font file. Do not assemble or upload these scene files until the font/rendering issue is diagnosed and repaired; regenerate all four scenes deterministically and re-view representative scenes.
+
+Repair verification: regenerated scenes 01 and 02 with script-aware Devanagari/Latin font selection and re-viewed both images. Hindi and Latin glyphs now render correctly, the 1440x2560 RGB framing is intact, labels are legible, contrast is adequate, and no clipping or unrelated visual content was observed in the reviewed scenes. Continue with full scene/video QC; scenes 03–04 remain to be reviewed as part of final local QC.
+
+Full-scene review: scene 03 renders correctly with distinct perceived/received support panels, mixed Hindi-English text, safe framing, and legible contrast. Scene 04 renders correctly except the Unicode right-arrow glyphs before “diagnosis” and “guarantee” appear as tofu boxes. Replace those arrows with ASCII “=>” in the deterministic renderer, regenerate scene 04/all scenes, and re-view the repaired scene before assembly.
+R0080 final visual review: scenes 01–04 are 1440x2560 RGB; Devanagari and Latin glyphs render correctly after script-aware font fallback; scene 04 arrow symbols were replaced with ASCII => and rechecked; framing, contrast, topic-specific visual structure, and safety wording are acceptable.

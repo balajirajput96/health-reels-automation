@@ -1,0 +1,75 @@
+{
+  "reel_id": "reel_0080_social_buffering_what_studies_measure",
+  "queue_id": "0080",
+  "batch": "Batch_003",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0080",
+  "title_hi": "सामाजिक बफ़रिंग: अध्ययन वास्तव में क्या मापते हैं",
+  "topic": "social buffering, perceived versus received support, laboratory stress tasks, subjective reports, physiology, daily-life sampling, timing, context, and causal limits",
+  "unique_angle": "Social buffering is not one universal effect; studies define the social condition, stressor, measure, sample, and time window before interpreting a result.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_class": "peer-reviewed social-buffering review, stress-reactivity measurement review, human laboratory experiment, and experience-sampling systematic mapping study",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. Perceived support, received support, social presence, subjective appraisal, physiology, behavior, daily-life context, association, and causality are distinct; no biomarker or one interaction diagnoses a disorder, reads a private state, predicts an individual, or guarantees a result.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1037/a0032671",
+      "citation": "Hostinar, Sullivan & Gunnar (2014), Psychobiological Mechanisms Underlying the Social Buffering of the HPA Axis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3844011/",
+      "type": "peer_reviewed_social_buffering_review"
+    },
+    {
+      "source_id": "doi:10.1016/j.biopsycho.2010.04.003",
+      "citation": "Uchino, Carlisle, Birmingham & Vaughn (2010), Social Support and the Reactivity Hypothesis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2928410/",
+      "type": "peer_reviewed_received_perceived_support_review"
+    },
+    {
+      "source_id": "doi:10.1016/S0006-3223(03)00465-7",
+      "citation": "Heinrichs, Baumgartner, Kirschbaum & Ehlert (2003), Social support and oxytocin interact to suppress cortisol and subjective responses to psychosocial stress",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14675803/",
+      "type": "peer_reviewed_human_laboratory_randomized_experiment"
+    },
+    {
+      "source_id": "doi:10.3390/ijerph19095693",
+      "citation": "Dogan, Patlar Akbulut, Catal & Mishra (2022), Stress Detection Using Experience Sampling: A Systematic Mapping Study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9105860/",
+      "type": "peer_reviewed_experience_sampling_systematic_mapping"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0080_social_buffering_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0080_social_buffering_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0080_social_buffering_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0080_social_buffering_what_studies_measure_script.md",
+    "sources": "research/reel_0080_social_buffering_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0080_social_buffering_what_studies_measure_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0080_scene_01.png",
+      "assets/reel_0080_scene_02.png",
+      "assets/reel_0080_scene_03.png",
+      "assets/reel_0080_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0080_qc_report.json",
+    "drive_manifest": "state/reel_0080_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes depict a defined social condition, a laboratory stress-task timeline, perceived versus received support, subjective versus physiological layers, and repeated daily-life sampling. No real person, private data, unauthorized likeness, direct mind-reading, or treatment claim is depicted.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain research measurement concepts and limits, not a complete psychological assessment. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "measured_narration_duration_seconds": 71.16,
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1OK1upk5Pf5ehoyG4yZ0GwkqSMxjK9UaQ",
+    "drive_folder_id": "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun",
+    "drive_verification_note": "Final exact-package verification passed: 11 expected objects, one nonzero correctly parented manifest, zero missing/zero-size/wrong-parent/duplicate/unrelated objects; local-to-Drive bytes and file IDs verified."
+  },
+  "measured_mp4_sha256": "8528fdf226a65f18e8d58267c26360ed2b457f50080d38a9a177130380f6e149"
+}

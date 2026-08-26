@@ -744,6 +744,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T12:07:49.224886Z",
       "notes": "R0079 final: 4 fresh verified sources; local QC passed; 68.167s encoded 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0080_social_buffering_what_studies_measure",
+      "sha256": "8528fdf226a65f18e8d58267c26360ed2b457f50080d38a9a177130380f6e149",
+      "filename": "reel_0080_social_buffering_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T12:42:42.249822Z",
+      "notes": "R0080 final: 4 fresh verified sources; local QC passed; 71.167s encoded 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
     }
   ]
 }

@@ -1,0 +1,117 @@
+{
+  "folder_id": "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun",
+  "manifest_id": "1OK1upk5Pf5ehoyG4yZ0GwkqSMxjK9UaQ",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "duplicate_expected_names": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0080_metadata.json",
+      "id": "1943GlXvXTRZ6IPP1COC1CVY0UhxyFLCt",
+      "size": 4965,
+      "mimeType": "application/json",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    },
+    {
+      "name": "reel_0080_qc_report.json",
+      "id": "1XMgYRTdfNavK-HYasb8yFL3iJ-cZ6JGU",
+      "size": 551,
+      "mimeType": "application/json",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    },
+    {
+      "name": "reel_0080_scene_01.png",
+      "id": "1T9lO2J-k1irjvID-c3F58ooZIMnpOiUt",
+      "size": 232942,
+      "mimeType": "image/png",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    },
+    {
+      "name": "reel_0080_scene_02.png",
+      "id": "1TMAahJfC2wxM7SJqzvliEJgZ1JmhwGQK",
+      "size": 164450,
+      "mimeType": "image/png",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    },
+    {
+      "name": "reel_0080_scene_03.png",
+      "id": "1VTvFaZ7IozBxWa8ukKHzAJ-iNXOjAGmG",
+      "size": 191680,
+      "mimeType": "image/png",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    },
+    {
+      "name": "reel_0080_scene_04.png",
+      "id": "1Em-XfegdDPf-n9TZr2Lfr6kbYWf23mlh",
+      "size": 163751,
+      "mimeType": "image/png",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    },
+    {
+      "name": "reel_0080_social_buffering_what_studies_measure_captions_hi.srt",
+      "id": "1Sp3K-IhX2YCEWkiCu4JZ-gtp04Bb0OG-",
+      "size": 2473,
+      "mimeType": "application/x-subrip",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    },
+    {
+      "name": "reel_0080_social_buffering_what_studies_measure_hi.mp4",
+      "id": "1clRBO2lH4gw-oAV05C1mwEvMj12Ak3g8",
+      "size": 5466343,
+      "mimeType": "video/mp4",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    },
+    {
+      "name": "reel_0080_social_buffering_what_studies_measure_narration_hi.wav",
+      "id": "1xK2XsdJbxENtGTKCgWh5eUZ2FrUfSTIG",
+      "size": 3415724,
+      "mimeType": "audio/wav",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    },
+    {
+      "name": "reel_0080_social_buffering_what_studies_measure_script.md",
+      "id": "1scj1xFB5PcoOLw5D6GsYxPwB1Gakx0yb",
+      "size": 7157,
+      "mimeType": "text/markdown",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    },
+    {
+      "name": "reel_0080_social_buffering_what_studies_measure_sources.md",
+      "id": "1fElr5QNLu2yv-fg9luHQu9WZC2WPfO_J",
+      "size": 9004,
+      "mimeType": "text/markdown",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ]
+    }
+  ],
+  "valid": true
+}
