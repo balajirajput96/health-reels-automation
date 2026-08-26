@@ -1,0 +1,2 @@
+DURATION 77.52
+duration outside 45-75 seconds; preserved /home/ubuntu/repos/health-reels-automation/assets/reel_0074_expectancy_value_what_studies_measure_narration_hi_attempt2_attempt2_77.52s.wav
