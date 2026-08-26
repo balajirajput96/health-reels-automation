@@ -1,0 +1,117 @@
+{
+  "folder_id": "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6",
+  "manifest_id": "1Fy2GTsn1bhfMvpWrlEO1MVtpiKBeL0s2",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "duplicate_expected_names": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0076_metadata.json",
+      "id": "1lTRZX33JF8TcSADpKTE-hU0TVUh-k4eE",
+      "size": 5125,
+      "mimeType": "application/json",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    },
+    {
+      "name": "reel_0076_procrastination_what_studies_measure_captions_hi.srt",
+      "id": "1JAqaPJdaZyXvchnWJOiRAcAKEr-vqp_W",
+      "size": 1673,
+      "mimeType": "application/x-subrip",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    },
+    {
+      "name": "reel_0076_procrastination_what_studies_measure_hi.mp4",
+      "id": "1pHqGIVBd4smI3OeqW3advojkJwE5k9mc",
+      "size": 4460055,
+      "mimeType": "video/mp4",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    },
+    {
+      "name": "reel_0076_procrastination_what_studies_measure_narration_hi.wav",
+      "id": "1GedZzhy5WnmJF0uuLDs-F6RO_YpFrSTW",
+      "size": 3492524,
+      "mimeType": "audio/wav",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    },
+    {
+      "name": "reel_0076_procrastination_what_studies_measure_script.md",
+      "id": "1t7Z9qSa_Bm0_tpFOqvmtPleH9fYZLVDu",
+      "size": 5363,
+      "mimeType": "text/markdown",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    },
+    {
+      "name": "reel_0076_procrastination_what_studies_measure_sources.md",
+      "id": "11f8mCht3bmtmlyx4N9e2ycwi668pmrNU",
+      "size": 6220,
+      "mimeType": "text/markdown",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    },
+    {
+      "name": "reel_0076_qc_report.json",
+      "id": "1psj9zpUHl0p8A9k3ffwGj7Mn9NpIsZ7l",
+      "size": 550,
+      "mimeType": "application/json",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    },
+    {
+      "name": "reel_0076_scene_01.png",
+      "id": "1mkvA-_9-2MwOWMd4C6tpVmw6UfO6iRO2",
+      "size": 34907,
+      "mimeType": "image/png",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    },
+    {
+      "name": "reel_0076_scene_02.png",
+      "id": "1-DSa8XFMsru14R0ybzRO4-Y68Cm5Ptln",
+      "size": 36318,
+      "mimeType": "image/png",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    },
+    {
+      "name": "reel_0076_scene_03.png",
+      "id": "1NY46lSeih6xDM4KG5_bbSv-VyRe35njR",
+      "size": 33734,
+      "mimeType": "image/png",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    },
+    {
+      "name": "reel_0076_scene_04.png",
+      "id": "1YW4NWr4RPgPk49GtEFsctNvKxj2tE8Ls",
+      "size": 31797,
+      "mimeType": "image/png",
+      "parents": [
+        "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6"
+      ]
+    }
+  ],
+  "valid": true
+}
