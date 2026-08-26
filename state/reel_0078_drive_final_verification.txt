@@ -43,7 +43,7 @@
     {
       "name": "reel_0078_acute_stress_what_studies_measure_script.md",
       "id": "1u7n62RBkDUSXHGeFPYukOHWUZ_y0vdJb",
-      "size": 6298,
+      "size": 6296,
       "mimeType": "text/markdown",
       "parents": [
         "1kVYfUHPwntH2UCnGwA3kYor2sugSbsfG"
@@ -52,7 +52,7 @@
     {
       "name": "reel_0078_acute_stress_what_studies_measure_sources.md",
       "id": "1xGWoXfS8XTeBBSWf_1IU7s0VUlWNurpT",
-      "size": 9355,
+      "size": 9335,
       "mimeType": "text/markdown",
       "parents": [
         "1kVYfUHPwntH2UCnGwA3kYor2sugSbsfG"
