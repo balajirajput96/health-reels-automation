@@ -609,6 +609,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T07:31:56.960657Z",
       "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
+    },
+    {
+      "source_id": "reel_0065_task_switching_what_studies_measure",
+      "sha256": "e4534127ee872296e7ce05df742ffe0b91adc3658972311b1632034e126d281c",
+      "filename": "reel_0065_task_switching_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T07:44:58.491161Z",
+      "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
     }
   ]
 }
