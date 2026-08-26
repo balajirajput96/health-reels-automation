@@ -501,6 +501,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T04:33:35.142040Z",
       "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0052; no social publication attempted."
+    },
+    {
+      "source_id": "reel_0053_framing_effect_what_studies_measure",
+      "sha256": "0321fd47479fc263e1d7b0b22c900d5c15a5fc080734f86c1602a5b5e94905d6",
+      "filename": "reel_0053_framing_effect_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T04:46:31.360712Z",
+      "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0053; no social publication attempted."
     }
   ]
 }

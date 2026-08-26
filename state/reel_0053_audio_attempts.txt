@@ -1,0 +1,2 @@
+attempt1=assets/reel_0053_framing_effect_what_studies_measure_narration_hi_attempt1_82s.wav duration_seconds=81.80 status=overlong_preserved
+attempt2=assets/reel_0053_framing_effect_what_studies_measure_narration_hi_attempt2_78s.wav duration_seconds=77.60 status=overlong_preserved
