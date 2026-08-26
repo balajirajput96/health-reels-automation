@@ -1,0 +1,20 @@
+[Script Info]
+Title: Reel 0005 Hindi captions
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Noto Sans Devanagari,44,&H00FFFFFF,&H000000FF,&H90000000,&H90000000,0,0,0,0,100,100,0,0,1,3,0,2,72,72,160,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:08.50,Default,,0,0,0,,क्या हर मुश्किल स्थिति में\Nएक ही response काम करता है?
+Dialogue: 0,0:00:08.50,0:00:19.00,Default,,0,0,0,,मनोविज्ञान में psychological flexibility\Nएक research concept है:\Ncontext बदलने पर विचार, भावनाएँ और व्यवहार\Nको किसी important goal के हिसाब से बदलना या बनाए रखना।
+Dialogue: 0,0:00:19.00,0:00:29.00,Default,,0,0,0,,2010 की review ने इसे situation के हिसाब से adapt करने,\Nperspective बदलने और goals को balance करने से जोड़ा।
+Dialogue: 0,0:00:29.00,0:00:39.00,Default,,0,0,0,,लेकिन 2020 की review ने caution दी:\Ncommon self-report questionnaires कभी-कभी\Nflexibility से ज्यादा distress को reflect कर सकते हैं।
+Dialogue: 0,0:00:39.00,0:00:47.00,Default,,0,0,0,,इसलिए कोई single score आपकी mental health तय नहीं करता।\Nइस situation में कौन-सा safe response\Nमेरे important goal के साथ fit बैठता है?
+Dialogue: 0,0:00:47.00,0:00:54.00,Default,,0,0,0,,यह diagnosis या therapy नहीं है।\Nअगर परेशानी तीव्र हो या daily life प्रभावित हो,\Nqualified support लें।\NEvidence label: Mixed Evidence.
