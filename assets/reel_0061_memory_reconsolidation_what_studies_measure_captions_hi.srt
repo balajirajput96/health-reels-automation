@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,600
+पुरानी memory को याद करते ही rewrite?
+
+2
+00:00:03,600 --> 00:00:07,100
+Research का जवाब simple नहीं।
+
+3
+00:00:07,100 --> 00:00:10,800
+Established memory को reminder cue से reactivate किया जाता है।
+
+4
+00:00:10,800 --> 00:00:14,400
+फिर नई information, interference या prediction error
+
+5
+00:00:14,400 --> 00:00:18,000
+दिया जा सकता है।
+
+6
+00:00:18,000 --> 00:00:21,800
+बाद में recall, recognition या intrusion test होता है।
+
+7
+00:00:21,800 --> 00:00:25,300
+इसे behavioral updating कहते हैं।
+
+8
+00:00:25,300 --> 00:00:28,900
+Retrieval अकेले lability साबित नहीं करता।
+
+9
+00:00:28,900 --> 00:00:32,500
+Timing, reminder structure और memory strength मायने रखते हैं।
+
+10
+00:00:32,500 --> 00:00:36,100
+Mismatch भी एक boundary condition हो सकता है।
+
+11
+00:00:36,100 --> 00:00:39,500
+Expectancy rating subjective report है।
+
+12
+00:00:39,500 --> 00:00:43,100
+fMRI और physiology associated signals हैं।
+
+13
+00:00:43,100 --> 00:00:46,700
+वे memory की content या truth direct read नहीं करते।
+
+14
+00:00:46,700 --> 00:00:50,300
+Reconsolidation एक mechanistic interpretation है।
+
+15
+00:00:50,300 --> 00:00:53,900
+Human evidence में alternative explanations भी हैं।
+
+16
+00:00:53,900 --> 00:00:57,500
+Later behavior बदलना mechanism prove नहीं करता।
+
+17
+00:00:57,500 --> 00:01:01,100
+Memory मिटना और नई information जुड़ना अलग बातें हैं।
+
+18
+00:01:01,100 --> 00:01:04,700
+एक task से trauma removal या guaranteed therapy conclude नहीं।
+
+19
+00:01:04,700 --> 00:01:08,200
+एक score से memory या brain state तय नहीं होती।
+
+20
+00:01:08,200 --> 00:01:11,520
+यह diagnosis नहीं और personal, medical, या financial advice नहीं है। AI narration और conceptual visuals उपयोग हुए हैं।

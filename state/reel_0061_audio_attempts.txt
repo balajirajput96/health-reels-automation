@@ -1,0 +1,4 @@
+attempt1 duration=107.00s path=assets/reel_0061_memory_reconsolidation_what_studies_measure_narration_attempt1_107.00s.wav
+attempt2 duration=90.96s path=assets/reel_0061_memory_reconsolidation_what_studies_measure_narration_attempt2_90.96s.wav
+attempt3 duration=89.32s path=assets/reel_0061_memory_reconsolidation_what_studies_measure_narration_attempt3_89.32s.wav
+accepted canonical duration=71.52s path=assets/reel_0061_memory_reconsolidation_what_studies_measure_narration_hi.wav

@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0061_memory_reconsolidation_what_studies_measure",
+  "queue_id":"0061",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0061",
+  "title_hi":"मेमोरी रिकॉन्सॉलिडेशन: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"memory reconsolidation, reactivation, reminders, prediction error, behavioral updating, expectancy ratings, fMRI association, and boundary conditions",
+  "unique_angle":"Reconsolidation studies measure later task behavior, reports, physiological/neural correlates, and mechanistic interpretations under defined reminder and boundary conditions; they do not directly read, erase, or universally rewrite a person’s memory.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed reconsolidation updating review, human fMRI reminder study, critical evidence review, and prediction-error boundary-condition replication study",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Reactivation, prediction error, task behavior, self-report, physiological/neural correlates, and mechanistic estimates are not direct memory reading, diagnosis, treatment, trauma removal, or individualized prediction.",
+  "source_ids":[
+    {"source_id":"doi:10.1016/j.tics.2017.04.006","citation":"Lee, Nader, and Schiller (2017), An update on memory reconsolidation updating, Trends in Cognitive Sciences","url":"https://doi.org/10.1016/j.tics.2017.04.006","type":"peer_reviewed_reconsolidation_review"},
+    {"source_id":"doi:10.1371/journal.pone.0151381","citation":"Forcato et al. (2016), Differential Left Hippocampal Activation during Retrieval with Different Types of Reminders: An fMRI Study of the Reconsolidation Process, PLOS ONE, 11(3), e0151381","url":"https://doi.org/10.1371/journal.pone.0151381","type":"peer_reviewed_human_fmri_reminder_study"},
+    {"source_id":"doi:10.1037/bul0000152","citation":"Elsey, Van Ast, and Kindt (2018), Human memory reconsolidation: A guiding framework and critical review of the evidence, Psychological Bulletin, 144(8), 797–848","url":"https://doi.org/10.1037/bul0000152","type":"peer_reviewed_critical_review"},
+    {"source_id":"doi:10.1038/s41598-022-06119-5","citation":"Stemerding, Stibbe, Van Ast, and Kindt (2022), Demarcating the boundary conditions of memory reconsolidation: An unsuccessful replication, Scientific Reports, 12, 2285","url":"https://doi.org/10.1038/s41598-022-06119-5","type":"peer_reviewed_boundary_condition_replication"}
+  ],
+  "assets":{
+    "video":"assets/reel_0061_memory_reconsolidation_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0061_memory_reconsolidation_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0061_memory_reconsolidation_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0061_memory_reconsolidation_what_studies_measure_script.md",
+    "sources":"research/reel_0061_memory_reconsolidation_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0061_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0061_scene_01.png","assets/reel_0061_scene_02.png","assets/reel_0061_scene_03.png","assets/reel_0061_scene_04.png"],
+    "qc_report":"assets/reel_0061_qc_report.json",
+    "drive_manifest":"state/reel_0061_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes showing a memory trace and reminder, reactivation plus new information/prediction error, later behavioral measurements, and boundary-condition/correlate limits. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research measures and limitations, not direct memory reading, memory erasure, or guaranteed therapy. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":71.52,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1bRjCpP7IxhCjDlk-gSMoNPg6qyfLU97C","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}
