@@ -1,0 +1,2 @@
+attempt1	86.16	failed_duration	assets/reel_0069_empathy_what_studies_measure_narration_hi_attempt1_attempt1_86.16s.wav
+attempt2	62.00	accepted_canonical	assets/reel_0069_empathy_what_studies_measure_narration_hi_attempt2.wav

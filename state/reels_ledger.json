@@ -645,6 +645,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T08:32:59.750074Z",
       "notes": "Final Drive-verified package; no social publication."
+    },
+    {
+      "source_id": "reel_0069_empathy_what_studies_measure",
+      "sha256": "1b684aa5b5f31b88a9432dc718b7310c96afff3dc413472159c1fa33300a9203",
+      "filename": "reel_0069_empathy_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T08:46:43.571129Z",
+      "notes": "Final Drive-verified package; no social publication."
     }
   ]
 }

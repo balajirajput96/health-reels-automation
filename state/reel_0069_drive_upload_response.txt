@@ -1,0 +1,77 @@
+{
+  "id": "1I9x9jDKDgyY7DqOY1mBXTO-ZijWpqSk1",
+  "kind": "drive#file",
+  "mimeType": "video/mp4",
+  "name": "reel_0069_empathy_what_studies_measure_hi.mp4"
+}
+UPLOADED reel_0069_empathy_what_studies_measure_hi.mp4
+{
+  "id": "19FVHOCQyf8g91Y6Jov4t-yt3k6ksVjLC",
+  "kind": "drive#file",
+  "mimeType": "audio/wav",
+  "name": "reel_0069_empathy_what_studies_measure_narration_hi.wav"
+}
+UPLOADED reel_0069_empathy_what_studies_measure_narration_hi.wav
+{
+  "id": "1cp3H_duD9ocX1sYDZ4IHjYSSU4Zvtu7i",
+  "kind": "drive#file",
+  "mimeType": "application/x-subrip",
+  "name": "reel_0069_empathy_what_studies_measure_captions_hi.srt"
+}
+UPLOADED reel_0069_empathy_what_studies_measure_captions_hi.srt
+{
+  "id": "1jewxB_Q79AMeuUoizUb8XDHFLn4q8ZM_",
+  "kind": "drive#file",
+  "mimeType": "application/json",
+  "name": "reel_0069_metadata.json"
+}
+UPLOADED reel_0069_metadata.json
+{
+  "id": "1VnknLIF1fe7dsgLufp3fJEuNzBx0OW8w",
+  "kind": "drive#file",
+  "mimeType": "application/json",
+  "name": "reel_0069_qc_report.json"
+}
+UPLOADED reel_0069_qc_report.json
+{
+  "id": "1VATCzqxwn2mDFG2B5w_OUF6Mhvk1RjtY",
+  "kind": "drive#file",
+  "mimeType": "text/markdown",
+  "name": "reel_0069_empathy_what_studies_measure_sources.md"
+}
+UPLOADED reel_0069_empathy_what_studies_measure_sources.md
+{
+  "id": "1ITqJBaKfcP3TXj11T9aReL3CIxUwvwRO",
+  "kind": "drive#file",
+  "mimeType": "text/markdown",
+  "name": "reel_0069_empathy_what_studies_measure_script.md"
+}
+UPLOADED reel_0069_empathy_what_studies_measure_script.md
+{
+  "id": "1fYqWoq8EnaPMg9vs6cKoE0FoXSCD0nWU",
+  "kind": "drive#file",
+  "mimeType": "image/png",
+  "name": "reel_0069_scene_01.png"
+}
+UPLOADED reel_0069_scene_01.png
+{
+  "id": "1591uaZoAhliZVw6j6pilXEwMdWh9EwNS",
+  "kind": "drive#file",
+  "mimeType": "image/png",
+  "name": "reel_0069_scene_02.png"
+}
+UPLOADED reel_0069_scene_02.png
+{
+  "id": "1_DzKEYaYWctNB-1vFW3c3nITwFkqLZ6-",
+  "kind": "drive#file",
+  "mimeType": "image/png",
+  "name": "reel_0069_scene_03.png"
+}
+UPLOADED reel_0069_scene_03.png
+{
+  "id": "1jGKJvi8asmKUARvddfK1gxw0xPY6eDRj",
+  "kind": "drive#file",
+  "mimeType": "image/png",
+  "name": "reel_0069_scene_04.png"
+}
+UPLOADED reel_0069_scene_04.png
