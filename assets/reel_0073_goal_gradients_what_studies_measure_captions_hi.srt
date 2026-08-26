@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,640
+Finish line पास आते ही क्या हर कोई तेज़ हो जाता है?
+
+2
+00:00:04,640 --> 00:00:09,280
+Research का जवाब इतना simple नहीं।
+
+3
+00:00:09,280 --> 00:00:13,920
+Goal-gradient studies motivation को सीधे नहीं पढ़तीं।
+
+4
+00:00:13,920 --> 00:00:18,560
+वे protocol में दिखने वाला behavior मापती हैं।
+
+5
+00:00:18,560 --> 00:00:23,200
+Purchases, visits, ratings, persistence या completion।
+
+6
+00:00:23,200 --> 00:00:27,840
+Café program में पास आते हुए purchases बढ़े।
+
+7
+00:00:27,840 --> 00:00:32,480
+Online task में visits और persistence बढ़ी।
+
+8
+00:00:32,480 --> 00:00:37,120
+ये incentive-system outcomes हैं, private motive नहीं।
+
+9
+00:00:37,120 --> 00:00:41,760
+Bonus stamps ने completion speed बदली।
+
+10
+00:00:41,760 --> 00:00:46,400
+Perceived distance behavior बदल सकती है।
+
+11
+00:00:46,400 --> 00:00:51,040
+Progress markers से walking speed बदली।
+
+12
+00:00:51,040 --> 00:00:55,680
+Unrelated या salient markers पर pattern घट या उलट सकता है।
+
+13
+00:00:55,680 --> 00:01:00,320
+Context matters: power ने proximity effect को moderate किया।
+
+14
+00:01:00,320 --> 00:01:04,960
+“पास आते ही सबकी motivation बढ़ती है”—overclaim।
+
+15
+00:01:04,960 --> 00:01:09,560
+Behavior, reward, context और moderator पूछिए; personal assessment नहीं।

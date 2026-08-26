@@ -681,6 +681,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T09:29:28.734537Z",
       "notes": "R0072 final: 3 verified sources; local QC passed; 66.10s 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0073_goal_gradients_what_studies_measure",
+      "sha256": "7d99fa5b16b302a99a2978f25cb216ecf3f85d4224a9025ef6f702130987bb23",
+      "filename": "reel_0073_goal_gradients_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T09:47:54.523659Z",
+      "notes": "R0073 final: 3 verified sources; local QC passed; 69.53s 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
     }
   ]
 }

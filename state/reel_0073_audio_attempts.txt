@@ -1,0 +1,2 @@
+attempt1	83.88	failed_duration	assets/reel_0073_goal_gradients_what_studies_measure_narration_hi_attempt1_attempt1_83.88s.wav
+attempt2	69.56	accepted_canonical	assets/reel_0073_goal_gradients_what_studies_measure_narration_hi_attempt2.wav

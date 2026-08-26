@@ -1,0 +1,2 @@
+R0073_FINAL_VALIDATION_OK
+queue_rows 3000 ledger_final_records 1 drive_expected 11 mp4_sha256 7d99fa5b16b302a99a2978f25cb216ecf3f85d4224a9025ef6f702130987bb23
