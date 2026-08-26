@@ -1,0 +1,14 @@
+{
+  "sequence": 81,
+  "reel_id": "reel_0081_stress_and_attention_what_studies_measure",
+  "production_stage": "visuals_ready",
+  "qc": {
+    "ai_disclosure": false,
+    "aspect_ratio_9_16": false,
+    "captions": true,
+    "decode_ok": true,
+    "drive_verified": false,
+    "duration_seconds": null,
+    "hindi_audio": true
+  }
+}

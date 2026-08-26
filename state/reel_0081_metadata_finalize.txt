@@ -1,0 +1,7 @@
+{
+  "measured_narration_duration_seconds": 64.44,
+  "measured_video_duration_seconds": 64.467,
+  "measured_mp4_sha256": "24f3114af232473544da1cda77d6b403db9a4be8d126408db95c45f51d14dc8c",
+  "local_media_qc": "passed",
+  "drive_verified": true
+}

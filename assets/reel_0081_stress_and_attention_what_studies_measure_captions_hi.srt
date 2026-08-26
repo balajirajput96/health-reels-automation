@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:05,100
+क्या stress attention को हमेशा कमजोर करता है? जवाब सीधा नहीं।
+
+2
+00:00:05,100 --> 00:00:08,100
+Study ने stressor मापा या subjective appraisal?
+
+3
+00:00:08,100 --> 00:00:11,500
+Exam, social evaluation और cold pressor अलग exposures हैं।
+
+4
+00:00:11,500 --> 00:00:14,900
+“मैं stressed हूँ” self-report है, attention meter नहीं।
+
+5
+00:00:14,900 --> 00:00:20,400
+Attention Network Test alerting, orienting और executive control अलग करता है।
+
+6
+00:00:20,400 --> 00:00:24,200
+Response time, accuracy और errors task performance बताते हैं।
+
+7
+00:00:24,200 --> 00:00:28,100
+Congruent और incongruent targets conflict processing दिखा सकते हैं।
+
+8
+00:00:28,100 --> 00:00:31,700
+EEG के N1, N2 और P3 neural correlates हैं।
+
+9
+00:00:31,700 --> 00:00:35,500
+Cortisol और alpha-amylase physiological response के संकेतक हैं।
+
+10
+00:00:35,500 --> 00:00:38,500
+Biomarker और reported feeling एक layer नहीं।
+
+11
+00:00:38,500 --> 00:00:43,800
+Sänger study ने acute stress और visual distractors compare किए।
+
+12
+00:00:43,800 --> 00:00:47,900
+Liu study ने chronic-stress group में task और EEG compare किए।
+
+13
+00:00:47,900 --> 00:00:51,600
+ये group और task findings हैं, individual forecast नहीं।
+
+14
+00:00:51,600 --> 00:00:57,600
+Stressor, task, measure, timing और sample साथ पढ़ें; association causation नहीं।
+
+15
+00:00:57,600 --> 00:01:04,440
+यह AI-सहायित शैक्षिक reel है; diagnosis, treatment या व्यक्तिगत सलाह नहीं।

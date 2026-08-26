@@ -1,0 +1,76 @@
+{
+  "reel_id": "reel_0081_stress_and_attention_what_studies_measure",
+  "queue_id": "0081",
+  "batch": "Batch_003",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0081",
+  "title_hi": "तनाव और ध्यान: अध्ययन वास्तव में क्या मापते हैं",
+  "topic": "stress exposure, subjective appraisal, attention-task behavior, EEG correlates, cortisol, alpha-amylase, timing, context, and causal limits",
+  "unique_angle": "Stress is not one single attention variable; studies separate the stressor, appraisal, task behavior, physiology or EEG, timing, and sample before interpreting a result.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_class": "peer-reviewed stress-measurement reviews, a chronic-stress behavioral/ERP study, and a controlled acute-stress attention experiment",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. Stressor exposure, subjective appraisal, task behavior, physiology, EEG, timing, context, association, and causality are distinct; no biomarker or one task diagnoses a disorder, reads a private state, predicts an individual, or guarantees a result.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1007/s12264-020-00549-9",
+      "citation": "Liu et al. (2020), Impact of Chronic Stress on Attention Control: Evidence from Behavioral and Event-Related Potential Analyses",
+      "url": "https://doi.org/10.1007/s12264-020-00549-9",
+      "type": "peer_reviewed_chronic_stress_behavioral_erp_study"
+    },
+    {
+      "source_id": "doi:10.1177/2055102920933072",
+      "citation": "Crosswell & Lockwood (2020), Best practices for stress measurement: How to measure psychological stress in health research",
+      "url": "https://doi.org/10.1177/2055102920933072",
+      "type": "peer_reviewed_stress_measurement_framework"
+    },
+    {
+      "source_id": "doi:10.1016/j.yfrne.2018.03.001",
+      "citation": "Epel et al. (2018), More than a feeling: A unified view of stress measurement for population science",
+      "url": "https://doi.org/10.1016/j.yfrne.2018.03.001",
+      "type": "peer_reviewed_unified_stress_measurement_review"
+    },
+    {
+      "source_id": "doi:10.3389/fnbeh.2014.00353",
+      "citation": "Sänger et al. (2014), The influence of acute stress on attention mechanisms and its electrophysiological correlates",
+      "url": "https://doi.org/10.3389/fnbeh.2014.00353",
+      "type": "peer_reviewed_acute_stress_attention_experiment"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0081_stress_and_attention_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0081_stress_and_attention_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0081_stress_and_attention_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0081_stress_and_attention_what_studies_measure_script.md",
+    "sources": "research/reel_0081_stress_and_attention_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0081_stress_and_attention_what_studies_measure_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0081_scene_01.png",
+      "assets/reel_0081_scene_02.png",
+      "assets/reel_0081_scene_03.png",
+      "assets/reel_0081_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0081_qc_report.json",
+    "drive_manifest": "state/reel_0081_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes depict separate stressor, appraisal, task-behavior, physiology/EEG, timing, and interpretation layers. No real person, private data, unauthorized likeness, direct mind-reading, or treatment claim is depicted.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain research measurement concepts and limits, not a complete psychological assessment. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "measured_narration_duration_seconds": 64.44,
+  "measured_video_duration_seconds": 64.467,
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1_G2QCC3v-MGnIi8iBVFKlJOWH-SdxF-S",
+    "drive_folder_id": "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi",
+    "drive_verification_note": "Exact-package verification passed: 11 expected objects, one nonzero correctly parented manifest, zero missing/zero-size/wrong-parent/duplicate/unrelated objects; local-to-Drive byte sizes and file IDs verified."
+  },
+  "measured_mp4_sha256": "24f3114af232473544da1cda77d6b403db9a4be8d126408db95c45f51d14dc8c"
+}

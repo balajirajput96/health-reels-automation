@@ -1,0 +1,117 @@
+{
+  "folder_id": "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi",
+  "manifest_id": "1_G2QCC3v-MGnIi8iBVFKlJOWH-SdxF-S",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "duplicate_expected_names": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0081_metadata.json",
+      "id": "10VqbI0szE9xRw94ptyb1mohmi40Ar6wI",
+      "size": 4851,
+      "mimeType": "application/json",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    },
+    {
+      "name": "reel_0081_qc_report.json",
+      "id": "1qi_O1uDaVF9iWm_7oG-9tK4fIqQCGq4b",
+      "size": 555,
+      "mimeType": "application/json",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    },
+    {
+      "name": "reel_0081_scene_01.png",
+      "id": "1PrHlZ1NXbTdqCAwNu_DJP30mAybMT38U",
+      "size": 208278,
+      "mimeType": "image/png",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    },
+    {
+      "name": "reel_0081_scene_02.png",
+      "id": "1JDDv3Cj6O4Ka0moBrk1SaYHYSBEQTeFT",
+      "size": 151306,
+      "mimeType": "image/png",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    },
+    {
+      "name": "reel_0081_scene_03.png",
+      "id": "1h9TysOSgRH_t5-xOp99IFsbCb8Km9MpC",
+      "size": 158719,
+      "mimeType": "image/png",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    },
+    {
+      "name": "reel_0081_scene_04.png",
+      "id": "1cNOs-8W6AbvAKwDTtOb7RG_t-I-iiHNY",
+      "size": 160264,
+      "mimeType": "image/png",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    },
+    {
+      "name": "reel_0081_stress_and_attention_what_studies_measure_captions_hi.srt",
+      "id": "1CGax7MD6k2_0dYgUYX8_o-v6VEt9VJCm",
+      "size": 1862,
+      "mimeType": "application/x-subrip",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    },
+    {
+      "name": "reel_0081_stress_and_attention_what_studies_measure_hi.mp4",
+      "id": "1DOiWVMhoCyjmkY50Y3sgIy8kKdKmbh3D",
+      "size": 4729930,
+      "mimeType": "video/mp4",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    },
+    {
+      "name": "reel_0081_stress_and_attention_what_studies_measure_narration_hi.wav",
+      "id": "14et0EVszphyc_rVu2P2xTU2h_qTBJ8lE",
+      "size": 3093164,
+      "mimeType": "audio/wav",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    },
+    {
+      "name": "reel_0081_stress_and_attention_what_studies_measure_script.md",
+      "id": "1821A8ma1Yv3hVWVJlkb3T6CM6stCTLqm",
+      "size": 2842,
+      "mimeType": "text/markdown",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    },
+    {
+      "name": "reel_0081_stress_and_attention_what_studies_measure_sources.md",
+      "id": "1FxOQqRfQoLS_aH15SdVgXNd9dLzXwktO",
+      "size": 4344,
+      "mimeType": "text/markdown",
+      "parents": [
+        "1QPEnveJ4eGmtD1Fzq0th26cocn0FfIIi"
+      ]
+    }
+  ],
+  "valid": true
+}

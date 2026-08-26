@@ -1,0 +1,7 @@
+R0081 visual QC — scenes 03–04
+
+Scene 03: 1440x2560 RGB PNG. Behavior metrics and EEG panel render cleanly with readable labels and a simple time-resolved waveform. The bottom card explicitly limits interpretation to task context and rejects a universal attention score. No tofu, clipping, or overlap observed.
+
+Scene 04: 1440x2560 RGB PNG. Interpretation boundary is clear: one task/sample/time window, measured domains separated from prohibited jumps to diagnosis, causation, or individual forecast. Final stressor/task/timing/context reminder is legible. No tofu, clipping, or overlap observed.
+
+Overall visual status: scenes 01–04 pass manual visual inspection after the script-aware font repair. All are 1440x2560 RGB PNGs with consistent dark scientific styling, high contrast, and safe evidence-bounded framing.
