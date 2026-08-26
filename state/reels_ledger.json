@@ -537,6 +537,42 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T05:37:29.939714Z",
       "notes": "Drive verified in canonical folder 1EMDjSHXID6Ae2UOt02Icc4LxCzyIl-Dr with exact 11-object package plus one active manifest; superseded duplicate manifest was moved to Drive trash non-destructively; no social publishing."
+    },
+    {
+      "source_id": "reel_0057_working_memory_what_studies_measure",
+      "sha256": "b353c47d6250c1d45013d5012d27ea4a967a55ed789c0d6f4de085a43d0e7a03",
+      "filename": "reel_0057_working_memory_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T05:50:45.416836Z",
+      "notes": "Drive verified in canonical folder 11DjcjSY7mUKCNck-Wy6Zc4VljBZXdktX with exact 11-object package plus one active manifest; no social publishing."
+    },
+    {
+      "source_id": "reel_0058_episodic_memory_what_studies_measure",
+      "sha256": "e2edd9a0d4ddf88be8c60613780c4cb59aba1b8b5b2ecd0955a3d1d377fd4c5f",
+      "filename": "reel_0058_episodic_memory_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T06:02:15.927784Z",
+      "notes": "Drive verified in canonical folder 1Z-b0psPH6x8f4aaZLjYzD4L7Kx8i3aLD with exact 11-object package plus one active manifest; no social publishing."
+    },
+    {
+      "source_id": "reel_0059_semantic_memory_what_studies_measure",
+      "sha256": "b7618e6dd63f45fbeb85cd3b6514772adc58c28372bd0c8b50d6c0bf18540b0d",
+      "filename": "reel_0059_semantic_memory_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T06:12:59.801619Z",
+      "notes": "Drive verified in canonical folder 1GWYu-cHb7SvMW48MnEYd3zwBPS6GU0am with exact 11-object package plus one active manifest; no social publishing."
+    },
+    {
+      "source_id": "reel_0060_false_memory_what_studies_measure",
+      "sha256": "ed641f0c3d27f3fcffde0974ec393fa3c43a48a1df87e908e1845ab7cde166bb",
+      "filename": "reel_0060_false_memory_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T06:24:52.276375Z",
+      "notes": "Drive verified in canonical folder 105buLGjLqpQzXmqETZrPlcc3EO5vHyK3 with exact 11-object package plus one active manifest; no social publishing."
     }
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0057_working_memory_what_studies_measure",
+  "queue_id":"0057",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0057",
+  "title_hi":"वर्किंग मेमोरी: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"working-memory span, n-back, task performance, strategy self-report, and psychometric measurement",
+  "unique_angle":"Span and n-back tasks are task-specific indicators; their scores, self-reported strategies, and latent estimates should not be treated as interchangeable or as a complete readout of general memory.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed working-memory task meta-analysis, methodological review, psychometric-context study, and self-reported strategy study",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Task performance, reported strategy, and latent estimates are not diagnosis, treatment, personal prediction, or individualized cognitive assessment.",
+  "source_ids":[
+    {"source_id":"doi:10.3758/s13423-013-0453-9","citation":"Redick and Lindsey (2013), Complex span and n-back measures of working memory: A meta-analysis, Psychonomic Bulletin & Review, 20, 1109–1133","url":"https://doi.org/10.3758/s13423-013-0453-9","type":"peer_reviewed_meta_analysis"},
+    {"source_id":"doi:10.3758/BF03196772","citation":"Conway, Kane, Bunting, Hambrick, Wilhelm, and Engle (2005), Working memory span tasks: A methodological review and user's guide, Psychonomic Bulletin & Review, 12, 769–786","url":"https://doi.org/10.3758/BF03196772","type":"peer_reviewed_methodological_review"},
+    {"source_id":"doi:10.3389/fpsyg.2014.01475","citation":"Schmiedek, Lövdén, and Lindenberger (2014), A task is a task is a task: putting complex span, n-back, and other working memory indicators in psychometric context, Frontiers in Psychology, 5, 1475","url":"https://doi.org/10.3389/fpsyg.2014.01475","type":"peer_reviewed_psychometric_study"},
+    {"source_id":"doi:10.1038/s41598-024-54160-3","citation":"Ritakallio, Fellman, Salmi, Jylkkä, and Laine (2024), Self-reported strategy use in working memory tasks, Scientific Reports, 14, 4893","url":"https://doi.org/10.1038/s41598-024-54160-3","type":"peer_reviewed_self_report_study"}
+  ],
+  "assets":{
+    "video":"assets/reel_0057_working_memory_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0057_working_memory_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0057_working_memory_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0057_working_memory_what_studies_measure_script.md",
+    "sources":"research/reel_0057_working_memory_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0057_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0057_scene_01.png","assets/reel_0057_scene_02.png","assets/reel_0057_scene_03.png","assets/reel_0057_scene_04.png"],
+    "qc_report":"assets/reel_0057_qc_report.json",
+    "drive_manifest":"state/reel_0057_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes showing one-task caution, span and n-back distinctions, psychometric variance, and self-report/model boundaries. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research measures and limitations, not general memory ability or guaranteed predictions. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":72.64,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1vIESEBodsVyocIUhWDm9UURM-3PMeR_j","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}

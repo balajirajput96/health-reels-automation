@@ -1,0 +1,83 @@
+{
+  "folder_id": "11DjcjSY7mUKCNck-Wy6Zc4VljBZXdktX",
+  "manifest_id": "1vIESEBodsVyocIUhWDm9UURM-3PMeR_j",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0057_metadata.json",
+      "id": "13Ok_UIrdxungaRR78TYc6IWIU_25fAQh",
+      "size": 4089,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0057_qc_report.json",
+      "id": "1GSrW4LRRY8rSonpbWcy78kqeBDwWHztQ",
+      "size": 549,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0057_scene_01.png",
+      "id": "102CbhZ41ndPqlj2zAsaHzxPAm0xi5_uA",
+      "size": 68762,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0057_scene_02.png",
+      "id": "1w75R8yQdGcLqRrdLI6oLYzvEgmsozGf3",
+      "size": 59944,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0057_scene_03.png",
+      "id": "16OkFmE0-wUCdW-pYCCtJMlQXpeWFeZ8q",
+      "size": 65955,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0057_scene_04.png",
+      "id": "1cLz35RtWfkMoWWREJssQwgImff06dqHD",
+      "size": 65685,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0057_working_memory_what_studies_measure_captions_hi.srt",
+      "id": "1-R-RABlBAN-RrHafhebYErTjLX62xk4x",
+      "size": 2121,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0057_working_memory_what_studies_measure_hi.mp4",
+      "id": "1XJ5-eDGHHoHnhF7yjct01L9pJmzhc-LQ",
+      "size": 3415263,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0057_working_memory_what_studies_measure_narration_hi.wav",
+      "id": "19-An7OnGPHdIwXEoO_20m-uAUft8-yjU",
+      "size": 3486764,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0057_working_memory_what_studies_measure_script.md",
+      "id": "1Gh7IJB4SwSE_d8lPAYRqLFC-u5fwTQSl",
+      "size": 5263,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0057_working_memory_what_studies_measure_sources.md",
+      "id": "1AO8q5dVqH25KqNH9BASA9QqzfjznNcXp",
+      "size": 3975,
+      "mimeType": "text/markdown"
+    }
+  ],
+  "valid": true
+}

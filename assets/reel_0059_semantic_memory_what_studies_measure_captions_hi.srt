@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,100
+कम fluency score = semantic memory कमजोर?
+
+2
+00:00:03,100 --> 00:00:06,000
+ज़रूरी नहीं। Task समझिए।
+
+3
+00:00:06,000 --> 00:00:09,000
+Semantic memory: facts, concepts और meanings
+
+4
+00:00:09,000 --> 00:00:12,200
+Category fluency: एक minute में examples
+
+5
+00:00:12,200 --> 00:00:15,000
+Word count, order और clustering
+
+6
+00:00:15,000 --> 00:00:18,000
+Fluency सिर्फ knowledge नहीं।
+
+7
+00:00:18,000 --> 00:00:21,000
+Search strategy भी असर डालती है।
+
+8
+00:00:21,000 --> 00:00:24,100
+Processing speed और language production
+
+9
+00:00:24,100 --> 00:00:27,200
+Executive control और instructions
+
+10
+00:00:27,200 --> 00:00:30,300
+Word count pure knowledge meter नहीं।
+
+11
+00:00:30,300 --> 00:00:33,100
+Naming और definition matching अलग हैं।
+
+12
+00:00:33,100 --> 00:00:36,300
+Factual accuracy item पर निर्भर।
+
+13
+00:00:36,300 --> 00:00:39,300
+Wording, language और familiarity भी।
+
+14
+00:00:39,300 --> 00:00:42,500
+Feeling-of-knowing subjective report है।
+
+15
+00:00:42,500 --> 00:00:45,500
+Confidence correctness की guarantee नहीं।
+
+16
+00:00:45,500 --> 00:00:48,500
+ERP task-related neural correlate है।
+
+17
+00:00:48,500 --> 00:00:51,300
+Direct knowledge readout नहीं।
+
+18
+00:00:51,300 --> 00:00:54,500
+Computational model theory या estimate है।
+
+19
+00:00:54,500 --> 00:00:57,600
+दिमाग का पूरा map नहीं।
+
+20
+00:00:57,600 --> 00:01:01,500
+Measure पहचानिए; एक score से intelligence या cognitive health तय मत कीजिए।
+
+21
+00:01:01,500 --> 00:01:05,600
+यह diagnosis नहीं है और personal, medical, या financial advice नहीं है। AI narration और conceptual visuals उपयोग हुए हैं।

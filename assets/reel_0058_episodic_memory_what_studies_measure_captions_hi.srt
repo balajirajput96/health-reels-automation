@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,200
+Vivid memory = हमेशा सच?
+
+2
+00:00:03,200 --> 00:00:06,100
+नहीं। Confidence guarantee नहीं।
+
+3
+00:00:06,100 --> 00:00:09,300
+Free recall: बिना options के याद करना
+
+4
+00:00:09,300 --> 00:00:12,400
+Recognition: item पहले देखा था?
+
+5
+00:00:12,400 --> 00:00:15,800
+Source memory: कहाँ, कब, किस context में?
+
+6
+00:00:15,800 --> 00:00:18,500
+ये outputs एक जैसे नहीं।
+
+7
+00:00:18,500 --> 00:00:22,200
+Picture-sequence में order reproduce होता है।
+
+8
+00:00:22,200 --> 00:00:25,400
+Score उसी task की performance है।
+
+9
+00:00:25,400 --> 00:00:28,600
+Episodic tasks अलग aspects पर focus करती हैं।
+
+10
+00:00:28,600 --> 00:00:31,500
+What, where, when और source
+
+11
+00:00:31,500 --> 00:00:34,400
+Free recall और temporal binding
+
+12
+00:00:34,400 --> 00:00:37,800
+कोई single task सब कुछ assess नहीं करता।
+
+13
+00:00:37,800 --> 00:00:40,900
+Confidence और vividness subjective reports हैं।
+
+14
+00:00:40,900 --> 00:00:44,500
+High confidence हमेशा accuracy नहीं।
+
+15
+00:00:44,500 --> 00:00:47,800
+Vivid memory भी factually गलत हो सकती है।
+
+16
+00:00:47,800 --> 00:00:50,900
+Item याद है = context याद है?
+
+17
+00:00:50,900 --> 00:00:54,000
+ज़रूरी नहीं। Design मायने रखता है।
+
+18
+00:00:54,000 --> 00:00:57,400
+Recall, recognition, source या order पूछिए।
+
+19
+00:00:57,400 --> 00:01:00,900
+Model-based estimate को estimate समझिए।
+
+20
+00:01:00,900 --> 00:01:04,700
+एक score से complete memory या health तय नहीं।
+
+21
+00:01:04,700 --> 00:01:10,100
+यह diagnosis नहीं है और personal, medical, या financial advice नहीं है। AI narration और conceptual visuals उपयोग हुए हैं।

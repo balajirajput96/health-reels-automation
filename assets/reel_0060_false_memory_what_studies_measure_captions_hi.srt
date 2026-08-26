@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,000
+गलत detail याद आना हमेशा झूठ नहीं।
+
+2
+00:00:03,000 --> 00:00:06,200
+False-memory studies controlled tasks हैं।
+
+3
+00:00:06,200 --> 00:00:09,600
+Memory errors अलग तरीकों से मापे जाते हैं।
+
+4
+00:00:09,600 --> 00:00:12,800
+False recall: unpresented item बताना
+
+5
+00:00:12,800 --> 00:00:16,200
+DRM: related list और critical lure
+
+6
+00:00:16,200 --> 00:00:19,600
+False recognition: lure को पुराना मानना
+
+7
+00:00:19,600 --> 00:00:22,600
+Misinformation task अलग है।
+
+8
+00:00:22,600 --> 00:00:26,000
+Original event, फिर misleading information
+
+9
+00:00:26,000 --> 00:00:29,200
+फिर memory test होता है।
+
+10
+00:00:29,200 --> 00:00:32,600
+Source-monitoring error में origin mix हो सकता है।
+
+11
+00:00:32,600 --> 00:00:35,800
+Imagination-inflation में imagined event के बाद report देखी जाती है।
+
+12
+00:00:35,800 --> 00:00:39,000
+ये अलग paradigms हैं।
+
+13
+00:00:39,000 --> 00:00:42,200
+एक result universal trait नहीं बताता।
+
+14
+00:00:42,200 --> 00:00:45,400
+Cross-task relationships कमजोर हो सकती हैं।
+
+15
+00:00:45,400 --> 00:00:48,800
+एक task universal suggestibility नहीं बताता।
+
+16
+00:00:48,800 --> 00:00:52,000
+Confidence और vividness subjective reports हैं।
+
+17
+00:00:52,000 --> 00:00:55,200
+High confidence accuracy की guarantee नहीं।
+
+18
+00:00:55,200 --> 00:00:58,400
+False memory intentional lie नहीं।
+
+19
+00:00:58,400 --> 00:01:01,600
+fMRI या ERP associated process दिखा सकते हैं।
+
+20
+00:01:01,600 --> 00:01:05,000
+Memory की truth या मन directly read नहीं होता।
+
+21
+00:01:05,000 --> 00:01:11,700
+एक score से honesty, trauma, personality या cognitive health तय नहीं होती। यह diagnosis नहीं है और personal, medical, या financial advice नहीं है। AI narration और conceptual visuals उपयोग हुए हैं।
