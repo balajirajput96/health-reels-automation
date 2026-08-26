@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0054_base_rate_reasoning_what_studies_measure",
+  "queue_id":"0054",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0054",
+  "title_hi":"बेस-रेट तर्क: studies क्या मापते हैं?",
+  "topic":"base-rate reasoning, Bayesian updating, diagnosticity, and task format",
+  "unique_angle":"Base-rate use depends on cue diagnosticity, numerical format, task structure, expertise, and the outcome measured; base-rate neglect is a model-relative pattern, not a person-level label.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed base-rate reasoning experiments, real-world sequential expertise analysis, broad problem-space cognitive modeling study, and full-distribution belief-elicitation study",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Medical-test examples illustrate probability structure and are not personal medical risk assessment; no medical, financial, or individualized decision advice.",
+  "source_ids":[
+    {"source_id":"doi:10.1037/a0034887","citation":"Pennycook, Trippas, Handley, and Thompson (2014), Base rates: both neglected and intuitive","url":"https://doi.org/10.1037/a0034887","type":"peer_reviewed_experiment"},
+    {"source_id":"doi:10.3758/s13423-021-02024-6","citation":"Link and Raab (2021), Experts use base rates in real-world sequential decisions","url":"https://doi.org/10.3758/s13423-021-02024-6","type":"peer_reviewed_real_world_analysis"},
+    {"source_id":"doi:10.1016/j.cognition.2022.105160","citation":"Stengård, Juslin, Hahn, and van den Berg (2022), On the generality and cognitive basis of base-rate neglect","url":"https://doi.org/10.1016/j.cognition.2022.105160","type":"peer_reviewed_experiment_modeling"},
+    {"source_id":"doi:10.1017/S1930297500009281","citation":"Howe, Perfors, Walker, Kashima, and Fay (2022/2023), Base rate neglect and conservatism in probabilistic reasoning","url":"https://doi.org/10.1017/S1930297500009281","type":"peer_reviewed_belief_elicitation_study"}
+  ],
+  "assets":{
+    "video":"assets/reel_0054_base_rate_reasoning_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0054_base_rate_reasoning_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0054_base_rate_reasoning_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0054_base_rate_reasoning_what_studies_measure_script.md",
+    "sources":"research/reel_0054_base_rate_reasoning_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0054_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0054_scene_01.png","assets/reel_0054_scene_02.png","assets/reel_0054_scene_03.png","assets/reel_0054_scene_04.png"],
+    "qc_report":"assets/reel_0054_qc_report.json",
+    "drive_manifest":"state/reel_0054_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes illustrating prior probability, evidence cues, laboratory versus sequential tasks, information formats, and measurement boundaries. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate probability concepts and research measures, not personal risk, intelligence, or guaranteed predictions. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":71.84,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1IpeTG4M0C0YTSwOm1C1gTTnoPmm25krJ","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}

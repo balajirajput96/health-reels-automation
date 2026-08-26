@@ -1,0 +1,2 @@
+attempt1=assets/reel_0054_base_rate_reasoning_what_studies_measure_narration_hi_attempt1_94s.wav duration_seconds=93.60 status=overlong_preserved
+attempt2=assets/reel_0054_base_rate_reasoning_what_studies_measure_narration_hi_attempt2_78s.wav duration_seconds=78.00 status=overlong_preserved

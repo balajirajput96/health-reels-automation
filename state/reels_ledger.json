@@ -510,6 +510,15 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T04:46:31.360712Z",
       "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0053; no social publication attempted."
+    },
+    {
+      "source_id": "reel_0054_base_rate_reasoning_what_studies_measure",
+      "sha256": "8b9a37cb3584ebe7f4745d67648c23425387bcdfcba8ccbc57679d8c48e59331",
+      "filename": "reel_0054_base_rate_reasoning_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T05:03:13.703739Z",
+      "notes": "Drive verified in canonical folder 10PxUwSOcrJsDUkyGr0CSr3C8HsGb-UNA with exact 11-object package plus one manifest; no social publishing."
     }
   ]
 }
