@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,900
+“Stress बढ़ा”—study ने मापा क्या?
+
+2
+00:00:04,900 --> 00:00:09,800
+Acute stress research में पाँच layers हो सकती हैं।
+
+3
+00:00:09,800 --> 00:00:14,700
+पहली: stressor exposure—short-term घटना या task।
+
+4
+00:00:14,700 --> 00:00:19,600
+Situation बताती है; हर व्यक्ति का experience नहीं।
+
+5
+00:00:19,600 --> 00:00:24,500
+दूसरी: subjective appraisal—कैसा महसूस हुआ?
+
+6
+00:00:24,500 --> 00:00:29,400
+Rating, cortisol का direct reading नहीं।
+
+7
+00:00:29,400 --> 00:00:34,300
+तीसरी: behavior—performance या coping action।
+
+8
+00:00:34,300 --> 00:00:39,200
+Behavior पूरे अंदरूनी stress state का mind-reading नहीं।
+
+9
+00:00:39,200 --> 00:00:44,100
+चौथी: physiology—selected body signals।
+
+10
+00:00:44,100 --> 00:00:49,000
+एक biomarker universal stress proxy नहीं।
+
+11
+00:00:49,000 --> 00:00:53,900
+Timing से endpoints अलग clocks पर बदल सकते हैं।
+
+12
+00:00:53,900 --> 00:00:58,800
+MAST में blood pressure और anxiety अलग गति से बदले।
+
+13
+00:00:58,800 --> 00:01:03,700
+Cortisol और perceived stress का correspondence partial था।
+
+14
+00:01:03,700 --> 00:01:08,600
+लगभग 25% included studies में correlation मिला।
+
+15
+00:01:08,600 --> 00:01:13,600
+Task, window, endpoint पूछिए; association diagnosis नहीं।

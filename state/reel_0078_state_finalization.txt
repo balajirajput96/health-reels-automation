@@ -1,0 +1,8 @@
+{
+  "queue_sequence": 78,
+  "production_stage": "final",
+  "final": 78,
+  "planned": 2922,
+  "next_sequence": 79,
+  "next_reel": "reel_0079_recovery_what_studies_measure"
+}

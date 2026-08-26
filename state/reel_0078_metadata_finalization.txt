@@ -1,0 +1,5 @@
+{
+  "measured_narration_duration_seconds": 73.6,
+  "measured_mp4_sha256": "d2acf144c3f1e1d970bbde1350c5fb2d27cdf810602889088a98759b0169e8f6",
+  "local_media_qc": "passed"
+}
