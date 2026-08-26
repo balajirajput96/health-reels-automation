@@ -1,0 +1,12 @@
+{
+  "decision": "registered",
+  "record": {
+    "source_id": "reel_0062_selective_attention_what_studies_measure",
+    "sha256": "05bd174842a2d4510120794965f11196649fe338deeaa3bdb0053b977810f58d",
+    "filename": "reel_0062_selective_attention_what_studies_measure_hi.mp4",
+    "stage": "final",
+    "target_account": "@balajirajput96",
+    "recorded_at": "2026-08-26T06:57:04.345553Z",
+    "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
+  }
+}

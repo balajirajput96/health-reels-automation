@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0062_selective_attention_what_studies_measure",
+  "queue_id":"0062",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0062",
+  "title_hi":"चयनात्मक ध्यान: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"selective attention, Stroop conflict, visual search, eye tracking, neural correlates, downstream preference, reliability, and task-specific measurement",
+  "unique_angle":"Selective-attention studies measure task-specific response conflict, search performance, ocular or neural correlates, and downstream ratings; these outcomes should not be collapsed into a universal attention meter or stable personal label.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed Stroop task-architecture study, visual-selection review, vision-task test-retest reliability study, and selective-attention downstream-choice study",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Task performance, eye movements, neural correlates, self-report, downstream preference, and reliability measures are not diagnosis, treatment, direct thought reading, or individualized cognitive assessment.",
+  "source_ids":[
+    {"source_id":"doi:10.1016/j.cognition.2009.08.008","citation":"Eidels, Townsend, and Algom (2009), Comparing Perception of Stroop Stimuli in Focused versus Divided Attention Paradigms: Evidence for Dramatic Processing Differences, Cognition","url":"https://doi.org/10.1016/j.cognition.2009.08.008","type":"peer_reviewed_stroop_task_architecture_study"},
+    {"source_id":"doi:10.1152/jn.00145.2019","citation":"Souto and Kerzel (2021), Visual selective attention and the control of tracking eye movements: a critical review, Journal of Neurophysiology, 125(5)","url":"https://doi.org/10.1152/jn.00145.2019","type":"peer_reviewed_visual_selection_review"},
+    {"source_id":"doi:10.1167/jov.22.8.18","citation":"Clark et al. (2022), Test-retest reliability for common tasks in vision science, Journal of Vision, 22(8):18","url":"https://doi.org/10.1167/jov.22.8.18","type":"peer_reviewed_test_retest_reliability_study"},
+    {"source_id":"doi:10.1038/s41598-022-23859-6","citation":"Egger and Florack (2022), Investigating the mechanisms by which selective attention affects subsequent preferences and choice, Scientific Reports","url":"https://doi.org/10.1038/s41598-022-23859-6","type":"peer_reviewed_downstream_choice_study"}
+  ],
+  "assets":{
+    "video":"assets/reel_0062_selective_attention_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0062_selective_attention_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0062_selective_attention_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0062_selective_attention_what_studies_measure_script.md",
+    "sources":"research/reel_0062_selective_attention_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0062_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0062_scene_01.png","assets/reel_0062_scene_02.png","assets/reel_0062_scene_03.png","assets/reel_0062_scene_04.png"],
+    "qc_report":"assets/reel_0062_qc_report.json",
+    "drive_manifest":"state/reel_0062_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes showing colour-word conflict, a target among distractors, separate response/eye/neural/downstream measures, and repeated-session reliability. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate task measures and limitations, not direct thought reading or a universal attention score. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":73.36,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1GEIr2uS-NON8sk-LWqVUqyQtxKmdCMGh","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}
