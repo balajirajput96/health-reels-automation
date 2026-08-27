@@ -26,3 +26,10 @@ After the Reel 0010 commits were pushed and rebased onto `main`, the daily audit
 ## Follow-up run 33036215776
 
 After the Reel 0011 pending-preparation commit `0360030` was pushed, the daily audit was dispatched again. It completed as `failure` with the audit job having no executable steps and no hosted log. This is consistent with the earlier hosted-runner/service-level failure pattern; local validation for the active completed checkpoint remains separate and is not changed by this pending Reel 0011 state.
+
+
+## Current-main verification runs 33103095701 and 33103098181
+
+After the maintenance-scanner repair was pushed as `3c977e7`, both workflows were manually dispatched once against the current `main` commit. `Daily Automation Audit` run `33103095701` and `Daily Repository Maintenance` run `33103098181` completed as `failure` within seconds. Each had exactly one job, with an empty `steps` array and no executable hosted log. The job IDs were `98625707612` and `98625714403`, respectively. Because the same zero-step behavior occurred on the repaired current commit, and local workflow logic and tests pass, this remains a GitHub-hosted Actions/runner or repository policy/service-level blocker rather than a proven code failure. No authentication bypass, secret access, or unsupported workflow mutation was used.
+
+Local results for `3c977e7`: checkpoint guard passed; all 28 unit tests passed; health and continuity checks passed; the maintenance scanner reported no active/promoted-scope findings.
