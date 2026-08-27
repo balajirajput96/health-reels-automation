@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "folder_id": "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7",
+  "count": 21,
+  "names": [
+    "REEL-0008_captions_hi-IN.ass",
+    "REEL-0008_captions_hi-IN.srt",
+    "REEL-0008_fresh_start_QC_pending.mp4",
+    "REEL-0008_local_manifest.json",
+    "REEL-0008_narration_hi-IN.wav",
+    "REEL-0008_production_brief.md",
+    "REEL-0008_qc_ffprobe.json",
+    "REEL-0008_qc_frame_02s.jpg",
+    "REEL-0008_qc_frame_34s.jpg",
+    "REEL-0008_qc_frame_60s.jpg",
+    "REEL-0008_qc_report.json",
+    "REEL-0008_qc_sha256.txt",
+    "REEL-0008_scene_01_landmark_beginning.png",
+    "REEL-0008_scene_02_temporal_landmarks.png",
+    "REEL-0008_scene_03_goal_initiation.png",
+    "REEL-0008_scene_04_motivation_not_durability.png",
+    "REEL-0008_scene_05_small_next_action.png",
+    "REEL-0008_scene_06_launch_not_magic.png",
+    "REEL-0008_script_hi-IN.md",
+    "REEL-0008_source_validation.md",
+    "REEL-0008_style_reference.png"
+  ]
+}

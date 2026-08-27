@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Reel,Noto Sans Devanagari,31,&H00FFFFFF,&H00FFFFFF,&H00000000,&HCC06101D,0,0,3,2,0,2,38,38,118,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.18,Reel,,0,0,0,,कभी सोमवार, birthday, या नए घर\Nमें shift होने पर लगा है—अब सच\Nमें शुरुआत करूँगा? यह feeling\Nसिर्फ़ imagination नहीं हो\Nसकती।
+Dialogue: 0,0:00:09.18,0:00:21.19,Reel,,0,0,0,,Psychology में ऐसे moments को\Ntemporal landmarks कहा जाता\Nहै। ये समय को पुराने chapter\Nऔर नए chapter की तरह बाँट सकते\Nहैं, जिससे कोई goal शुरू करना\Nथोड़ा आसान महसूस हो।
+Dialogue: 0,0:00:21.19,0:00:33.91,Reel,,0,0,0,,Research में नए हफ्ते, जन्मदिन\Nऔर दूसरे fresh start moments\Nके आसपास aspirational goals और\Ngoal initiation में बढ़ोतरी\Nदेखी गई है। इसे fresh-start\Neffect कहा जाता है।
+Dialogue: 0,0:00:33.91,0:00:45.21,Reel,,0,0,0,,लेकिन ध्यान रखिए: goal शुरू\Nकरने की motivation बढ़ना, goal\Nपूरा होने या habit टिकने की\Nguarantee नहीं है। शुरुआती\Nspark और long-term consistency\Nदो अलग सवाल हैं।
+Dialogue: 0,0:00:45.21,0:00:56.52,Reel,,0,0,0,,इस window का हल्का इस्तेमाल कर\Nसकते हैं। किसी landmark पर\Nबहुत बड़ा promise करने के\Nबजाय, बस एक छोटा next action\Nतय कीजिए—जैसे दस मिनट पढ़ना या\Nएक walk schedule करना।
+Dialogue: 0,0:00:56.52,0:01:10.64,Reel,,0,0,0,,Fresh start को launch button\Nसमझिए, magic button नहीं। उसके\Nबाद रोज़मर्रा के cues,\Nrealistic planning और support\Nज़्यादा मायने रखते हैं। यह\Ngeneral education है,\Ntreatment या guarantee नहीं।\Nअगर distress या functioning की\Nसमस्या हो, तो qualified\Nsupport लीजिए।

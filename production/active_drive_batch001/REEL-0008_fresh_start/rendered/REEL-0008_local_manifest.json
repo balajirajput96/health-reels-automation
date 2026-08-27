@@ -1,0 +1,57 @@
+{
+  "reel_id": "0008",
+  "display_id": "REEL-0008",
+  "batch": "Batch_001",
+  "working_title_hi": "Fresh-start moments और goal initiation",
+  "status": "rendered_local_pending_qc_and_drive_upload",
+  "canonical_drive_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0008",
+  "format": {
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "duration_seconds": 70.633
+  },
+  "language": "hi-IN",
+  "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions",
+  "evidence_status": "verified_with_limits",
+  "sources": [
+    {
+      "title": "Dai, Milkman, and Riis (2014), The Fresh Start Effect: Temporal Landmarks Motivate Aspirational Behavior",
+      "url": "https://pubsonline.informs.org/doi/10.1287/mnsc.2014.1901"
+    },
+    {
+      "title": "Dai, Milkman, and Riis (2015), Put Your Imperfections behind You: Temporal Landmarks Spur Goal Initiation When They Signal New Beginnings",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4839284/"
+    },
+    {
+      "title": "Dai and Li (2019), How Experiencing and Anticipating Temporal Landmarks Influence Motivation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29753243/"
+    }
+  ],
+  "claims_boundary": "Temporal landmarks may motivate goal initiation or aspirational behaviour, but do not guarantee goal completion or durable habit formation. Effects are conditional and may vary by person, meaning, and context. This is general education, not treatment, diagnosis, or a guarantee.",
+  "ai_content_disclosure": "Hindi narration and visual scenes were AI-assisted; motion assembly and captions were deterministic.",
+  "files": {
+    "video": "REEL-0008_fresh_start_QC_pending.mp4",
+    "narration": "narration_hi-IN.wav",
+    "captions_ass": "captions_hi-IN.ass",
+    "captions_srt": "captions_hi-IN.srt",
+    "script": "script_hi-IN.md",
+    "production_brief": "production_brief.md",
+    "source_validation": "../../../research/2026-08-27__reel0008__fresh-start-source-validation.md"
+  },
+  "sha256": {
+    "REEL-0008_fresh_start_QC_pending.mp4": "cb18d0ec429cc9136517c497053cf163adfe2b57537de9b4c8c4457e6c2f02bc",
+    "narration_hi-IN.wav": "332c5ccb020e1c1b2e08f8f2a9e9e1df6e0ccbe36c53be5fa63b18bd3dd8fa93",
+    "captions_hi-IN.ass": "d3d11cd76f3069286b4990006805ce1a1f0c45cb9d538854d245949f56c00085",
+    "captions_hi-IN.srt": "5cce5bc66654dc489bae88ecc3ae5ad5640b616bfde68f06b3836a6ef5e72db6"
+  },
+  "segment_durations_seconds": [
+    9.184,
+    12.01,
+    12.716,
+    11.303,
+    11.303,
+    14.129
+  ]
+}

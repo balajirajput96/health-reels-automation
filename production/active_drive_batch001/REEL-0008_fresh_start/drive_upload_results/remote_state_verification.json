@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "remote_state_verified": true,
+  "artifact_count": 21,
+  "completed_in_current_batch": 8,
+  "next_reel_id": "0009",
+  "registry_entries": 3000,
+  "canonical_reels": 3000,
+  "verified_file_ids": {
+    "checkpoint": "1JPD_ArFxDCWxU5GCEq3DEiS9XT1ezeaE",
+    "registry": "14kGl96jM4Lsd9xNgQaqxrrLPPCcAJLCj",
+    "canonical": "1SrrMU5Zh-GO9tDFJZfHvtVrbESO6rUNV"
+  }
+}
