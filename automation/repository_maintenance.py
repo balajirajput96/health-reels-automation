@@ -36,6 +36,9 @@ ACTIVE_SCAN_ROOTS = (
     ROOT_DIR / "production" / "active_drive_batch001",
     ROOT_DIR / "production" / "active",
     ROOT_DIR / "production" / "promoted",
+    ROOT_DIR / "policy",
+    ROOT_DIR / "standards",
+    ROOT_DIR / "docs",
 )
 SAFETY_DOCUMENT_NAME_MARKERS = (
     "source-validation",
@@ -44,6 +47,9 @@ SAFETY_DOCUMENT_NAME_MARKERS = (
     "source_retry",
     "diagnostic",
     "standard",
+    "policy",
+    "audit",
+    "blueprint",
 )
 
 
