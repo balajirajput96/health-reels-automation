@@ -1,0 +1,61 @@
+{
+  "reel_id": "0003",
+  "display_id": "REEL-0003",
+  "batch": "Batch_001",
+  "working_title_hi": "अगर–तो plan: intention को action में बदलना",
+  "status": "rendered_local_pending_qc_and_drive_upload",
+  "canonical_drive_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0003",
+  "format": {
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "duration_seconds": 63.6
+  },
+  "language": "hi-IN",
+  "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions",
+  "evidence_status": "verified_with_limits",
+  "sources": [
+    {
+      "title": "Gollwitzer & Sheeran (2006), Implementation Intentions and Goal Achievement: A Meta-analysis of Effects and Processes",
+      "url": "https://doi.org/10.1016/S0065-2601(06)38002-1"
+    },
+    {
+      "title": "Gollwitzer (1999), Implementation intentions: Strong effects of simple plans",
+      "url": "https://doi.org/10.1037/0003-066X.54.7.493"
+    },
+    {
+      "title": "National Cancer Institute, Implementation Intentions",
+      "url": "https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions"
+    },
+    {
+      "title": "Adriaanse et al. (2011), Breaking Habits With Implementation Intentions: A Test of Underlying Processes",
+      "url": "https://doi.org/10.1177/0146167211399102"
+    }
+  ],
+  "claims_boundary": "The 2006 review reports a positive average effect across 94 independent tests, d=.65, on goal attainment. This is not a universal habit guarantee, does not mean equal effects for every person or goal, and is general education only.",
+  "ai_content_disclosure": "Hindi narration and visual scenes were AI-assisted; motion assembly and captions were deterministic.",
+  "files": {
+    "video": "REEL-0003_if_then_plans_QC_pending.mp4",
+    "narration": "narration_hi-IN.wav",
+    "captions_ass": "captions_hi-IN.ass",
+    "captions_srt": "captions_hi-IN.srt",
+    "script": "script_hi-IN.md",
+    "production_brief": "production_brief.md",
+    "source_validation": "../../../research/2026-08-25__reel0003__implementation-intentions-source-validation.md"
+  },
+  "sha256": {
+    "REEL-0003_if_then_plans_QC_pending.mp4": "97e9f0c772d0aead288d8b53539c88bc8a1c4b631752fae0106095edb3ae94e6",
+    "narration_hi-IN.wav": "168973dc7270aa13c3f03a760e0545475cd5fcde506c701bb410e302e129abb9",
+    "captions_hi-IN.ass": "08fbcb6eaaabdfca946ddcd851f0648ed1b2fb0ec3da4b9cdf07625d42290e22",
+    "captions_hi-IN.srt": "abbdf767e5aaf908571320626a7354f35c6ce575045f8acb573d00dee1c86c9f"
+  },
+  "segment_durations_seconds": [
+    7.314,
+    11.448,
+    12.084,
+    7.632,
+    12.084,
+    13.038
+  ]
+}

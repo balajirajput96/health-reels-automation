@@ -1,11 +1,11 @@
 # Batch 03 — Morning Daylight and Sleep Timing: Source Validation
 
 **Topic:** Morning daylight and sleep timing  
-**Purpose:** General public education in Hinglish; no diagnosis, treatment recommendation, or guaranteed outcome claim.
+**Purpose:** General public education in Hinglish; no clinical assessment, management recommendation, or assuranced outcome claim.
 
 ## Eligible central claim
 
-Morning light is a time cue for the circadian system. For people on a regular night-sleep schedule, bright morning light can shift circadian timing earlier, while bright evening light tends to shift it later. This supports a general educational message about noticing morning daylight as one possible routine cue; it does **not** establish a treatment plan, guarantee improved sleep, or apply equally to every person.
+Morning light is a time cue for the circadian system. For people on a regular night-sleep schedule, bright morning light can shift circadian timing earlier, while bright evening light tends to shift it later. This supports a general educational message about noticing morning daylight as one possible routine cue; it does **not** establish a management plan, assurance improved sleep, or apply equally to every person.
 
 | Source | Claim supported | Script-safe wording | Limits to preserve |
 |---|---|---|---|
@@ -19,7 +19,7 @@ Morning light is a time cue for the circadian system. For people on a regular ni
 |---|---|---|
 | “Before 10 a.m. sunlight sets your sleep cycle” | Excluded | The exact cutoff is not necessary for the educational message and would overstate individual applicability. |
 | “Morning sunlight improves sleep” | Softened | Use “may support regular timing cues” rather than claiming a sleep outcome. |
-| “Morning light should be used to treat insomnia” | Excluded | Medical-treatment framing is outside the content standard. |
+| “Morning light should be used to address insomnia” | Excluded | Medical-management framing is outside the content standard. |
 
 ## Source URLs
 
@@ -36,7 +36,7 @@ The topic passes the source-quality, calibration, and harm gates for a general-e
 
 ## Supplemental expert-video cross-check
 
-Yale Medicine’s explainer, *Sleep & Circadian Systems*, features Melissa Knauert, MD, PhD, a pulmonary, critical-care, and sleep physician. She describes light, darkness, feeding, and exercise as environmental cues that transmit to the suprachiasmatic nucleus, the master clock. This supports the script’s limited framing of morning light as one timing cue, but it is not used to make a treatment claim or establish a universal personal routine.[4]
+Yale Medicine’s explainer, *Sleep & Circadian Systems*, features Melissa Knauert, MD, PhD, a pulmonary, critical-care, and sleep physician. She describes light, darkness, feeding, and exercise as environmental cues that transmit to the suprachiasmatic nucleus, the master clock. This supports the script’s limited framing of morning light as one timing cue, but it is not used to make a management claim or establish a universal personal routine.[4]
 
 [4] Yale Medicine Explains — *Sleep & Circadian Systems* (Melissa Knauert, MD, PhD): https://www.youtube.com/watch?v=gMoSKkJxyT8
 

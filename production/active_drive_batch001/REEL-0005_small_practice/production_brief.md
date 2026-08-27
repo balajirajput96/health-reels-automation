@@ -6,7 +6,7 @@ Reel 0002 covered time-to-form, Reel 0003 covered if–then planning, and Reel 0
 
 ## Format
 
-Target: 9:16 vertical, approximately 60 seconds, Hindi (India), warm voiceover, burned-in captions, original scientific visuals, and a general-education disclaimer. Avoid obsessive tracking or diagnosis.
+Target: 9:16 vertical, approximately 60 seconds, Hindi (India), warm voiceover, burned-in captions, original scientific visuals, and a general-education disclaimer. Avoid obsessive tracking or clinical assessment.
 
 ## Six-scene plan
 

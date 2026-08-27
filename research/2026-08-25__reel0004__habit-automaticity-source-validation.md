@@ -16,7 +16,7 @@ Reel 0002 covered time-to-form and stable repetition; Reel 0003 covered if–the
    - The open full text defines habits as learned context–behaviour associations elicited automatically when associated contexts are encountered.
    - It reports that the popular 12-item Self-Report Habit Index combines automatic activation, behavioural frequency, and self-identity.
    - The study identified a four-item automaticity-specific subscale, the Self-Report Behavioural Automaticity Index (SRBAI), and reports it was reliable and sensitive to hypothesised habit–behaviour and habit-by-intention relationships in the datasets studied.
-   - Editorial boundary: the SRBAI is a research measure, not a clinical diagnosis and not proof that a behaviour is objectively automatic in every context.
+   - Editorial boundary: the SRBAI is a research measure, not a clinical clinical assessment and not proof that a behaviour is objectively automatic in every context.
 
 3. **PubMed record for Wood & Rünger (2016).** https://pubmed.ncbi.nlm.nih.gov/26361052/
    - Confirms review type, authors, affiliation at the University of Southern California, publication details, DOI, and abstract wording.
@@ -33,7 +33,7 @@ Reel 0002 covered time-to-form and stable repetition; Reel 0003 covered if–the
 
 ## Safety boundary
 
-This is general behavioural-science education. Avoid diagnosing compulsions, addiction, ADHD, depression, or personality from habit language. Do not imply that difficulty changing a behaviour is a moral failure.
+This is general behavioural-science education. Avoid assessing compulsions, addiction, ADHD, depression, or personality from habit language. Do not imply that difficulty changing a behaviour is a moral failure.
 
 ## Source-access note
 

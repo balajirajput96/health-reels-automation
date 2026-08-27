@@ -1,0 +1,67 @@
+{
+  "reel_id": "0002",
+  "display_id": "REEL-0002",
+  "batch": "Batch_001",
+  "working_title_hi": "21 दिन वाली आदत-धारणा: संकेत और दोहराव",
+  "status": "complete_uploaded_verified",
+  "canonical_drive_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0002",
+  "format": {
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "duration_seconds": 63.567
+  },
+  "language": "hi-IN",
+  "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions",
+  "evidence_status": "verified_with_limits",
+  "sources": [
+    {
+      "title": "Singh et al. (2024), Time to Form a Habit: A Systematic Review and Meta-Analysis of Health Behaviour Habit Formation and Its Determinants",
+      "url": "https://doi.org/10.3390/healthcare12232488"
+    },
+    {
+      "title": "Lally et al. (2010), How are habits formed: Modelling habit formation in the real world",
+      "url": "https://doi.org/10.1002/ejsp.674"
+    },
+    {
+      "title": "Stojanovic et al. (2022), Context Stability in Habit Building Increases Automaticity and Goal Attainment",
+      "url": "https://doi.org/10.3389/fpsyg.2022.883795"
+    },
+    {
+      "title": "Gardner, Lally, & Wardle (2012), Making health habitual",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/"
+    }
+  ],
+  "claims_boundary": "No universal 21-day or 66-day rule; time varies by behaviour, person, context, and measurement. General education only; no diagnosis, treatment, or guarantee.",
+  "ai_content_disclosure": "Hindi narration and visual scenes were AI-assisted; motion assembly and captions were deterministic.",
+  "files": {
+    "video": "REEL-0002_habit_21_days_QC_pending.mp4",
+    "narration": "narration_hi-IN.wav",
+    "captions_ass": "captions_hi-IN.ass",
+    "captions_srt": "captions_hi-IN.srt",
+    "script": "script_hi-IN.md",
+    "production_brief": "production_brief.md",
+    "source_validation": "../../../research/2026-08-23__reel0002__habit-21-day-source-validation.md"
+  },
+  "sha256": {
+    "REEL-0002_habit_21_days_QC_pending.mp4": "820e4deb41a9bf4e5a46cf819d2ade84cc456cc7b70e59a133c6e942b0257cb1",
+    "narration_hi-IN.wav": "ea6d4918240ab88e59fb0eee9e355fc28268b7c9eeddbabb75da369eaed5877d",
+    "captions_hi-IN.ass": "0abb8136f89ee98e769292cc44039be4a3e07c06fc9577686c70f365c3f058d7",
+    "captions_hi-IN.srt": "50bdda990a8023b3dcbb8adb9ac3a7f7207c15efaf3c59408bd542a1ba1f2d96"
+  },
+  "segment_durations_seconds": [
+    6.678,
+    13.038,
+    7.632,
+    11.448,
+    15.9,
+    8.904
+  ],
+  "drive_verification": {
+    "verified": true,
+    "folder_id": "12EwnZQ9RN6BUYmefbzHAmDhQ77F-Fduo",
+    "remote_file_count": 15,
+    "verified_at": "2026-08-25T04:17:29Z"
+  }
+}

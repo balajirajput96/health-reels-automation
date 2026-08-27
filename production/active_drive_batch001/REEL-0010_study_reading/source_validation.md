@@ -23,18 +23,18 @@ A research headline such as “stable context increases automaticity” must be 
 |---|---|---|
 | A study’s headline is not the whole study. | Research-literacy principle | “Headline के साथ sample, measure और limit भी पढ़िए।” |
 | The 2022 paper used two complementary datasets. | Directly verified | One study manipulated context stability among university students; the second analysed app-user repetitions where context stability was measured. |
-| The paper measured automaticity and habit-repetition goal attainment. | Directly verified | These are study outcomes, not the same thing as guaranteed long-term behaviour change. |
+| The paper measured automaticity and habit-repetition goal attainment. | Directly verified | These are study outcomes, not the same thing as assuranced long-term behaviour change. |
 | Manipulation and observation are different kinds of evidence. | Directly verified design distinction | The student study’s instructions manipulated context stability; the app dataset measured naturally occurring stability. The reel will not collapse both into one causal claim. |
 | The finding may not generalize to every person or behaviour. | Direct limitation / synthesis | Samples, behaviours, measures, and context differ; the reel will state that one paper is informative, not universal. |
 | Habit formation is variable and evidence quality is uneven. | Systematic-review caution | The 2024 review included 20 studies, reported wide variability, and rated most included studies as high risk of bias. |
 
 ## Prohibited overclaims
 
-The reel must not say that stable context “guarantees” a habit, that the brain is “rewired” after a fixed number of days, that cues force behaviour, or that the paper proves a medical or mental-health outcome. It must not present app-user associations as if they were randomized causal evidence.
+The reel must not say that stable context “assurances” a habit, that the brain is “rewired” after a fixed number of days, that cues force behaviour, or that the paper proves a medical or mental-health outcome. It must not present app-user associations as if they were randomized causal evidence.
 
 ## Educational takeaway
 
-When reading a behaviour-science study, ask four questions: Who was studied? What was changed or merely measured? What exactly was measured? What remains unknown? This is a research-literacy tool, not diagnosis, treatment, or a promise of behaviour change.
+When reading a behaviour-science study, ask four questions: Who was studied? What was changed or merely measured? What exactly was measured? What remains unknown? This is a research-literacy tool, not clinical assessment, management, or a promise of behaviour change.
 
 ## References
 

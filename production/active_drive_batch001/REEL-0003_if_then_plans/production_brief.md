@@ -2,11 +2,11 @@
 
 ## Unique angle
 
-Reel 0002 addressed the myth that every habit forms in 21 days. Reel 0003 focuses on a different question: why a vague intention such as “मुझे पढ़ना है” often fails to start, and how a specific if–then plan can pre-decide the cue and response. The reel must explain that implementation intentions are not a guarantee of habit formation, motivation, or equal success for everyone.
+Reel 0002 addressed the myth that every habit forms in 21 days. Reel 0003 focuses on a different question: why a vague intention such as “मुझे पढ़ना है” often fails to start, and how a specific if–then plan can pre-decide the cue and response. The reel must explain that implementation intentions are not a assurance of habit formation, motivation, or equal success for everyone.
 
 ## Format
 
-Target: 9:16 vertical, approximately 60 seconds, Hindi (India) narration, burned-in Hindi captions, original motion-graphics visuals, and a clear general-education disclaimer. No medical or psychiatric diagnosis, treatment, or productivity guarantee.
+Target: 9:16 vertical, approximately 60 seconds, Hindi (India) narration, burned-in Hindi captions, original motion-graphics visuals, and a clear general-education disclaimer. No medical or psychiatric clinical assessment, management, or productivity assurance.
 
 ## Clip plan
 
@@ -21,7 +21,7 @@ Target: 9:16 vertical, approximately 60 seconds, Hindi (India) narration, burned
 
 ## Evidence rules
 
-The reel may say that Gollwitzer and Sheeran’s 2006 review analyzed 94 independent tests and reported a positive average effect of d = .65 on goal attainment. It must identify this as an average meta-analytic result, not a guarantee or a direct “2–3×” claim. It may define an implementation intention as a plan of the form “अगर situation Y आए, तो मैं response X शुरू करूँगा.” It may say that the review discusses cue accessibility and automated response initiation as proposed processes. It must not claim that if–then plans always create lasting habits, eliminate barriers, or work equally across goals and people.
+The reel may say that Gollwitzer and Sheeran’s 2006 review analyzed 94 independent tests and reported a positive average effect of d = .65 on goal attainment. It must identify this as an average meta-analytic result, not a assurance or a direct “2–3×” claim. It may define an implementation intention as a plan of the form “अगर situation Y आए, तो मैं response X शुरू करूँगा.” It may say that the review discusses cue accessibility and automated response initiation as proposed processes. It must not claim that if–then plans always create lasting habits, eliminate barriers, or work equally across goals and people.
 
 ## Visual direction
 

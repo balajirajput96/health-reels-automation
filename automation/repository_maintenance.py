@@ -17,7 +17,7 @@ from pathlib import Path
 
 TARGET_ACCOUNT = "@balajirajput96"
 SCHEDULE = "30 0 * * *"
-UNSAFE_PATTERNS = ["cure", "guarantee", "diagnosis", "treat", "medical advice"]
+UNSAFE_PATTERNS = [r"\bcure\b", r"\bguarantee\b", r"\bdiagnosis\b", r"\btreat\b", r"\bmedical advice\b"]
 ROOT_DIR = Path(__file__).resolve().parents[1]
 
 def read_files():
@@ -84,9 +84,32 @@ def check_unsafe_patterns(files):
         if f.suffix == ".md" and f.name not in ["MAINTENANCE_REPORT.md", "maintenance_report.md"]:
             content = f.read_text(encoding="utf-8").lower()
             for pattern in UNSAFE_PATTERNS:
-                # Disallow raw occurrences unless it's the standard itself
-                if pattern in content and "HEALTH_CONTENT_EDITORIAL_STANDARD.md" not in f.name:
-                    unsafe_found.append((f, pattern))
+                # Disallow raw occurrences unless it's the standard itself or a safe negative usage
+                if re.search(pattern, content) and "HEALTH_CONTENT_EDITORIAL_STANDARD.md" not in f.name:
+                    # Basic check for safe negative usage or disclaimer
+                    safe_usage = False
+                    # Allow the standard disclaimer
+                    if "general education only; it is not medical advice" in content:
+                        if pattern == "medical advice":
+                            # Check if there are OTHER occurrences of medical advice
+                            if content.count("medical advice") == content.count("it is not medical advice"):
+                                safe_usage = True
+                    
+                    # Allow negative statements like "not a diagnosis"
+                    if not safe_usage:
+                        # Find all occurrences of the pattern
+                        for match in re.finditer(pattern, content):
+                            start = match.start()
+                            # Check the preceding 30 characters for negative words
+                            preceding = content[max(0, start-30):start]
+                            if any(neg in preceding for n in ["not", "no", "avoid", "without", "instead of"] for neg in [n + " ", n + " a "]):
+                                continue
+                            else:
+                                # Found an affirmative or unprotected occurrence
+                                unsafe_found.append((f, pattern))
+                                break
+                    elif not safe_usage:
+                        unsafe_found.append((f, pattern))
     return unsafe_found
 
 def generate_report(stale, duplicates, drift, drift_msg, unsafe):

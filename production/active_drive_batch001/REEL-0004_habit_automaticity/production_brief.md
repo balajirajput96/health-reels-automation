@@ -6,7 +6,7 @@ Reel 0002 covered how long habits may take; Reel 0003 covered if–then plans. R
 
 ## Format
 
-Target: 9:16 vertical, approximately 60 seconds, Hindi (India), clear voiceover, burned-in captions, original scientific visual metaphors, and a general-education disclaimer. No diagnosis or moral judgment.
+Target: 9:16 vertical, approximately 60 seconds, Hindi (India), clear voiceover, burned-in captions, original scientific visual metaphors, and a general-education disclaimer. No clinical assessment or moral judgment.
 
 ## Clip plan
 

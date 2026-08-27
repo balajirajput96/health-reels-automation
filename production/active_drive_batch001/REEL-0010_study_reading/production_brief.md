@@ -6,7 +6,7 @@ Reels 0002–0009 explain habit timelines, if–then plans, automaticity, self-m
 
 ## Format
 
-Target: 9:16 vertical, approximately 60–80 seconds, Hindi (India), warm informative narration, burned-in captions, original scientific visuals, and a general-education disclaimer. No medical, mental-health, or guaranteed behaviour-change claims.
+Target: 9:16 vertical, approximately 60–80 seconds, Hindi (India), warm informative narration, burned-in captions, original scientific visuals, and a general-education disclaimer. No medical, mental-health, or assuranced behaviour-change claims.
 
 ## Six-scene plan
 
@@ -25,7 +25,7 @@ Use the established deep navy, electric teal, and warm saffron scientific motion
 
 ## Evidence boundaries
 
-The 2022 context-stability paper used a manipulated university-student dataset and a separate measured app-user dataset. The paper examined context stability, automaticity, and habit-repetition goal attainment; it did not establish a universal cue formula or guarantee durable health behaviour. The 2024 systematic review reports variability and evidence-quality limitations. The reel teaches how to interpret these boundaries rather than presenting a headline as a promise.
+The 2022 context-stability paper used a manipulated university-student dataset and a separate measured app-user dataset. The paper examined context stability, automaticity, and habit-repetition goal attainment; it did not establish a universal cue formula or assurance durable health behaviour. The 2024 systematic review reports variability and evidence-quality limitations. The reel teaches how to interpret these boundaries rather than presenting a headline as a promise.
 
 ## References
 

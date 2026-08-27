@@ -1,0 +1,85 @@
+{
+  "known_constraint": {
+    "impact": "Direct AI video generation cannot be used again until quota reset or plan upgrade. Reel 0001 used an AI visual plus Hindi narration and edited motion as the best available alternative.",
+    "name": "free_plan_video_generation_daily_quota",
+    "resume_strategy": "At the next execution, attempt the direct video generation first. If quota remains unavailable, produce the documented best-available alternative and log it.",
+    "status": "exhausted_on_2026-08-23"
+  },
+  "next_topic_candidates": [
+    "Spacing effect: distributed practice supports long-term retention",
+    "Sleep and memory consolidation: evidence-bound explanation",
+    "Implementation intentions: if-then planning and habits"
+  ],
+  "production_rules": {
+    "claim_classification_required": true,
+    "deduplicate_completed_ids": true,
+    "drive_upload_and_verification_required_before_completion": true,
+    "language": "Hindi (India)",
+    "nonblocking_error_policy": "diagnose, use best available alternative, log outcome, do not silently skip",
+    "research_required": true,
+    "target_duration_seconds": 60,
+    "video_aspect_ratio": "9:16",
+    "voice_and_captions_required": true
+  },
+  "progress": {
+    "completed_in_current_batch": 3,
+    "completed_reels": [
+      "0001",
+      "0002",
+      "0003"
+    ],
+    "current_batch": 1,
+    "failed_reels": [],
+    "next_reel_id": "0004",
+    "target_reels_per_batch": 30,
+    "target_total_reels": 3000
+  },
+  "project": "3000_HINDI_RESEARCH_REELS",
+  "reel_0001": {
+    "brief_file_id": "1rTokcC1NvV6MctVqryTWmxRUi4ELqGNV",
+    "captions_file_id": "1D8pMsD9eBSDkwyZKnPiJcmQlCZJPLBgt",
+    "metadata_file_id": "18qZlmJVyqPcb5nPk10BQf3r7nWTslMpt",
+    "research_file_id": "1x9-e6DKGxCKMB_NFOn0PY8JyzVzVsiYO",
+    "status": "complete_uploaded_verified",
+    "video_file_id": "1vGeCNPZoT7TBkPVR7tc8EtqYm7DsZb_S"
+  },
+  "reel_0003": {
+    "artifact_count": 21,
+    "batch": "Batch_001",
+    "completed_at": "2026-08-25T04:35:55Z",
+    "drive_folder_id": "1h8Gd2S03KYtqSzFmSLkEDSDW8o-Yr9cc",
+    "duration_seconds": 63.6,
+    "evidence_status": "verified_with_limits",
+    "format": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 63.6,
+      "fps": 30,
+      "height": 1280,
+      "width": 720
+    },
+    "language": "hi-IN",
+    "manifest_file_id": "1nM3O9F_ZQR5RBfxmaUWgItkZcRLfpSU9",
+    "qc_report_file_id": "1bhDeN3VnCCA7nzaSbnHXLMqWdV4NKFjy",
+    "reel_id": "0003",
+    "required_before_production": [
+      "authoritative_sources_verified",
+      "claim_classified",
+      "Hindi_script_fact_checked",
+      "visual_plan_qc"
+    ],
+    "source_metadata_file_id": "1zEudhgGDSeC0qHDVJBlyzb6F6PhHguUn",
+    "status": "qc_passed_drive_verified",
+    "track": "habits_behavior",
+    "video_file_id": "1r_4UIPv6mZRyM2U_BJVbB_BAbkFr2XpO",
+    "working_title_hi": "अगर–तो plan: intention को action में बदलना"
+  },
+  "schema_version": 1,
+  "storage": {
+    "active_batch_folder_id": "1EUgS6DJLcu6n1UQJqtXPmphWjZail8oi",
+    "active_batch_id": "Batch_001",
+    "provider": "Google Drive",
+    "root_folder_id": "1vYLRarvedtfaYzNcINGKpKAeeFaz0OnD",
+    "root_folder_name": "3000_HINDI_RESEARCH_REELS"
+  },
+  "updated_at": "2026-08-23T00:00:00+05:30"
+}

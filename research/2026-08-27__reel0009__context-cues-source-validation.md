@@ -2,12 +2,12 @@
 
 **Validation date:** 2026-08-27  
 **Topic:** How recurring contextual signals can support habit initiation and automaticity  
-**Planned angle:** A visual model of cue → action, with stable context as a support rather than a guarantee  
+**Planned angle:** A visual model of cue → action, with stable context as a support rather than a assurance  
 **Evidence status:** Verified with important limits
 
 ## Research conclusion
 
-Habit research commonly distinguishes a frequently repeated behaviour from a habit that is automatically triggered by an associated context. A cue can be a recurring event, place, or time-of-day marker that reliably precedes the chosen action. Repetition of a behaviour in a relatively stable context can strengthen cue–response associations and may support automaticity. This does not mean that a cue forces behaviour, that every reminder works, or that habit formation is guaranteed. The practical advice in this reel will therefore use a simple, self-chosen action and a realistic recurring context, while avoiding medical claims, exact timelines, or promises of durable success.
+Habit research commonly distinguishes a frequently repeated behaviour from a habit that is automatically triggered by an associated context. A cue can be a recurring event, place, or time-of-day marker that reliably precedes the chosen action. Repetition of a behaviour in a relatively stable context can strengthen cue–response associations and may support automaticity. This does not mean that a cue forces behaviour, that every reminder works, or that habit formation is assuranced. The practical advice in this reel will therefore use a simple, self-chosen action and a realistic recurring context, while avoiding medical claims, exact timelines, or promises of durable success.
 
 ## Source verification method
 
@@ -22,8 +22,8 @@ The complete open-access pages were read for the 2012 conceptual/practice articl
 | Repeating a chosen behaviour in a relatively stable context can support automaticity. | Moderate/convergent evidence | The 2012 article explains associative learning and recommends repetition in the same context. The 2022 study found context stability predicted greater automaticity in both a manipulated student study and app-user data. | The reel uses “मदद कर सकता है” and does not promise automaticity. |
 | Context stability may also relate to goal attainment during habit repetition. | Moderate evidence from one 2022 study with two datasets | Stojanovic, Grund, and Fries reported that context stability predicted higher habit-repetition goal attainment, with partial mediation by automaticity. | The reel does not generalize this to every goal or claim causation beyond the study design and population. |
 | Habit formation varies by behaviour and person. | Strong caution from systematic review | Singh et al. included 20 studies and reported substantial individual variability in time to habit formation; most included studies were rated high risk of bias, and the evidence base was limited for some behaviours. | No “21 days,” “66 days,” or universal timeline is used in the script. |
-| A cue is a support, not a command or guarantee. | Responsible synthesis | The sources describe triggers, associations, context stability, and automaticity; they do not establish that cues compel action or guarantee completion. | The closing line says a signal can reduce friction or support starting, but ordinary repetition and context still matter. |
-| Small, self-chosen actions are a low-risk planning suggestion. | Practical suggestion, not treatment evidence | The 2012 article discusses self-selected, manageable behaviours and context-dependent repetition; the 2024 review discusses individual choice and modest goals among determinants. | The reel labels this general education and avoids diagnosis, treatment, or health-outcome promises. |
+| A cue is a support, not a command or assurance. | Responsible synthesis | The sources describe triggers, associations, context stability, and automaticity; they do not establish that cues compel action or assurance completion. | The closing line says a signal can reduce friction or support starting, but ordinary repetition and context still matter. |
+| Small, self-chosen actions are a low-risk planning suggestion. | Practical suggestion, not management evidence | The 2012 article discusses self-selected, manageable behaviours and context-dependent repetition; the 2024 review discusses individual choice and modest goals among determinants. | The reel labels this general education and avoids clinical assessment, management, or health-outcome promises. |
 
 ## Source 1 — Habit definition and practical model
 
@@ -45,7 +45,7 @@ The abstract reports two datasets. Study 1 involved 95 university students and 2
 
 The paper defines context as the product of physical environment and position in the flow of the day and explains that context is relevant both to habit instigation and to execution. It also notes that moving a behaviour to a new context can disrupt performance and that most habit research has been cross-sectional, making longitudinal evidence comparatively scarce.
 
-**Limit:** The findings are not a universal law. Study 1 used a university-student sample and study 2 used app-user data; the article’s results concern measured automaticity and repetition goal attainment, not guaranteed long-term behaviour change for everyone.
+**Limit:** The findings are not a universal law. Study 1 used a university-student sample and study 2 used app-user data; the article’s results concern measured automaticity and repetition goal attainment, not assuranced long-term behaviour change for everyone.
 
 ## Source 3 — Systematic review and meta-analysis
 
@@ -59,7 +59,7 @@ The review searched six databases and included 20 studies involving 2,601 partic
 
 ## Planned script boundary
 
-The Hindi script will say that a signal can help connect a chosen action to a recurring context, and that repeating the action in a stable context may support automaticity. It will explicitly state that a cue is not a command, reminders can be missed, and a single experiment does not guarantee a lasting habit. It will avoid exact numerical claims, diagnosis, treatment, and health-outcome guarantees.
+The Hindi script will say that a signal can help connect a chosen action to a recurring context, and that repeating the action in a stable context may support automaticity. It will explicitly state that a cue is not a command, reminders can be missed, and a single experiment does not assurance a lasting habit. It will avoid exact numerical claims, clinical assessment, management, and health-outcome assurances.
 
 ## References
 

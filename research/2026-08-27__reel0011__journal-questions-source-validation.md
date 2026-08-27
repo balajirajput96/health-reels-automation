@@ -7,7 +7,7 @@
 
 ## Research conclusion
 
-Habit research treats context, repetition, and automaticity as related but distinct ideas. A short journal or tick-sheet can help a person record whether a chosen behaviour happened in its intended context and how automatic it felt. That makes the process more observable and can support reflection, but recording is not proof that a durable habit has formed and is not a guarantee that behaviour will change.
+Habit research treats context, repetition, and automaticity as related but distinct ideas. A short journal or tick-sheet can help a person record whether a chosen behaviour happened in its intended context and how automatic it felt. That makes the process more observable and can support reflection, but recording is not proof that a durable habit has formed and is not a assurance that behaviour will change.
 
 ## Verified sources
 
@@ -23,18 +23,18 @@ Habit research treats context, repetition, and automaticity as related but disti
 | Claim | Classification | Safe wording |
 |---|---|---|
 | Journaling can make a behaviour and its context more observable. | Practical synthesis grounded in study procedures | Record whether the action happened, where/when it happened, and how automatic it felt. |
-| A tick-sheet or app measure is an observation aid. | Directly supported by source methods and discussion | It can help notice patterns; it is not a guarantee. |
+| A tick-sheet or app measure is an observation aid. | Directly supported by source methods and discussion | It can help notice patterns; it is not a assurance. |
 | Automaticity is not the same as frequency alone. | Established conceptual distinction | Ask whether the action felt more cued and effortless, not only how many times it happened. |
 | Stable context and consistent performance matter in the literature. | Mixed/conditional empirical evidence | Keep the context as similar as reasonably possible, while acknowledging individual variation. |
 | Habit formation varies widely. | Systematic-review finding | Do not promise a fixed number of days or a universal result. |
 
 ## Prohibited overclaims
 
-The reel must not claim that writing a journal automatically changes the brain, guarantees a habit, produces a clinical benefit, or works equally for every person. It must not convert the 2020 observational app-monitoring discussion into proof that journaling alone causes habit formation. It must not give a fixed timeline as a promise.
+The reel must not claim that writing a journal automatically changes the brain, assurances a habit, produces a clinical benefit, or works equally for every person. It must not convert the 2020 observational app-monitoring discussion into proof that journaling alone causes habit formation. It must not give a fixed timeline as a promise.
 
 ## Educational takeaway
 
-A low-pressure journal can ask four questions: Did the action happen? What cue or context came before it? Did the context stay similar? Did the action feel easier or more automatic? Use the answers to learn, not to judge yourself. This is general education, not diagnosis, treatment, or a guarantee of behaviour change.
+A low-pressure journal can ask four questions: Did the action happen? What cue or context came before it? Did the context stay similar? Did the action feel easier or more automatic? Use the answers to learn, not to judge yourself. This is general education, not clinical assessment, management, or a assurance of behaviour change.
 
 ## References
 

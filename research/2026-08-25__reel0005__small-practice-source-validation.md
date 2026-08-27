@@ -2,7 +2,7 @@
 
 ## Unique angle
 
-Reel 0002 covered habit-formation time, Reel 0003 covered if–then planning, and Reel 0004 covered automaticity measurement. Reel 0005 will focus on a small, observable practice: track one behaviour briefly, review it, and treat the result as feedback—not as proof that one technique works for everyone.
+Reel 0002 covered habit-formation time, Reel 0003 covered if–then planning, and Reel 0004 covered automaticity measurement. Reel 0005 will focus on a small, observable practice: track one behaviour briefly, review it, and address the result as feedback—not as proof that one technique works for everyone.
 
 ## Verified sources
 
@@ -16,7 +16,7 @@ Reel 0002 covered habit-formation time, Reel 0003 covered if–then planning, an
    - The scoping review says behaviour-change interventions commonly contain multiple potentially active components.
    - It reviewed 135 studies and found important limitations in methods used to infer effectiveness of individual behaviour-change techniques or combinations.
    - Its practice implication is that likely effectiveness should be judged by integrating findings across methods and keeping major qualifications; monitoring outcomes and adjusting in light of experience is important.
-   - Safe wording: a one-week log is a feedback experiment, not a guaranteed intervention.
+   - Safe wording: a one-week log is a feedback experiment, not a assuranced intervention.
 
 3. **Singh, B., Murphy, A., Maher, C., & Smith, A. E. (2024). _Time to Form a Habit: A Systematic Review and Meta-Analysis of Health Behaviour Habit Formation and Its Determinants._ Healthcare, 12(23), 2488.** DOI: https://doi.org/10.3390/healthcare12232488
    - The review included 20 studies with 2,601 participants and reported substantial individual variability in habit-formation time.
@@ -31,11 +31,11 @@ Reel 0002 covered habit-formation time, Reel 0003 covered if–then planning, an
 | Brief self-monitoring can make a behaviour visible | Behaviour-change technique concept | Do not claim it works equally for all people or behaviours. |
 | Feedback and goal review appear in evidence syntheses as potentially useful components | Meta-review finding | Say “some contexts” and retain uncertainty. |
 | Behaviour-change techniques are hard to isolate inside multi-component interventions | Scoping-review finding | Do not assign a precise effect size without a source-specific estimate. |
-| A small practice can function as a personal observation loop | Practical application | Present as a low-risk experiment, not medical treatment. |
+| A small practice can function as a personal observation loop | Practical application | Present as a low-risk experiment, not medical management. |
 
 ## Safety boundary
 
-This is general educational content. Avoid encouraging obsessive tracking, eating-disorder monitoring, self-diagnosis, or replacing professional care. Recommend stopping a tracking exercise if it increases distress and seeking appropriate support for personal health concerns.
+This is general educational content. Avoid encouraging obsessive tracking, eating-disorder monitoring, self-clinical assessment, or replacing professional care. Recommend stopping a tracking exercise if it increases distress and seeking appropriate support for personal health concerns.
 
 ## References
 

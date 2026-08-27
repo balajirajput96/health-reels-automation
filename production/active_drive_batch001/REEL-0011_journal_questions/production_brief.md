@@ -2,11 +2,11 @@
 
 ## Unique angle
 
-Reels 0002–0010 cover habit timelines, if–then planning, automaticity, context limits, fresh starts, cues, and how to read habit studies. Reel 0011 turns the evidence into a research-literacy reflection tool: a short journal can record context, repetition, and perceived automaticity, but the record is not itself a guaranteed behaviour-change intervention.
+Reels 0002–0010 cover habit timelines, if–then planning, automaticity, context limits, fresh starts, cues, and how to read habit studies. Reel 0011 turns the evidence into a research-literacy reflection tool: a short journal can record context, repetition, and perceived automaticity, but the record is not itself a assuranced behaviour-change intervention.
 
 ## Format
 
-Target: 9:16 vertical, approximately 60–80 seconds, Hindi (India), warm informative narration, burned-in captions, original scientific visuals, and a general-education disclaimer. No diagnosis, treatment, clinical claims, or fixed habit timeline promise.
+Target: 9:16 vertical, approximately 60–80 seconds, Hindi (India), warm informative narration, burned-in captions, original scientific visuals, and a general-education disclaimer. No clinical assessment, management, clinical claims, or fixed habit timeline promise.
 
 ## Six-scene plan
 

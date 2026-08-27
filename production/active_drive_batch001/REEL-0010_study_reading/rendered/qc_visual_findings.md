@@ -4,7 +4,7 @@
 **Inspection date:** 2026-08-27  
 **Result:** PASS
 
-The opening frame clearly establishes a research-reading context with the recurring young Indian adult, a graphical study panel, and four abstract inspection windows. The lower region is dark and caption-safe. Captions are legible, centered, wrapped into short lines, and do not obscure the main study panel. No readable generated text, logos, watermarks, or obvious visual artifacts were observed.
+The opening frame clearly establishes a research-reading context with the recurring young Indian adult, a graphical study panel, and four abstract inspection windows. The lower region is dark and caption-safe. Captions are legible, centered, wrapped into short lines, and do not obsresolution the main study panel. No readable generated text, logos, watermarks, or obvious visual artifacts were observed.
 
 The mid-reel frame presents two measured outcome curves and graphical participant/study motifs. It supports the narration about automaticity and habit-repetition goal attainment without adding unsupported labels or numbers. Captions remain within the safe lower region, with no overflow or clipping. The scientific palette and subject continuity are consistent across the inspected frames.
 

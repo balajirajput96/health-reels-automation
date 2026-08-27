@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "reel_id": "0003",
+  "artifact_count": 21,
+  "checkpoint_next_reel_id": "0004",
+  "registry_entries": 3000,
+  "canonical_reels": 3000,
+  "remote_state_verified": true
+}

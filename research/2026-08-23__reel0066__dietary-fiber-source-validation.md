@@ -36,7 +36,7 @@ Evidence type: Peer-reviewed review; mechanistic and translational synthesis.
 
 The review explains that gut microbiota can ferment dietary fiber from plant foods and produce metabolites including short-chain fatty acids. It reports that effects vary with fiber type, amount, duration, population and intervention context. It also describes shifts in microbial composition in some high-fiber patterns and interventions while noting inconsistent findings for measures such as alpha diversity.
 
-Boundary: The reel may present the gut-microbe connection as a research-supported biological pathway and active research area. It must not claim that one food guarantees a particular microbiome change, weight outcome, disease prevention or treatment.
+Boundary: The reel may present the gut-microbe connection as a research-supported biological pathway and active research area. It must not claim that one food assurances a particular microbiome change, weight outcome, disease prevention or management.
 
 ## Claim classification for the reel
 
@@ -48,11 +48,11 @@ Boundary: The reel may present the gut-microbe connection as a research-supporte
 | Fiber interacts with gut microbes | Supported mechanism and review evidence | “Gut microbes fiber को ferment कर सकते हैं; यह research का active area है” |
 | Increasing fiber gradually may be easier to tolerate | Practical guidance | “धीरे-धीरे बढ़ाना helpful हो सकता है” |
 | A fixed gram target is right for everyone | Not supported as a universal claim | Do not say this |
-| Fiber guarantees weight loss, disease prevention or treatment | Not supported for this reel | Do not say this |
+| Fiber assurances weight loss, disease prevention or management | Not supported for this reel | Do not say this |
 
 ## Safety boundary
 
-This is general education only. It does not diagnose, treat or prescribe a diet. People with digestive disease, significant symptoms, dietary restrictions, pregnancy-related needs, or clinician-directed nutrition plans should consult a qualified clinician or registered dietitian before making substantial changes.
+This is general education only. It does not diagnose, address or prescribe a diet. People with digestive disease, significant symptoms, dietary restrictions, pregnancy-related needs, or clinician-directed nutrition plans should consult a qualified clinician or registered dietitian before making substantial changes.
 
 ## References
 

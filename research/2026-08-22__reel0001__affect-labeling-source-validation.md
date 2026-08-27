@@ -13,22 +13,22 @@ Affect labeling: naming an emotion in words as a possible emotion-regulation str
 2. UCLA Health university summary of the same study. [University summary](https://www.uclahealth.org/news/release/putting-feelings-into-words-produces-therapeutic-effects-in-the-brain-ucla-neuroimaging-study-supports-ancient-buddhist-teachings)
    - Reports that labeling an emotion such as “angry” was associated with lower amygdala activity and higher activity in the right ventrolateral prefrontal cortex.
    - The summary explicitly says the effects are likely to be modest.
-   - The finding is framed as a possible brake-like effect on emotional responses, not a diagnosis or guaranteed treatment.
+   - The finding is framed as a possible brake-like effect on emotional responses, not a clinical assessment or assuranced management.
 
 3. Burklund et al. (2014), “The common and distinct neural bases of affect labeling and reappraisal in healthy adults,” *Frontiers in Psychology*. [Article](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00221/full)
    - The article describes affect labeling as verbally labeling emotional content and summarizes prior work showing increased ventrolateral prefrontal cortex activity and decreased amygdala activity.
    - It distinguishes affect labeling from deliberate reappraisal: labeling may be incidental rather than an intentional attempt to change feelings.
-   - The investigation reports a sample of N=39 and frames the evidence as a basis for further study, not as a clinical guarantee.
+   - The investigation reports a sample of N=39 and frames the evidence as a basis for further study, not as a clinical assurance.
 
 4. A 2022 open-access follow-up was identified by search: “Affect labeling: The role of timing and intensity,” [PMC9799301](https://pmc.ncbi.nlm.nih.gov/articles/PMC9799301/). Direct browser access presented a reCAPTCHA page, so it is not treated as verified evidence for the final script in this cycle.
 
 ## Evidence boundary
 
-The reel may safely say that research has associated putting an emotion into words with changes in brain activity, including lower amygdala response and higher right ventrolateral prefrontal activity in specific experimental contexts. It must not say that naming an emotion always calms everyone or is a treatment. The approved phrasing is “कुछ प्रयोगों में” / “कुछ लोगों के लिए मददगार हो सकता है,” with a clear evidence-versus-practice distinction. It must not claim that naming emotions treats anxiety, depression, trauma, or any clinical disorder.
+The reel may safely say that research has associated putting an emotion into words with changes in brain activity, including lower amygdala response and higher right ventrolateral prefrontal activity in specific experimental contexts. It must not say that naming an emotion always calms everyone or is a management. The approved phrasing is “कुछ प्रयोगों में” / “कुछ लोगों के लिए मददगार हो सकता है,” with a clear evidence-versus-practice distinction. It must not claim that naming emotions treats anxiety, depression, trauma, or any clinical disorder.
 
 ## Practical reflection
 
-“मुझे अभी ___ महसूस हो रहा है, क्योंकि ___।” This is a low-risk reflection prompt, not a diagnosis or treatment instruction. Persistent or severe distress warrants qualified professional support.
+“मुझे अभी ___ महसूस हो रहा है, क्योंकि ___।” This is a low-risk reflection prompt, not a clinical assessment or management instruction. Persistent or severe distress warrants qualified professional support.
 
 ## Production assumptions
 

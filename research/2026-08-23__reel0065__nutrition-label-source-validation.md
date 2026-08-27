@@ -4,7 +4,7 @@
 
 - Proposed source ID: `reel_0065_reading_food_labels_added_sugars_decision_awareness`
 - Proposed title: **Food Label पढ़ते समय सबसे पहले क्या देखें? Serving Size और Added Sugars**
-- Domain angle: everyday decision-making and behavior literacy, using public-health label guidance rather than diagnosing or prescribing.
+- Domain angle: everyday decision-making and behavior literacy, using public-health label guidance rather than assessing or prescribing.
 - Planned evidence class: established public-health guidance and label definitions.
 - Intended audience: Hindi-speaking adults seeking general education about packaged-food labels.
 
@@ -19,11 +19,11 @@
 | %DV is a reference percentage for one serving. | Established label guidance | “%DV एक serving के contribution को समझने का reference है।” | It is not a personalized calorie or health prescription. |
 | FDA’s general %DV guide treats 5% or less as low and 20% or more as high for a nutrient per serving. | Established public-health guidance | “General guide के तौर पर 5% DV या कम low और 20% DV या अधिक high माना जाता है।” | This is a general guide; compare serving sizes before comparing products. |
 | FDA lists 50 g as the added-sugars Daily Value on a 2,000-calorie diet. | Label reference value | “FDA label reference में 2,000-calorie diet के लिए added sugars का DV 50 g है।” | Do not present 50 g as a universal personal limit. |
-| Label reading can support informed food choices. | Public-health guidance | “Label पढ़ना informed comparison में मदद कर सकता है।” | Do not claim it guarantees a healthier diet, weight loss, or disease prevention. |
+| Label reading can support informed food choices. | Public-health guidance | “Label पढ़ना informed comparison में मदद कर सकता है।” | Do not claim it assurances a healthier diet, weight loss, or disease prevention. |
 
 ## Evidence boundaries
 
-This reel is general education about reading a U.S.-style Nutrition Facts label. It is not individualized dietary, medical, weight-loss, diabetes, or allergy advice. Serving size is a label reference based on typical consumption, not a recommended amount. The 5%/20% guide and the 50 g Daily Value are general label references tied to the FDA framework and a 2,000-calorie reference diet; individual needs can differ. The narration must avoid “sugar is poison,” “this label proves a food is unhealthy,” or guaranteed-outcome language.
+This reel is general education about reading a U.S.-style Nutrition Facts label. It is not individualized dietary, medical, weight-loss, diabetes, or allergy advice. Serving size is a label reference based on typical consumption, not a recommended amount. The 5%/20% guide and the 50 g Daily Value are general label references tied to the FDA framework and a 2,000-calorie reference diet; individual needs can differ. The narration must avoid “sugar is poison,” “this label proves a food is unhealthy,” or assuranced-outcome language.
 
 ## Source notes
 

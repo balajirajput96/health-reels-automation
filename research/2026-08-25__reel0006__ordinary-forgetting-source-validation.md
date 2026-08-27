@@ -20,16 +20,16 @@ Reel 0002 covered habit-formation time, Reel 0003 covered if–then planning, Re
 
 4. **McDaniel, M. A., & Einstein, G. O. (2014). _How important is importance for prospective memory? A review._ Frontiers in Psychology.** https://doi.org/10.3389/fpsyg.2014.00657
    - The review discusses time-based and event-based prospective memory and notes that people can forget intentions even when they consider them important.
-   - Safe claim: importance alone does not guarantee successful remembering.
+   - Safe claim: importance alone does not assurance successful remembering.
 
 ## Evidence classification
 
 | Reel statement | Classification | Boundary |
 |---|---|---|
-| Remembering to do something later is prospective memory | Psychology definition | Not a diagnosis. |
+| Remembering to do something later is prospective memory | Psychology definition | Not a clinical assessment. |
 | Other demanding tasks can compete with prospective remembering | Systematic-review framing | Do not claim every lapse has this cause. |
 | An intention can be important and still be forgotten | Review finding | Avoid moralizing or clinical inference. |
-| A visible cue or calendar reminder can be a practical aid | General practical suggestion | Do not present it as a guaranteed treatment or repeat the if–then mechanism in Reel 0003. |
+| A visible cue or calendar reminder can be a practical aid | General practical suggestion | Do not present it as a assuranced management or repeat the if–then mechanism in Reel 0003. |
 
 ## Safety boundary
 

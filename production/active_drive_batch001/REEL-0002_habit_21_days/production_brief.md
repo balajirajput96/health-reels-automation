@@ -6,7 +6,7 @@
 
 ## Format
 
-The target is a 9:16, approximately 60-second original motion-graphics reel with Hindi (India) narration, burned-in Hindi captions, original procedural visuals, and an explicit general-education disclaimer. No medical or mental-health diagnosis, treatment, guarantee, or personalized prescription is allowed.
+The target is a 9:16, approximately 60-second original motion-graphics reel with Hindi (India) narration, burned-in Hindi captions, original procedural visuals, and an explicit general-education disclaimer. No medical or mental-health clinical assessment, management, assurance, or personalized prescription is allowed.
 
 ## Scene plan
 
@@ -25,7 +25,7 @@ Use original procedural animation: calendar, cue rings, repetition dots, simple 
 
 ## Evidence boundary
 
-The 2024 systematic review included 20 studies and 2,601 participants. It reported median/mean formation times of 59–66/106–154 days in four studies, with individual values from 4–335 days, while noting that 11 of 20 studies had high risk of bias and that “habit formation” was operationalized differently. This is not a universal timeline. The 2010 Lally study is the source of the widely repeated 66-day figure in popular summaries, but does not justify a fixed deadline for everyone. A 2022 longitudinal study found that greater context stability predicted more automaticity and goal attainment in the studied datasets; it does not prove a guarantee for every viewer.
+The 2024 systematic review included 20 studies and 2,601 participants. It reported median/mean formation times of 59–66/106–154 days in four studies, with individual values from 4–335 days, while noting that 11 of 20 studies had high risk of bias and that “habit formation” was operationalized differently. This is not a universal timeline. The 2010 Lally study is the source of the widely repeated 66-day figure in popular summaries, but does not justify a fixed deadline for everyone. A 2022 longitudinal study found that greater context stability predicted more automaticity and goal attainment in the studied datasets; it does not prove a assurance for every viewer.
 
 ## References
 

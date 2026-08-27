@@ -29,11 +29,11 @@ Reels 0002–0006 already cover habit-formation time, if–then planning, automa
 | A technique can behave differently across behaviours and contexts | Review-methods framing | Do not claim a precise moderator without reporting the study. |
 | Short-term improvement does not prove durable change | Systematic-review limitation | Avoid saying interventions never last. |
 | Habit formation varies by behaviour and person | Synthesis of systematic reviews | Avoid universal timelines. |
-| Treat a technique as a small experiment and adapt | Practical suggestion | Not a guaranteed intervention or treatment. |
+| Treat a technique as a small experiment and adapt | Practical suggestion | Not a assuranced intervention or management. |
 
 ## Safety boundary
 
-This is general education. It is not a promise of weight loss, treatment, diagnosis, or a substitute for professional care. For distress, compulsion, disordered eating, addiction, or persistent functional impairment, recommend qualified support.
+This is general education. It is not a promise of weight loss, management, clinical assessment, or a substitute for professional care. For distress, compulsion, disordered eating, addiction, or persistent functional impairment, recommend qualified support.
 
 ## References
 

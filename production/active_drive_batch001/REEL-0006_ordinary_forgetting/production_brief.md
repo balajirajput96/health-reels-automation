@@ -2,7 +2,7 @@
 
 ## Unique angle
 
-Reel 0002 covered habit-formation time, Reel 0003 covered if–then planning, Reel 0004 covered automaticity measurement, and Reel 0005 covered a small self-monitoring loop. Reel 0006 explains why intending to do something later is not the same as remembering to execute it while another task is competing for attention. This is a prospective-memory concept, not a diagnosis or a moral judgment.
+Reel 0002 covered habit-formation time, Reel 0003 covered if–then planning, Reel 0004 covered automaticity measurement, and Reel 0005 covered a small self-monitoring loop. Reel 0006 explains why intending to do something later is not the same as remembering to execute it while another task is competing for attention. This is a prospective-memory concept, not a clinical assessment or a moral judgment.
 
 ## Format
 
@@ -21,7 +21,7 @@ Target: 9:16 vertical, approximately 60–75 seconds, Hindi (India), warm docume
 
 ## Evidence rules
 
-Use prospective memory as the definition of remembering to perform an intended action later. State that ongoing task demands can influence prospective remembering, but do not claim every lapse is caused by workload. State that importance alone does not guarantee successful remembering. Keep reminder advice general and optional; do not repeat Reel 0003’s if–then intervention claim.
+Use prospective memory as the definition of remembering to perform an intended action later. State that ongoing task demands can influence prospective remembering, but do not claim every lapse is caused by workload. State that importance alone does not assurance successful remembering. Keep reminder advice general and optional; do not repeat Reel 0003’s if–then intervention claim.
 
 ## Visual direction
 

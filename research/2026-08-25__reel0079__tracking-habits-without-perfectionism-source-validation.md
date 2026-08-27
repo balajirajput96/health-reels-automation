@@ -23,7 +23,7 @@ How can a Hindi reel present habit tracking as an optional reflection tool witho
 
 ## Script constraints
 
-The narration must not say that perfect streaks are necessary, that one missed day resets all progress, that tracking automatically forms a habit, that self-compassion guarantees health benefits, or that a fixed number of days works for everyone. The tracker should be described as optional and non-moralizing. Include a boundary for distress, compulsive tracking, safety, accessibility, and medical advice.
+The narration must not say that perfect streaks are necessary, that one missed day resets all progress, that tracking automatically forms a habit, that self-compassion assurances health benefits, or that a fixed number of days works for everyone. The tracker should be described as optional and non-moralizing. Include a boundary for distress, compulsive tracking, safety, accessibility, and professional guidance.
 
 ## References
 

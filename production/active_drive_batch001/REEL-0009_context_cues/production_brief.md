@@ -2,11 +2,11 @@
 
 ## Unique angle
 
-Reels 0002–0008 cover habit timelines, if–then plans, automaticity measurement, self-monitoring, prospective-memory lapses, context-sensitive tools, and temporal landmarks. Reel 0009 focuses on a distinct visual model: a recurring contextual cue can become associated with a chosen action, while stable context may support automaticity. The cue is a support, not a command, and it does not guarantee a durable habit.
+Reels 0002–0008 cover habit timelines, if–then plans, automaticity measurement, self-monitoring, prospective-memory lapses, context-sensitive tools, and temporal landmarks. Reel 0009 focuses on a distinct visual model: a recurring contextual cue can become associated with a chosen action, while stable context may support automaticity. The cue is a support, not a command, and it does not assurance a durable habit.
 
 ## Format
 
-Target: 9:16 vertical, approximately 60–75 seconds, Hindi (India), warm documentary narration, burned-in captions, original scientific visuals, and a general-education disclaimer. No promise of treatment or guaranteed behaviour change.
+Target: 9:16 vertical, approximately 60–75 seconds, Hindi (India), warm documentary narration, burned-in captions, original scientific visuals, and a general-education disclaimer. No promise of management or assuranced behaviour change.
 
 ## Six-scene plan
 
@@ -25,7 +25,7 @@ Use an original deep navy, electric teal, and warm saffron scientific motion-gra
 
 ## Evidence boundaries
 
-Habits are not defined by frequency alone; the cited literature describes automatic responses associated with contextual cues. Context stability has been linked to higher automaticity and habit-repetition goal attainment in the cited 2022 study, but the result is not a universal guarantee and does not mean cues force behaviour. The 2024 systematic review emphasizes variability across people and behaviours and limitations in the evidence base. Practical advice is a low-risk planning suggestion, not a validated treatment protocol.
+Habits are not defined by frequency alone; the cited literature describes automatic responses associated with contextual cues. Context stability has been linked to higher automaticity and habit-repetition goal attainment in the cited 2022 study, but the result is not a universal assurance and does not mean cues force behaviour. The 2024 systematic review emphasizes variability across people and behaviours and limitations in the evidence base. Practical advice is a low-risk planning suggestion, not a validated management protocol.
 
 ## References
 

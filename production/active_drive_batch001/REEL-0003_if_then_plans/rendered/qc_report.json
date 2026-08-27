@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "video": "rendered/REEL-0003_if_then_plans_QC_pending.mp4",
+  "duration_seconds": 63.600000,
+  "dimensions": "720x1280",
+  "aspect_ratio": "9:16",
+  "audio": "AAC mono 24kHz present",
+  "captions": "burned-in plus ASS/SRT sidecars",
+  "sample_frames": [
+    "qc_frame_02s.jpg",
+    "qc_frame_32s.jpg",
+    "qc_frame_60s.jpg"
+  ],
+  "checks": [
+    "ffprobe readable",
+    "portrait dimensions",
+    "duration 55-75 seconds",
+    "audio stream present",
+    "caption sidecars non-empty",
+    "sample frames extracted"
+  ]
+}

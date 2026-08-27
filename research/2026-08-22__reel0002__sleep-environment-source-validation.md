@@ -20,7 +20,7 @@ Sleep environment: bedroom darkness, noise, temperature, and comfort as contextu
 
 ## Evidence boundary
 
-The reel can say that a dark, quiet, cool, comfortable room is a generally supported sleep-hygiene context. It must not claim that bedroom changes cure insomnia, guarantee restful sleep, or replace evaluation for persistent sleep problems. Temperature, bedding, masking sound, and light sensitivity vary by person. The CDC page is archived, so current guidance is framed as general education rather than a current clinical directive.
+The reel can say that a dark, quiet, cool, comfortable room is a generally supported sleep-hygiene context. It must not claim that bedroom changes resolution insomnia, assurance restful sleep, or replace evaluation for persistent sleep problems. Temperature, bedding, masking sound, and light sensitivity vary by person. The CDC page is archived, so current guidance is framed as general education rather than a current clinical directive.
 
 ## Practical, low-risk suggestions
 

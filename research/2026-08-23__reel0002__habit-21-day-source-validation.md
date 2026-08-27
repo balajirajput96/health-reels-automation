@@ -20,7 +20,7 @@ Does research support the popular claim that a new habit reliably forms in 21 da
 3. **Stojanovic, M., Grund, A., & Fries, S. (2022). _Context Stability in Habit Building Increases Automaticity and Goal Attainment._ Frontiers in Psychology, 13, 883795.** DOI: https://doi.org/10.3389/fpsyg.2022.883795
    - Study 1 followed 95 university students over 6 weeks and 2,482 habit repetitions; Study 2 analyzed 308 habits and 2,368 repetitions from 218 app users.
    - In both datasets, greater context stability predicted more automaticity and higher repetition-goal attainment; automaticity partially mediated the relation with goal attainment.
-   - This supports a practical but evidence-bounded angle: repeating a small chosen behaviour in a stable cue/context may help, but the study does not prove a universal recipe or guarantee.
+   - This supports a practical but evidence-bounded angle: repeating a small chosen behaviour in a stable cue/context may help, but the study does not prove a universal recipe or assurance.
 
 4. **Gardner, B., Lally, P., & Wardle, J. (2012). _Making health habitual: the psychology of habit-formation and general practice._ British Journal of General Practice, 62(605), 664–666.** PMCID: https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/
    - Useful context for distinguishing popular 21-day claims from behaviour-change research and for defining habit as cue-linked automaticity rather than mere intention.
@@ -32,12 +32,12 @@ Does research support the popular claim that a new habit reliably forms in 21 da
 | “हर habit 21 दिन में बनती है” | Unsupported universal claim | Do not use as fact; label as a popular myth/oversimplification. |
 | Habit formation often takes around two months in the available health-behaviour evidence | Evidence summary with substantial uncertainty | “कुछ health behaviours में studies ने median लगभग 59–66 दिन report किए, लेकिन range बहुत बड़ी थी।” |
 | Habit time varies by person and behaviour | Evidence-backed qualification | “व्यक्ति, behaviour, context और measurement method के हिसाब से समय बदल सकता है।” |
-| Stable context and repetition may support automaticity | Supported association in longitudinal studies | “एक छोटे behaviour को consistent cue/context से जोड़ना मदद कर सकता है; यह guarantee नहीं है।” |
+| Stable context and repetition may support automaticity | Supported association in longitudinal studies | “एक छोटे behaviour को consistent cue/context से जोड़ना मदद कर सकता है; यह assurance नहीं है।” |
 | Missing a day destroys a habit | Unsupported absolute | Do not use. |
 
 ## Safety boundary
 
-This is general behavioural-science education, not a diagnosis, treatment, or personalized mental-health/medical plan. The reel must separate empirical findings from popular self-help advice, disclose uncertainty, avoid promises, and avoid implying that viewers can be clinically assessed from a habit timeline.
+This is general behavioural-science education, not a clinical assessment, management, or personalized mental-health/medical plan. The reel must separate empirical findings from popular self-help advice, disclose uncertainty, avoid promises, and avoid implying that viewers can be clinically assessed from a habit timeline.
 
 ## Production note
 

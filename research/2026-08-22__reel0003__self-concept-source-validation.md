@@ -26,7 +26,7 @@ Self-concept is a broad psychological construct; studies often measure specific 
    - URL: https://doi.org/10.1037/0022-3514.70.1.141
    - Publication date: 1996.
    - Evidence class: primary peer-reviewed measurement study.
-   - Claim note: The APA record defines self-concept clarity as the extent to which self-beliefs are clearly and confidently defined, internally consistent, and stable, and describes the Self-Concept Clarity Scale and its measurement context. The reel uses this only to distinguish a structural facet of self-beliefs from a complete identity label, self-esteem synonym, or diagnosis.
+   - Claim note: The APA record defines self-concept clarity as the extent to which self-beliefs are clearly and confidently defined, internally consistent, and stable, and describes the Self-Concept Clarity Scale and its measurement context. The reel uses this only to distinguish a structural facet of self-beliefs from a complete identity label, self-esteem synonym, or clinical assessment.
    - Limitation note: No numerical result from the paper is used in the reel; the direct record supports the construct definition and measurement framing.
 
 4. **DeMarree and Bobrowski (2018), “Structure and validity of self-concept clarity measures,” in *Self-Concept Clarity: Perspectives on Assessment, Research, and Applications*, pp. 1–17.**
@@ -43,13 +43,13 @@ Self-concept is a broad psychological construct; studies often measure specific 
    - Publication date: 2026-06-26.
    - Evidence class: contemporary integrative review.
    - Claim note: The review separates self-concept content (traits, roles, and values) from self-concept clarity, which concerns how clearly, coherently, and stably self-beliefs are held. It notes that the dominant clarity measure is a 12-item self-report scale and cautions that self-report and shared-method limitations constrain interpretation.
-   - Limitation note: Self-concept clarity is one structural facet of self-concept, not a synonym for the whole construct, self-esteem, identity, or mental-health diagnosis.
+   - Limitation note: Self-concept clarity is one structural facet of self-concept, not a synonym for the whole construct, self-esteem, identity, or mental-health clinical assessment.
 
 ## Evidence-class separation
 
 - **Direct evidence:** The reviewed instruments ask people to report or rate self-perceptions; the systematic review documents the domains and measurement properties of adolescent instruments.
 - **Synthesis:** The multidimensional and hierarchical interpretation is supported by the foundational review and summarized in the systematic review.
-- **Interpretation boundary:** A questionnaire score is an operational measure of selected self-beliefs or domains, not a diagnosis, a fixed identity, a measure of objective ability, or a guarantee of well-being. Self-esteem (global evaluation) and self-concept clarity (structure/clarity of self-beliefs) should not be presented as interchangeable with self-concept content.
+- **Interpretation boundary:** A questionnaire score is an operational measure of selected self-beliefs or domains, not a clinical assessment, a fixed identity, a measure of objective ability, or a assurance of well-being. Self-esteem (global evaluation) and self-concept clarity (structure/clarity of self-beliefs) should not be presented as interchangeable with self-concept content.
 
 ## Safe educational takeaway
 
@@ -57,7 +57,7 @@ A self-concept study usually measures selected self-beliefs—such as academic, 
 
 ## Production and safety boundary
 
-The reel is general education only. It must not diagnose low self-concept, infer a viewer’s personality from a single score, prescribe therapy or treatment, or promise that changing self-talk will produce a specific outcome. Required closing wording: “यह general education है, medical advice नहीं। व्यक्तिगत चिंता हो तो qualified professional से बात करें।” Add an on-screen disclosure that AI-generated narration and AI-assisted visuals were used, and include an equivalent disclosure in metadata/caption.
+The reel is general education only. It must not diagnose low self-concept, infer a viewer’s personality from a single score, prescribe therapy or management, or promise that changing self-talk will produce a specific outcome. Required closing wording: “यह general education है, professional guidance नहीं। व्यक्तिगत चिंता हो तो qualified professional से बात करें।” Add an on-screen disclosure that AI-generated narration and AI-assisted visuals were used, and include an equivalent disclosure in metadata/caption.
 
 ## Status
 

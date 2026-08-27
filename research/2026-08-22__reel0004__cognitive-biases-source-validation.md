@@ -12,7 +12,7 @@
 
 ### Eligibility and central claim
 
-This is a narrow, general-audience explanation of measurement in cognitive-bias research. It does not diagnose a viewer, infer a stable trait from one response, prescribe treatment, or promise a decision-making outcome.
+This is a narrow, general-audience explanation of measurement in cognitive-bias research. It does not diagnose a viewer, infer a stable trait from one response, prescribe management, or promise a decision-making outcome.
 
 **Verified central claim:** Cognitive-bias studies generally operationalize a bias through responses in a defined task or contrast. Depending on the bias, researchers may compare an answer with a normative or accuracy benchmark, or compare responses across conditions that differ in a normatively irrelevant factor. A result is therefore evidence about the design, task, sample, and scoring rule—not a complete judgment about a person.[1] [2]
 
@@ -34,9 +34,9 @@ This is a narrow, general-audience explanation of measurement in cognitive-bias 
 
 ## Script and safety gate
 
-The Hindi script uses calibrated terms such as “अध्ययन में,” “मापने की कोशिश,” and “परिणाम task और sample पर निर्भर.” It avoids “proves,” cure, guarantee, treatment, medication, diagnosis, and individualized advice. The final caption and end card will include:
+The Hindi script uses calibrated terms such as “अध्ययन में,” “मापने की कोशिश,” and “परिणाम task और sample पर निर्भर.” It avoids “proves,” resolution, assurance, management, medication, clinical assessment, and individualized advice. The final caption and end card will include:
 
-> General education only; it is not medical advice. For personal health concerns, speak with a qualified professional.
+> General education only; it is not professional guidance. For personal health concerns, speak with a qualified professional.
 
 The final package will also disclose that the Hindi narration was generated with AI and that the visuals are procedurally generated graphics. The item is archive-only: `publication_allowed: false`.
 

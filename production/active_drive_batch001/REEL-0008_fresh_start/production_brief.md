@@ -2,11 +2,11 @@
 
 ## Unique angle
 
-Reels 0002–0007 cover habit-formation time, if–then planning, automaticity measurement, self-monitoring, prospective-memory lapses, and context-sensitive behaviour-change tools. Reel 0008 focuses on a different phenomenon: temporal landmarks such as a new week, birthday, or move can make goals feel like a fresh chapter and may temporarily increase goal initiation. The effect is a motivation window, not a guarantee of success.
+Reels 0002–0007 cover habit-formation time, if–then planning, automaticity measurement, self-monitoring, prospective-memory lapses, and context-sensitive behaviour-change tools. Reel 0008 focuses on a different phenomenon: temporal landmarks such as a new week, birthday, or move can make goals feel like a fresh chapter and may temporarily increase goal initiation. The effect is a motivation window, not a assurance of success.
 
 ## Format
 
-Target: 9:16 vertical, approximately 60–75 seconds, Hindi (India), warm documentary narration, burned-in captions, original scientific visuals, and a general-education disclaimer. No promise of treatment or guaranteed behaviour change.
+Target: 9:16 vertical, approximately 60–75 seconds, Hindi (India), warm documentary narration, burned-in captions, original scientific visuals, and a general-education disclaimer. No promise of management or assuranced behaviour change.
 
 ## Six-scene plan
 
@@ -25,7 +25,7 @@ Use the established deep navy, electric teal, and warm saffron scientific motion
 
 ## Evidence boundaries
 
-The fresh-start effect is supported by temporal-landmark experiments and field observations, but it should not be presented as a brain law or a guarantee. Distinguish increased goal initiation or aspiration from completion and durable habit change. The practical advice is a low-risk planning suggestion, not a validated treatment protocol.
+The fresh-start effect is supported by temporal-landmark experiments and field observations, but it should not be presented as a brain law or a assurance. Distinguish increased goal initiation or aspiration from completion and durable habit change. The practical advice is a low-risk planning suggestion, not a validated management protocol.
 
 ## References
 

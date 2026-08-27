@@ -2,11 +2,11 @@
 
 ## Unique angle
 
-Reels 0002–0006 already cover habit-formation time, if–then planning, automaticity measurement, self-monitoring, and ordinary forgetting. Reel 0007 focuses on a separate evidence lesson: a technique that appears useful in one behaviour or context may not work the same way for every person. The practical takeaway is to treat a technique as a small experiment, observe fit, and adapt without self-blame.
+Reels 0002–0006 already cover habit-formation time, if–then planning, automaticity measurement, self-monitoring, and ordinary forgetting. Reel 0007 focuses on a separate evidence lesson: a technique that appears useful in one behaviour or context may not work the same way for every person. The practical takeaway is to address a technique as a small experiment, observe fit, and adapt without self-blame.
 
 ## Format
 
-Target: 9:16 vertical, approximately 60–75 seconds, Hindi (India), warm documentary narration, burned-in captions, original scientific visuals, and a general-education disclaimer. No promise of treatment, weight loss, or guaranteed behaviour change.
+Target: 9:16 vertical, approximately 60–75 seconds, Hindi (India), warm documentary narration, burned-in captions, original scientific visuals, and a general-education disclaimer. No promise of management, weight loss, or assuranced behaviour change.
 
 ## Six-scene plan
 
@@ -25,7 +25,7 @@ Use the established deep navy, electric teal, and saffron scientific motion-grap
 
 ## Evidence boundaries
 
-Use the reviews to support context-sensitive interpretation and heterogeneity, not a precise universal effect size. State that short-term improvement is not proof of durable change. Avoid saying techniques never work or that behaviour is fully determined by context. Present adaptation as a practical suggestion, not a validated treatment protocol.
+Use the reviews to support context-sensitive interpretation and heterogeneity, not a precise universal effect size. State that short-term improvement is not proof of durable change. Avoid saying techniques never work or that behaviour is fully determined by context. Present adaptation as a practical suggestion, not a validated management protocol.
 
 ## References
 

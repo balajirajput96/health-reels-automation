@@ -1,0 +1,240 @@
+{
+  "known_constraint": {
+    "impact": "Direct AI video generation cannot be used again until quota reset or plan upgrade. Reel 0001 used an AI visual plus Hindi narration and edited motion as the best available alternative.",
+    "name": "free_plan_video_generation_daily_quota",
+    "resume_strategy": "At the next execution, attempt the direct video generation first. If quota remains unavailable, produce the documented best-available alternative and log it.",
+    "status": "exhausted_on_2026-08-23"
+  },
+  "next_topic_candidates": [
+    "Spacing effect: distributed practice supports long-term retention",
+    "Sleep and memory consolidation: evidence-bound explanation",
+    "Implementation intentions: if-then planning and habits"
+  ],
+  "production_rules": {
+    "claim_classification_required": true,
+    "deduplicate_completed_ids": true,
+    "drive_upload_and_verification_required_before_completion": true,
+    "language": "Hindi (India)",
+    "nonblocking_error_policy": "diagnose, use best available alternative, log outcome, do not silently skip",
+    "research_required": true,
+    "target_duration_seconds": 60,
+    "video_aspect_ratio": "9:16",
+    "voice_and_captions_required": true
+  },
+  "progress": {
+    "completed_in_current_batch": 8,
+    "completed_reels": [
+      "0001",
+      "0002",
+      "0003",
+      "0004",
+      "0005",
+      "0006",
+      "0007",
+      "0008"
+    ],
+    "current_batch": 1,
+    "failed_reels": [],
+    "next_reel_id": "0009",
+    "target_reels_per_batch": 30,
+    "target_total_reels": 3000
+  },
+  "project": "3000_HINDI_RESEARCH_REELS",
+  "reel_0001": {
+    "brief_file_id": "1rTokcC1NvV6MctVqryTWmxRUi4ELqGNV",
+    "captions_file_id": "1D8pMsD9eBSDkwyZKnPiJcmQlCZJPLBgt",
+    "metadata_file_id": "18qZlmJVyqPcb5nPk10BQf3r7nWTslMpt",
+    "research_file_id": "1x9-e6DKGxCKMB_NFOn0PY8JyzVzVsiYO",
+    "status": "complete_uploaded_verified",
+    "video_file_id": "1vGeCNPZoT7TBkPVR7tc8EtqYm7DsZb_S"
+  },
+  "reel_0003": {
+    "artifact_count": 21,
+    "batch": "Batch_001",
+    "completed_at": "2026-08-25T04:35:55Z",
+    "drive_folder_id": "1h8Gd2S03KYtqSzFmSLkEDSDW8o-Yr9cc",
+    "duration_seconds": 63.6,
+    "evidence_status": "verified_with_limits",
+    "format": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 63.6,
+      "fps": 30,
+      "height": 1280,
+      "width": 720
+    },
+    "language": "hi-IN",
+    "manifest_file_id": "1nM3O9F_ZQR5RBfxmaUWgItkZcRLfpSU9",
+    "qc_report_file_id": "1bhDeN3VnCCA7nzaSbnHXLMqWdV4NKFjy",
+    "reel_id": "0003",
+    "required_before_production": [
+      "authoritative_sources_verified",
+      "claim_classified",
+      "Hindi_script_fact_checked",
+      "visual_plan_qc"
+    ],
+    "source_metadata_file_id": "1zEudhgGDSeC0qHDVJBlyzb6F6PhHguUn",
+    "status": "qc_passed_drive_verified",
+    "track": "habits_behavior",
+    "video_file_id": "1r_4UIPv6mZRyM2U_BJVbB_BAbkFr2XpO",
+    "working_title_hi": "अगर–तो plan: intention को action में बदलना"
+  },
+  "reel_0004": {
+    "artifact_count": 21,
+    "batch": "Batch_001",
+    "completed_at": "2026-08-25T04:48:54Z",
+    "drive_folder_id": "1pMndpw3G02gMDWwN4zORJK03mD_i-D4n",
+    "duration_seconds": 67.767,
+    "evidence_status": "verified_with_limits",
+    "format": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 67.767,
+      "fps": 30,
+      "height": 1280,
+      "width": 720
+    },
+    "language": "hi-IN",
+    "manifest_file_id": "1RB8CILU91K8RQXtt2ydd5P7SKQgzW29I",
+    "qc_report_file_id": "1pZbjA9IORNwgbEyDmfZKrWH6NF5mJdKA",
+    "reel_id": "0004",
+    "required_before_production": [
+      "authoritative_sources_verified",
+      "claim_classified",
+      "Hindi_script_fact_checked",
+      "visual_plan_qc"
+    ],
+    "source_metadata_file_id": "1ZOkcE4z-2skPY-G7BT44K4RH7KmzVlPN",
+    "status": "qc_passed_drive_verified",
+    "track": "habits_behavior",
+    "video_file_id": "1IoN_gUwjaR-XYmbsJ-92F8JHNmrfvDqZ",
+    "working_title_hi": "Frequent काम और automatic habit एक ही चीज़ नहीं"
+  },
+  "reel_0005": {
+    "artifact_count": 21,
+    "batch": "Batch_001",
+    "completed_at": "2026-08-25T05:02:49Z",
+    "drive_folder_id": "1NCItnAUsbaccSUvh5OK2qqwoM0LaZfKp",
+    "duration_seconds": 74.72,
+    "evidence_status": "verified_with_limits",
+    "format": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 74.72,
+      "fps": 30,
+      "height": 1280,
+      "width": 720
+    },
+    "language": "hi-IN",
+    "manifest_file_id": "1rGZtxcy8-m5RnFCuiKnUeZ7XAWvmsuNp",
+    "qc_report_file_id": "1zrjcy0YARw0obp56hj6-eDQbKChNIy2W",
+    "reel_id": "0005",
+    "required_before_production": [
+      "authoritative_sources_verified",
+      "claim_classified",
+      "Hindi_script_fact_checked",
+      "visual_plan_qc"
+    ],
+    "source_metadata_file_id": "1FcatJWE6tab3a9VxaP1gZZp6qBk0CUI3",
+    "status": "qc_passed_drive_verified",
+    "track": "habits_behavior",
+    "video_file_id": "1VspH49V6KShQoCPGdgVdggSU_m3x61Kf",
+    "working_title_hi": "एक छोटा tracking अभ्यास"
+  },
+  "reel_0006": {
+    "artifact_count": 21,
+    "batch": "Batch_001",
+    "completed_at": "2026-08-25T05:15:53Z",
+    "drive_folder_id": "1Ho4-KN_WWKV_fGFCbKxU0s2KNSR-CfAI",
+    "duration_seconds": 72.7,
+    "evidence_status": "verified_with_limits",
+    "format": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 72.7,
+      "fps": 30,
+      "height": 1280,
+      "width": 720
+    },
+    "language": "hi-IN",
+    "manifest_file_id": "1Sv75NqzR-ac0B2qBWVZTjUGeYcKn2buu",
+    "qc_report_file_id": "1gV7jaib5if9cnbBGx3JEu_qcsS3n6epI",
+    "reel_id": "0006",
+    "required_before_production": [
+      "authoritative_sources_verified",
+      "claim_classified",
+      "Hindi_script_fact_checked",
+      "visual_plan_qc"
+    ],
+    "source_metadata_file_id": "1QuNTBl9s-Zg8_JSnKa3nP-hF6idm9o9i",
+    "status": "qc_passed_drive_verified",
+    "track": "habits_behavior",
+    "video_file_id": "1ZQ3H06KMcO87M3fNreJIwV40vdcEGtHH",
+    "working_title_hi": "सामान्य भूल और prospective memory"
+  },
+  "reel_0007": {
+    "artifact_count": 21,
+    "batch": "Batch_001",
+    "completed_at": "2026-08-25T05:32:42Z",
+    "drive_folder_id": "10AV9DgriMfLCzgkewNxibmX30CKriG6y",
+    "duration_seconds": 67.866,
+    "evidence_status": "verified_with_limits",
+    "format": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 67.866,
+      "fps": 30,
+      "height": 1280,
+      "width": 720
+    },
+    "language": "hi-IN",
+    "manifest_file_id": "1xzetCkb-pt6r3d8wEDYlkkfcmcMknAtY",
+    "qc_report_file_id": "1jpeTJQH9Sh66pTNEvwR-AJnHd2g3O2n3",
+    "reel_id": "0007",
+    "required_before_production": [
+      "authoritative_sources_verified",
+      "claim_classified",
+      "Hindi_script_fact_checked",
+      "visual_plan_qc"
+    ],
+    "source_metadata_file_id": "1LGpApjaNg7LSv10jAMhN313Rwk3CWqJk",
+    "status": "qc_passed_drive_verified",
+    "track": "habits_behavior",
+    "video_file_id": "1yUcn8UOkRHzR1ETgXfpeMSKSY9G9_U-B",
+    "working_title_hi": "Behaviour-change tools की context सीमा"
+  },
+  "reel_0008": {
+    "artifact_count": 21,
+    "batch": "Batch_001",
+    "completed_at": "2026-08-27T02:39:47Z",
+    "drive_folder_id": "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7",
+    "duration_seconds": 70.633,
+    "evidence_status": "verified_with_limits",
+    "format": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 70.633,
+      "fps": 30,
+      "height": 1280,
+      "width": 720
+    },
+    "language": "hi-IN",
+    "manifest_file_id": "1au_6q1tRGvi-gfS1P09o6x8d7AlFU-NH",
+    "qc_report_file_id": "1GBGDR1mI5dEGOhfX0ykS9Od59ETHch6-",
+    "reel_id": "0008",
+    "required_before_production": [
+      "authoritative_sources_verified",
+      "claim_classified",
+      "Hindi_script_fact_checked",
+      "visual_plan_qc"
+    ],
+    "source_metadata_file_id": "1t9Zve85IamKSzKT5qfh2U8tKW9o8T65A",
+    "status": "qc_passed_drive_verified",
+    "track": "habits_behavior",
+    "video_file_id": "1vNrttfga3DSc_L9FRePCw-GaV5bv1HnQ",
+    "working_title_hi": "Fresh-start moments और goal initiation"
+  },
+  "schema_version": 1,
+  "storage": {
+    "active_batch_folder_id": "1EUgS6DJLcu6n1UQJqtXPmphWjZail8oi",
+    "active_batch_id": "Batch_001",
+    "provider": "Google Drive",
+    "root_folder_id": "1vYLRarvedtfaYzNcINGKpKAeeFaz0OnD",
+    "root_folder_name": "3000_HINDI_RESEARCH_REELS"
+  },
+  "updated_at": "2026-08-23T00:00:00+05:30"
+}

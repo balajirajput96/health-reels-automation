@@ -1,0 +1,235 @@
+{
+  "files": [
+    {
+      "id": "1GzSTP1q0ZZwgzHpz_9GZZx9rsCKTBitz",
+      "md5Checksum": "fdd0baf232528dafc4d92b25b5283d55",
+      "mimeType": "text/plain",
+      "modifiedTime": "2026-08-27T02:37:50.927Z",
+      "name": "REEL-0008_captions_hi-IN.ass",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "2799"
+    },
+    {
+      "id": "1VzoDp-AkYjYxEaCSpFpFgk7V7oR0_5aX",
+      "md5Checksum": "02ac14ba8a357ad39b40ab637f31bdaf",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-27T02:37:49.277Z",
+      "name": "REEL-0008_captions_hi-IN.srt",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "2186"
+    },
+    {
+      "id": "1vNrttfga3DSc_L9FRePCw-GaV5bv1HnQ",
+      "md5Checksum": "229c4e64bb07228efd788d55d0c90336",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-27T02:37:45.382Z",
+      "name": "REEL-0008_fresh_start_QC_pending.mp4",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "4580928"
+    },
+    {
+      "id": "1au_6q1tRGvi-gfS1P09o6x8d7AlFU-NH",
+      "md5Checksum": "23be51db5d25561d9d236175eff84bd0",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-27T02:37:52.467Z",
+      "name": "REEL-0008_local_manifest.json",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "2584"
+    },
+    {
+      "id": "17ImXIuJDdy9OpuqcL-U4wjhmk03KgyeS",
+      "md5Checksum": "d5903e667764981a1f9fd180ac2b871d",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-27T02:37:47.721Z",
+      "name": "REEL-0008_narration_hi-IN.wav",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "3390998"
+    },
+    {
+      "id": "1Q-Th0ztI62j_1WmcN0SCGlbQMS2t-fqs",
+      "md5Checksum": "8000264765d36da42990e18ffc86b0c7",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-27T02:38:00.049Z",
+      "name": "REEL-0008_production_brief.md",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "2689"
+    },
+    {
+      "id": "1QYZHXCQwt3ym8ILqXB9zqtccrmXOJskt",
+      "md5Checksum": "0585a3190f09139b9a770113d7913852",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-27T02:37:55.478Z",
+      "name": "REEL-0008_qc_ffprobe.json",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "4269"
+    },
+    {
+      "id": "1mMz3vCnh2M0fCLNPGmrbaBXXz-1OHrT_",
+      "md5Checksum": "e98eec4b5428bfa05e28605d5cbe91c2",
+      "mimeType": "image/jpeg",
+      "modifiedTime": "2026-08-27T02:38:21.573Z",
+      "name": "REEL-0008_qc_frame_02s.jpg",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "134087"
+    },
+    {
+      "id": "1O2BJJtRkqkfvW6oYMMIqi1eaq-KuwJS_",
+      "md5Checksum": "d9f0a8ad7a548ae845f7a0a7f1245f73",
+      "mimeType": "image/jpeg",
+      "modifiedTime": "2026-08-27T02:38:23.369Z",
+      "name": "REEL-0008_qc_frame_34s.jpg",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "165820"
+    },
+    {
+      "id": "100aMG_IQf4pYtA3X-kEISTTNsYLpYO47",
+      "md5Checksum": "2f65a6b38661be34ae1991d6641594ca",
+      "mimeType": "image/jpeg",
+      "modifiedTime": "2026-08-27T02:38:25.242Z",
+      "name": "REEL-0008_qc_frame_60s.jpg",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "178969"
+    },
+    {
+      "id": "1GBGDR1mI5dEGOhfX0ykS9Od59ETHch6-",
+      "md5Checksum": "4cdd49b760a1d465147d836c3f20f229",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-27T02:37:53.995Z",
+      "name": "REEL-0008_qc_report.json",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "413"
+    },
+    {
+      "id": "1lNLZGuKO7GsLmViXcL4o5hE-hb669VIJ",
+      "md5Checksum": "84fc76d4dce70b59e27878a5e0c1f127",
+      "mimeType": "text/plain",
+      "modifiedTime": "2026-08-27T02:37:57.081Z",
+      "name": "REEL-0008_qc_sha256.txt",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "103"
+    },
+    {
+      "id": "161U8qls8tfwngZihN7BWl96BLaVqCHy5",
+      "md5Checksum": "6e9a0586296299f49948559236701a23",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-27T02:38:03.188Z",
+      "name": "REEL-0008_scene_01_landmark_beginning.png",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "4045129"
+    },
+    {
+      "id": "1ofBjX3N_RS2hluliZ8Au2tqe6nKy7hEs",
+      "md5Checksum": "d9ed6db687bb48d6b078e3841d154747",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-27T02:38:05.637Z",
+      "name": "REEL-0008_scene_02_temporal_landmarks.png",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "4486959"
+    },
+    {
+      "id": "12U0TUrH66ywC0RGCttsMnZ5y5eq-M5U4",
+      "md5Checksum": "b813c9f1582923d2abaf8685fd6fbb6a",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-27T02:38:08.450Z",
+      "name": "REEL-0008_scene_03_goal_initiation.png",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "4728231"
+    },
+    {
+      "id": "1VpE20GPyTeSydX_Q1NyHbMRUw4PpePxP",
+      "md5Checksum": "9425c85c82c5a9f54bd21755799e0c73",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-27T02:38:11.145Z",
+      "name": "REEL-0008_scene_04_motivation_not_durability.png",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "4660695"
+    },
+    {
+      "id": "1AOvo3sJecI-r09NVnN8Tq80OsVjoRgbd",
+      "md5Checksum": "e4252c71cf7b94fd6e13966b0e891dc1",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-27T02:38:13.693Z",
+      "name": "REEL-0008_scene_05_small_next_action.png",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "4109537"
+    },
+    {
+      "id": "1j5lVYYN_GTc1l6ms38Ta5_5_556o5rti",
+      "md5Checksum": "12b55a1e29a7ec95fabfee2af25384d3",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-27T02:38:16.380Z",
+      "name": "REEL-0008_scene_06_launch_not_magic.png",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "4774546"
+    },
+    {
+      "id": "18zWSYrJtpYmgQN8xsBvX_WYGrUNb51O1",
+      "md5Checksum": "59e7c94d15a6bd8b332531e7267f3e8c",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-27T02:37:58.691Z",
+      "name": "REEL-0008_script_hi-IN.md",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "4283"
+    },
+    {
+      "id": "1t9Zve85IamKSzKT5qfh2U8tKW9o8T65A",
+      "md5Checksum": "2ee28f05e4d149eca8717675fa63afec",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-27T02:38:01.624Z",
+      "name": "REEL-0008_source_validation.md",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "11139"
+    },
+    {
+      "id": "1AEyoRZDYaj-fQE4GyY7IgslbPK7r5u48",
+      "md5Checksum": "452d505d89fe046b8017927f10bf22df",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-27T02:38:19.401Z",
+      "name": "REEL-0008_style_reference.png",
+      "parents": [
+        "1kah63QcAJ6x9ZRXyMBU18GUiPoe5SFf7"
+      ],
+      "size": "4563559"
+    }
+  ]
+}
