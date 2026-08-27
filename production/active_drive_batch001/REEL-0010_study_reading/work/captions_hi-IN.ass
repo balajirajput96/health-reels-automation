@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Reel,Noto Sans Devanagari,31,&H00FFFFFF,&H00FFFFFF,&H00000000,&HCC06101D,0,0,3,2,0,2,38,38,118,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.75,Reel,,0,0,0,,किसी research headline में\Nलिखा हो, “stable context habit\Nको बेहतर बनाता है,” तो क्या आप\Nतुरंत मान लेंगे? ज़रा\Nरुकिए—study को पढ़ने का एक\Nछोटा तरीका है।
+Dialogue: 0,0:00:09.75,0:00:22.50,Reel,,0,0,0,,पहला सवाल: study में लोग कौन\Nथे? 2022 की एक study में\Nuniversity students का एक\Ndataset था, और दूसरा dataset\Nhabit-building app के users से\Nआया था।
+Dialogue: 0,0:00:22.50,0:00:36.00,Reel,,0,0,0,,दूसरा सवाल: क्या researchers\Nने कुछ बदला, या सिर्फ़ कुछ\Nmeasure किया? पहले dataset में\Ncontext को stable या variable\Nरखने की instructions थीं।\Nदूसरे में context stability को\Nobserve किया गया।
+Dialogue: 0,0:00:36.00,0:00:48.00,Reel,,0,0,0,,तीसरा सवाल: outcome क्या था?\Nइस paper ने automaticity और\Nhabit-repetition goal\Nattainment को measure किया। ये\Nuseful outcomes हैं, लेकिन “हर\Nव्यक्ति की habit पक्की हो गई”\Nइसका मतलब नहीं।
+Dialogue: 0,0:00:48.00,0:01:00.00,Reel,,0,0,0,,चौथा सवाल: क्या unknown है? एक\Npaper हर behaviour, हर व्यक्ति\Nऔर हर situation पर universal\Nformula नहीं बनाता। Systematic\Nreview भी habit formation में\Nvariability और evidence की\Nlimitations बताती है।
+Dialogue: 0,0:01:00.00,0:01:15.01,Reel,,0,0,0,,अगली बार चार बातें पूछिए:\Nsample, design, measure और\Nlimit। यही research literacy\Nहै—headline से आगे देखना। यह\Ngeneral education है,\Ndiagnosis, treatment या\Nguaranteed behaviour change\Nनहीं।

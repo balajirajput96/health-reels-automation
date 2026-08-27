@@ -14,7 +14,7 @@ def main() -> None:
     assert pointer["provider"] == "Google Drive"
     assert pointer["root"]["name"] == "3000_HINDI_RESEARCH_REELS"
     assert pointer["active_batch"]["name"] == "Batch_001"
-    assert pointer["next_reel_id"] == "0010"
+    assert pointer["next_reel_id"] == "0011"
     assert pointer["target_total_reels"] == 3000
     assert pointer["reels_per_batch"] == 30
     fmt = pointer["format"]
@@ -24,7 +24,7 @@ def main() -> None:
     assert fmt["voice_required"] is True
     assert fmt["captions_required"] is True
     completed = pointer["completed"]
-    for reel_id in ("reel_0001", "reel_0002", "reel_0003", "reel_0004", "reel_0005", "reel_0006", "reel_0007", "reel_0008", "reel_0009"):
+    for reel_id in ("reel_0001", "reel_0002", "reel_0003", "reel_0004", "reel_0005", "reel_0006", "reel_0007", "reel_0008", "reel_0009", "reel_0010"):
         assert completed[reel_id]["status"] == "qc_passed_drive_verified"
     assert completed["reel_0002"]["folder_id"]
     assert completed["reel_0002"]["video_file_id"]
@@ -42,7 +42,9 @@ def main() -> None:
     assert completed["reel_0008"]["video_file_id"]
     assert completed["reel_0009"]["folder_id"]
     assert completed["reel_0009"]["video_file_id"]
-    print(json.dumps({"status": "PASS", "project": pointer["project"], "completed": ["0001", "0002", "0003", "0004", "0005", "0006", "0007", "0008", "0009"], "next_reel_id": pointer["next_reel_id"], "target_total_reels": pointer["target_total_reels"]}, ensure_ascii=False))
+    assert completed["reel_0010"]["folder_id"]
+    assert completed["reel_0010"]["video_file_id"]
+    print(json.dumps({"status": "PASS", "project": pointer["project"], "completed": ["0001", "0002", "0003", "0004", "0005", "0006", "0007", "0008", "0009", "0010"], "next_reel_id": pointer["next_reel_id"], "target_total_reels": pointer["target_total_reels"]}, ensure_ascii=False))
 
 
 if __name__ == "__main__":

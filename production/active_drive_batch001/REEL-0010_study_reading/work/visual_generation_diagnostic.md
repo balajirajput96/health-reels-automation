@@ -1,0 +1,3 @@
+# Reel 0010 visual-generation recovery
+
+On 2026-08-27, the sixth new image-generation request for Reel 0010 was rejected because the free-plan daily image quota had reached 20/20. The five planned scenes and the primary style reference had already generated successfully. To preserve a complete six-scene package without bypassing the quota or silently failing, the approved Reel 0010 style reference was copied deterministically to `scene_06_four_questions_takeaway.png` for the closing checklist segment. It has the same 1440×2560 dimensions, palette, recurring researcher, graphical four-checkpoint composition, and lower caption-safe area. No credentials, quota controls, or security mechanisms were bypassed.

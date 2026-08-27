@@ -1,0 +1,61 @@
+{
+  "reel_id": "0010",
+  "display_id": "REEL-0010",
+  "batch": "Batch_001",
+  "working_title_hi": "किसी habit study को सही तरह पढ़ना",
+  "status": "rendered_local_pending_qc_and_drive_upload",
+  "canonical_drive_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0010",
+  "format": {
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "duration_seconds": 75.006
+  },
+  "language": "hi-IN",
+  "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions",
+  "evidence_status": "verified_with_limits",
+  "sources": [
+    {
+      "title": "Stojanovic, Grund, and Fries (2022), Context Stability in Habit Building Increases Automaticity and Goal Attainment",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/"
+    },
+    {
+      "title": "Stojanovic, Grund, and Fries (2022), Frontiers publisher page",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full"
+    },
+    {
+      "title": "Gardner, Lally, and Wardle (2012), Making health habitual",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/"
+    },
+    {
+      "title": "Singh et al. (2024), Time to Form a Habit: A Systematic Review and Meta-Analysis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/"
+    }
+  ],
+  "claims_boundary": "The verified paper used a manipulated student dataset and a measured app-user dataset; it examined context stability, automaticity, and habit-repetition goal attainment. These findings do not establish a universal cue formula, guaranteed durable habits, or medical outcomes. This reel is general education, not diagnosis, treatment, or a guarantee.",
+  "ai_content_disclosure": "Hindi narration and visual scenes were AI-assisted; motion assembly and captions were deterministic.",
+  "files": {
+    "video": "REEL-0010_study_reading_QC_pending.mp4",
+    "narration": "narration_hi-IN.wav",
+    "captions_ass": "captions_hi-IN.ass",
+    "captions_srt": "captions_hi-IN.srt",
+    "script": "script_hi-IN.md",
+    "production_brief": "production_brief.md",
+    "source_validation": "../../../research/2026-08-27__reel0010__reading-a-habit-study-source-validation.md"
+  },
+  "sha256": {
+    "REEL-0010_study_reading_QC_pending.mp4": "d2c537a970063305586e40b22a4af4d15a1cacfd35667132f402daf1bf4c5bea",
+    "narration_hi-IN.wav": "b437e1337177be661e003d47c11466f5dc598a6e0472b18f4e518ae8bcb8af9e",
+    "captions_hi-IN.ass": "5eb745703262f1c987d1c0b0a7d318e3cf2df7813c9e40d761932359f1e610aa",
+    "captions_hi-IN.srt": "a75f71dae94fa107bc5742e81cd71dc53d2a9f003330b715a769151e62b5c384"
+  },
+  "segment_durations_seconds": [
+    9.751,
+    12.751,
+    13.501,
+    12.001,
+    12.001,
+    15.001
+  ]
+}

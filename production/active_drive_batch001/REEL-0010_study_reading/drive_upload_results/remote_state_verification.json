@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "remote_state_verified": true,
+  "reel_id": "0010",
+  "completed_in_current_batch": 10,
+  "next_reel_id": "0011",
+  "registry_entries": 3000,
+  "canonical_reels": 3000,
+  "artifact_count": 21,
+  "folder_id": "1MKubuUv-NlLvji7C-Ga8cHDpEmePx4r0"
+}
