@@ -1,0 +1,48 @@
+{
+  "reel_id": "reel_0005_psychological_flexibility_what_studies_measure",
+  "status": "blocked_drive_identity_collision",
+  "lifecycle_stage": "blocked_drive_identity_collision",
+  "batch": "Batch_001",
+  "sequence": 5,
+  "topic": "मनोवैज्ञानिक लचीलापन: अध्ययन वास्तव में क्या मापते हैं",
+  "evidence_label": "Mixed Evidence",
+  "source_files": [
+    "records/reels/batch01/reel0005/sources/SRC-R0005-001.json",
+    "records/reels/batch01/reel0005/sources/SRC-R0005-002.json"
+  ],
+  "research_brief": "records/reels/batch01/reel0005/research/research_brief.md",
+  "script": "records/reels/batch01/reel0005/script/script_hi-IN.md",
+  "local_artifacts": {
+    "narration": "records/reels/batch01/reel0005/assets/reel0005_narration.wav",
+    "captions_srt": "records/reels/batch01/reel0005/assets/reel0005_hi.srt",
+    "captions_ass": "records/reels/batch01/reel0005/assets/reel0005_hi.ass",
+    "render": "records/reels/batch01/reel0005/assets/Reel_0005_psychological_flexibility_hi-IN.mp4",
+    "qc": "records/reels/batch01/reel0005/qc/qc_report.md"
+  },
+  "research_checks": {
+    "sources_verified": true,
+    "measurement_limitation_included": true,
+    "clinical_advice_excluded": true,
+    "evidence_label_visible_in_final_render": true,
+    "local_render_qc_passed": true
+  },
+  "drive_identity_collision": {
+    "parent_folder_id": "1J2CPqxCzK0gBQ1KmlxCjgGT7GMBJy-cz",
+    "existing_video_id": "1O33u5cctndYibcR7GNdxenkunpckQKl8",
+    "existing_metadata_id": "1wR9Rh9ZrYAA49BJVlmW2LnhTZiuj1zK5",
+    "existing_research_id": "1tFc4DFpRn48LmapuFXWt9EenmQv18vpg",
+    "existing_topic": "मेमोरी और मानव व्यवहार — misinformation effect और reconstructive memory",
+    "identity_result": "COLLISION_CONFIRMED_DIFFERENT_TOPIC",
+    "action": "No upload, overwrite, deletion, completion claim, canonical-ledger update, or publication performed."
+  },
+  "required_next_gates": [
+    "canonical_Drive_identity_resolution_for_sequence_0005",
+    "approved_unique_parent_or_reindexing_decision",
+    "Drive_upload_and_remote_reverification",
+    "canonical_ledger_registration"
+  ],
+  "completion_claimed": false,
+  "drive_verified": false,
+  "publication_allowed": false,
+  "notes": "The local psychological-flexibility package passed local render and editorial QC, including a correction for initially oversized captions. An authenticated Drive listing and downloaded remote metadata confirmed that the canonical Batch_001 folder already contains a complete, differently themed Reel_0005 package about misinformation effect and reconstructive memory. The collision must be reconciled through a canonical reindexing or unique identity decision before any upload."
+}

@@ -1,0 +1,23 @@
+{
+  "source_id": "SRC-R0005-001",
+  "title": "Psychological Flexibility as a Fundamental Aspect of Health",
+  "authors": ["Todd B. Kashdan", "Jonathan Rottenberg"],
+  "journal": "Clinical Psychology Review",
+  "publication_year": 2010,
+  "doi": "10.1016/j.cpr.2010.03.001",
+  "pmid": "21151705",
+  "pmcid": "PMC2998793",
+  "url_or_doi": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/",
+  "source_type": "Peer-reviewed narrative review",
+  "evidence_label": "Mixed Evidence",
+  "verification_status": "VERIFIED",
+  "finding": "The review describes psychological flexibility as context-sensitive adaptation to situational demands, including shifting perspectives or behavior and balancing important goals and domains.",
+  "claim_boundaries": "This review provides a theoretical and evidence-synthesis account. It does not establish that a single behavior, questionnaire score, or intervention universally causes health or well-being.",
+  "limitations": [
+    "The construct is dynamic and can be difficult to capture with one static measure.",
+    "Observed associations cannot be converted into a diagnosis or individualized prediction.",
+    "The review includes clinical and non-clinical literature and should not be presented as personal treatment advice."
+  ],
+  "used_status": "USED_REEL_0005",
+  "retrieved_at": "2026-08-26T15:57:30Z"
+}
