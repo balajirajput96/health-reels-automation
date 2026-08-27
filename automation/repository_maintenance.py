@@ -1,14 +1,12 @@
-#!/usr/bin/env python3
-"""Daily repository-maintenance workflow for health-reels automation.
+"""Non-destructive daily repository-maintenance audit for health-reels automation.
 
-Reads policy, editorial-standard, and integration-audit documents.
-Checks that documented schedules, target account @balajirajput96, and
-safety constraints remain internally consistent. Flags stale references,
-duplicated state, unsafe health-language patterns, and untracked config drift.
-Produces a concise markdown maintenance report and a proposed patch if
-changes are documentation-only, testable, and non-breaking.
+Scheduled runs only report documentation and policy inconsistencies. They never rewrite
+repository files, create commits, or open pull requests. A human or separately
+confirmed repair job may opt into a narrow documentation-only account-reference patch.
 """
+from __future__ import annotations
 
+import argparse
 import datetime
 import hashlib
 import os
@@ -19,180 +17,167 @@ TARGET_ACCOUNT = "@balajirajput96"
 SCHEDULE = "30 0 * * *"
 UNSAFE_PATTERNS = [r"\bcure\b", r"\bguarantee\b", r"\bdiagnosis\b", r"\btreat\b", r"\bmedical advice\b"]
 ROOT_DIR = Path(__file__).resolve().parents[1]
+REPORT_NAME = "MAINTENANCE_REPORT.md"
 
-def read_files():
-    files = []
-    for root, _, filenames in os.walk(ROOT_DIR):
-        if '.git' in root or '__pycache__' in root:
-            continue
+
+def read_files(root: Path = ROOT_DIR) -> list[Path]:
+    files: list[Path] = []
+    for current_root, directories, filenames in os.walk(root):
+        directories[:] = [directory for directory in directories if directory not in {".git", "__pycache__"}]
         for filename in filenames:
-            if filename.endswith(".md") or filename.endswith(".yml"):
-                files.append(Path(root) / filename)
-    return files
+            if filename.endswith((".md", ".yml")):
+                files.append(Path(current_root) / filename)
+    return sorted(files)
 
-def hash_file(filepath):
-    hasher = hashlib.md5()
-    with open(filepath, 'rb') as f:
-        buf = f.read()
-        hasher.update(buf)
-    return hasher.hexdigest()
 
-def check_stale_references(files):
-    # Match the stale account name only when it is mistakenly listed as the target
+def hash_file(filepath: Path) -> str:
+    return hashlib.md5(filepath.read_bytes()).hexdigest()
+
+
+def is_report_file(path: Path) -> bool:
+    return path.name.lower() == REPORT_NAME.lower()
+
+
+def is_negative_account_warning(line: str) -> bool:
+    text = line.lower()
+    return any(token in text for token in ("not", "never", "excluded", "must not", "do not", "avoid"))
+
+
+def check_stale_references(files: list[Path]) -> list[Path]:
     stale_pattern = r"@bala\.jirajput966"
-    affected = []
-    for f in files:
-        if f.suffix == ".md" and f.name not in ["MAINTENANCE_REPORT.md", "maintenance_report.md"]:
-            content = f.read_text(encoding="utf-8")
-            if re.search(stale_pattern, content):
-                # Ensure it's not a context-appropriate warning
-                is_stale = False
-                for line in content.splitlines():
-                    if re.search(stale_pattern, line):
-                        line_lower = line.lower()
-                        if not any(exclusion in line_lower for exclusion in ["not", "never", "excluded", "must not"]):
-                            is_stale = True
-                            break
-                if is_stale:
-                    affected.append(f)
+    affected: list[Path] = []
+    for file_path in files:
+        if file_path.suffix != ".md" or is_report_file(file_path):
+            continue
+        lines = file_path.read_text(encoding="utf-8").splitlines()
+        if any(re.search(stale_pattern, line) and not is_negative_account_warning(line) for line in lines):
+            affected.append(file_path)
     return affected
 
-def check_duplicated_state(files):
-    hashes = {}
-    duplicates = []
-    for f in files:
-        if f.suffix == ".md" and f.name not in ["MAINTENANCE_REPORT.md", "maintenance_report.md"]:
-            h = hash_file(f)
-            if h in hashes:
-                duplicates.append((hashes[h], f))
-            else:
-                hashes[h] = f
+
+def check_duplicated_state(files: list[Path]) -> list[tuple[Path, Path]]:
+    hashes: dict[str, Path] = {}
+    duplicates: list[tuple[Path, Path]] = []
+    for file_path in files:
+        if file_path.suffix != ".md" or is_report_file(file_path):
+            continue
+        digest = hash_file(file_path)
+        if digest in hashes:
+            duplicates.append((hashes[digest], file_path))
+        else:
+            hashes[digest] = file_path
     return duplicates
 
-def check_schedule_drift():
-    workflow_file = ROOT_DIR / ".github/workflows/repository-maintenance.yml"
+
+def check_schedule_drift(root: Path = ROOT_DIR) -> tuple[bool, str | None]:
+    workflow_file = root / ".github/workflows/repository-maintenance.yml"
     if not workflow_file.exists():
         return True, "Workflow file not found"
-    content = workflow_file.read_text(encoding="utf-8")
-    if SCHEDULE not in content:
+    if SCHEDULE not in workflow_file.read_text(encoding="utf-8"):
         return True, f"Schedule drifted. Expected {SCHEDULE}"
     return False, None
 
-def check_unsafe_patterns(files):
-    unsafe_found = []
-    for f in files:
-        if f.suffix == ".md" and f.name not in ["MAINTENANCE_REPORT.md", "maintenance_report.md"]:
-            content = f.read_text(encoding="utf-8").lower()
-            for pattern in UNSAFE_PATTERNS:
-                # Disallow raw occurrences unless it's the standard itself or a safe negative usage
-                if re.search(pattern, content) and "HEALTH_CONTENT_EDITORIAL_STANDARD.md" not in f.name:
-                    # Basic check for safe negative usage or disclaimer
-                    safe_usage = False
-                    # Allow the standard disclaimer
-                    if "general education only; it is not medical advice" in content:
-                        if pattern == "medical advice":
-                            # Check if there are OTHER occurrences of medical advice
-                            if content.count("medical advice") == content.count("it is not medical advice"):
-                                safe_usage = True
-                    
-                    # Allow negative statements like "not a diagnosis"
-                    if not safe_usage:
-                        # Find all occurrences of the pattern
-                        for match in re.finditer(pattern, content):
-                            start = match.start()
-                            # Check the preceding 30 characters for negative words
-                            preceding = content[max(0, start-30):start]
-                            if any(neg in preceding for n in ["not", "no", "avoid", "without", "instead of"] for neg in [n + " ", n + " a "]):
-                                continue
-                            else:
-                                # Found an affirmative or unprotected occurrence
-                                unsafe_found.append((f, pattern))
-                                break
-                    elif not safe_usage:
-                        unsafe_found.append((f, pattern))
+
+def has_safe_negative_context(content: str, match_start: int) -> bool:
+    window = content[max(0, match_start - 48):match_start]
+    return bool(re.search(r"\b(not|no|avoid|without|instead of|never|do not|must not)\b", window))
+
+
+def check_unsafe_patterns(files: list[Path]) -> list[tuple[Path, str]]:
+    unsafe_found: list[tuple[Path, str]] = []
+    for file_path in files:
+        if file_path.suffix != ".md" or is_report_file(file_path) or file_path.name == "HEALTH_CONTENT_EDITORIAL_STANDARD.md":
+            continue
+        content = file_path.read_text(encoding="utf-8").lower()
+        for pattern in UNSAFE_PATTERNS:
+            if any(not has_safe_negative_context(content, match.start()) for match in re.finditer(pattern, content)):
+                unsafe_found.append((file_path, pattern))
     return unsafe_found
 
-def generate_report(stale, duplicates, drift, drift_msg, unsafe):
-    report_path = ROOT_DIR / "MAINTENANCE_REPORT.md"
+
+def generate_report(
+    stale: list[Path],
+    duplicates: list[tuple[Path, Path]],
+    drift: bool,
+    drift_message: str | None,
+    unsafe: list[tuple[Path, str]],
+    applied_patch: bool,
+    root: Path = ROOT_DIR,
+) -> Path:
+    report_path = root / REPORT_NAME
     today = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
-
-    report = f"# Daily Repository Maintenance Report\n\n**Date:** {today}\n\n"
-    report += "This report identifies configuration drift, stale references, and safety constraints checked across the private health-reels automation repository.\n\n## Findings\n\n"
-
-    findings_count = 1
-
+    findings: list[str] = []
     if stale:
-        report += f"{findings_count}. **Incorrect Target Account References:**\n"
-        report += "   - Stale references to `@bala.jirajput966` were found.\n"
-        report += "   - **Affected files:**\n"
-        for f in stale:
-            report += f"     - `{f.relative_to(ROOT_DIR)}`\n"
-        report += "\n"
-        findings_count += 1
-
+        affected = "\n".join(f"  - `{file_path.relative_to(root)}`" for file_path in stale)
+        findings.append("**Incorrect target-account references**\n\n" + affected)
     if duplicates:
-        report += f"{findings_count}. **Duplicated State:**\n"
-        report += "   - Duplicated content found.\n"
-        report += "   - **Affected files:**\n"
-        for d1, d2 in duplicates:
-            report += f"     - `{d1.relative_to(ROOT_DIR)}` and `{d2.relative_to(ROOT_DIR)}`\n"
-        report += "\n"
-        findings_count += 1
-
+        affected = "\n".join(f"  - `{first.relative_to(root)}` and `{second.relative_to(root)}`" for first, second in duplicates)
+        findings.append("**Duplicated Markdown content**\n\n" + affected)
     if drift:
-        report += f"{findings_count}. **Schedule Configuration Drift:**\n"
-        report += f"   - {drift_msg}\n\n"
-        findings_count += 1
-
+        findings.append(f"**Schedule configuration drift**\n\n  - {drift_message}")
     if unsafe:
-        report += f"{findings_count}. **Unsafe Health-Language Patterns:**\n"
-        report += "   - Unsafe patterns detected.\n"
-        for f, p in unsafe:
-            report += f"     - `{f.relative_to(ROOT_DIR)}` contains '{p}'\n"
-        report += "\n"
-        findings_count += 1
+        affected = "\n".join(f"  - `{file_path.relative_to(root)}` contains `{pattern}`" for file_path, pattern in unsafe)
+        findings.append("**Potentially unsafe health-language patterns**\n\n" + affected)
 
-    if findings_count == 1:
-        report += "No issues found. All configurations, state, and safety constraints are consistent.\n"
-        report += "\n## Proposed Patch\n\nNo patch required.\n"
+    report = [f"# Daily Repository Maintenance Report\n\n**Date:** {today}\n"]
+    report.append(
+        "This is a non-destructive audit. It does not access accounts, credentials, Drive, or social platforms, "
+        "and it does not modify production state.\n"
+    )
+    report.append("## Findings\n")
+    if findings:
+        report.extend(f"{index}. {finding}\n" for index, finding in enumerate(findings, start=1))
     else:
-        report += "## Proposed Patch\n\n"
-        if stale:
-            report += "A documentation-only patch has been prepared to correct the stale target account references. "
-        report += "Please review the proposed patch to ensure constraints and standards are maintained.\n"
+        report.append("No repository-policy or documentation inconsistencies were found.\n")
+    report.append("## Patch policy\n")
+    if stale and not applied_patch:
+        report.append("No files were changed. An explicit `--apply-documentation-account-fix` run is required before the narrow documentation-only account-reference patch may be applied.\n")
+    elif applied_patch:
+        report.append("An explicit documentation-only account-reference patch was applied. Review the working tree before committing.\n")
+    else:
+        report.append("No patch was required or applied.\n")
+    report_path.write_text("\n".join(report), encoding="utf-8")
+    return report_path
 
-    report_path.write_text(report, encoding="utf-8")
 
-def create_patch(stale):
-    for f in stale:
-        content = f.read_text(encoding="utf-8")
-        stale_pattern = r"@bala\.jirajput966"
+def create_documentation_account_patch(stale: list[Path]) -> list[Path]:
+    changed: list[Path] = []
+    stale_pattern = r"@bala\.jirajput966"
+    for file_path in stale:
+        content = file_path.read_text(encoding="utf-8")
+        rendered_lines: list[str] = []
+        file_changed = False
+        for line in content.splitlines(keepends=True):
+            if re.search(stale_pattern, line) and not is_negative_account_warning(line):
+                replacement = re.sub(stale_pattern, TARGET_ACCOUNT, line)
+                file_changed = file_changed or replacement != line
+                rendered_lines.append(replacement)
+            else:
+                rendered_lines.append(line)
+        if file_changed:
+            file_path.write_text("".join(rendered_lines), encoding="utf-8")
+            changed.append(file_path)
+    return changed
 
-        new_lines = []
-        for line in content.splitlines():
-            if re.search(stale_pattern, line):
-                line_lower = line.lower()
-                if not any(exclusion in line_lower for exclusion in ["not", "never", "excluded", "must not"]):
-                    line = re.sub(stale_pattern, TARGET_ACCOUNT, line)
-            new_lines.append(line)
 
-        # Determine whether it's safe to replace the account
-        # Since 'not @bala.jirajput966' exists, it means replacing it would make it 'not @balajirajput96',
-        # which defeats the purpose. So we replace only affirmative occurrences.
-
-        f.write_text("\n".join(new_lines) + ("\n" if content.endswith("\n") else ""), encoding="utf-8")
-
-def main():
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(description="Run a non-destructive repository maintenance audit.")
+    parser.add_argument(
+        "--apply-documentation-account-fix",
+        action="store_true",
+        help="Explicitly apply only affirmative stale-account replacements in Markdown documentation.",
+    )
+    args = parser.parse_args(argv)
     files = read_files()
     stale = check_stale_references(files)
     duplicates = check_duplicated_state(files)
-    drift, drift_msg = check_schedule_drift()
+    drift, drift_message = check_schedule_drift()
     unsafe = check_unsafe_patterns(files)
+    if args.apply_documentation_account_fix:
+        create_documentation_account_patch(stale)
+    generate_report(stale, duplicates, drift, drift_message, unsafe, args.apply_documentation_account_fix)
+    return 0
 
-    generate_report(stale, duplicates, drift, drift_msg, unsafe)
-
-    if stale:
-        create_patch(stale)
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

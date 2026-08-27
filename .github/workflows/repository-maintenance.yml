@@ -4,16 +4,13 @@ on:
   schedule:
     - cron: "30 0 * * *"
   workflow_dispatch:
-    inputs:
-      enable_maintenance_pr:
-        description: "Create the maintenance PR (requires repository policy to allow Actions PR creation)"
-        required: false
-        default: false
-        type: boolean
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
+
+concurrency:
+  group: daily-repository-maintenance
+  cancel-in-progress: false
 
 jobs:
   maintenance:
@@ -28,22 +25,20 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run maintenance audit
+      - name: Run non-destructive maintenance audit
         run: python automation/repository_maintenance.py
 
-      # Keep scheduled maintenance documentation-only; PR creation requires an explicit manual input.
-      - name: Create draft pull request when explicitly enabled
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.enable_maintenance_pr == true }}
-        uses: peter-evans/create-pull-request@v6
+      - name: Upload maintenance report
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
         with:
-          commit-message: "chore: daily repository maintenance"
-          title: "chore: daily repository maintenance"
-          body: |
-            Automated documentation-only maintenance patch.
-            See `MAINTENANCE_REPORT.md` for audit findings.
-          branch: "maintenance/daily-audit"
-          draft: true
+          name: repository-maintenance-${{ github.run_id }}
+          path: MAINTENANCE_REPORT.md
+          if-no-files-found: warn
+          retention-days: 90
 
-      - name: Report pull-request creation policy
-        if: ${{ github.event_name != 'workflow_dispatch' || inputs.enable_maintenance_pr != true }}
-        run: echo "Maintenance audit completed; pull-request creation is disabled unless manually enabled."
+      - name: Report execution boundary
+        if: ${{ always() }}
+        run: |
+          echo "Maintenance completed as a read-only repository audit."
+          echo "No pull request, commit, Drive operation, media generation, or social action is performed by this workflow."
