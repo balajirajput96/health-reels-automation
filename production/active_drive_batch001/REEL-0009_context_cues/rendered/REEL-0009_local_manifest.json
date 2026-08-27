@@ -1,0 +1,61 @@
+{
+  "reel_id": "0009",
+  "display_id": "REEL-0009",
+  "batch": "Batch_001",
+  "working_title_hi": "आदतें और व्यवहार परिवर्तन: संकेत — शुरुआत (विज़ुअल मॉडल)",
+  "status": "rendered_local_pending_qc_and_drive_upload",
+  "canonical_drive_path": "3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0009",
+  "format": {
+    "width": 720,
+    "height": 1280,
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "duration_seconds": 77.033
+  },
+  "language": "hi-IN",
+  "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions",
+  "evidence_status": "verified_with_limits",
+  "sources": [
+    {
+      "title": "Gardner, Lally, and Wardle (2012), Making health habitual: the psychology of habit-formation and general practice",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/"
+    },
+    {
+      "title": "Stojanovic, Grund, and Fries (2022), Context Stability in Habit Building Increases Automaticity and Goal Attainment",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/"
+    },
+    {
+      "title": "Stojanovic, Grund, and Fries (2022), publisher page",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full"
+    },
+    {
+      "title": "Singh et al. (2024), Time to Form a Habit: A Systematic Review and Meta-Analysis",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/"
+    }
+  ],
+  "claims_boundary": "Contextual cues and stable contexts may support habit initiation and automaticity, but cues are not commands and do not guarantee completion or durable habit formation. Effects vary by person, behaviour, meaning, and context. This is general education, not treatment, diagnosis, or a guarantee.",
+  "ai_content_disclosure": "Hindi narration and visual scenes were AI-assisted; motion assembly and captions were deterministic.",
+  "files": {
+    "video": "REEL-0009_context_cues_QC_pending.mp4",
+    "narration": "narration_hi-IN.wav",
+    "captions_ass": "captions_hi-IN.ass",
+    "captions_srt": "captions_hi-IN.srt",
+    "script": "script_hi-IN.md",
+    "production_brief": "production_brief.md",
+    "source_validation": "../../../research/2026-08-27__reel0009__context-cues-source-validation.md"
+  },
+  "sha256": {
+    "REEL-0009_context_cues_QC_pending.mp4": "38c329d16f505ec2048977de637408ddbd21a0b791450433eb407fdfc7033cb3",
+    "narration_hi-IN.wav": "809cbfe604e6e93b19269399d9f4cce5fc65d17d623334d7f34c482aa6ce330b",
+    "captions_hi-IN.ass": "f124be7b3b4efdaaea742b31ef2770b7e420b7a62cf421579fe03a0743448e2a",
+    "captions_hi-IN.srt": "9ae73b8260bcf0bcb17314695cd8ac6ccb00cb3dbc451e44fa367a8c98ed6b1d"
+  },
+  "segment_durations_seconds": [
+    10.015,
+    13.097,
+    13.867,
+    12.326,
+    12.326,
+    15.408
+  ]
+}

@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Reel,Noto Sans Devanagari,31,&H00FFFFFF,&H00FFFFFF,&H00000000,&HCC06101D,0,0,3,2,0,2,38,38,118,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.02,Reel,,0,0,0,,कभी कोई signal मिलते ही आप\Nबिना ज़्यादा सोचे एक काम शुरू\Nकर देते हैं? जैसे चाय के बाद\Nकिताब खोलना, या जूते पहनते ही\Nwalk के लिए निकलना।
+Dialogue: 0,0:00:10.02,0:00:23.11,Reel,,0,0,0,,Psychology में habit को सिर्फ़\Nबार-बार किया गया काम नहीं माना\Nजाता। Habit में context का cue\Nकिसी action को अपने-आप शुरू\Nकरने से जुड़ सकता है।
+Dialogue: 0,0:00:23.11,0:00:36.98,Reel,,0,0,0,,Research में एक ही तरह के\Nplace और time पर behaviour\Nदोहराने से automaticity को\Nsupport मिलने की बात सामने आई\Nहै। एक study में stable\Ncontext, automaticity और\Nhabit-repetition goal\Nattainment से जुड़ा था।
+Dialogue: 0,0:00:36.98,0:00:49.31,Reel,,0,0,0,,लेकिन cue कोई command नहीं है।\NContext बदलने पर वही action कम\Nfluent लग सकता है, और एक study\Nका result हर व्यक्ति या हर\Nbehaviour पर guarantee नहीं\Nबनता।
+Dialogue: 0,0:00:49.31,0:01:01.63,Reel,,0,0,0,,आज एक छोटा, self-chosen action\Nचुनिए। उसे किसी पहले से मौजूद\Nroutine के बाद जोड़िए—जैसे\Nbreakfast के बाद पाँच मिनट\Nपढ़ना। Signal को simple रखिए\Nऔर कुछ repetitions observe\Nकीजिए।
+Dialogue: 0,0:01:01.63,0:01:17.04,Reel,,0,0,0,,याद रखिए: cue शुरुआत को\Nsupport कर सकता है, लेकिन fit,\Nrepetition और context भी मायने\Nरखते हैं। Reminder miss हो जाए\Nतो खुद को दोष न दें। यह\Ngeneral education है,\Ntreatment या guaranteed habit\Nformula नहीं।
