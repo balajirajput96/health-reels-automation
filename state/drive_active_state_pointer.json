@@ -2,7 +2,7 @@
   "schema_version": 1,
   "project": "3000_HINDI_RESEARCH_REELS",
   "provider": "Google Drive",
-  "verified_at": "2026-08-25T04:18:45Z",
+  "verified_at": "2026-08-27T14:03:25.974030Z",
   "root": {
     "name": "3000_HINDI_RESEARCH_REELS",
     "id": "1vYLRarvedtfaYzNcINGKpKAeeFaz0OnD"
@@ -11,21 +11,8 @@
     "name": "Batch_001",
     "id": "1EUgS6DJLcu6n1UQJqtXPmphWjZail8oi"
   },
-  "completed": {
-    "reel_0001": {
-      "status": "qc_passed_drive_verified",
-      "video_file_id": "1vGeCNPZoT7TBkPVR7tc8EtqYm7DsZb_S"
-    },
-    "reel_0002": {
-      "status": "qc_passed_drive_verified",
-      "folder_id": "12EwnZQ9RN6BUYmefbzHAmDhQ77F-Fduo",
-      "video_file_id": "1esnr9gdiomu3IkhgFX2LD67mK2fiQNDM",
-      "duration_seconds": 63.567,
-      "evidence_status": "verified_with_limits",
-      "production_mode": "original AI-generated still scenes with deterministic pan-zoom motion, Hindi narration, and burned-in captions"
-    }
-  },
-  "next_reel_id": "0003",
+  "completed": {},
+  "next_reel_id": "0001",
   "target_total_reels": 3000,
   "reels_per_batch": 30,
   "format": {
@@ -40,5 +27,6 @@
     "registry_id": "14kGl96jM4Lsd9xNgQaqxrrLPPCcAJLCj",
     "canonical_production_state_id": "1SrrMU5Zh-GO9tDFJZfHvtVrbESO6rUNV"
   },
-  "integrity_rule": "Do not regenerate or mark complete unless the exact remote package, manifest, research metadata, captions, narration, and QC evidence are present and verified."
+  "integrity_rule": "Do not regenerate or mark complete unless the exact remote package, manifest, research metadata, captions, narration, and QC evidence are present, topic-matched, and verified. Completion claims contradicted by fresh Drive identity or QC evidence must remain blocked.",
+  "reconciliation_status": "unsupported_completion_claims_0001_0003_demoted_pending_identity_rebuild"
 }
