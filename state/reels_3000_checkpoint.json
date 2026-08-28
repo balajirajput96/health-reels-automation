@@ -1,5 +1,5 @@
 {
-  "completed_drive_verified": 3,
+  "completed_drive_verified": 0,
   "editorial_gate_history": [
     {
       "approved_for_script_draft": [
@@ -1705,6 +1705,19 @@
       "retry_state": "retain canonical next_reel at Reel 0004; resolve authoritative mapping and unique path before any Reel 0005 final package upload",
       "stage": "canonical_path_topic_conflict",
       "status": "blocked_retryable"
+    },
+    {
+      "action": "No eligible uniquely mapped candidate exists; no media generation, Drive upload, or social action performed.",
+      "manifest": "/home/ubuntu/reels_ops/retry_queue/2026-08-27__reels_0007_0009__canonical_drive_identity_conflicts__retry-manifest.json",
+      "preserved_invariants": {
+        "completed_drive_verified": 0,
+        "reel_0004_blocker_preserved": true,
+        "reel_0005_blocker_preserved": true,
+        "reel_0006_editorial_hold_preserved": true
+      },
+      "recorded_at": "2026-08-28T02:34:21.501606Z",
+      "status": "blocked_retryable",
+      "type": "canonical_drive_identity_conflicts_0007_0009"
     }
   ],
   "generated_at": "2026-08-22T05:41:17.571278Z",
@@ -1720,15 +1733,35 @@
       "status": "blocked_retryable_canonical_drive_topic_conflict"
     }
   ],
-  "last_completed": "reel_0003_self_concept_what_studies_measure",
+  "last_completed": null,
   "media_retry_queue": [],
   "mission": "3000 unique Hindi research reels",
-  "next_reel": "reel_0004_cognitive_biases_what_studies_measure",
+  "next_reel": "reel_0001_affect_labeling",
   "next_sequence": 4,
   "production_counts": {
     "final": 3,
     "planned": 2997
   },
+  "reconciliation_history": [
+    {
+      "action": "demoted_unsupported_completion_claims",
+      "audit": "/home/ubuntu/reels_ops/recovery/2026-08-27__fresh_drive_completion_claim_reconciliation.md",
+      "invariants_preserved": {
+        "drive_assets_modified": false,
+        "reel_0004_blocker_retained": true,
+        "reel_0005_blocker_retained": true,
+        "reel_0006_hold_retained": true,
+        "social_actions_performed": false
+      },
+      "reason": "fresh_authenticated_drive_topic_and_qc_mismatch",
+      "recorded_at": "2026-08-27T14:03:25.973998Z",
+      "sequences": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
   "reels_per_batch": 30,
   "reference_asset_readiness_history": [
     {
