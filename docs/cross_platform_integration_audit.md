@@ -92,7 +92,7 @@ The user’s reference to an additional Google AI scheduler does not match a ver
 
 ## Published automation validation — 2026-08-16
 
-The private GitHub repository now contains an active `Daily Automation Audit` workflow (workflow ID `335512313`) scheduled at 00:15 UTC. It is documentation-only and contains no credentials or external-account actions. The authenticated Gemini Spark dashboard confirms `Generate health reels production brief` remains an ongoing daily schedule around 06:30 AM with status `Waiting to run`. The authenticated account displayed is `sellbuildingbazar.in@gmail.com`.
+The private GitHub repository now contains an active `Daily Automation Audit` workflow (workflow ID `335512313`) scheduled at 00:30 UTC. It is documentation-only and contains no credentials or external-account actions. The authenticated Gemini Spark dashboard confirms `Generate health reels production brief` remains an ongoing daily schedule around 06:30 AM with status `Waiting to run`. The authenticated account displayed is `sellbuildingbazar.in@gmail.com`.
 
 ## Immediate GitHub audit execution — 2026-08-16
 
