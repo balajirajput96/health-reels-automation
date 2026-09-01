@@ -2,38 +2,38 @@
 
 ## Working title
 
-If–Then planning: goal से action तक
+Flow State: जब दिमाग का सारा शोर शांत होकर 100% फोकस बन जाता है
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-Goal बनाना easy है; सही moment पर action लेना मुश्किल। यहीं if–then planning एक useful cue बन सकती है।
+क्या आपने कभी अनुभव किया है कि जब आप अपने किसी पसंदीदा खेल, संगीत या कोडिंग में डूबते हैं, तो समय का अहसास बिल्कुल खत्म क्यों हो जाता है?
 
-### Span 02 — Definition
+### Span 02 — What is Flow
 
-Implementation intention का मतलब है: पहले से तय करना—अगर situation Y आएगी, तो मैं action Z शुरू करूँगा।
+Psychology में इस मानसिक स्थिति को 'Flow State' कहते हैं—यह पूर्ण एकाग्रता और सहज प्रदर्शन की स्थिति होती है।
 
-### Span 03 — Why it may help
+### Span 03 — Transient Hypofrontality
 
-Research reviews के अनुसार, ऐसा plan cue को notice करना और action शुरू करना आसान बना सकता है, खासकर जब obstacle पहले से पता हो।
+Neuroscience के अनुसार, फ्लो में हमारे दिमाग का 'Prefrontal Cortex' अपनी आत्म-आलोचना (Inner Critic) और चिंता को थोड़ी देर के लिए शांत कर देता है।
 
-### Span 04 — Example
+### Span 04 — The neurochemical cocktail
 
-जैसे: “अगर dinner के बाद walk करनी है, तो shoes पहले से door के पास रखूँगा।” यह goal को एक visible cue से जोड़ता है।
+इस समय दिमाग में डोपामिन और नॉरएड्रेनालिन जैसे न्यूरोट्रांसमीटर सही मात्रा में रिलीज होते हैं, जो सीखने और प्रतिक्रिया की गति को बढ़ा देते हैं।
 
-### Span 05 — Evidence boundary
+### Span 05 — Challenge-skill balance
 
-कई studies के average results goal attainment में मदद का संकेत देते हैं, लेकिन कोई plan habit या success guarantee नहीं करता।
+फ्लो तभी आता है जब काम न तो बहुत आसान हो (जिससे बोरियत हो) और न ही बहुत कठिन हो (जिससे घबराहट हो)।
 
-### Span 06 — Make it realistic
+### Span 06 — How to enter flow
 
-Cue specific रखें, action छोटा और feasible रखें। अगर timing unrealistic हो या action unsafe लगे, तो plan बदलें—खुद को blame नहीं।
+फ्लो में जाने के लिए बिना किसी रुकावट के लगातार 45 से 60 मिनट एक ही काम पर बिना फोन देखे फोकस करें।
 
 ### Span 07 — Safety boundary
 
-यह general behavior-science education है, medical या personal prescription नहीं। अपनी health, access और circumstances के अनुसार plan चुनें।
+यह वीडियो केवल peak performance cognitive awareness के लिए है और clinical psychological therapy का विकल्प नहीं है।
 
 ## Delivery notes
 
-Speak in Hindi with a calm, practical, informative documentary voice. Emphasize “may help,” “average results,” “feasible,” and “no guarantee.” Do not claim automatic habit formation, brain rewiring, weight loss, or medical benefit.
+Speak in Hindi with an energized, crisp, inspiring and scientifically illuminating educational tone. Emphasize "Flow State," "Transient Hypofrontality," "Dopamine-Noradrenaline balance," "Challenge-Skill sweet spot," and "educational awareness." Do not promise supernatural concentration abilities.

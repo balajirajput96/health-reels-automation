@@ -2,38 +2,38 @@
 
 ## Working title
 
-Positive routine को आसान बनाने के लिए friction घटाएँ
+Decision Fatigue: शाम होते-होते हम गलत और जल्दबाजी वाले फैसले क्यों लेने लगते हैं?
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-कई बार problem motivation की नहीं, extra steps की होती है। Positive routine को थोड़ा आसान बनाना शुरुआत में मदद कर सकता है।
+क्या आपने कभी गौर किया है कि पूरे दिन काम करने के बाद शाम को आप अक्सर अनहेल्दी जंक फूड या फालतू खरीदारी के शिकार क्यों हो जाते हैं?
 
-### Span 02 — Habit context
+### Span 02 — What is Decision Fatigue
 
-Habit research बताती है कि repeated action, जब किसी familiar context से जुड़ता है, तो समय के साथ automatic feel हो सकता है।
+Behavioral Science में इसे 'Decision Fatigue' कहते हैं—हमारा दिमाग हर छोटे-बड़े फैसले के साथ अपनी निर्णय लेने की ऊर्जा खोता जाता है।
 
-### Span 03 — Friction
+### Span 03 — The famous judicial study
 
-लेकिन हर छोटा barrier—सामान दूर होना, तैयारी न होना, या setup बहुत लंबा होना—action शुरू करना मुश्किल बना सकता है।
+एक मशहूर रिसर्च में देखा गया कि जज भी दोपहर के खाने से पहले के समय में सबसे ज़्यादा सख्त फैसले लेते थे, क्योंकि उनका दिमाग थक चुका था।
 
-### Span 04 — Example
+### Span 04 — Two brain reactions to exhaustion
 
-अगर आप सुबह पानी पीना चाहते हैं, तो bottle रात में वहीं रख दें जहाँ सुबह आपकी नज़र पड़े। यह बस एक environmental cue है।
+जब दिमाग थक जाता है, तो वह दो रास्ते चुनता है: या तो बिना सोचे तुरंत फैसला (Impulsive Choice) लेता है, या फैसले को टाल देता है।
 
-### Span 05 — Evidence boundary
+### Span 05 — The prefrontal energy budget
 
-Research में automaticity बढ़ने में लोगों और behaviors के बीच काफी variation मिला। कोई 21-day या fixed timeline guarantee नहीं है।
+हमारे 'Prefrontal Cortex' की क्षमता सीमित होती है—सुबह से शाम तक सैकड़ों विकल्प देखने से यह मानसिक रूप से खाली हो जाता है।
 
-### Span 06 — Flexible design
+### Span 06 — How to protect your willpower
 
-एक barrier कम करके देखें। अगर routine unsafe, महँगी या inaccessible लगे, तो setup बदलें—अपने ऊपर blame न डालें।
+समाधान यह है कि सुबह के कपड़े और खाने जैसे छोटे फैसलों को पहले से तय कर लें ताकि बड़े और महत्वपूर्ण फैसलों के लिए दिमाग तरोताजा रहे।
 
 ### Span 07 — Safety boundary
 
-यह general behavior-science education है, medical advice नहीं। कौन-सा routine आपके लिए सही है, यह आपकी health और circumstances पर depend करता है।
+यह वीडियो केवल decision ergonomics awareness के लिए है और clinical executive dysfunction diagnosis का विकल्प नहीं है।
 
 ## Delivery notes
 
-Speak in Hindi with a calm, practical, encouraging documentary voice. Emphasize “may help,” “variation,” “no fixed timeline,” and “accessible.” Do not claim that friction reduction guarantees habits, weight loss, health improvement, or permanent behavior change.
+Speak in Hindi with an engaging, practical, relatable and scientifically sharp educational voice. Emphasize "Decision Fatigue," "Prefrontal depletion," "Impulsive choice trap," "Decision automation," and "educational awareness." Do not diagnose cognitive impairment disorders.

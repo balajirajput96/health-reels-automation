@@ -2,46 +2,38 @@
 
 ## Working title
 
-Habit tracker को report card नहीं, reflection tool बनाइए
-
-## Editorial promise
-
-यह reel habit tracking को perfectionism से अलग करती है। यह consistency और context पर habit research की बात करती है, self-tracking के अनुभवों में individual variation बताती है, और missed days को moral failure की तरह न देखने का practical suggestion देती है। यह fixed timeline, health guarantee, diagnosis, या treatment claim नहीं करती।
+Interoception: शरीर का 'छठा सेंस' जो हमारी भावनाओं और फैसलों को चलाता है
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-क्या आपका habit tracker कभी मदद से ज़्यादा परीक्षा जैसा लगने लगता है?
+क्या आपने कभी सोचा है कि किसी खतरे या महत्वपूर्ण फैसले से पहले हमारे पेट और दिल में अजीब सी हलचल (Gut Feeling) क्यों होने लगती है?
 
-### Span 02 — Evidence: repetition and context
+### Span 02 — What is Interoception
 
-Habit research बताती है कि किसी action को एक जैसे context में दोहराना automaticity से जुड़ सकता है। इसकी गति हर व्यक्ति और behavior में अलग होती है।
+Neuroscience में इसे 'Interoception' कहते हैं—यह हमारे शरीर का वह छठा सेंस है जो अंदरूनी अंगों के संकेतों को दिमाग तक पहुंचाता है।
 
-### Span 03 — Tracker as record, not identity
+### Span 03 — The Insular Cortex hub
 
-इसलिए tracker को report card नहीं, एक record समझिए। वह आपको pattern notice करने में मदद कर सकता है; आपका checkmark आपकी value या character का score नहीं है।
+दिमाग का 'Insular Cortex' हिस्सा हमारी धड़कन, सांस और पेट की हलचल को पढ़कर भावनाओं का रूप देता है।
 
-### Span 04 — Missed day boundary
+### Span 04 — Somatic Marker Hypothesis
 
-एक दिन miss होना information हो सकता है—शायद schedule, energy या context बदल गया। इससे अकेले यह साबित नहीं होता कि आपकी पूरी कोशिश बेकार हो गई।
+वैज्ञानिक एंटोनियो दमासियो के अनुसार, यह 'गट फीलिंग' कोई अंधविश्वास नहीं, बल्कि शरीर द्वारा ली गई बहुत तेज और सटीक चेतावनी है।
 
-### Span 05 — Self-tracking experience
+### Span 05 — Heartbeat detection and emotion
 
-एक survey study में self-tracking के setbacks, motivation और self-compassion को देखने का तरीका अलग-अलग पाया गया। यह association है, guaranteed जीत नहीं।
+जिन लोगों की अपने दिल की धड़कन और सांस को महसूस करने की क्षमता बेहतर होती है, वे अपने तनाव को भी आसानी से नियंत्रित कर पाते हैं।
 
-### Span 06 — Practical takeaway
+### Span 06 — Somatic awareness practice
 
-एक छोटा behavior चुनें, tracking flexible रखें। Checkmark stress बढ़ाए तो तरीका बदलें या रुकें। लक्ष्य perfect streak नहीं, pattern समझना है।
+अपने शरीर के अंदरूनी संकेतों को नज़रअंदाज़ करने के बजाय गहरी सांस लें और महसूस करें कि आपका शरीर इस समय क्या कह रहा है।
 
 ### Span 07 — Safety boundary
 
-यह general behavior-science education है, medical advice नहीं। Tracking distressing, compulsive, unsafe या inaccessible लगे तो रुकें और ज़रूरत हो तो qualified professional से बात करें।
+यह वीडियो केवल interoceptive neuroscience awareness के लिए है और clinical somatic symptom diagnosis का विकल्प नहीं है।
 
-## Caption draft
+## Delivery notes
 
-Habit tracker मदद कर सकता है, लेकिन perfect streak आपकी value तय नहीं करती। Habit research repetition और context की भूमिका बताती है; self-tracking का अनुभव व्यक्ति-व्यक्ति अलग हो सकता है। Missed day को moral failure नहीं, information की तरह देखें—और अगर tracking stress बढ़ाए, तरीका बदलें या रुकें। यह general education है, medical advice नहीं।
-
-## On-screen caption constraints
-
-Use short Devanagari captions aligned to the seven narration spans. Preserve the phrases “report card नहीं”, “pattern notice”, “एक दिन miss होना information”, “association है”, and “perfect streak नहीं”. Do not add fixed-day claims, health promises, diagnosis language, or motivational guarantees.
+Speak in Hindi with an intuitive, grounded, fascinating and scientifically profound educational tone. Emphasize "Interoception," "6th sense of the body," "Insular Cortex," "Somatic Marker Gut Feeling," and "educational awareness." Do not diagnose panic or somatic symptom disorders.

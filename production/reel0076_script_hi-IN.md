@@ -2,38 +2,38 @@
 
 ## Working title
 
-Notifications और focus: settings को experiment की तरह देखें
+Emotion Regulation: गुस्सा या दुख दबाने से दिमाग और शरीर पर क्या असर होता है?
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-एक छोटा notification sound भी आपका ध्यान task से phone की तरफ मोड़ सकता है। लेकिन solution हर alert को बंद करना नहीं है।
+क्या आप भी गुस्सा आने पर जबरदस्ती मुस्कुराने की कोशिश करते हैं और अपनी भावनाओं को अंदर ही अंदर दबा लेते हैं?
 
-### Span 02 — Lab finding
+### Span 02 — James Gross's emotion model
 
-एक controlled study में smartphone-notification sounds के साथ participants ने comparison sounds की तुलना में slower responses दिए।
+Affective Science में भावनाओं को संभालने के 2 मुख्य तरीके बताए गए हैं: 'Cognitive Reappraisal' और 'Expressive Suppression'।
 
-### Span 03 — Study boundary
+### Span 03 — The biological cost of suppression
 
-यह laboratory task था, real life का exact copy नहीं। इसका मतलब यह नहीं कि हर notification सबका focus एक जैसा बिगाड़ती है।
+जब आप अपनी भावनाओं को दबाते हैं (Suppression), तो चेहरे पर शांति दिखती है, लेकिन अंदर दिल की धड़कन और कोर्टिसोल हॉर्मोन बढ़ जाता है।
 
-### Span 04 — Intervention evidence
+### Span 04 — Cognitive Reappraisal mechanism
 
-एक preregistered randomized trial में notifications बंद करने से screen time, checking frequency, productivity या perceived distraction automatically बेहतर नहीं हुए।
+दूसरा तरीका है 'Reappraisal'—यानी स्थिति पर तुरंत गुस्सा करने के बजाय अपने नजरिए को बदलना और स्थिति को नए रूप में देखना।
 
-### Span 05 — Mixed effects
+### Span 05 — Brain network control
 
-हाँ, checking habit कम intentional महसूस हुई, लेकिन fear of missing out बढ़ा। यानी result mixed और person-dependent हो सकता है।
+रिसर्च बताती है कि Reappraisal से हमारे 'Prefrontal Cortex' का नियंत्रण बढ़ता है, जिससे दिमाग का डर वाला हिस्सा (Amygdala) शांत हो जाता है।
 
-### Span 06 — Reversible experiment
+### Span 06 — Practical reframing habit
 
-आप non-essential alerts review कर सकते हैं, उन्हें batch कर सकते हैं, या किसी एक context में focus mode आजमा सकते हैं। Important और safety-critical alerts रखें।
+इसलिए भावनाओं को दबाने के बजाय खुद से पूछें: "क्या इस स्थिति का कोई दूसरा मतलब हो सकता है?" इससे तनाव तुरंत कम हो जाता है।
 
 ### Span 07 — Safety boundary
 
-यह general digital-habit education है, treatment नहीं। कोई setting सबके लिए सही नहीं; अपने काम, care और accessibility needs के अनुसार चुनें।
+यह वीडियो केवल affective neuroscience awareness के लिए है और clinical psychotherapy diagnosis का विकल्प नहीं है।
 
 ## Delivery notes
 
-Speak in Hindi with a calm, clear, practical documentary voice. Emphasize “controlled study,” “mixed results,” and “reversible experiment.” Do not promise deep work, productivity, better mental health, or universal benefit. Do not advise disabling all notifications.
+Speak in Hindi with an emotionally mature, articulate, calm and scientifically illuminating educational voice. Emphasize "Emotion Regulation," "Cognitive Reappraisal vs Suppression," "Amygdala downregulation," "Reframing habit," and "educational awareness." Do not diagnose emotional dysregulation disorders.
