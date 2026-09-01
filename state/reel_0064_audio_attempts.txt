@@ -1,0 +1,3 @@
+attempt1	86.00	failed_duration	assets/reel_0064_mind_wandering_what_studies_measure_narration_hi_attempt1_86.00s.wav
+attempt2	77.68	failed_duration	assets/reel_0064_mind_wandering_what_studies_measure_narration_hi_attempt2_77.68s.wav
+attempt2	70.32	accepted_canonical	assets/reel_0064_mind_wandering_what_studies_measure_narration_hi.wav

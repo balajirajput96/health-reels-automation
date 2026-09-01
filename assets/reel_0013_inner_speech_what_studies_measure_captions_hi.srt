@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:04,900
+क्या inner speech सीधे record हो सकती है?
+
+2
+00:00:04,900 --> 00:00:09,300
+अभी indirect methods से अनुमान लगाया जाता है।
+
+3
+00:00:09,300 --> 00:00:13,700
+Questionnaire पूछता है: inner speech आम तौर पर कैसा है?
+
+4
+00:00:13,700 --> 00:00:17,600
+Dialogue, self-evaluation या condensed phrases?
+
+5
+00:00:17,600 --> 00:00:22,000
+General estimate memory और self-image से प्रभावित हो सकता है।
+
+6
+00:00:22,000 --> 00:00:26,500
+Experience sampling random moment पर phone से पूछता है।
+
+7
+00:00:26,500 --> 00:00:30,900
+इस moment में thoughts किस form में थे?
+
+8
+00:00:30,900 --> 00:00:35,200
+General और random reports हमेशा एक जैसे नहीं होते।
+
+9
+00:00:35,200 --> 00:00:39,100
+इसका मतलब यह नहीं कि एक method हमेशा सही है।
+
+10
+00:00:39,100 --> 00:00:42,600
+दोनों अलग time-windows पूछते हैं।
+
+11
+00:00:42,600 --> 00:00:47,100
+Articulatory suppression verbal rehearsal में interference डालता है।
+
+12
+00:00:47,100 --> 00:00:51,100
+फिर memory या language task का असर देखा जाता है।
+
+13
+00:00:51,100 --> 00:00:55,500
+EMG, EEG और fMRI brain-signal correlates दिखा सकते हैं।
+
+14
+00:00:55,500 --> 00:01:00,100
+लेकिन signal subjective experience के बराबर नहीं है।
+
+15
+00:01:00,100 --> 00:01:04,900
+Instructed inner speech, spontaneous inner speech जैसा हो—यह जरूरी नहीं।
+
+16
+00:01:04,900 --> 00:01:08,200
+पूछिए: method ने वास्तव में क्या measure किया?
+
+17
+00:01:08,200 --> 00:01:12,400
+Self-report, momentary experience, task effect या neural correlate?
+
+18
+00:01:12,400 --> 00:01:14,300
+Universal meter या literal mind-reading नहीं।

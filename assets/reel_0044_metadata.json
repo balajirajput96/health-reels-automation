@@ -1,0 +1,67 @@
+{
+  "reel_id": "reel_0044_breath_awareness_what_studies_measure",
+  "queue_id": "0044",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0044",
+  "title_hi": "श्वास-जागरूकता: studies क्या मापते हैं?",
+  "topic": "breath awareness measurement",
+  "unique_angle": "Breath-counting accuracy, respiratory detection accuracy, recorded respiratory signals, and self-report are different measures; none alone is a universal mindfulness, attention, or health meter.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_class": "peer-reviewed behavioral validation and respiratory psychophysiology research with methodological critique",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, breathing prescription, individualized advice, guaranteed outcome, universal interoception claim, or inference of private thoughts from breath signals.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.3389/fpsyg.2014.01202",
+      "citation": "Levinson et al. (2014), A mind you can count on: validating breath counting as a behavioral measure of mindfulness",
+      "url": "https://doi.org/10.3389/fpsyg.2014.01202",
+      "type": "peer_reviewed_behavioral_validation"
+    },
+    {
+      "source_id": "doi:10.1111/psyp.12057",
+      "citation": "Daubenmier et al. (2013), Follow your breath: Respiratory interoceptive accuracy in experienced meditators",
+      "url": "https://doi.org/10.1111/psyp.12057",
+      "type": "peer_reviewed_respiratory_psychophysiology"
+    },
+    {
+      "source_id": "doi:10.1038/s41598-025-22661-4",
+      "citation": "Treves et al. (2025), Limited Validity of Breath-Counting as a Measure of Mindfulness",
+      "url": "https://doi.org/10.1038/s41598-025-22661-4",
+      "type": "peer_reviewed_methodological_critique"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0044_breath_awareness_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0044_breath_awareness_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0044_breath_awareness_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0044_breath_awareness_what_studies_measure_script.md",
+    "sources": "research/reel_0044_breath_awareness_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0044_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0044_scene_01.png",
+      "assets/reel_0044_scene_02.png",
+      "assets/reel_0044_scene_03.png",
+      "assets/reel_0044_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0044_qc_report.json",
+    "drive_manifest": "state/reel_0044_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes showing a breath-counting task, self-report versus behavior, a generic respiratory signal, and interpretation questions. No participant likenesses, clinical scans, literal thought readouts, or individual prediction.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research measures, not mindfulness skill, hidden mental state, diagnosis, treatment, guaranteed health change, or individual prediction. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1zDFPKC1n9r6_f6AF-egREV8H8wyGYni4",
+    "drive_verification_note": "Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0044 parent, one nonzero manifest control object, and zero unrelated remote objects."
+  },
+  "measured_narration_duration_seconds": 74.16
+}

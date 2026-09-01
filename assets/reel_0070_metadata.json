@@ -1,0 +1,37 @@
+{
+  "reel_id":"reel_0070_dehumanization_what_studies_measure",
+  "queue_id":"0070",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0070",
+  "title_hi":"अमानवीकरण: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"dehumanization measurement, explicit humanness ratings, relationship scales, implicit association tasks, interaction behavior, and neural correlates",
+  "unique_angle":"Dehumanization research measures different slices—target ratings, context-specific reports, task performance, behavior, or neural correlates—not one universal mind-reading meter.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed dehumanization measurement studies covering face-to-face behavior and neural correlates plus validated interpersonal measurement and methodological task distinctions",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Ratings, questionnaires, task outcomes, interaction behavior, and neural signals are context-bound; they are not diagnosis, moral ranking, direct thought reading, or proof of a universal trait or causality.",
+  "source_ids":[
+    {"source_id":"doi:10.1093/scan/nsab014","citation":"Simon & Gutsell (2021), Recognizing humanity: dehumanization predicts neural mirroring and empathic accuracy in face-to-face interactions, Social Cognitive and Affective Neuroscience","url":"https://doi.org/10.1093/scan/nsab014","type":"peer_reviewed_face_to_face_behavior_and_neural_study"},
+    {"source_id":"pmc:PMC9170636","citation":"Best research practices for using the Implicit Association Test, methodological review","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC9170636/","type":"measurement_methodology_review"},
+    {"source_id":"doi:10.3389/fpsyg.2019.02754","citation":"Pizzirani, Karantzas, & Mullins (2019), The Development and Validation of a Dehumanization Measure Within Romantic Relationships, Frontiers in Psychology","url":"https://doi.org/10.3389/fpsyg.2019.02754","type":"peer_reviewed_scale_development_and_validation"}
+  ],
+  "assets":{
+    "video":"assets/reel_0070_dehumanization_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0070_dehumanization_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0070_dehumanization_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0070_dehumanization_what_studies_measure_script.md",
+    "sources":"research/reel_0070_dehumanization_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0070_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0070_scene_01.png","assets/reel_0070_scene_02.png","assets/reel_0070_scene_03.png","assets/reel_0070_scene_04.png"],
+    "qc_report":"assets/reel_0070_qc_report.json",
+    "drive_manifest":"state/reel_0070_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes show an explicit rating, relationship and implicit-task panels, defined interaction outcomes, and a conceptual EEG correlate. No real person, private data, brain scan, or direct mind-reading claim is depicted.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate measurement concepts and limits, not a complete psychological assessment. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":68.84,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1ya7ZpbJ4uagOhyL9zBcmdWbr6dJAy-5T","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; manifest finalized in place."}
+}

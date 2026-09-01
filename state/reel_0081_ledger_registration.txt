@@ -1,0 +1,9 @@
+{
+  "source_id": "reel_0081_stress_and_attention_what_studies_measure",
+  "sha256": "24f3114af232473544da1cda77d6b403db9a4be8d126408db95c45f51d14dc8c",
+  "filename": "reel_0081_stress_and_attention_what_studies_measure_hi.mp4",
+  "stage": "final",
+  "target_account": "@balajirajput96",
+  "recorded_at": "2026-08-26T13:18:48.706411Z",
+  "notes": "R0081 final: 4 fresh verified sources; accepted 64.440s Hindi narration; local QC passed; 64.467s encoded 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+}

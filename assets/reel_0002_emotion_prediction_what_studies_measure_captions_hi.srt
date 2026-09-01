@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:07,500
+क्या हम पहले से जान सकते हैं?
+
+2
+00:00:07,500 --> 00:00:15,000
+Affective forecasting = future feeling का अनुमान
+
+3
+00:00:15,000 --> 00:00:23,000
+Study mind नहीं पढ़ती
+
+4
+00:00:23,000 --> 00:00:31,000
+Forecast बनाम later self-report
+
+5
+00:00:31,000 --> 00:00:39,000
+Intensity और duration अलग measures हैं
+
+6
+00:00:39,000 --> 00:00:47,000
+Classic study: negative events के बाद duration का अनुमान
+
+7
+00:00:47,000 --> 00:00:54,000
+Tested situations में estimate अक्सर ज़्यादा था
+
+8
+00:00:54,000 --> 00:01:01,700
+हर व्यक्ति के लिए universal rule नहीं — prediction को fact न समझें
+
+9
+00:01:01,700 --> 00:01:01,760
+Source: Gilbert et al. 1998; Wilson & Gilbert 2005. AI visuals/narration.

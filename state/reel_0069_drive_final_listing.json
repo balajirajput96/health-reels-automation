@@ -1,0 +1,148 @@
+{
+  "files": [
+    {
+      "id": "1LAmXvrscUZz9eFFXariJPNC-975ooc7m",
+      "md5Checksum": "e84fcb71db3f30cfd3e0653a8261a00a",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T08:46:09.832Z",
+      "name": "reel_0069_drive_upload_manifest.json",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "7715",
+      "webViewLink": "https://drive.google.com/file/d/1LAmXvrscUZz9eFFXariJPNC-975ooc7m/view?usp=drivesdk"
+    },
+    {
+      "id": "1jewxB_Q79AMeuUoizUb8XDHFLn4q8ZM_",
+      "md5Checksum": "fc2a6858ea4c65927565c40d6ebebca5",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T08:45:22.269Z",
+      "name": "reel_0069_metadata.json",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "3823",
+      "webViewLink": "https://drive.google.com/file/d/1jewxB_Q79AMeuUoizUb8XDHFLn4q8ZM_/view?usp=drivesdk"
+    },
+    {
+      "id": "1jGKJvi8asmKUARvddfK1gxw0xPY6eDRj",
+      "md5Checksum": "9027b5e9768d5863b884131109f2c4de",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T08:43:51.779Z",
+      "name": "reel_0069_scene_04.png",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "64075",
+      "webViewLink": "https://drive.google.com/file/d/1jGKJvi8asmKUARvddfK1gxw0xPY6eDRj/view?usp=drivesdk"
+    },
+    {
+      "id": "1_DzKEYaYWctNB-1vFW3c3nITwFkqLZ6-",
+      "md5Checksum": "cf3ee2b19e7a6bcd282624ba83a73cef",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T08:43:48.319Z",
+      "name": "reel_0069_scene_03.png",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "62643",
+      "webViewLink": "https://drive.google.com/file/d/1_DzKEYaYWctNB-1vFW3c3nITwFkqLZ6-/view?usp=drivesdk"
+    },
+    {
+      "id": "1591uaZoAhliZVw6j6pilXEwMdWh9EwNS",
+      "md5Checksum": "dccac55728916d9ad98e0528bd7db953",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T08:43:44.220Z",
+      "name": "reel_0069_scene_02.png",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "44013",
+      "webViewLink": "https://drive.google.com/file/d/1591uaZoAhliZVw6j6pilXEwMdWh9EwNS/view?usp=drivesdk"
+    },
+    {
+      "id": "1fYqWoq8EnaPMg9vs6cKoE0FoXSCD0nWU",
+      "md5Checksum": "71e73cfa2330184f1399e0d0fd4e10f6",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T08:43:40.224Z",
+      "name": "reel_0069_scene_01.png",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "47752",
+      "webViewLink": "https://drive.google.com/file/d/1fYqWoq8EnaPMg9vs6cKoE0FoXSCD0nWU/view?usp=drivesdk"
+    },
+    {
+      "id": "1ITqJBaKfcP3TXj11T9aReL3CIxUwvwRO",
+      "md5Checksum": "c32a5b8f26cafe0acdbea16d7515ad56",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T08:43:37.252Z",
+      "name": "reel_0069_empathy_what_studies_measure_script.md",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "5247",
+      "webViewLink": "https://drive.google.com/file/d/1ITqJBaKfcP3TXj11T9aReL3CIxUwvwRO/view?usp=drivesdk"
+    },
+    {
+      "id": "1VATCzqxwn2mDFG2B5w_OUF6Mhvk1RjtY",
+      "md5Checksum": "b0caeb000ab7f2d5e1c857b281194634",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T08:43:33.141Z",
+      "name": "reel_0069_empathy_what_studies_measure_sources.md",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "4789",
+      "webViewLink": "https://drive.google.com/file/d/1VATCzqxwn2mDFG2B5w_OUF6Mhvk1RjtY/view?usp=drivesdk"
+    },
+    {
+      "id": "1VnknLIF1fe7dsgLufp3fJEuNzBx0OW8w",
+      "md5Checksum": "8f7d0617248e4d2f6bacdfd8ee5824d8",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T08:43:30.286Z",
+      "name": "reel_0069_qc_report.json",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "540",
+      "webViewLink": "https://drive.google.com/file/d/1VnknLIF1fe7dsgLufp3fJEuNzBx0OW8w/view?usp=drivesdk"
+    },
+    {
+      "id": "1cp3H_duD9ocX1sYDZ4IHjYSSU4Zvtu7i",
+      "md5Checksum": "93e76b928cbb767a1a926750b2a328c1",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-26T08:43:24.829Z",
+      "name": "reel_0069_empathy_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "1749",
+      "webViewLink": "https://drive.google.com/file/d/1cp3H_duD9ocX1sYDZ4IHjYSSU4Zvtu7i/view?usp=drivesdk"
+    },
+    {
+      "id": "19FVHOCQyf8g91Y6Jov4t-yt3k6ksVjLC",
+      "md5Checksum": "a3fe31889edad5e38e2945e1c9438c98",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-26T08:43:22.107Z",
+      "name": "reel_0069_empathy_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "2976044",
+      "webViewLink": "https://drive.google.com/file/d/19FVHOCQyf8g91Y6Jov4t-yt3k6ksVjLC/view?usp=drivesdk"
+    },
+    {
+      "id": "1I9x9jDKDgyY7DqOY1mBXTO-ZijWpqSk1",
+      "md5Checksum": "e7958de263c59abeb4115efe975f9361",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-26T08:43:19.171Z",
+      "name": "reel_0069_empathy_what_studies_measure_hi.mp4",
+      "parents": [
+        "1s2_gR0ynWVs6FllaI1rWLl9EUv813CIV"
+      ],
+      "size": "1928786",
+      "webViewLink": "https://drive.google.com/file/d/1I9x9jDKDgyY7DqOY1mBXTO-ZijWpqSk1/view?usp=drivesdk"
+    }
+  ]
+}

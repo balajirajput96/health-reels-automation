@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,200
+Positive result देखकर case-specific story दिखती है।
+
+2
+00:00:03,300 --> 00:00:06,500
+लेकिन prior probability, यानी base rate भी जरूरी है।
+
+3
+00:00:06,600 --> 00:00:09,800
+Studies इसे कैसे मापती हैं?
+
+4
+00:00:09,900 --> 00:00:13,100
+Base-rate problem में तीन rates दी जा सकती हैं।
+
+5
+00:00:13,200 --> 00:00:16,400
+Base rate, hit rate और false-alarm rate।
+
+6
+00:00:16,500 --> 00:00:19,700
+फिर posterior probability पूछी जाती है।
+
+7
+00:00:19,800 --> 00:00:23,000
+Prior को कम weight देना एक measured pattern है।
+
+8
+00:00:23,100 --> 00:00:26,300
+यह intelligence या personality का diagnosis नहीं।
+
+9
+00:00:26,400 --> 00:00:29,600
+एक study में base rates intuitive processing में accessible थीं।
+
+10
+00:00:29,700 --> 00:00:32,900
+Real-world experts की sequential choices भी देखी गईं।
+
+11
+00:00:33,000 --> 00:00:36,200
+1,300 से ज्यादा beach-volleyball matches में।
+
+12
+00:00:36,300 --> 00:00:39,500
+Choices past performance base rates के प्रति sensitive थीं।
+
+13
+00:00:39,600 --> 00:00:42,800
+Lab question और real-world expertise अलग रखें।
+
+14
+00:00:42,900 --> 00:00:46,100
+Broader experiments में formats और cue values बदले गए।
+
+15
+00:00:46,200 --> 00:00:49,400
+Individual differences भी दिखे।
+
+16
+00:00:49,500 --> 00:00:52,700
+Percentages और natural frequencies performance बदल सकते हैं।
+
+17
+00:00:52,800 --> 00:00:56,000
+लेकिन कोई universal cure साबित नहीं।
+
+18
+00:00:56,100 --> 00:00:59,300
+Cue कितना diagnostic था?
+
+19
+00:00:59,400 --> 00:01:02,600
+Task single था या sequential? Outcome accuracy था?
+
+20
+00:01:02,700 --> 00:01:06,000
+Confidence, response time या real-world choice?
+
+21
+00:01:06,100 --> 00:01:10,000
+Base-rate neglect model-relative pattern है, personal label नहीं। यह education है—medical, financial या individualized advice नहीं।

@@ -1,0 +1,82 @@
+{
+  "folder_id": "10wxO1NH1rw0Ji2CnfjvOw6P1lmQ2wrAQ",
+  "manifest_id": "10qZNptdMvObhBzL5ZiowsMUTGamJEaCd",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "expected_objects": [
+    {
+      "name": "reel_0020_brain_energy_what_studies_measure_captions_hi.srt",
+      "id": "1TAP_FpftsaEONg_vNtcJn4ZSiiz0bgLU",
+      "size": 1524,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0020_brain_energy_what_studies_measure_hi.mp4",
+      "id": "1s1O7yWd058z93MOybQAS7vQsnTj_m6kj",
+      "size": 3660169,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0020_brain_energy_what_studies_measure_narration_hi.wav",
+      "id": "11gMpTYFgqfdzJb695VKLWb_b5laOJKny",
+      "size": 3250604,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0020_brain_energy_what_studies_measure_script.md",
+      "id": "11FC6yt4sRZSiq6AwGKBD-QSzGlrmHDOE",
+      "size": 6743,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0020_brain_energy_what_studies_measure_sources.md",
+      "id": "1_Q7Ri9EXxSTzC_HXjpViCsLybpnaUp6u",
+      "size": 6388,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0020_metadata.json",
+      "id": "1Ajsq1TEyo4-QkfEF4jiB48dZ4QJXjHsZ",
+      "size": 4352,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0020_qc_report.json",
+      "id": "1b8pw6_Y9x9Otx3_94GpwGT8LuUASuNIU",
+      "size": 547,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0020_scene_01.png",
+      "id": "1I8XEoKuaySEJH-4zQF3UG0lNF0CVSMsa",
+      "size": 117489,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0020_scene_02.png",
+      "id": "1KyDKwnYhg2vlOEZr_4keb4R3gE5TNVPU",
+      "size": 121106,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0020_scene_03.png",
+      "id": "1f6378YPFxO9VXYsPpABhrZYq3KlLh4YI",
+      "size": 130868,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0020_scene_04.png",
+      "id": "1dnnNzJB1DYRgC4gxhmAxT_V7M4Oqp6SI",
+      "size": 118550,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}

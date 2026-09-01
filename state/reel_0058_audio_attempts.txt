@@ -1,0 +1,2 @@
+attempt1 duration=94.12s path=assets/reel_0058_episodic_memory_what_studies_measure_narration_attempt1_94.12s.wav
+accepted canonical duration=70.44s path=assets/reel_0058_episodic_memory_what_studies_measure_narration_hi.wav

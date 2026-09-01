@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0060_false_memory_what_studies_measure",
+  "queue_id":"0060",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0060",
+  "title_hi":"झूठी स्मृति: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"false memory, false recall, false recognition, source monitoring, misinformation, DRM, imagination inflation, confidence, and neural correlates",
+  "unique_angle":"False-memory studies use different paradigms and outcomes—recall/recognition errors, source confusion, misinformation acceptance, confidence, and neural correlates—that should not be collapsed into one universal trait or used to judge honesty.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed multi-paradigm false-memory measurement study, DRM semantic/episodic study, cognitive-neural review, and three-paradigm susceptibility study",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. False-memory task outcomes and confidence/neural/model-derived measures are not proof of lying, trauma, deception, diagnosis, treatment need, or individualized credibility.",
+  "source_ids":[
+    {"source_id":"doi:10.5709/acp-0276-0","citation":"Falzarano and Siedlecki (2019), Investigating the Relations Among Different Measures of False Memory, Advances in Cognitive Psychology, 15(4), 290–300","url":"https://doi.org/10.5709/acp-0276-0","type":"peer_reviewed_multi_paradigm_measurement_study"},
+    {"source_id":"doi:10.1038/s41598-023-50687-z","citation":"Gatti, Rinaldi, Mazzoni, and Vecchi (2024), Semantic and episodic processes differently predict false memories in the DRM task, Scientific Reports, 14, 256","url":"https://doi.org/10.1038/s41598-023-50687-z","type":"peer_reviewed_drm_semantic_episodic_study"},
+    {"source_id":"doi:10.3934/Neuroscience.2023020","citation":"Lentoor (2023), Cognitive and neural mechanisms underlying false memories: misinformation, distortion or erroneous configuration?, AIMS Neuroscience, 10(3), 255–268","url":"https://doi.org/10.3934/Neuroscience.2023020","type":"peer_reviewed_cognitive_neural_review"},
+    {"source_id":"doi:10.1080/09658211.2019.1611862","citation":"Nichols and Loftus (2019), Who is susceptible in three false memory tasks?, Memory, 27(7), 962–984","url":"https://doi.org/10.1080/09658211.2019.1611862","type":"peer_reviewed_three_paradigm_susceptibility_study"}
+  ],
+  "assets":{
+    "video":"assets/reel_0060_false_memory_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0060_false_memory_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0060_false_memory_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0060_false_memory_what_studies_measure_script.md",
+    "sources":"research/reel_0060_false_memory_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0060_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0060_scene_01.png","assets/reel_0060_scene_02.png","assets/reel_0060_scene_03.png","assets/reel_0060_scene_04.png"],
+    "qc_report":"assets/reel_0060_qc_report.json",
+    "drive_manifest":"state/reel_0060_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes showing false recall versus intentional lying, misinformation/source monitoring, separate paradigms, and confidence/neural-proxy limits. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research measures and limitations, not truth detection or direct access to memory contents. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":71.92,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"18tyX03pqRlOqOcEB1xI3JxAiccc3L9Hg","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}

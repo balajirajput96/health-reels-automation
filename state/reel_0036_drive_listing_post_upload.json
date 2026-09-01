@@ -1,0 +1,136 @@
+{
+  "files": [
+    {
+      "id": "11m6k71lIg1WTKg_AL9mz9RbC9IlZcYTH",
+      "md5Checksum": "43e486998726d4d2c1ebf1d782a97f43",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T20:39:08.897Z",
+      "name": "reel_0036_scene_04.png",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "116382",
+      "webViewLink": "https://drive.google.com/file/d/11m6k71lIg1WTKg_AL9mz9RbC9IlZcYTH/view?usp=drivesdk"
+    },
+    {
+      "id": "11mo6ibAjX7YU4N5NbZk2OAw522-W40M4",
+      "md5Checksum": "79e896ae21ccf8ba0c7307ed61548109",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T20:39:05.545Z",
+      "name": "reel_0036_scene_03.png",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "121338",
+      "webViewLink": "https://drive.google.com/file/d/11mo6ibAjX7YU4N5NbZk2OAw522-W40M4/view?usp=drivesdk"
+    },
+    {
+      "id": "1rmhWZ5sdw-ZQ3SQc3_ypDYBu3IdWhlwH",
+      "md5Checksum": "5c0490659b22fa6113f8d7eacd740b11",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T20:39:02.358Z",
+      "name": "reel_0036_scene_02.png",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "114695",
+      "webViewLink": "https://drive.google.com/file/d/1rmhWZ5sdw-ZQ3SQc3_ypDYBu3IdWhlwH/view?usp=drivesdk"
+    },
+    {
+      "id": "1adLjD2EAbOMlee1ZlRZWJlOGQ1KdVlAc",
+      "md5Checksum": "305392c2f80fa359d0ed999ddd10b588",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-25T20:38:58.973Z",
+      "name": "reel_0036_scene_01.png",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "118845",
+      "webViewLink": "https://drive.google.com/file/d/1adLjD2EAbOMlee1ZlRZWJlOGQ1KdVlAc/view?usp=drivesdk"
+    },
+    {
+      "id": "1y3xfom_KqMIYYFyx6zvxSTXcz6bnndlx",
+      "md5Checksum": "23522ad1358fccd8afb51afdb9f520f3",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-25T20:38:56.440Z",
+      "name": "reel_0036_emotional_contagion_what_studies_measure_script.md",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "3526",
+      "webViewLink": "https://drive.google.com/file/d/1y3xfom_KqMIYYFyx6zvxSTXcz6bnndlx/view?usp=drivesdk"
+    },
+    {
+      "id": "1uOfsVEo6xVfyx-YIMyFds_z2F68Q1Qx7",
+      "md5Checksum": "10865705a6f344b788dc4f7c58efeae1",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-25T20:38:53.981Z",
+      "name": "reel_0036_emotional_contagion_what_studies_measure_sources.md",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "5380",
+      "webViewLink": "https://drive.google.com/file/d/1uOfsVEo6xVfyx-YIMyFds_z2F68Q1Qx7/view?usp=drivesdk"
+    },
+    {
+      "id": "13tWzD7l4MxpD5uZ_tg9bUWY-Lz25GsxP",
+      "md5Checksum": "0121b6395ef6354eb2f6e0d7511653df",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T20:38:51.481Z",
+      "name": "reel_0036_qc_report.json",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "552",
+      "webViewLink": "https://drive.google.com/file/d/13tWzD7l4MxpD5uZ_tg9bUWY-Lz25GsxP/view?usp=drivesdk"
+    },
+    {
+      "id": "1Jv_iDQNsGC_QjXGg44h3EBEPEv09gniJ",
+      "md5Checksum": "a4f4d2dc23f4533aa7246d36e6328edf",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-25T20:38:48.946Z",
+      "name": "reel_0036_metadata.json",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "3676",
+      "webViewLink": "https://drive.google.com/file/d/1Jv_iDQNsGC_QjXGg44h3EBEPEv09gniJ/view?usp=drivesdk"
+    },
+    {
+      "id": "1IpDn1iryjCjjqLNOceX9nPPOyFPt8gVo",
+      "md5Checksum": "2f47a99173a07e06bde10b5cc8a2955f",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-25T20:38:46.532Z",
+      "name": "reel_0036_emotional_contagion_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "2561",
+      "webViewLink": "https://drive.google.com/file/d/1IpDn1iryjCjjqLNOceX9nPPOyFPt8gVo/view?usp=drivesdk"
+    },
+    {
+      "id": "1Z2RrEAP9o34FNnSdRxVhjWlyz2yhHQSx",
+      "md5Checksum": "eba1fc8591a966da85a9168732902575",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-25T20:38:44.126Z",
+      "name": "reel_0036_emotional_contagion_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "3465644",
+      "webViewLink": "https://drive.google.com/file/d/1Z2RrEAP9o34FNnSdRxVhjWlyz2yhHQSx/view?usp=drivesdk"
+    },
+    {
+      "id": "1N997mQYxKuqIVxUnGGZUh68CokexKmQD",
+      "md5Checksum": "3e1213b4b3ae63ddb14ab7a75b06d525",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-25T20:38:41.303Z",
+      "name": "reel_0036_emotional_contagion_what_studies_measure_hi.mp4",
+      "parents": [
+        "1wBZUT_H3Elbp8k0iHoOqU_y_QwYUHPer"
+      ],
+      "size": "4219998",
+      "webViewLink": "https://drive.google.com/file/d/1N997mQYxKuqIVxUnGGZUh68CokexKmQD/view?usp=drivesdk"
+    }
+  ]
+}

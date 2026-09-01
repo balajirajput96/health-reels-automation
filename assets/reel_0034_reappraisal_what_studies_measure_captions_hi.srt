@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,900
+रीएप्रेज़ल emotions बदल देता है—पर किस measure पर?
+
+2
+00:00:04,000 --> 00:00:08,200
+Cognitive reappraisal यानी emotional situation की interpretation बदलने की कोशिश।
+
+3
+00:00:08,300 --> 00:00:12,200
+Studies इसे अलग-अलग तरीकों से मापती हैं।
+
+4
+00:00:12,300 --> 00:00:16,900
+Questionnaire पूछ सकता है: कोई व्यक्ति आम तौर पर reappraisal कितनी बार use करता है?
+
+5
+00:00:17,000 --> 00:00:20,700
+यह habitual tendency है, उसी moment का proof नहीं।
+
+6
+00:00:20,800 --> 00:00:25,100
+Laboratory experiment में participants को किसी stimulus के दौरान reappraise करने को कहा जा सकता है।
+
+7
+00:00:25,200 --> 00:00:28,700
+जैसे कोई sad film clip।
+
+8
+00:00:28,800 --> 00:00:33,700
+फिर researchers देखते हैं: व्यक्ति ने negative या positive emotion कितना report किया।
+
+9
+00:00:33,800 --> 00:00:37,600
+Skin conductance जैसी physiology में क्या बदला?
+
+10
+00:00:37,700 --> 00:00:41,200
+Task performance कैसी रही?
+
+11
+00:00:41,300 --> 00:00:44,700
+और strategy कितनी difficult लगी?
+
+12
+00:00:44,800 --> 00:00:49,000
+इन measures का result एक जैसा होना जरूरी नहीं।
+
+13
+00:00:49,100 --> 00:00:53,600
+Self-reported emotion बदल सकता है, जबकि physiological change छोटा या mixed हो सकता है।
+
+14
+00:00:53,700 --> 00:00:58,300
+Meta-analysis बताती है कि असर emotion, timing, task, purpose और study design पर निर्भर कर सकता है।
+
+15
+00:00:58,400 --> 00:01:02,700
+इसलिए “reappraisal हमेशा काम करता है” कहना evidence से आगे जाना है।
+
+16
+00:01:02,800 --> 00:01:06,300
+एक questionnaire score आपकी emotion regulation पूरी तरह नहीं बता देता।
+
+17
+00:01:06,400 --> 00:01:08,700
+Study पढ़ते समय पूछिए: instruction क्या था?
+
+18
+00:01:08,800 --> 00:01:10,700
+Outcome क्या था, और sample कौन था?
+
+19
+00:01:10,800 --> 00:01:12,200
+Measure को context से अलग मत कीजिए।
+
+20
+00:01:12,300 --> 00:01:14,300
+यह education है—diagnosis या personal treatment advice नहीं।

@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,800
+क्या “uncertainty” वाली हर study मन की अनिश्चितता मापती है?
+
+2
+00:00:03,800 --> 00:00:06,300
+नहीं। पहले construct को स्पष्ट करें।
+
+3
+00:00:06,300 --> 00:00:10,100
+Probability, ambiguity, unpredictability?
+
+4
+00:00:10,100 --> 00:00:13,800
+या “मैं sure नहीं हूँ” का अनुभव?
+
+5
+00:00:13,800 --> 00:00:18,000
+Systematic review में definitions context के अनुसार बदलीं।
+
+6
+00:00:18,000 --> 00:00:21,800
+Self-report सबसे आम measure था।
+
+7
+00:00:21,800 --> 00:00:25,400
+यह उस task का reported experience है।
+
+8
+00:00:25,400 --> 00:00:28,900
+स्थायी personality label या mind-reading नहीं।
+
+9
+00:00:28,900 --> 00:00:32,700
+कुछ studies information या stimulus clarity बदलती हैं।
+
+10
+00:00:32,700 --> 00:00:36,800
+फिर accuracy, response time और decision criterion मापती हैं।
+
+11
+00:00:36,800 --> 00:00:40,500
+d-prime और confidence भी अलग संकेत हैं।
+
+12
+00:00:40,500 --> 00:00:44,100
+Task performance, subjective feeling के समान नहीं।
+
+13
+00:00:44,100 --> 00:00:47,500
+Heart rate और pupil diameter physiological responses हैं।
+
+14
+00:00:47,500 --> 00:00:50,800
+Alpha-amylase और cortisol biochemical responses हैं।
+
+15
+00:00:50,800 --> 00:00:54,000
+अकेले ये direct uncertainty meter नहीं।
+
+16
+00:00:54,000 --> 00:00:57,500
+Model probability भी assumptions के भीतर का estimate है।
+
+17
+00:00:57,500 --> 00:01:00,400
+मन का literal scan नहीं।
+
+18
+00:01:00,400 --> 00:01:03,400
+Uncertainty कैसे induce हुई?
+
+19
+00:01:03,400 --> 00:01:07,000
+कौन सा measure लिया गया?
+
+20
+00:01:07,000 --> 00:01:09,500
+Conclusion उसी सीमा में है या नहीं?
+
+21
+00:01:09,500 --> 00:01:12,500
+यह diagnosis नहीं है और personal, medical, या financial advice नहीं है। AI narration और conceptual visuals उपयोग हुए हैं।

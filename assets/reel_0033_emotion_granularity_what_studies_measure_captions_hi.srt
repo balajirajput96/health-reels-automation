@@ -1,0 +1,98 @@
+1
+00:00:00,000 --> 00:00:03,700
+Emotional granularity का मतलब है
+emotions में बारीक फर्क करना।
+
+2
+00:00:03,700 --> 00:00:07,300
+यह फर्क context-specific
+भी हो सकता है।
+
+3
+00:00:07,300 --> 00:00:10,900
+Research में इसे
+single quiz से नहीं मापा जाता।
+
+4
+00:00:10,900 --> 00:00:14,700
+कई studies experience sampling
+का इस्तेमाल करती हैं।
+
+5
+00:00:14,700 --> 00:00:18,400
+कई दिनों तक, अलग moments में,
+emotions की intensity rate होती है।
+
+6
+00:00:18,400 --> 00:00:21,900
+Participant उस समय का
+context भी लिख सकता है।
+
+7
+00:00:21,900 --> 00:00:25,700
+फिर researchers देखते हैं:
+ratings अलग situations में कैसे बदलती हैं?
+
+8
+00:00:25,700 --> 00:00:29,400
+Anger, sadness या खुशी के
+patterns से index निकाला जा सकता है।
+
+9
+00:00:29,400 --> 00:00:33,100
+कुछ studies standardized vignettes
+और imagined reactions देती हैं।
+
+10
+00:00:33,100 --> 00:00:36,900
+यह real-life experience से
+अलग measure है।
+
+11
+00:00:36,900 --> 00:00:40,500
+कुछ protocols ECG, skin conductance
+या physiological signals record करते हैं।
+
+12
+00:00:40,500 --> 00:00:44,200
+ये bodily correlates हैं,
+emotion का unique label नहीं।
+
+13
+00:00:44,200 --> 00:00:48,000
+Specific words का इस्तेमाल करना
+और differentiated experience report करना
+
+14
+00:00:48,000 --> 00:00:51,500
+एक ही बात नहीं है।
+
+15
+00:00:51,500 --> 00:00:55,200
+Prompt की संख्या और
+missing responses score को प्रभावित कर सकते हैं।
+
+16
+00:00:55,200 --> 00:00:58,900
+Language, culture और sampled situations
+भी मायने रखते हैं।
+
+17
+00:00:58,900 --> 00:01:02,700
+Study पढ़ते समय पूछिए:
+ratings कितनी बार ली गईं?
+
+18
+00:01:02,700 --> 00:01:06,400
+Index कैसे निकला,
+और sample कौन था?
+
+19
+00:01:06,400 --> 00:01:10,100
+Granularity score diagnosis,
+character judgment या mind-reading नहीं।
+
+20
+00:01:10,100 --> 00:01:14,600
+यह education है,
+personal, medical या financial advice नहीं।

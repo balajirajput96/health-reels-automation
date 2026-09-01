@@ -1,0 +1,2 @@
+attempt1	75.88	failed_duration	assets/reel_0070_dehumanization_what_studies_measure_narration_hi_attempt1_attempt1_75.88s.wav
+attempt2	68.84	accepted_canonical	assets/reel_0070_dehumanization_what_studies_measure_narration_hi_attempt2.wav

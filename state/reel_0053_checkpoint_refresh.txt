@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "mission": "3000 unique Hindi research reels",
+  "total_reels": 3000,
+  "total_batches": 100,
+  "reels_per_batch": 30,
+  "generated_at": "2026-08-22T05:41:17.571278Z",
+  "updated_at": "2026-08-26T04:46:31.723859Z",
+  "production_counts": {
+    "final": 53,
+    "planned": 2947
+  },
+  "completed_drive_verified": 53,
+  "next_reel": "reel_0054_base_rate_reasoning_what_studies_measure",
+  "next_sequence": 54,
+  "last_completed": "reel_0053_framing_effect_what_studies_measure",
+  "failure_log": [],
+  "rules": {
+    "one_complete_reel_at_a_time": true,
+    "no_silent_skips": true,
+    "research_before_script": true,
+    "source_reuse_requires_new_angle": true,
+    "publication_requires_separate_verification": true,
+    "ai_disclosure_required": true
+  }
+}

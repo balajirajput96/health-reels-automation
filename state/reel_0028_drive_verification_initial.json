@@ -1,0 +1,82 @@
+{
+  "folder_id": "1Y77XvSUO9ECXoh-4s2piG_BY7NnPnSuV",
+  "manifest_id": "1zppP23kf-YN_IukbIx_AQdW3Hf3eX1SJ",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "expected_objects": [
+    {
+      "name": "reel_0028_metadata.json",
+      "id": "17X7JIFVxqDvlNGo_SiJQ1Zc9HhmNQdAm",
+      "size": 3571,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0028_qc_report.json",
+      "id": "1aI_UhNDhMIls1EpphgFO5ewVRyZHCFn3",
+      "size": 545,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0028_scene_01.png",
+      "id": "1Rd0BFCaBRWhw3NkOpIv90u1eSEaDalD4",
+      "size": 127150,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0028_scene_02.png",
+      "id": "1TdZrduJrTVl761lzTgwyY7ZLyTm5Bnrc",
+      "size": 135499,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0028_scene_03.png",
+      "id": "1ModSpYuPewLMIIKZeyWllflELpWNVU6S",
+      "size": 128774,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0028_scene_04.png",
+      "id": "1yJCsINLBQeD-YkCgxiwmcdy5kc-DbNdJ",
+      "size": 128185,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0028_social_norms_what_studies_measure_captions_hi.srt",
+      "id": "1eUdcCa9VebqRN-Q6T-t1Bi83V7qorYvm",
+      "size": 2135,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0028_social_norms_what_studies_measure_hi.mp4",
+      "id": "1n4e1t3TejZp7kJjxFc3gSg1goo9_Zcoy",
+      "size": 3376375,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0028_social_norms_what_studies_measure_narration_hi.wav",
+      "id": "1pQ6Uoqi3oQJyLYgMyy_RMjh3sRnora91",
+      "size": 3383084,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0028_social_norms_what_studies_measure_script.md",
+      "id": "1JmmXVbHKK2zE_0u_oJD7SKqaSjocnGhq",
+      "size": 4012,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0028_social_norms_what_studies_measure_sources.md",
+      "id": "1_UgG95ZKFHAW2NkvzgzfKbUrOcR4gdZs",
+      "size": 4922,
+      "mimeType": "text/markdown"
+    }
+  ],
+  "valid": true
+}

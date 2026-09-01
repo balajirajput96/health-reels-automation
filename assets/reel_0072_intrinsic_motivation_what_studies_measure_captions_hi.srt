@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,400
+Intrinsically motivated—study ने क्या मापा?
+
+2
+00:00:04,400 --> 00:00:08,800
+Interest और enjoyment, सिर्फ reward नहीं।
+
+3
+00:00:08,800 --> 00:00:13,200
+Questionnaire task का interest और engagement पूछ सकता है।
+
+4
+00:00:13,200 --> 00:00:17,600
+यह उस activity का self-report है।
+
+5
+00:00:17,600 --> 00:00:22,000
+Free-choice period में task पर लौटने का समय भी देखा जाता है।
+
+6
+00:00:22,000 --> 00:00:26,400
+यह persistence का behavioral indicator है।
+
+7
+00:00:26,400 --> 00:00:30,800
+Opportunity और task design भी असर डालते हैं।
+
+8
+00:00:30,800 --> 00:00:35,200
+Choice, competence, effort और value related dimensions हैं।
+
+9
+00:00:35,200 --> 00:00:39,600
+Related dimension, exact synonym नहीं।
+
+10
+00:00:39,600 --> 00:00:44,000
+Reward या feedback से interest और persistence बदल सकते हैं।
+
+11
+00:00:44,000 --> 00:00:48,400
+Performance skill और difficulty से भी प्रभावित होती है।
+
+12
+00:00:48,400 --> 00:00:52,800
+Neural signal correlate है, private motive का readout नहीं।
+
+13
+00:00:52,800 --> 00:00:57,200
+अलग methods एक ही चीज नहीं मापते।
+
+14
+00:00:57,200 --> 00:01:02,000
+एक score से universal motivation trait तय नहीं होता।
+
+15
+00:01:02,000 --> 00:01:06,120
+AI-generated educational visuals; diagnosis या personal assessment नहीं।

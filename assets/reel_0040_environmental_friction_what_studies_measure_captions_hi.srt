@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:03,400
+क्या environment बदलने से behavior अपने-आप बदलता है?
+
+2
+00:00:03,500 --> 00:00:06,500
+Research में जवाब measurement पर निर्भर है।
+
+3
+00:00:06,600 --> 00:00:10,000
+Environmental friction कोई single brain signal नहीं।
+
+4
+00:00:10,100 --> 00:00:14,000
+इसे steps, समय और physical effort बदलकर study किया जा सकता है।
+
+5
+00:00:14,100 --> 00:00:17,800
+Choice arrangement, default और reminder भी बदले जा सकते हैं।
+
+6
+00:00:17,900 --> 00:00:21,500
+Routine की जगह और समय भी context का हिस्सा हो सकते हैं।
+
+7
+00:00:21,600 --> 00:00:24,500
+फिर researchers outcome मापते हैं।
+
+8
+00:00:24,600 --> 00:00:28,000
+Choice, task completion, repetitions या response time।
+
+9
+00:00:28,100 --> 00:00:31,600
+कभी participant का automaticity score भी लिया जाता है।
+
+10
+00:00:31,700 --> 00:00:34,700
+ये measures एक जैसे नहीं हैं।
+
+11
+00:00:34,800 --> 00:00:39,200
+एक छह-सप्ताह के habit study में जगह और समय stable रखा गया।
+
+12
+00:00:39,300 --> 00:00:42,800
+दूसरे group ने context बदला।
+
+13
+00:00:42,900 --> 00:00:47,200
+Context stability automaticity और goal-attainment से जुड़ी थी।
+
+14
+00:00:47,300 --> 00:00:50,700
+यह association है, guarantee नहीं।
+
+15
+00:00:50,800 --> 00:00:54,600
+Meta-analysis में average effect small-to-medium था।
+
+16
+00:00:54,700 --> 00:00:59,000
+लेकिन results अलग थे और publication bias की संभावना भी थी।
+
+17
+00:00:59,100 --> 00:01:04,000
+Friction कम करना मदद कर सकता है, पर हमेशा नहीं।
+
+18
+00:01:04,100 --> 00:01:08,500
+पूछिए: behavior कैसे मापा गया? यही evidence-bounded thinking है।
+
+19
+00:01:08,600 --> 00:01:08,950
+यह education है, diagnosis या treatment नहीं।

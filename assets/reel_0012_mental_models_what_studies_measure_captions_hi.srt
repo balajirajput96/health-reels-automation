@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:04,800
+क्या research mental model सीधे देख सकती है?
+
+2
+00:00:04,800 --> 00:00:09,000
+अक्सर उसके असर और जवाबों से अनुमान लगाया जाता है।
+
+3
+00:00:09,000 --> 00:00:13,700
+Reasoning task में दो या तीन premises और एक conclusion दिया जाता है।
+
+4
+00:00:13,700 --> 00:00:17,400
+क्या conclusion logically follow करता है?
+
+5
+00:00:17,400 --> 00:00:21,700
+Accuracy और reaction time measure होते हैं।
+
+6
+00:00:21,700 --> 00:00:25,800
+Premises, relations या language बदलकर difficulty compare होती है।
+
+7
+00:00:25,800 --> 00:00:30,000
+दूसरे studies पूछती हैं: system आगे कैसे चलेगा?
+
+8
+00:00:30,000 --> 00:00:33,100
+Survey कुछ तय beliefs माप सकता है।
+
+9
+00:00:33,100 --> 00:00:36,300
+Interview explanations और expectations सामने ला सकता है।
+
+10
+00:00:36,300 --> 00:00:40,700
+Card sort या concept map में concepts को group करके relationships दिखाते हैं।
+
+11
+00:00:40,700 --> 00:00:44,300
+लेकिन कोई method पूरा mental model नहीं पकड़ता।
+
+12
+00:00:44,300 --> 00:00:48,300
+Task performance में memory, language और strategy का भी योगदान हो सकता है।
+
+13
+00:00:48,300 --> 00:00:52,900
+Interview में वही बात कही जाती है जिसे व्यक्ति शब्दों में बता पाए।
+
+14
+00:00:52,900 --> 00:00:57,000
+Model की accuracy context के साथ बदल सकती है।
+
+15
+00:00:57,000 --> 00:01:01,300
+सही सवाल है: कौन-सा task था और क्या observe हुआ?
+
+16
+00:01:01,300 --> 00:01:06,400
+उस observation से कितना inference justified है?
+
+17
+00:01:06,400 --> 00:01:10,100
+Mental model कोई universal score नहीं।
+
+18
+00:01:10,100 --> 00:01:12,800
+यह bounded explanation है; literal mind-reading नहीं।

@@ -1,0 +1,37 @@
+{
+  "reel_id":"reel_0073_goal_gradients_what_studies_measure",
+  "queue_id":"0073",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0073",
+  "title_hi":"Goal gradient: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"goal-gradient effects, reward proximity, perceived progress, observable effort, persistence, purchase and completion behavior, progress markers, and contextual moderators",
+  "unique_angle":"Goal-gradient studies measure protocol-specific behavior such as purchases, visits, persistence, completion, or walking speed; the pattern depends on reward design, progress-marker context, and moderators such as experienced power rather than revealing a universal private motivation state.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed field/laboratory reward studies, contextual moderator experiment, and progress-marker locomotion experiments",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Goal-gradient findings are goal-, reward-, population-, setting-, and protocol-bound; observed behavior or task-specific self-report is not diagnosis, moral ranking, direct mind reading, or proof that everyone accelerates near every goal.",
+  "source_ids":[
+    {"source_id":"doi:10.1509/jmkr.43.1.39","citation":"Kivetz, Urminsky, & Zheng (2006), The Goal-Gradient Hypothesis Resurrected: Purchase Acceleration, Illusionary Goal Progress, and Customer Retention","url":"https://doi.org/10.1509/jmkr.43.1.39","type":"peer_reviewed_field_and_laboratory_reward_studies"},
+    {"source_id":"doi:10.1016/j.jesp.2020.104003","citation":"Schmid (2020), Power reduces the goal gradient effect","url":"https://doi.org/10.1016/j.jesp.2020.104003","type":"peer_reviewed_contextual_moderator_experiment"},
+    {"source_id":"doi:10.1093/jcr/ucw031","citation":"Van den Bergh, Heuvinck, Schellekens, & Vermeir (2016), Altering Speed of Locomotion","url":"https://doi.org/10.1093/jcr/ucw031","type":"peer_reviewed_progress_marker_lab_and_field_experiments"}
+  ],
+  "assets":{
+    "video":"assets/reel_0073_goal_gradients_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0073_goal_gradients_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0073_goal_gradients_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0073_goal_gradients_what_studies_measure_script.md",
+    "sources":"research/reel_0073_goal_gradients_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0073_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0073_scene_01.png","assets/reel_0073_scene_02.png","assets/reel_0073_scene_03.png","assets/reel_0073_scene_04.png"],
+    "qc_report":"assets/reel_0073_qc_report.json",
+    "drive_manifest":"state/reel_0073_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes depict measured behavior signals, apparent bonus progress, context-sensitive progress markers, and a power moderator. No real person, private data, or direct mind-reading claim is depicted.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate measurement concepts and limits, not a complete psychological assessment. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":69.56,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1lvQr67p0kbRKOpiwNU9eWQKi48q3D-f3","drive_verification_note":"Final exact-package verification passed: 11 expected objects, one nonzero correctly parented manifest, zero missing/zero-size/wrong-parent/duplicate/unrelated objects; manifest finalized in place."}
+}

@@ -1,0 +1,42 @@
+{
+  "reel_id": "reel_0048_spacing_effect_what_studies_measure",
+  "queue_id": "0048",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0048",
+  "title_hi": "स्पेसिंग इफ़ेक्ट: studies क्या मापते हैं?",
+  "topic": "spacing effect measurement",
+  "unique_angle": "Spacing studies separate interstudy gap, immediate learning, delayed retention, actual adherence, and transfer; a conditional optimal gap is not a universal personal timetable.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_class": "peer-reviewed long-timescale review, original retention research, and spacing-retrieval meta-analysis",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No individualized study schedule, grade guarantee, diagnosis of intelligence or ability, universal retention promise, or guaranteed transfer claim.",
+  "source_ids": [
+    {"source_id":"doi:10.3389/fpsyg.2017.00962","citation":"Smith and Scarf (2017), Spacing Repetitions Over Long Timescales: A Review and a Reconsolidation Explanation","url":"https://doi.org/10.3389/fpsyg.2017.00962","type":"peer_reviewed_review_hypothesis_theory"},
+    {"source_id":"doi:10.1111/j.1467-9280.2008.02209.x","citation":"Cepeda et al. (2008), Spacing Effects in Learning: A Temporal Ridgeline of Optimal Retention","url":"https://doi.org/10.1111/j.1467-9280.2008.02209.x","type":"peer_reviewed_original_retention_research"},
+    {"source_id":"doi:10.1007/s10648-020-09572-8","citation":"Latimier, Peyre, and Ramus (2021), A Meta-Analytic Review of the Benefit of Spacing Out Retrieval Practice Episodes on Retention","url":"https://doi.org/10.1007/s10648-020-09572-8","type":"peer_reviewed_meta_analysis"}
+  ],
+  "assets": {
+    "video":"assets/reel_0048_spacing_effect_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0048_spacing_effect_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0048_spacing_effect_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0048_spacing_effect_what_studies_measure_script.md",
+    "sources":"research/reel_0048_spacing_effect_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0048_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":[
+      "assets/reel_0048_scene_01.png",
+      "assets/reel_0048_scene_02.png",
+      "assets/reel_0048_scene_03.png",
+      "assets/reel_0048_scene_04.png"
+    ],
+    "qc_report":"assets/reel_0048_qc_report.json",
+    "drive_manifest":"state/reel_0048_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes showing massed versus spaced repetitions, immediate versus delayed tests, a conditional interval curve, and a measurement checklist. No student likenesses or private records.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate spacing-effect study measures, not intelligence, diagnosis, individualized schedules, guaranteed grades, or guaranteed transfer. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":70.52,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1J-YnpJrfM2-dicVH1IWYSFM2gWq7WLaa","drive_verification_note":"Local QC passed; exact 11-object package, metadata, manifest, and final independent Drive verification passed. No social publication attempted."}
+}

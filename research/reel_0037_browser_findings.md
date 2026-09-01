@@ -1,0 +1,9 @@
+
+
+## Source-level retrieval findings
+
+Wieber, Thürmer, and Gollwitzer (2015), *Frontiers in Human Neuroscience*, DOI 10.3389/fnhum.2015.00395, was extracted from the PMC full text. The review states that strong intentions do not guarantee subsequent action and describes implementation intentions as advance if-then plans specifying when, where, and how to act. It surveys behavioral measures of cue accessibility, response initiation, goal attainment, and prospective memory, plus physiological measures such as heart rate, cortisol, eye movements, EEG, and fMRI. The key evidence boundary is that these measures examine different processes; a plan, a cognitive cue response, and observed goal behavior are not the same outcome.
+
+Gollwitzer and Sheeran (2006), *Advances in Experimental Social Psychology*, DOI 10.1016/S0065-2601(06)38002-1, was verified through the University of Konstanz repository record. The record reports 94 independent tests and a positive medium-to-large average effect on goal attainment (d=.65), with effects described for initiation, shielding ongoing goal pursuit, disengagement, and preserving capability. The reel will not present this pooled estimate as a guarantee for an individual or every behavior.
+
+Bieleke, Keller, and Gollwitzer (2021), *European Review of Social Psychology*, DOI 10.1080/10463283.2020.1808936, was extracted from the publisher full text. The review defines goal intentions as desired outcomes and implementation intentions as if-then plans linking a critical situation to a specified response. It discusses strategic automaticity, flexible versus tenacious goal striving, non-planned situations, moderators, and unanswered empirical questions. This supports framing implementation intentions as a research construct with conditional effects, not a magic habit button.

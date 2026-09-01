@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:04,000
+अगर कोई कहे, “मैं ऐसा ही इंसान हूँ,” तो क्या research ने habit समझ लिया?
+
+2
+00:00:04,100 --> 00:00:07,700
+पहले measurement देखिए।
+
+3
+00:00:07,800 --> 00:00:11,700
+Identity को studies अक्सर self-report से operationalize करती हैं।
+
+4
+00:00:11,800 --> 00:00:15,400
+Role, value, या अपने बारे में statement।
+
+5
+00:00:15,500 --> 00:00:19,400
+यह self-description है, hidden personality meter या brain scan नहीं।
+
+6
+00:00:19,500 --> 00:00:23,900
+Habit को अलग तरह से मापा जा सकता है।
+
+7
+00:00:24,000 --> 00:00:28,300
+Behavior कितनी बार हुआ, किस context में हुआ, या कितना automatic लगा।
+
+8
+00:00:28,400 --> 00:00:32,200
+समय के साथ habit-strength score भी बदला जा सकता है।
+
+9
+00:00:32,300 --> 00:00:35,900
+“मैं runner हूँ” और कितनी बार दौड़े, अलग variables हैं।
+
+10
+00:00:36,000 --> 00:00:40,000
+Habit और identity related हो सकते हैं।
+
+11
+00:00:40,100 --> 00:00:43,700
+लेकिन relation मिलना causal proof नहीं।
+
+12
+00:00:43,800 --> 00:00:48,500
+एक लगभग 90-दिन के longitudinal field study में adults track किए गए।
+
+13
+00:00:48,600 --> 00:00:52,700
+Daily behavior, self-control और habit strength मापे गए।
+
+14
+00:00:52,800 --> 00:00:57,300
+तीन महीनों में habit formation बढ़ी, खासकर consistent behavior के साथ।
+
+15
+00:00:57,400 --> 00:01:01,100
+लेकिन expected self-control effect साफ़ नहीं मिला।
+
+16
+00:01:01,200 --> 00:01:05,100
+Universal timeline या guaranteed identity effect साबित नहीं हुआ।
+
+17
+00:01:05,200 --> 00:01:09,900
+पूछिए—identity कैसे पूछी गई और behavior कैसे record हुआ?
+
+18
+00:01:10,000 --> 00:01:13,300
+automaticity किस scale से मापी गई, और study कितने समय चली?
+
+19
+00:01:13,400 --> 00:01:13,900
+Label नहीं, method देखिए।
+
+20
+00:01:14,000 --> 00:01:14,200
+यह education है, diagnosis या treatment नहीं।

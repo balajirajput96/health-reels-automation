@@ -1,0 +1,5 @@
+attempt1 duration=95.92s path=assets/reel_0055_uncertainty_what_studies_measure_narration_attempt1_95.92s.wav
+attempt2 duration=90.44s path=assets/reel_0055_uncertainty_what_studies_measure_narration_attempt2_90.44s.wav
+attempt3 duration=78.32s path=assets/reel_0055_uncertainty_what_studies_measure_narration_attempt3_78.32s.wav
+accepted canonical duration=69.52s path=assets/reel_0055_uncertainty_what_studies_measure_narration_hi.wav
+accepted canonical duration=72.88s path=assets/reel_0055_uncertainty_what_studies_measure_narration_hi.wav

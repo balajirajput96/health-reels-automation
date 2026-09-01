@@ -1,0 +1,87 @@
+1
+00:00:00,000 --> 00:00:03,500
+Social norm का मतलब जो सब करते हैं?
+
+2
+00:00:03,500 --> 00:00:06,700
+Research में जवाब थोड़ा अलग है
+
+3
+00:00:06,700 --> 00:00:10,000
+Descriptive expectation: लोग क्या करते हैं?
+
+4
+00:00:10,000 --> 00:00:13,300
+आपको group के बारे में क्या लगता है?
+
+5
+00:00:13,300 --> 00:00:16,600
+Injunctive expectation: approval या disapproval?
+
+6
+00:00:16,600 --> 00:00:19,700
+ये दोनों beliefs हैं
+
+7
+00:00:19,700 --> 00:00:23,000
+Actual population behavior का पूरा measurement नहीं
+
+8
+00:00:23,000 --> 00:00:26,200
+Surveys reference group और approval पूछ सकती हैं
+
+9
+00:00:26,200 --> 00:00:29,400
+Field studies में real behavior observe होता है
+
+10
+00:00:29,400 --> 00:00:32,700
+Lab tasks में choices record होती हैं
+
+11
+00:00:32,700 --> 00:00:36,000
+Bargaining, coordination या conformity
+
+12
+00:00:36,000 --> 00:00:39,300
+कुछ studies computational models लगाती हैं
+
+13
+00:00:39,300 --> 00:00:42,600
+Expected outcome और violation estimate होते हैं
+
+14
+00:00:42,600 --> 00:00:45,900
+fMRI में task variables का relation देखा जाता है
+
+15
+00:00:45,900 --> 00:00:49,100
+Signal private belief को सीधे नहीं पढ़ता
+
+16
+00:00:49,100 --> 00:00:52,300
+Norm किस group का है?
+
+17
+00:00:52,300 --> 00:00:55,500
+Measure perception है या behavior?
+
+18
+00:00:55,500 --> 00:00:58,800
+Comparison और context क्या था?
+
+19
+00:00:58,800 --> 00:01:02,100
+एक answer से morality label नहीं बनता
+
+20
+00:01:02,100 --> 00:01:05,400
+Personality या conformity भी तय नहीं होती
+
+21
+00:01:05,400 --> 00:01:08,500
+Definition और method दोनों स्पष्ट होने चाहिए
+
+22
+00:01:08,500 --> 00:01:10,480
+यह education है, diagnosis या personal judgment नहीं

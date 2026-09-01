@@ -1,0 +1,83 @@
+{
+  "folder_id": "1UK6XyV8HTHXanZl9JkRzVI2mPYLkbdd-",
+  "manifest_id": "1bRjCpP7IxhCjDlk-gSMoNPg6qyfLU97C",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0061_memory_reconsolidation_what_studies_measure_captions_hi.srt",
+      "id": "1nTm31ryiZQvyhddFjsCV1RDb4IxRn_M3",
+      "size": 2227,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0061_memory_reconsolidation_what_studies_measure_hi.mp4",
+      "id": "1WHK1iE1hVZ7b6nBdQMB4Wi2P7RVEPoGY",
+      "size": 3480239,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0061_memory_reconsolidation_what_studies_measure_narration_hi.wav",
+      "id": "1BVpFQVGkV8HVgcKtXgUvpYYODXO826PK",
+      "size": 3433004,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0061_memory_reconsolidation_what_studies_measure_script.md",
+      "id": "1tKrw29F0fCJ9kmRQQmn2yMIwpUkbaFtP",
+      "size": 5500,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0061_memory_reconsolidation_what_studies_measure_sources.md",
+      "id": "15DVcBygo5e6pSm4yvSykwmGvFqPYkQne",
+      "size": 5131,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0061_metadata.json",
+      "id": "1UkpxGTtD8fnjTHnvlb6L1W9nkHGmrnrt",
+      "size": 4544,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0061_qc_report.json",
+      "id": "129OI_-V12kosFNN0TVDuhYLUk7ftiRN6",
+      "size": 557,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0061_scene_01.png",
+      "id": "16XGHq5tk4xxVHORz-JsBkTFqLdNAefPg",
+      "size": 68693,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0061_scene_02.png",
+      "id": "19UR8p_HmBQHb_ceQMMjUrbJlCveOER45",
+      "size": 68196,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0061_scene_03.png",
+      "id": "16lJY3FOtxV4MZB4Nh79smU5OG7wZXxq0",
+      "size": 65463,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0061_scene_04.png",
+      "id": "1hMJREIoyop8462R0iRj19VfHlD9Yp4SG",
+      "size": 73444,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}

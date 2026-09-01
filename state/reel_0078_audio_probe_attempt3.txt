@@ -1,0 +1,2 @@
+DURATION 73.60
+accepted canonical narration /home/ubuntu/repos/health-reels-automation/assets/reel_0078_acute_stress_what_studies_measure_audio_attempt3.wav

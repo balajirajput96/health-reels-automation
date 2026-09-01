@@ -1,0 +1,37 @@
+{
+  "reel_id":"reel_0064_mind_wandering_what_studies_measure",
+  "queue_id":"0064",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0064",
+  "title_hi":"माइंड-वांडरिंग: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"mind wandering, experience sampling, thought probes, task performance, questionnaires, fMRI, EEG, eye movements, and physiological correlates",
+  "unique_angle":"Mind-wandering research compares momentary self-report, task-related performance, questionnaires, and neural or physiological proxies; no single measure is a live recording of private thought or a universal attention trait.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed experience-sampling study, systematic measurement review, and fMRI experience-sampling study",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Mind-wandering probes, task errors, questionnaires, and neural or physiological signals are task-specific observables and are not diagnosis, treatment, direct thought reading, or individualized cognitive assessment.",
+  "source_ids":[
+    {"source_id":"doi:10.3758/s13428-024-02446-9","citation":"Zanesco, Van Dam, Denkova, and Jha (2024), Measuring mind wandering with experience sampling during task performance: An item response theory investigation, Behavior Research Methods","url":"https://doi.org/10.3758/s13428-024-02446-9","type":"peer_reviewed_experience_sampling_measurement"},
+    {"source_id":"doi:10.1002/brb3.70764","citation":"Nazari, Fitzgerald, and Kazemi (2025), The Relative Accuracy of Different Methods for Measuring Mind Wandering Subtypes: A Systematic Review, Brain and Behavior","url":"https://doi.org/10.1002/brb3.70764","type":"peer_reviewed_systematic_measurement_review"},
+    {"source_id":"doi:10.1073/pnas.0900234106","citation":"Christoff et al. (2009), Experience sampling during fMRI reveals default network and executive system contributions to mind wandering, Proceedings of the National Academy of Sciences","url":"https://doi.org/10.1073/pnas.0900234106","type":"peer_reviewed_fmri_experience_sampling"}
+  ],
+  "assets":{
+    "video":"assets/reel_0064_mind_wandering_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0064_mind_wandering_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0064_mind_wandering_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0064_mind_wandering_what_studies_measure_script.md",
+    "sources":"research/reel_0064_mind_wandering_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0064_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0064_scene_01.png","assets/reel_0064_scene_02.png","assets/reel_0064_scene_03.png","assets/reel_0064_scene_04.png"],
+    "qc_report":"assets/reel_0064_qc_report.json",
+    "drive_manifest":"state/reel_0064_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes showing an experience-sampling probe interrupting a task, response-format and sampling timeline, separated performance metrics, and multimethod neural/physiological proxy integration. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate measurement categories and limits, not direct thought reading. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":70.32,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1L66DgJkofvTOXGBOj10e_fbQptrLP4sB","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}

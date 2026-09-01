@@ -1,0 +1,4 @@
+branch=repair/maintenance-pr-permission-fallback
+commit=e7aa542b881f0788cb524a1bf424e02d01564015
+remote=e7aa542b881f0788cb524a1bf424e02d01564015
+remote_equal=yes

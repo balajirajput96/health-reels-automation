@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:03,700
+क्या mood बदलने से हमारी memory भी बदलती है?
+
+2
+00:00:03,800 --> 00:00:07,700
+Research का जवाब एक सीधा yes या no नहीं है।
+
+3
+00:00:07,800 --> 00:00:12,000
+Mood-congruent memory में मेल खाती emotional information कुछ tasks में अधिक accessible दिख सकती है।
+
+4
+00:00:12,100 --> 00:00:15,900
+लेकिन study पहले पूछती है: mood कब measure हुआ?
+
+5
+00:00:16,000 --> 00:00:19,500
+Encoding के समय, retrieval के समय, या delay के बाद?
+
+6
+00:00:19,600 --> 00:00:23,700
+Memory task भी फर्क डालता है।
+
+7
+00:00:23,800 --> 00:00:27,900
+Recognition में पूछा जाता है: क्या यह item पहले देखा था?
+
+8
+00:00:28,000 --> 00:00:31,600
+Free recall में बिना options के याद करना होता है।
+
+9
+00:00:31,700 --> 00:00:35,600
+Autobiographical recall personal events पर आधारित हो सकता है।
+
+10
+00:00:35,700 --> 00:00:40,000
+Mood-congruent lure को सही memory मान लेना false memory के रूप में दर्ज होता है।
+
+11
+00:00:40,100 --> 00:00:44,200
+Reviews और meta-analyses में patterns groups, mood intensity और self-reference के अनुसार बदलते हैं।
+
+12
+00:00:44,300 --> 00:00:48,400
+Natural-mood studies में category और association tasks भी इस्तेमाल हुए।
+
+13
+00:00:48,500 --> 00:00:52,100
+और task reliability भी महत्वपूर्ण रही।
+
+14
+00:00:52,200 --> 00:00:56,100
+इसलिए “sad mood में सिर्फ sad memories आती हैं” कहना evidence से आगे जाना है।
+
+15
+00:00:56,200 --> 00:01:00,000
+Study पढ़ते समय mood timing, task, delay और outcome पूछिए।
+
+16
+00:01:00,100 --> 00:01:03,300
+Recall और recognition को एक ही चीज़ मत समझिए।
+
+17
+00:01:03,400 --> 00:01:06,000
+एक pattern को universal memory law मत बनाइए।
+
+18
+00:01:06,100 --> 00:01:08,700
+यह education है—diagnosis या personal treatment advice नहीं।

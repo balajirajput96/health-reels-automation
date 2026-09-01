@@ -1,0 +1,18 @@
+usage: register_queue_item.py [-h] --sequence SEQUENCE --stage
+                              {research_verified,script_ready,audio_ready,visuals_ready,assembled,qc_passed,uploaded,final}
+                              --evidence-class EVIDENCE_CLASS --research-stage
+                              {pending,verified} --safety-status SAFETY_STATUS
+                              [--source-id SOURCE_IDS] [--checksum CHECKSUMS]
+                              [--duration DURATION] --note NOTE
+
+options:
+  -h, --help            show this help message and exit
+  --sequence SEQUENCE
+  --stage {research_verified,script_ready,audio_ready,visuals_ready,assembled,qc_passed,uploaded,final}
+  --evidence-class EVIDENCE_CLASS
+  --research-stage {pending,verified}
+  --safety-status SAFETY_STATUS
+  --source-id SOURCE_IDS
+  --checksum CHECKSUMS  filename=sha256
+  --duration DURATION   Measured final media duration in seconds
+  --note NOTE

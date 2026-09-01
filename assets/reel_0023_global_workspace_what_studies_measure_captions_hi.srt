@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,600
+क्या brain में global workspace switch है?
+
+2
+00:00:03,600 --> 00:00:06,800
+Research आसान answer नहीं देती
+
+3
+00:00:06,800 --> 00:00:10,200
+यह एक testable hypothesis है
+
+4
+00:00:10,200 --> 00:00:13,800
+Local systems information process करते हैं
+
+5
+00:00:13,800 --> 00:00:17,400
+Information कई processors तक available हो सकती है
+
+6
+00:00:17,400 --> 00:00:20,700
+इसे broadcasting या ignition कहा जाता है
+
+7
+00:00:20,700 --> 00:00:24,100
+Studies पहले observable तय करती हैं
+
+8
+00:00:24,100 --> 00:00:27,400
+Participant report और accuracy
+
+9
+00:00:27,400 --> 00:00:30,600
+d-prime, reaction time और working memory
+
+10
+00:00:30,600 --> 00:00:34,000
+फिर EEG, MEG, fMRI या intracranial recordings
+
+11
+00:00:34,000 --> 00:00:37,400
+Late activity और distributed signals
+
+12
+00:00:37,400 --> 00:00:40,600
+Long-range synchrony भी देखी जाती है
+
+13
+00:00:40,600 --> 00:00:44,000
+P3 को हर बार cause नहीं कह सकते
+
+14
+00:00:44,000 --> 00:00:47,400
+Report, attention और task relevance signals बदलते हैं
+
+15
+00:00:47,400 --> 00:00:50,800
+Masking और no-report tests उपयोगी हैं
+
+16
+00:00:50,800 --> 00:00:54,100
+Preregistration और multimodal tests जरूरी हैं
+
+17
+00:00:54,100 --> 00:00:57,500
+Report, performance, signal या connectivity?
+
+18
+00:00:57,500 --> 00:00:59,800
+क्या वास्तव में मापा गया?
+
+19
+00:00:59,800 --> 00:01:02,700
+Theory evidence से refine हो रही है
+
+20
+00:01:02,700 --> 00:01:04,000
+यह personal consciousness meter नहीं
+
+21
+00:01:04,000 --> 00:01:05,280
+Educational reel; diagnosis या treatment advice नहीं

@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,700
+Stroop score से attention पूरी तरह मापी जा सकती है?
+
+2
+00:00:03,700 --> 00:00:07,200
+नहीं—पहले task समझिए।
+
+3
+00:00:07,200 --> 00:00:10,900
+Selective-attention studies अलग चीज़ें मापती हैं।
+
+4
+00:00:10,900 --> 00:00:14,600
+Stroop में रंग बताना होता है, शब्द distractor हो सकता है।
+
+5
+00:00:14,600 --> 00:00:18,200
+Reaction time, accuracy और interference cost
+
+6
+00:00:18,200 --> 00:00:21,800
+देखे जाते हैं।
+
+7
+00:00:21,800 --> 00:00:25,600
+Instructions और response mapping बदलें,
+
+8
+00:00:25,600 --> 00:00:29,200
+तो score का meaning भी बदल सकता है।
+
+9
+00:00:29,200 --> 00:00:32,900
+Visual search: distractors के बीच target
+
+10
+00:00:32,900 --> 00:00:36,600
+Search time, errors और search slope
+
+11
+00:00:36,600 --> 00:00:40,200
+Eye tracking: fixation, saccade और pursuit
+
+12
+00:00:40,200 --> 00:00:43,900
+ये visual selection के task-specific correlates हैं।
+
+13
+00:00:43,900 --> 00:00:47,500
+Thoughts का direct readout नहीं।
+
+14
+00:00:47,500 --> 00:00:51,200
+Neural signals और बाद की preference भी outcomes हो सकते हैं।
+
+15
+00:00:51,200 --> 00:00:54,800
+Attention का कोई universal meter नहीं।
+
+16
+00:00:54,800 --> 00:00:58,500
+Reliability exact measure और settings पर निर्भर करती है।
+
+17
+00:00:58,500 --> 00:01:02,200
+Group effect stable personal trait की guarantee नहीं।
+
+18
+00:01:02,200 --> 00:01:05,900
+किसी को inattentive या intelligent label मत दीजिए।
+
+19
+00:01:05,900 --> 00:01:09,600
+Task क्या था? क्या result दोबारा consistent रहा?
+
+20
+00:01:09,600 --> 00:01:13,360
+एक score thoughts या पूरे ध्यान को निश्चित नहीं बताता। यह diagnosis नहीं और personal, medical, या financial advice नहीं है। AI narration और conceptual visuals उपयोग हुए हैं।

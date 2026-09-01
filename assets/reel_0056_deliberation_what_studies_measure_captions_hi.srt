@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,000
+देर से जवाब देना = गहरी सोच?
+
+2
+00:00:03,000 --> 00:00:05,400
+नहीं। Response time अकेला पर्याप्त नहीं।
+
+3
+00:00:05,400 --> 00:00:08,300
+Deliberation एक theoretical construct है।
+
+4
+00:00:08,300 --> 00:00:11,200
+Response control और answer generation
+
+5
+00:00:11,200 --> 00:00:14,100
+Justification और regulation भी functions हैं।
+
+6
+00:00:14,100 --> 00:00:16,900
+एक test सब कुछ सीधे नहीं मापता।
+
+7
+00:00:16,900 --> 00:00:19,700
+Task behavior: choice और accuracy
+
+8
+00:00:19,700 --> 00:00:22,300
+Response time भी task measure है।
+
+9
+00:00:22,300 --> 00:00:25,100
+Stable thinking style का पूरा प्रमाण नहीं।
+
+10
+00:00:25,100 --> 00:00:27,900
+Confidence: reported judgment
+
+11
+00:00:27,900 --> 00:00:30,600
+Hidden thought का transcript नहीं।
+
+12
+00:00:30,600 --> 00:00:33,500
+Confidence और accuracy अलग measures हैं।
+
+13
+00:00:33,500 --> 00:00:36,300
+Computational models patterns describe करते हैं।
+
+14
+00:00:36,300 --> 00:00:39,000
+Evidence accumulation और conflict detection
+
+15
+00:00:39,000 --> 00:00:41,800
+Later analytic processing एक model term है।
+
+16
+00:00:41,800 --> 00:00:44,800
+Model parameter = assumptions के भीतर estimate
+
+17
+00:00:44,800 --> 00:00:47,200
+Literal mind scan नहीं।
+
+18
+00:00:47,200 --> 00:00:50,000
+Slow = better? Universal rule नहीं।
+
+19
+00:00:50,000 --> 00:00:52,800
+CRT study में संबंध कमजोर था।
+
+20
+00:00:52,800 --> 00:00:56,000
+Observe, sample, task और theory की सीमा देखें।
+
+21
+00:00:56,000 --> 00:00:59,800
+यह diagnosis नहीं है और personal, medical, या financial advice नहीं है। AI narration और conceptual visuals उपयोग हुए हैं।

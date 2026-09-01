@@ -1,0 +1,67 @@
+{
+  "reel_id": "reel_0046_contemplative_traditions_what_studies_measure",
+  "queue_id": "0046",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0046",
+  "title_hi": "चिंतन परंपराएँ: studies क्या मापते हैं?",
+  "topic": "contemplative traditions measurement",
+  "unique_angle": "A contemplative tradition is broader than a study intervention; research measures selected practice instructions, framing, and outcomes such as well-being or spiritual-experience self-report rather than the complete worldview or metaphysical claims.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_class": "peer-reviewed randomized controlled trial, empirical review, and observational research",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. Respect spiritual belief while distinguishing belief, philosophy, tradition, assigned practice, self-report, behavior, association, and empirical evidence. No diagnosis, treatment, individualized spiritual instruction, religious persuasion, metaphysical proof claim, moral judgment, or guarantee.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1186/s40359-024-01836-0",
+      "citation": "Rohde et al. (2024), Centering and flourishing: an online intervention study assessing the effects of a Christian contemplative practice on stress-reduction and human flourishing",
+      "url": "https://doi.org/10.1186/s40359-024-01836-0",
+      "type": "peer_reviewed_randomized_controlled_trial"
+    },
+    {
+      "source_id": "doi:10.1016/j.cpr.2011.04.006",
+      "citation": "Keng, Smoski, and Robins (2011), Effects of mindfulness on psychological health: a review of empirical studies",
+      "url": "https://doi.org/10.1016/j.cpr.2011.04.006",
+      "type": "peer_reviewed_empirical_review"
+    },
+    {
+      "source_id": "doi:10.3390/ijerph192013485",
+      "citation": "Rich et al. (2022), Contemplative Practices Behavior Is Positively Associated with Well-Being",
+      "url": "https://doi.org/10.3390/ijerph192013485",
+      "type": "peer_reviewed_observational_research"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0046_contemplative_traditions_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0046_contemplative_traditions_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0046_contemplative_traditions_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0046_contemplative_traditions_what_studies_measure_script.md",
+    "sources": "research/reel_0046_contemplative_traditions_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0046_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0046_scene_01.png",
+      "assets/reel_0046_scene_02.png",
+      "assets/reel_0046_scene_03.png",
+      "assets/reel_0046_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0046_qc_report.json",
+    "drive_manifest": "state/reel_0046_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes showing a broad contemplative tradition, a study protocol with different framings, outcome channels, and respectful evidence boundaries. No sacred-person likenesses, clinical scans, religious persuasion, literal thought readouts, or individual prediction.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate study design and measurement distinctions, not enlightenment, supernatural truth, private belief, diagnosis, treatment, guaranteed flourishing, or individual prediction. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1UI6JJ6F6hTQ6AxV2ZSeR-5iUTdkhamXF",
+    "drive_verification_note": "Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0046 parent, one nonzero manifest control object, and zero unrelated remote objects."
+  },
+  "measured_narration_duration_seconds": 68.32
+}

@@ -1,0 +1,71 @@
+{
+  "reel_id": "reel_0008_reward_learning_what_studies_measure",
+  "queue_id": "0008",
+  "batch": "Batch_001",
+  "title_hi": "रिवार्ड लर्निंग: studies क्या measure करती हैं?",
+  "topic": "reward learning measurement",
+  "unique_angle": "Reward-learning studies combine observed choices and outcomes with model-inferred values and prediction errors; model-based fMRI adds an indirect BOLD comparison, so a fitted learning-rate parameter is not automatically dopamine, intelligence, or a universal learning score.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 67.52,
+  "evidence_class": "peer-reviewed computational-neuroscience reviews + methodological model-interpretation study + neuroimaging meta-analysis",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, dopamine-reading claim, intelligence claim, universal brain-map claim, or outcome guarantee.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1007/s11571-010-9109-x",
+      "citation": "Samson, Frank & Fellous (2010), Computational models of reinforcement learning: the role of dopamine as a reward signal",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2866366/",
+      "type": "computational_neuroscience_review"
+    },
+    {
+      "source_id": "doi:10.1196/annals.1390.022",
+      "citation": "O'Doherty, Hampton & Kim (2007), Model-Based fMRI and Its Application to Reward Learning and Decision Making",
+      "url": "https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1196/annals.1390.022",
+      "type": "model_based_fmri_methodological_review"
+    },
+    {
+      "source_id": "doi:10.1016/j.cobeha.2021.06.004",
+      "citation": "Eckstein, Wilbrecht & Collins (2021), What do Reinforcement Learning Models Measure? Interpreting Model Parameters in Cognition and Neuroscience",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34984213/",
+      "type": "model_interpretation_review"
+    },
+    {
+      "source_id": "doi:10.1038/s41386-021-01264-3",
+      "citation": "Corlett, Mollick & Kober (2022), Meta-analysis of human prediction error for incentives, perception, cognition, and action",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35017672/",
+      "type": "neuroimaging_meta_analysis"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0008_reward_learning_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0008_reward_learning_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0008_reward_learning_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0008_reward_learning_what_studies_measure_script.md",
+    "sources": "research/reel_0008_reward_learning_what_studies_measure_sources.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0008_scene_01.png",
+      "assets/reel_0008_scene_02.png",
+      "assets/reel_0008_scene_03.png",
+      "assets/reel_0008_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0008_qc_report.json",
+    "drive_manifest": "state/reel_0008_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No fabricated data, participant images, literal scan, or readable unsupported claims are embedded in the visuals.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals are explanatory, not literal brain scans or dopamine recordings. Not medical advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1qKiNEHI4GyyxwiWsKLVVHX6f0iIUJ2t1",
+    "drive_verification_note": "Verified by authenticated Drive listing; 11 expected package objects plus durable manifest present with nonzero sizes. Historical unrelated objects, if any, are preserved and excluded from the current package."
+  }
+}

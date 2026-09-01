@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:05,000
+क्या heartbeat score = पूरी body-awareness?
+
+2
+00:00:05,000 --> 00:00:09,000
+Research का जवाब इतना सीधा नहीं
+
+3
+00:00:09,000 --> 00:00:14,000
+इंटरोसेप्शन = अंदरूनी bodily signals का processing
+
+4
+00:00:14,000 --> 00:00:19,000
+ECG + timed tones
+
+5
+00:00:19,000 --> 00:00:24,000
+Signal synchronous था या नहीं?
+
+6
+00:00:24,000 --> 00:00:29,000
+यह objective task-performance है
+
+7
+00:00:29,000 --> 00:00:34,000
+Heartbeat counting task अलग है
+
+8
+00:00:34,000 --> 00:00:39,000
+Time और heart-rate का अनुमान असर डाल सकता है
+
+9
+00:00:39,000 --> 00:00:44,000
+दोनों tasks समान नहीं
+
+10
+00:00:44,000 --> 00:00:49,000
+Questionnaire = self-report
+
+11
+00:00:49,000 --> 00:00:54,000
+Self-report ≠ objective accuracy
+
+12
+00:00:54,000 --> 00:00:59,000
+Accuracy + confidence का match?
+
+13
+00:00:59,000 --> 00:01:04,000
+Awareness का estimate
+
+14
+00:01:04,000 --> 00:01:09,000
+नए tasks promising, पर perfect नहीं
+
+15
+00:01:09,000 --> 00:01:13,800
+एक score = पूरी interoception नहीं
+Conceptual visuals; literal medical recording नहीं

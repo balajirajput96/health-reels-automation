@@ -1,0 +1,3 @@
+canonical_approved_take=assets/reel_0044_breath_awareness_what_studies_measure_narration_hi.wav
+canonical_duration_seconds=74.16
+note=first generated take passed the strict 45-75 second window; no overlong narration attempt was created or moved

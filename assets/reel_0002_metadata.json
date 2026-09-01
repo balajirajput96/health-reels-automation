@@ -1,0 +1,45 @@
+{
+  "reel_id": "reel_0002_emotion_prediction_what_studies_measure",
+  "batch": "Batch_001",
+  "title_hi": "भावनाओं का अनुमान: अध्ययन वास्तव में क्या मापते हैं",
+  "pillar": "psychology / decision-making",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_status": "PRIMARY_STUDY_WITH_REVIEW_CONTEXT",
+  "claims_boundary": "The primary study reported overestimated duration of negative affect in its tested situations; not a universal error rule, diagnosis, treatment, or guaranteed decision aid.",
+  "source_ids": [
+    "PMID:9781405",
+    "DOI:10.1037//0022-3514.75.3.617",
+    "WILSON_GILBERT_2005_REVIEW"
+  ],
+  "sources": [
+    {
+      "type": "primary_empirical",
+      "citation": "Gilbert, Pinel, Wilson, Blumberg & Wheatley (1998), Journal of Personality and Social Psychology 75(3), 617–638",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9781405/"
+    },
+    {
+      "type": "peer_reviewed_review",
+      "citation": "Wilson & Gilbert (2005), Review of General Psychology 9(3), 131–155",
+      "url": "https://dtg.sites.fas.harvard.edu/WILSON%20%26%20GILBERT%20(2005).pdf"
+    }
+  ],
+  "ai_content_disclosure": "AI-generated Hindi narration and visual assets may be used; research citations are human-reviewed source records.",
+  "assets": {
+    "video": "reel_0002_emotion_prediction_what_studies_measure_hi.mp4",
+    "narration": "reel_0002_emotion_prediction_what_studies_measure_narration_hi.wav",
+    "captions": "reel_0002_emotion_prediction_what_studies_measure_captions_hi.srt",
+    "visual_reference": "reel_0002_emotion_prediction_what_studies_measure_visual_reference.png",
+    "sources": "reel_0002_affective_forecasting_sources.md",
+    "script": "reel_0002_affective_forecasting_script.md"
+  },
+  "qc_gates": {
+    "narration_present": true,
+    "captions_present": true,
+    "sources_present": true,
+    "no_treatment_guarantee": true,
+    "needs_final_media_probe": false,
+    "needs_drive_upload_verification": true
+  }
+}

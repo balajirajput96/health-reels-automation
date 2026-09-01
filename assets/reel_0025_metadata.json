@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0025_self_awareness_what_studies_measure",
+  "queue_id": "0025",
+  "batch": "Batch_001",
+  "title_hi": "स्व-जागरूकता: studies वास्तव में क्या मापते हैं?",
+  "topic": "self-awareness measurement",
+  "unique_angle": "Self-awareness is multidimensional: studies separate self-report, self-recognition, metacognitive monitoring, bodily self-processing, social or implicit effects, and neural correlates.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 74.36,
+  "evidence_class": "peer-reviewed self-awareness measures review + peer-reviewed cognitive-neuroscience review + peer-reviewed bodily-self review + peer-reviewed mirror-self-recognition methodology paper",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, or claim that a questionnaire, mirror test, confidence score, interoceptive task, EEG/fMRI pattern, or connectivity result fully measures a person’s self-awareness, identity, personality, or inner life.",
+  "source_ids": [
+    {"source_id":"doi:10.1111/j.1751-9004.2011.00387.x","citation":"Morin (2011), Self-awareness part 1: Definition, measures, effects, functions, and antecedents","url":"https://doi.org/10.1111/j.1751-9004.2011.00387.x","type":"peer_reviewed_conceptual_review"},
+    {"source_id":"doi:10.1002/wcs.1670","citation":"Mograbi et al. (2024), The cognitive neuroscience of self-awareness: Current advances and future directions","url":"https://doi.org/10.1002/wcs.1670","type":"peer_reviewed_cognitive_neuroscience_review"},
+    {"source_id":"doi:10.3389/fpsyg.2019.02727","citation":"Salvato et al. (2019), Building the bodily self-awareness","url":"https://doi.org/10.3389/fpsyg.2019.02727","type":"peer_reviewed_bodily_self_review"},
+    {"source_id":"doi:10.1073/pnas.1701676114","citation":"Huttunen et al. (2017), Can self-awareness be taught? Monkeys pass the mirror test","url":"https://doi.org/10.1073/pnas.1701676114","type":"peer_reviewed_mirror_methodology_paper"}
+  ],
+  "assets": {
+    "video":"assets/reel_0025_self_awareness_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0025_self_awareness_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0025_self_awareness_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0025_self_awareness_what_studies_measure_script.md",
+    "sources":"research/reel_0025_self_awareness_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0025_scene_01.png","assets/reel_0025_scene_02.png","assets/reel_0025_scene_03.png","assets/reel_0025_scene_04.png"],
+    "qc_report":"assets/reel_0025_qc_report.json",
+    "drive_manifest":"state/reel_0025_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No participant likenesses, fabricated measurements, clinical labels, or personal self-awareness readings are used.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain self-awareness research methods and are not diagnostic tests or direct readouts of private experience. Not medical advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1rdf-40lKeEEey728gi_pW70V5xccQnDJ","drive_verification_note":"Initial independent Drive verification passed: 11 expected package objects, all nonzero, all in the Reel_0025 parent, one nonzero manifest control object, and 0 unrelated remote objects."}
+}

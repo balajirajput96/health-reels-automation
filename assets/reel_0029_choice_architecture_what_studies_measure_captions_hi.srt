@@ -1,0 +1,87 @@
+1
+00:00:00,000 --> 00:00:03,300
+Choice architecture किसी को control करती है?
+
+2
+00:00:03,300 --> 00:00:06,500
+Research में answer इतना simple नहीं
+
+3
+00:00:06,500 --> 00:00:09,800
+Decision environment की presentation बदलती है
+
+4
+00:00:09,800 --> 00:00:13,100
+Default, wording, order या information
+
+5
+00:00:13,100 --> 00:00:16,300
+बिना options पूरी तरह हटाए
+
+6
+00:00:16,300 --> 00:00:19,600
+पहले study manipulation तय करती है
+
+7
+00:00:19,600 --> 00:00:22,900
+फिर choice और default acceptance record होती है
+
+8
+00:00:22,900 --> 00:00:26,100
+Reaction time भी मापी जा सकती है
+
+9
+00:00:26,100 --> 00:00:29,300
+Intention और actual behavior अलग outcomes हैं
+
+10
+00:00:29,300 --> 00:00:32,600
+Decision information, structure, assistance
+
+11
+00:00:32,600 --> 00:00:35,900
+Reviews techniques को अलग करती हैं
+
+12
+00:00:35,900 --> 00:00:39,100
+Meta-analysis average effects दिखाती है
+
+13
+00:00:39,100 --> 00:00:42,300
+Technique और domain से result बदलता है
+
+14
+00:00:42,300 --> 00:00:45,600
+Publication bias भी matter करता है
+
+15
+00:00:45,600 --> 00:00:48,800
+Implementation context भी जरूरी है
+
+16
+00:00:48,800 --> 00:00:52,100
+Framing effect मिल सकता है
+
+17
+00:00:52,100 --> 00:00:55,300
+Default effect छोटा या absent हो सकता है
+
+18
+00:00:55,300 --> 00:00:58,500
+एक measured choice stable preference नहीं
+
+19
+00:00:58,500 --> 00:01:01,700
+Morality या personality का proof नहीं
+
+20
+00:01:01,700 --> 00:01:04,900
+Option, default और comparison पूछिए
+
+21
+00:01:04,900 --> 00:01:07,100
+Choice architecture magic button नहीं
+
+22
+00:01:07,100 --> 00:01:08,520
+यह education है, advice नहीं

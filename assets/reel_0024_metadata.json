@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0024_predictive_processing_what_studies_measure",
+  "queue_id": "0024",
+  "batch": "Batch_001",
+  "title_hi": "प्रेडिक्टिव प्रोसेसिंग: studies वास्तव में क्या मापते हैं?",
+  "topic": "predictive processing measurement",
+  "unique_angle": "Predictive processing is a family of models, not a brain prediction meter: studies separate expectation, prediction violation, behavior, neural signals, connectivity, and model fit.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 65.76,
+  "evidence_class": "peer-reviewed predictive-processing methodological review + peer-reviewed computational-model paper + peer-reviewed predictive-network meta-analysis + peer-reviewed human fMRI/model-mapping experiment",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, or claim that a scan directly reads an individual’s priors, prediction errors, thoughts, symptoms, or private experience.",
+  "source_ids": [
+    {"source_id":"doi:10.1111/nyas.14321","citation":"Walsh et al. (2020), Evaluating the neurophysiological evidence for predictive processing as a model of perception","url":"https://doi.org/10.1111/nyas.14321","type":"methodological_review"},
+    {"source_id":"doi:10.1371/journal.pcbi.1011280","citation":"Tscshantz et al. (2023), Hybrid predictive coding: Inferring, fast and slow","url":"https://doi.org/10.1371/journal.pcbi.1011280","type":"computational_model"},
+    {"source_id":"doi:10.1038/s41598-021-95603-5","citation":"Ficco et al. (2021), Disentangling predictive processing in the brain: a meta-analytic study in favour of a predictive network","url":"https://doi.org/10.1038/s41598-021-95603-5","type":"meta_analysis"},
+    {"source_id":"doi:10.1038/s41562-022-01516-2","citation":"Caucheteux et al. (2023), Evidence of a predictive coding hierarchy in the human brain listening to speech","url":"https://doi.org/10.1038/s41562-022-01516-2","type":"human_fmri_model_mapping_experiment"}
+  ],
+  "assets": {
+    "video":"assets/reel_0024_predictive_processing_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0024_predictive_processing_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0024_predictive_processing_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0024_predictive_processing_what_studies_measure_script.md",
+    "sources":"research/reel_0024_predictive_processing_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0024_scene_01.png","assets/reel_0024_scene_02.png","assets/reel_0024_scene_03.png","assets/reel_0024_scene_04.png"],
+    "qc_report":"assets/reel_0024_qc_report.json",
+    "drive_manifest":"state/reel_0024_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No participant likenesses, fabricated measurements, clinical labels, or personal prediction-error readings are used.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain predictive-processing methods and are not brain scans or direct readouts of private beliefs. Not medical advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1Xx3WH2ptL1UvduWpUjhl-NABf6uyR7W5","drive_verification_note":"Verified by authenticated Drive listing; 11 expected current-package objects plus one durable manifest are present with nonzero sizes and correct parent. No unrelated objects were present in this newly created Reel_0024 folder."}
+}

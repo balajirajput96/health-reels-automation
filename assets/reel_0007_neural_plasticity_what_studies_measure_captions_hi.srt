@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,500
+क्या MRI scan permanent rewiring साबित करता है?
+
+2
+00:00:04,500 --> 00:00:09,000
+Plasticity = experience के साथ neural change
+
+3
+00:00:09,000 --> 00:00:13,800
+एक universal brain-change score नहीं होता
+
+4
+00:00:13,800 --> 00:00:18,600
+Structural MRI: volume या thickness का अनुमान
+
+5
+00:00:18,600 --> 00:00:23,300
+Diffusion MRI: white-matter water diffusion signals
+
+6
+00:00:23,300 --> 00:00:28,300
+Task-fMRI: task के दौरान BOLD signal
+
+7
+00:00:28,300 --> 00:00:33,000
+BOLD signal indirect vascular measure है
+
+8
+00:00:33,000 --> 00:00:37,700
+Resting-state: synchronized fluctuations/connectivity
+
+9
+00:00:37,700 --> 00:00:42,800
+Scan change का मतलब हर बार skill gain नहीं
+
+10
+00:00:42,800 --> 00:00:48,000
+Learning, strategy, compensation या development?
+
+11
+00:00:48,000 --> 00:00:53,000
+Processing choices भी interpretation बदल सकती हैं
+
+12
+00:00:53,000 --> 00:00:58,500
+Controls + before/after + behaviour जरूरी
+
+13
+00:00:58,500 --> 00:01:03,500
+“Guaranteed rewiring” claim से सावधान
+
+14
+00:01:03,500 --> 00:01:08,000
+Public education; diagnosis/treatment advice नहीं
+
+15
+00:01:08,000 --> 00:01:10,900
+AI narration और conceptual visuals disclosure

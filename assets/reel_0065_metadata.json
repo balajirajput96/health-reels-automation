@@ -1,0 +1,37 @@
+{
+  "reel_id":"reel_0065_task_switching_what_studies_measure",
+  "queue_id":"0065",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0065",
+  "title_hi":"टास्क स्विचिंग: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"task switching, switch cost, mixing cost, preparation, task-set reconfiguration, interference, response repetition, and context effects",
+  "unique_angle":"Task-switching studies measure controlled switch-versus-repeat performance contrasts whose costs may combine preparation, reconfiguration, interference, cueing, response, and context effects; no single score is a universal multitasking ability.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed task-switching study, task-switching repetition-cost study, and cognitive-control review",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Switch costs and model-derived components are task-specific observables and are not diagnosis, treatment, direct mind reading, or a complete assessment of intelligence or everyday multitasking.",
+  "source_ids":[
+    {"source_id":"doi:10.3390/jintelligence11040068","citation":"Schmitz and Krämer (2023), Task Switching: On the Relation of Cognitive Flexibility with Cognitive Capacity, Journal of Intelligence","url":"https://doi.org/10.3390/jintelligence11040068","type":"peer_reviewed_task_switching_study"},
+    {"source_id":"doi:10.1007/s00426-023-01904-x","citation":"Benini, Koch, and Philipp (2023), Repetition costs in task switching are not equal to cue switching costs, Psychological Research","url":"https://doi.org/10.1007/s00426-023-01904-x","type":"peer_reviewed_task_switching_repetition_study"},
+    {"source_id":"doi:10.1037/a0019842","citation":"Kiesel et al. (2010), Control and interference in task switching—A review, Psychological Bulletin","url":"https://doi.org/10.1037/a0019842","type":"peer_reviewed_cognitive_control_review"}
+  ],
+  "assets":{
+    "video":"assets/reel_0065_task_switching_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0065_task_switching_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0065_task_switching_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0065_task_switching_what_studies_measure_script.md",
+    "sources":"research/reel_0065_task_switching_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0065_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0065_scene_01.png","assets/reel_0065_scene_02.png","assets/reel_0065_scene_03.png","assets/reel_0065_scene_04.png"],
+    "qc_report":"assets/reel_0065_qc_report.json",
+    "drive_manifest":"state/reel_0065_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes show switch-versus-repeat trials, cue and preparation timing, task-set/interference pathways, response/context effects, and model-derived component bars. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate measurement categories and limits, not a complete cognitive test. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":73.36,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1e6_LKNXV7lxQqG8V55FCfUYYlIhB7oQ8","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}

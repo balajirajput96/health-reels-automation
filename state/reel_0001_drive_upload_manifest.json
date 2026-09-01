@@ -1,0 +1,16 @@
+{
+  "reel_id": "0001",
+  "title": "भावनाओं को नाम देने से मन शांत क्यों हो सकता है?",
+  "stage": "final",
+  "drive_remote": "manus_google_drive:3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0001",
+  "verification": "rclone lsl completed successfully",
+  "uploaded_files": {
+    "reel_0001_affect_labeling_hi.mp4": 9574491,
+    "reel_0001_narration_hi.wav": 2649644,
+    "reel_0001_captions_hi.srt": 1426,
+    "reel_0001_metadata.json": 1843,
+    "reel_0001_visual_reference.png": 4964579,
+    "reel_0001_affect_labeling_sources.md": 5077,
+    "reel_0001_affect_labeling_script.md": 7031
+  }
+}

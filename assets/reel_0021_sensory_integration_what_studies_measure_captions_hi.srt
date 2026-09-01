@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:03,900
+क्या research sensory integration सीधे देखती है?
+
+2
+00:00:03,900 --> 00:00:07,200
+पहले तय होता है: कौन-सा observable मापा गया?
+
+3
+00:00:07,200 --> 00:00:10,800
+Psychophysics: detection और discrimination
+
+4
+00:00:10,800 --> 00:00:14,200
+Accuracy, reaction time और threshold
+
+5
+00:00:14,200 --> 00:00:17,600
+अलग cues और combined cues
+
+6
+00:00:17,600 --> 00:00:20,900
+कम reliable cue का weight बदल सकता है
+
+7
+00:00:20,900 --> 00:00:24,700
+Bayesian model pattern को describe कर सकता है
+
+8
+00:00:24,700 --> 00:00:28,100
+Model = brain algorithm का proof नहीं
+
+9
+00:00:28,100 --> 00:00:31,500
+Temporal binding: timing judgments
+
+10
+00:00:31,500 --> 00:00:34,900
+Ventriloquist, McGurk और double-flash illusions
+
+11
+00:00:34,900 --> 00:00:38,300
+Perception कैसे बदली, यह report होता है
+
+12
+00:00:38,300 --> 00:00:41,700
+EEG और single-cell: neural signals
+
+13
+00:00:41,700 --> 00:00:45,100
+fMRI: regional correlates
+
+14
+00:00:45,100 --> 00:00:48,500
+Neural signal = private experience नहीं
+
+15
+00:00:48,500 --> 00:00:51,900
+Illusion intelligence test नहीं
+
+16
+00:00:51,900 --> 00:00:55,200
+Diagnosis या personality label नहीं
+
+17
+00:00:55,200 --> 00:00:59,000
+Accuracy, timing, signal या model fit?
+
+18
+00:00:59,000 --> 00:01:02,800
+Educational reel; diagnosis या treatment advice नहीं

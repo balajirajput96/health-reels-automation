@@ -1,0 +1,75 @@
+{
+  "reel_id": "reel_0077_stress_appraisal_what_studies_measure",
+  "queue_id": "0077",
+  "batch": "Batch_003",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0077",
+  "title_hi": "तनाव-मूल्यांकन: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic": "stress appraisal, perceived stress, exposure, cognitive appraisal, physiological signals, cardiovascular measures, outcomes, and measurement limits",
+  "unique_angle": "Stress studies can measure events, perceived or anticipated appraisal, physiology, or outcomes; these layers may relate but are not interchangeable or a diagnosis.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_class": "peer-reviewed psychometric measurement and validation research plus a systematic review of self-report and physiological measures",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. Exposure/events, self-reported perception, cognitive appraisal, physiological signals, outcomes, associations, and validation evidence are distinct and bounded by instrument, time window, task, language, population, design, and outcome; no score diagnoses a disorder, reads private motives, reveals a universal physiological truth, or guarantees a personal result.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1093/abm/kaad015",
+      "citation": "Harris et al. (2023), The Perceived Stress Scale as a Measure of Stress: Decomposing Score Variance in Longitudinal Behavioral Medicine Studies",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10498818/",
+      "type": "peer_reviewed_longitudinal_measurement_study"
+    },
+    {
+      "source_id": "doi:10.1016/j.anr.2012.08.004",
+      "citation": "Lee (2012), Review of the Psychometric Evidence of the Perceived Stress Scale",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1976131712000527",
+      "type": "peer_reviewed_psychometric_review"
+    },
+    {
+      "source_id": "doi:10.1371/journal.pone.0259557",
+      "citation": "Vaessen et al. (2021), The association between self-reported stress and cardiovascular measures in daily life: A systematic review",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259557",
+      "type": "systematic_review"
+    },
+    {
+      "source_id": "doi:10.1177/10731911231223120",
+      "citation": "Grimm, Francia & Agrigoroaei (2024), Stress Appraisal Measure: Investigating the Factor Structure and Validity in the French Language",
+      "url": "https://journals.sagepub.com/doi/10.1177/10731911231223120",
+      "type": "peer_reviewed_instrument_validation"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0077_stress_appraisal_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0077_stress_appraisal_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0077_stress_appraisal_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0077_stress_appraisal_what_studies_measure_script.md",
+    "sources": "research/reel_0077_stress_appraisal_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0077_stress_appraisal_what_studies_measure_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0077_scene_01.png",
+      "assets/reel_0077_scene_02.png",
+      "assets/reel_0077_scene_03.png",
+      "assets/reel_0077_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0077_qc_report.json",
+    "drive_manifest": "state/reel_0077_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes depict exposure, perceived stress, anticipated appraisal, physiology, association, and interpretation guardrails. No real person, private data, unauthorized likeness, or direct mind-reading claim is depicted.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain research measurement concepts and limits, not a complete psychological assessment. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "measured_narration_duration_seconds": 74.76,
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1H1y-0Sc48e1SCMugTKjdC55N9uCM2Yyn",
+    "drive_folder_id": "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM",
+    "drive_verification_note": "Final exact-package verification passed: 11 expected objects, one nonzero correctly parented manifest, zero missing/zero-size/wrong-parent/duplicate/unrelated objects; metadata and manifest updated in place."
+  },
+  "measured_mp4_sha256": "4c8e1cab84c874175b9647eebddc783289809d0eaa126f63e527d2a2e95e3434"
+}

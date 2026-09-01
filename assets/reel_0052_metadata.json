@@ -1,0 +1,37 @@
+{
+  "reel_id":"reel_0052_choice_overload_what_studies_measure",
+  "queue_id":"0052",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0052",
+  "title_hi":"चॉइस ओवरलोड: studies क्या मापते हैं?",
+  "topic":"choice overload, option count, decision complexity, and measured outcomes",
+  "unique_angle":"Option count alone does not prove choice overload; complexity, task difficulty, preference uncertainty, decision goals, and the measured outcome moderate the finding.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed choice-overload meta-analysis, systematic qualitative moderator review, and partial mechanism study",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. No purchasing, financial, medical, or individualized decision prescription; no universal option-count rule.",
+  "source_ids":[
+    {"source_id":"doi:10.1016/j.jcps.2014.08.002","citation":"Chernev, Böckenholt, and Goodman (2015), Choice overload: A conceptual review and meta-analysis","url":"https://doi.org/10.1016/j.jcps.2014.08.002","type":"peer_reviewed_meta_analysis"},
+    {"source_id":"doi:10.3389/fpsyg.2024.1290359","citation":"Misuraca, Nixon, Miceli, Di Stefano, and Scaffidi Abbate (2024), On the advantages and disadvantages of choice: Future research directions in choice overload and its moderators","url":"https://doi.org/10.3389/fpsyg.2024.1290359","type":"peer_reviewed_systematic_qualitative_review"},
+    {"source_id":"doi:10.1016/j.beproc.2013.04.001","citation":"Kaplan and Reed (2013), Decision processes in choice overload: A product of delay and probability discounting?","url":"https://doi.org/10.1016/j.beproc.2013.04.001","type":"peer_reviewed_mechanism_study"}
+  ],
+  "assets":{
+    "video":"assets/reel_0052_choice_overload_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0052_choice_overload_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0052_choice_overload_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0052_choice_overload_what_studies_measure_script.md",
+    "sources":"research/reel_0052_choice_overload_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0052_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0052_scene_01.png","assets/reel_0052_scene_02.png","assets/reel_0052_scene_03.png","assets/reel_0052_scene_04.png"],
+    "qc_report":"assets/reel_0052_qc_report.json",
+    "drive_manifest":"state/reel_0052_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes illustrating option count versus complexity, moderators, measured outcomes, and evidence boundaries. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research measures, not a person’s capacity, a universal decision rule, or guaranteed outcomes. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":65.92,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1L2xJfqKApTey34C4gMpl7hSAQbalTKMB","drive_verification_note":"Local QC passed; exact 11-object package, metadata, manifest, and final independent Drive verification passed. No social publication attempted."}
+}

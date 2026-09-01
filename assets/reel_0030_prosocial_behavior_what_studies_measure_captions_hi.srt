@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,200
+क्या कोई test बता सकता है कि इंसान कितना kind है?
+
+2
+00:00:03,200 --> 00:00:06,200
+Research में ऐसा single score नहीं होता
+
+3
+00:00:06,200 --> 00:00:09,500
+Prosocial behavior में अलग actions आते हैं
+
+4
+00:00:09,500 --> 00:00:12,800
+Helping, sharing और comforting
+
+5
+00:00:12,800 --> 00:00:16,000
+Cooperation और costly choices भी
+
+6
+00:00:16,000 --> 00:00:19,200
+Study पहले context तय करती है
+
+7
+00:00:19,200 --> 00:00:22,400
+Survey में empathy या intention report हो सकती है
+
+8
+00:00:22,400 --> 00:00:25,600
+Empathy महसूस करना और help करना अलग हैं
+
+9
+00:00:25,600 --> 00:00:28,800
+Observation में actual action record होती है
+
+10
+00:00:28,800 --> 00:00:32,000
+Dictator game और public-goods game
+
+11
+00:00:32,000 --> 00:00:35,200
+Allocation और choice मापते हैं
+
+12
+00:00:35,200 --> 00:00:38,400
+Social dilemma भी इस्तेमाल होता है
+
+13
+00:00:38,400 --> 00:00:41,600
+Stakes और instructions बदलें तो result बदलता है
+
+14
+00:00:41,600 --> 00:00:44,800
+Relationship और incentive भी matter करते हैं
+
+15
+00:00:44,800 --> 00:00:48,000
+Game choice morality का पूरा proof नहीं
+
+16
+00:00:48,000 --> 00:00:51,200
+Real-world behavior context के साथ बदल सकता है
+
+17
+00:00:51,200 --> 00:00:54,400
+Brain signal compassion सीधे नहीं पढ़ता
+
+18
+00:00:54,400 --> 00:00:57,600
+पूछिए: self-report या observed action?
+
+19
+00:00:57,600 --> 00:01:00,800
+Choice है या later behavior?
+
+20
+00:01:00,800 --> 00:01:04,000
+Recipient और stakes कौन से थे?
+
+21
+00:01:04,000 --> 00:01:07,080
+Kindness का magic meter नहीं; यह education है

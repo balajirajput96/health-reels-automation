@@ -1,0 +1,71 @@
+{
+  "reel_id": "reel_0020_brain_energy_what_studies_measure",
+  "queue_id": "0020",
+  "batch": "Batch_001",
+  "title_hi": "मस्तिष्क ऊर्जा: studies वास्तव में क्या मापते हैं?",
+  "topic": "brain-energy measurement",
+  "unique_angle": "Brain energy is not one scan number: research distinguishes glucose uptake, blood flow, oxygen use, hemodynamic signals, metabolic fluxes, and multimodal associations.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 67.72,
+  "evidence_class": "peer-reviewed mechanistic neuroenergetics review + peer-reviewed cellular functional-imaging review + peer-reviewed simultaneous FDG-PET/BOLD dataset + peer-reviewed PET/MRI methods study",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, or inference about intelligence, mental effort, fatigue, or future performance from PET, MRI, MRS, blood flow, oxygen, glucose, lactate, or research signals.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1098/rstb.1999.0471",
+      "citation": "Magistretti & Pellerin (1999), Cellular mechanisms of brain energy metabolism and their relevance to functional brain imaging",
+      "url": "https://doi.org/10.1098/rstb.1999.0471",
+      "type": "mechanistic_neuroenergetics_review"
+    },
+    {
+      "source_id": "doi:10.1016/j.neuron.2015.03.035",
+      "citation": "Magistretti & Allaman (2015), A Cellular Perspective on Brain Energy Metabolism and Functional Imaging",
+      "url": "https://doi.org/10.1016/j.neuron.2015.03.035",
+      "type": "cellular_functional_imaging_review"
+    },
+    {
+      "source_id": "doi:10.1038/s41597-020-00699-5",
+      "citation": "Jamadar et al. (2020), Simultaneous BOLD-fMRI and constant infusion FDG-PET data of the resting human brain",
+      "url": "https://doi.org/10.1038/s41597-020-00699-5",
+      "type": "simultaneous_pet_fmri_human_dataset"
+    },
+    {
+      "source_id": "doi:10.3389/fnins.2022.824152",
+      "citation": "Shan et al. (2022), Integrated Positron Emission Tomography/Magnetic Resonance Imaging for Resting-State Functional and Metabolic Imaging in Human Brain",
+      "url": "https://doi.org/10.3389/fnins.2022.824152",
+      "type": "pet_mri_methods_study"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0020_brain_energy_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0020_brain_energy_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0020_brain_energy_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0020_brain_energy_what_studies_measure_script.md",
+    "sources": "research/reel_0020_brain_energy_what_studies_measure_sources.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0020_scene_01.png",
+      "assets/reel_0020_scene_02.png",
+      "assets/reel_0020_scene_03.png",
+      "assets/reel_0020_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0020_qc_report.json",
+    "drive_manifest": "state/reel_0020_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No participant likenesses, fabricated measurements, clinical labels, or personal brain-energy readings are used.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain brain-energy measurement concepts and are not scans or direct readouts of a person’s intelligence, effort, fatigue, or diagnosis. Not medical advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "10qZNptdMvObhBzL5ZiowsMUTGamJEaCd",
+    "drive_verification_note": "Verified by authenticated Drive listing; 11 expected current-package objects plus one durable manifest are present with nonzero sizes and correct parent. No unrelated objects were present in this newly created Reel_0020 folder."
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "files": [
+    {
+      "id": "1AgrXLZ_6tskg_qCPY4X2WTAkMOuGYflr",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T10:09:31.004Z",
+      "name": "reel_0074_drive_upload_manifest.json",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "6593"
+    },
+    {
+      "id": "1kLpQUpTr7X1ei5NARJ2P7kALnwhx4mME",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T10:08:38.903Z",
+      "name": "reel_0074_metadata.json",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "3977"
+    },
+    {
+      "id": "1mB0YaE3zstyBxS6wgKGcf09mS_bkMq7u",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T10:04:45.026Z",
+      "name": "reel_0074_scene_04.png",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "48746"
+    },
+    {
+      "id": "1s2j1Hu6dNlsS8JDDHDD5U8SWaeIRr5QP",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T10:04:41.216Z",
+      "name": "reel_0074_scene_03.png",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "43076"
+    },
+    {
+      "id": "1eXCaIU3WNQP8iPZ9E-O5vbF69tgbxbTT",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T10:04:37.717Z",
+      "name": "reel_0074_scene_02.png",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "39813"
+    },
+    {
+      "id": "1suBFmEzAlK8Pz0c_JsqqDClhXZD3s0wg",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T10:04:34.509Z",
+      "name": "reel_0074_scene_01.png",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "44838"
+    },
+    {
+      "id": "1sk-nC4dM9WBCgDKgmS3qiTZHC8QFEen7",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T10:04:31.861Z",
+      "name": "reel_0074_expectancy_value_what_studies_measure_script.md",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "4991"
+    },
+    {
+      "id": "1T-UbpRMDVl6vQLGbZBb61zJovHTqg6X4",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T10:04:29.205Z",
+      "name": "reel_0074_expectancy_value_what_studies_measure_sources.md",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "4930"
+    },
+    {
+      "id": "1sYp55VMCfAY55txr_NE4LnXbqKLuKdZW",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T10:04:26.132Z",
+      "name": "reel_0074_qc_report.json",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "551"
+    },
+    {
+      "id": "1BfGqcG_8--2z1pqQWBG4Q2wCZhbPngk-",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-26T10:04:18.360Z",
+      "name": "reel_0074_expectancy_value_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "2005"
+    },
+    {
+      "id": "1emdUNAaongQ8Cs9PlTHvAawYwltxwuiN",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-26T10:04:15.645Z",
+      "name": "reel_0074_expectancy_value_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "3056684"
+    },
+    {
+      "id": "1njywS6_f9ecowogUcQOdrZb9Rz6xp8Vw",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-26T10:04:12.047Z",
+      "name": "reel_0074_expectancy_value_what_studies_measure_hi.mp4",
+      "parents": [
+        "1kaFRyDzFGeFOWhw_LJczzMY6csv43GYT"
+      ],
+      "size": "1847976"
+    }
+  ]
+}

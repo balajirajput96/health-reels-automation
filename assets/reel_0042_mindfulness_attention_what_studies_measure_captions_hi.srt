@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:03,200
+“Meditation से attention बढ़ गई”—किस measure में?
+
+2
+00:00:03,300 --> 00:00:06,300
+Questionnaire में attention और awareness rate हो सकती है।
+
+3
+00:00:06,400 --> 00:00:09,000
+यह self-report है, direct brain recording नहीं।
+
+4
+00:00:09,100 --> 00:00:12,600
+Stroop जैसे behavioral task response time और errors देते हैं।
+
+5
+00:00:12,700 --> 00:00:15,500
+यह उस task की performance है, पूरी ज़िंदगी की attention नहीं।
+
+6
+00:00:15,600 --> 00:00:19,300
+EEG या ERP scalp की electrical activity का time pattern record करता है।
+
+7
+00:00:19,400 --> 00:00:22,400
+Researchers इसे attentional control के correlate की तरह interpret करते हैं।
+
+8
+00:00:22,500 --> 00:00:25,400
+यह private thoughts पढ़ना नहीं।
+
+9
+00:00:25,500 --> 00:00:29,800
+एक randomized longitudinal EEG study में meditation-naïve adults ने Stroop task किया।
+
+10
+00:00:29,900 --> 00:00:33,500
+64-channel EEG भी record हुआ।
+
+11
+00:00:33,600 --> 00:00:37,300
+Baseline, आठ और 16 weeks पर measures लिए गए।
+
+12
+00:00:37,400 --> 00:00:40,300
+Final analysis में 28 participants रहे।
+
+13
+00:00:40,400 --> 00:00:44,100
+कुछ electrophysiological group differences report हुए।
+
+14
+00:00:44,200 --> 00:00:47,600
+लेकिन sample छोटा और task specific था।
+
+15
+00:00:47,700 --> 00:00:50,700
+Signal की interpretation model पर निर्भर थी।
+
+16
+00:00:50,800 --> 00:00:53,400
+पूछिए: questionnaire, behavior या EEG correlate?
+
+17
+00:00:53,500 --> 00:00:55,300
+Comparison group, sample और task भी देखिए।
+
+18
+00:00:55,400 --> 00:00:57,000
+एक measure बदलना, हर attention बदलने का proof नहीं।
+
+19
+00:00:57,100 --> 00:00:58,000
+यह education है—diagnosis या treatment नहीं।

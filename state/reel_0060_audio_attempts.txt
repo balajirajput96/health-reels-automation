@@ -1,0 +1,3 @@
+attempt1 duration=82.40s path=assets/reel_0060_false_memory_what_studies_measure_narration_attempt1_82.40s.wav
+attempt2 duration=78.60s path=assets/reel_0060_false_memory_what_studies_measure_narration_attempt2_78.60s.wav
+accepted canonical duration=71.92s path=assets/reel_0060_false_memory_what_studies_measure_narration_hi.wav

@@ -1,0 +1,2 @@
+attempt1=assets/reel_0045_compassion_practice_what_studies_measure_narration_hi_attempt1_88s.wav duration_seconds=88.76 status=overlong_preserved
+attempt2=assets/reel_0045_compassion_practice_what_studies_measure_narration_hi_attempt2_79s.wav duration_seconds=78.80 status=overlong_preserved

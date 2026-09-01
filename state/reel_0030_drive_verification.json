@@ -1,0 +1,82 @@
+{
+  "folder_id": "1W2hybbF15ox5P76_yIpj08Sj-qAUkx-5",
+  "manifest_id": "18kB9Tl2KkXn_oN1KJ3jkiWLLNtlVqfIl",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "expected_objects": [
+    {
+      "name": "reel_0030_metadata.json",
+      "id": "13Fuv2ypV3A9lfsALW-UnLzv-JKspI2X1",
+      "size": 3730,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0030_prosocial_behavior_what_studies_measure_captions_hi.srt",
+      "id": "12k4QnTseSVmR-ERwl3lNoN8PpzX0ChnS",
+      "size": 2010,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0030_prosocial_behavior_what_studies_measure_hi.mp4",
+      "id": "11FLPZ-Le8dUAFv-XUFN4SS_hmLHpIVy1",
+      "size": 3326808,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0030_prosocial_behavior_what_studies_measure_narration_hi.wav",
+      "id": "1DR64odF_xsDQ_SGnBTYs6Rf9i3LbM-r_",
+      "size": 3219884,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0030_prosocial_behavior_what_studies_measure_script.md",
+      "id": "171lmyJlv6d43CH8cQnRThVap-I-IQdh3",
+      "size": 3949,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0030_prosocial_behavior_what_studies_measure_sources.md",
+      "id": "1HQOWTJ_ei3ubHjMJ10huhvRo93nygUuO",
+      "size": 4772,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0030_qc_report.json",
+      "id": "1Be0lSGq90WVwUTM90jHS4BJpSWp5iNTo",
+      "size": 551,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0030_scene_01.png",
+      "id": "1VJejWDk0arRHS2PPpWoJrQNoq2_vD9kQ",
+      "size": 131932,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0030_scene_02.png",
+      "id": "1_zJDyASoqN8fSerYjJ8pS4l-o2S1XLlk",
+      "size": 128584,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0030_scene_03.png",
+      "id": "1d6490Fq0wJzXnl18FD4Q4ws3qUjjm6sl",
+      "size": 136528,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0030_scene_04.png",
+      "id": "16tS511A6lPgESE80vjg15LWhu3VI2h7d",
+      "size": 121858,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}

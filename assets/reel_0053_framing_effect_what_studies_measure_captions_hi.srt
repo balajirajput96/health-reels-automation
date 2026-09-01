@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:02,900
+एक information, अलग wording—choices बदल सकती हैं।
+
+2
+00:00:03,000 --> 00:00:05,900
+इसे framing effect कहा जाता है।
+
+3
+00:00:06,000 --> 00:00:08,900
+Studies में researchers क्या मापते हैं?
+
+4
+00:00:09,000 --> 00:00:11,900
+Risky-choice framing में risk choice मापी जाती है।
+
+5
+00:00:12,000 --> 00:00:14,900
+Gain या loss की भाषा रखकर।
+
+6
+00:00:15,000 --> 00:00:17,900
+फिर risky या certain option चुना जाता है।
+
+7
+00:00:18,000 --> 00:00:20,900
+Attribute framing evaluation पर focus करता है।
+
+8
+00:00:21,000 --> 00:00:23,900
+यह जरूरी नहीं कि risk choice हो।
+
+9
+00:00:24,000 --> 00:00:26,900
+Goal framing action के gain या loss को highlight करता है।
+
+10
+00:00:27,000 --> 00:00:29,900
+Outcome persuasion या intention हो सकता है।
+
+11
+00:00:30,000 --> 00:00:32,900
+Actual long-term behavior जरूरी नहीं।
+
+12
+00:00:33,000 --> 00:00:35,900
+Meta-analyses ने frame types अलग-अलग देखे।
+
+13
+00:00:36,000 --> 00:00:38,900
+और substantial heterogeneity report की।
+
+14
+00:00:39,000 --> 00:00:41,900
+सभी framing studies एक जैसी नहीं।
+
+15
+00:00:42,000 --> 00:00:44,900
+Option structure बदलने पर effect बदल सकता है।
+
+16
+00:00:45,000 --> 00:00:47,900
+इसलिए exact task matters।
+
+17
+00:00:48,000 --> 00:00:50,900
+Wording बदली थी या options भी?
+
+18
+00:00:51,000 --> 00:00:53,900
+Choice था या judgment rating?
+
+19
+00:00:54,000 --> 00:00:56,900
+Outcome response time था या real-world behavior?
+
+20
+00:00:57,000 --> 00:01:00,000
+Framing effect observed response difference है।
+
+21
+00:01:00,100 --> 00:01:03,000
+यह irrationality का diagnosis नहीं। यह education है—medical, political या financial advice नहीं।

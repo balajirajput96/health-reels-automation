@@ -1,0 +1,7 @@
+{
+  "items": 79,
+  "by_stage": {
+    "published": 2,
+    "final": 77
+  }
+}

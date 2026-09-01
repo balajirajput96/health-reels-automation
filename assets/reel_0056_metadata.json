@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0056_deliberation_what_studies_measure",
+  "queue_id":"0056",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0056",
+  "title_hi":"विचार-विमर्श: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"deliberation, decision time, task performance, confidence, analytic engagement, and computational models",
+  "unique_angle":"Deliberation is a multi-function theoretical construct; response time, accuracy, confidence, and model parameters are distinct observables rather than a direct mind-reading instrument.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed conceptual perspective, metacognition review, open response-time experiment, and tested dual-process model",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Task behavior, self-report, and model estimates do not directly reveal hidden thought and are not diagnosis, treatment, personal prediction, or individualized medical or financial advice.",
+  "source_ids":[
+    {"source_id":"doi:10.1038/s44159-025-00466-6","citation":"De Neys (2025), Defining deliberation for dual-process models of reasoning, Nature Reviews Psychology, 4, 544–552","url":"https://doi.org/10.1038/s44159-025-00466-6","type":"peer_reviewed_conceptual_perspective"},
+    {"source_id":"doi:10.1098/rstb.2011.0416","citation":"Yeung and Summerfield (2012), Metacognition in human decision-making: confidence and error monitoring, Philosophical Transactions of the Royal Society B, 367(1594), 1310–1321","url":"https://doi.org/10.1098/rstb.2011.0416","type":"peer_reviewed_review"},
+    {"source_id":"doi:10.1371/journal.pone.0186404","citation":"Stupple, Pitchford, Ball, Hunt, and Steel (2017), Slower is not always better: Response-time evidence clarifies the limited role of miserly information processing in the Cognitive Reflection Test, PLOS ONE, 12(11), e0186404","url":"https://doi.org/10.1371/journal.pone.0186404","type":"peer_reviewed_open_experiment"},
+    {"source_id":"doi:10.1016/j.cogpsych.2015.05.001","citation":"Pennycook, Fugelsang, and Koehler (2015), What makes us think? A three-stage dual-process model of analytic engagement, Cognitive Psychology, 80, 34–72","url":"https://doi.org/10.1016/j.cogpsych.2015.05.001","type":"peer_reviewed_model_and_experiments"}
+  ],
+  "assets":{
+    "video":"assets/reel_0056_deliberation_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0056_deliberation_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0056_deliberation_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0056_deliberation_what_studies_measure_script.md",
+    "sources":"research/reel_0056_deliberation_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0056_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0056_scene_01.png","assets/reel_0056_scene_02.png","assets/reel_0056_scene_03.png","assets/reel_0056_scene_04.png"],
+    "qc_report":"assets/reel_0056_qc_report.json",
+    "drive_manifest":"state/reel_0056_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes showing response-time caution, four deliberation functions, distinct task/self-report measures, and model-estimate boundaries. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate measurement concepts and research boundaries, not hidden mental states or guaranteed predictions. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":60.04,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1pcDv_CcCIn9y_BhCUwr8GU0m3ftfS8YB","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}

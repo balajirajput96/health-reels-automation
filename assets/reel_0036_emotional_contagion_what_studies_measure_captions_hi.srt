@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:03,700
+क्या किसी दूसरे व्यक्ति का emotion आपको भी catch हो सकता है?
+
+2
+00:00:03,800 --> 00:00:07,700
+Research में इसका मतलब एक sensor से emotion पढ़ लेना नहीं है।
+
+3
+00:00:07,800 --> 00:00:11,800
+Emotional contagion studies अलग-अलग चीज़ें measure करती हैं।
+
+4
+00:00:11,900 --> 00:00:16,200
+Questionnaire पूछ सकता है कि कोई व्यक्ति positive या negative emotions के असर के प्रति कितना susceptible महसूस करता है।
+
+5
+00:00:16,300 --> 00:00:20,100
+यह self-report tendency है, real-time transfer का direct proof नहीं।
+
+6
+00:00:20,200 --> 00:00:24,300
+Lab study में एक sender emotional film clip देख सकता है।
+
+7
+00:00:24,400 --> 00:00:28,200
+Observer उसके facial expressions देख सकता है।
+
+8
+00:00:28,300 --> 00:00:32,400
+Researchers self-report, facial mimicry या EMG, और heart rate जैसी physiology compare कर सकते हैं।
+
+9
+00:00:32,500 --> 00:00:36,500
+लेकिन signals का अर्थ अलग है।
+
+10
+00:00:36,600 --> 00:00:40,600
+Facial similarity mimicry हो सकती है; physiology arousal दिखा सकती है।
+
+11
+00:00:40,700 --> 00:00:44,500
+वह किसी specific emotion का नाम नहीं बताती।
+
+12
+00:00:44,600 --> 00:00:48,500
+Synchrony shared situation, attention या relationship से भी आ सकती है।
+
+13
+00:00:48,600 --> 00:00:52,600
+एक dyadic study में friends और strangers के results अलग थे।
+
+14
+00:00:52,700 --> 00:00:56,300
+यह फर्क खासकर positive condition में दिखा।
+
+15
+00:00:56,400 --> 00:01:00,300
+इसका मतलब यह नहीं कि emotion हर interaction में अपने-आप फैलता है।
+
+16
+00:01:00,400 --> 00:01:04,300
+पूछिए: self-report था या behavior?
+
+17
+00:01:04,400 --> 00:01:08,300
+Physiology क्या measure कर रही थी, और timing व context क्या था?
+
+18
+00:01:08,400 --> 00:01:09,900
+Sample और study design भी देखिए।
+
+19
+00:01:10,000 --> 00:01:12,100
+यह education है—diagnosis या personal treatment advice नहीं।

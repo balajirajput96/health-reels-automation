@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0034_reappraisal_what_studies_measure",
+  "queue_id": "0034",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0034",
+  "title_hi": "रीएप्रेज़ल: studies वास्तव में क्या मापती हैं?",
+  "topic": "cognitive reappraisal measurement and emotion-regulation outcomes",
+  "unique_angle": "A habitual questionnaire, an instructed laboratory strategy, a subjective emotion rating, a physiological signal, and a behavioral outcome are different measurements; a reappraisal result depends on the outcome and protocol.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 74.36,
+  "evidence_class": "peer-reviewed emotion-regulation experiment, meta-analysis, and questionnaire validation research",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, character judgment, guaranteed benefit, mind-reading claim, or individualized psychological inference.",
+  "source_ids": [
+    {"source_id":"doi:10.1037/emo0000371","citation":"Troy et al. (2018), Cognitive Reappraisal and Acceptance: Effects on Emotion, Physiology, and Perceived Cognitive Costs","url":"https://doi.org/10.1037/emo0000371","type":"peer_reviewed_within_subjects_experiment"},
+    {"source_id":"doi:10.1037/a0027600","citation":"Webb, Miles, and Sheeran (2012), Dealing with Feeling: A Meta-Analysis of the Effectiveness of Strategies Derived from the Process Model of Emotion Regulation","url":"https://doi.org/10.1037/a0027600","type":"peer_reviewed_meta_analysis"},
+    {"source_id":"doi:10.1037/0022-3514.85.2.348","citation":"Gross and John (2003), Individual Differences in Two Emotion Regulation Processes: Implications for Affect, Relationships, and Well-Being","url":"https://doi.org/10.1037/0022-3514.85.2.348","type":"peer_reviewed_questionnaire_validation"}
+  ],
+  "assets": {
+    "video":"assets/reel_0034_reappraisal_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0034_reappraisal_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0034_reappraisal_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0034_reappraisal_what_studies_measure_script.md",
+    "sources":"research/reel_0034_reappraisal_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0034_scene_01.png","assets/reel_0034_scene_02.png","assets/reel_0034_scene_03.png","assets/reel_0034_scene_04.png"],
+    "qc_report":"assets/reel_0034_qc_report.json",
+    "drive_manifest":"state/reel_0034_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes showing a habitual questionnaire versus an instructed task, four distinct outcome channels, divergent self-report and physiology trajectories, and study-interpretation guardrails. No participant likenesses, diagnostic labels, private-thought display, or literal emotion decoding.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research methods, not exact thoughts, diagnoses, emotion detection, or individual prediction. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1NfLS8pGXnHcMGcREEu6bYopuOwp702jP","drive_verification_note":"Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0034 parent, one nonzero manifest control object, and zero unrelated remote objects."}
+}

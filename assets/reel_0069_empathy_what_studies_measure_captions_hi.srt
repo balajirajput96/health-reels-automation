@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,100
+रुकिए—empathy study में असल में क्या मापा जाता है?
+
+2
+00:00:04,100 --> 00:00:08,100
+“Empathetic व्यक्ति” कहना आसान है।
+
+3
+00:00:08,100 --> 00:00:12,200
+पहला तरीका: questionnaire और self-report।
+
+4
+00:00:12,200 --> 00:00:16,300
+Perspective taking या empathic concern की अपनी report।
+
+5
+00:00:16,300 --> 00:00:20,400
+दूसरा तरीका: empathic accuracy task।
+
+6
+00:00:20,400 --> 00:00:24,500
+Video में दूसरे व्यक्ति की emotion rate की जाती है।
+
+7
+00:00:24,500 --> 00:00:28,700
+Rating को target की अपनी rating से compare किया जाता है।
+
+8
+00:00:28,700 --> 00:00:32,800
+Score एक खास task का agreement बताता है।
+
+9
+00:00:32,800 --> 00:00:36,900
+अपनी feeling की rating, affective response है।
+
+10
+00:00:36,900 --> 00:00:41,000
+यह सामने वाले की feeling की perfect पहचान नहीं।
+
+11
+00:00:41,000 --> 00:00:45,100
+Self-report और performance कभी-कभी जुड़े, पर identical नहीं।
+
+12
+00:00:45,100 --> 00:00:49,200
+Reliability context और instrument पर निर्भर करती है।
+
+13
+00:00:49,200 --> 00:00:53,300
+Physiological या neural signal direct mind-reading नहीं।
+
+14
+00:00:53,300 --> 00:00:57,700
+एक score universal empathy या diagnosis तय नहीं करता।
+
+15
+00:00:57,700 --> 00:01:02,000
+AI-generated educational visuals; diagnosis या personal assessment नहीं।

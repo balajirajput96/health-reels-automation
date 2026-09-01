@@ -1,0 +1,148 @@
+{
+  "files": [
+    {
+      "id": "1H1y-0Sc48e1SCMugTKjdC55N9uCM2Yyn",
+      "md5Checksum": "38c8158bcda83bb712c8631af0c81b65",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T11:09:25.448Z",
+      "name": "reel_0077_drive_upload_manifest.json",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "7812",
+      "webViewLink": "https://drive.google.com/file/d/1H1y-0Sc48e1SCMugTKjdC55N9uCM2Yyn/view?usp=drivesdk"
+    },
+    {
+      "id": "1c2nDtUghWDJEixTWkz6kggIOzhgut7yj",
+      "md5Checksum": "ac9626be2f53dfa8c20e7f7f8f19d00f",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T11:08:24.396Z",
+      "name": "reel_0077_metadata.json",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "4938",
+      "webViewLink": "https://drive.google.com/file/d/1c2nDtUghWDJEixTWkz6kggIOzhgut7yj/view?usp=drivesdk"
+    },
+    {
+      "id": "1M18c7rzVGzt7UV55wOwwPX-lFW_mQPcQ",
+      "md5Checksum": "e787903b1fd98d19ac98afef16a36605",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T11:05:03.535Z",
+      "name": "reel_0077_scene_04.png",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "114080",
+      "webViewLink": "https://drive.google.com/file/d/1M18c7rzVGzt7UV55wOwwPX-lFW_mQPcQ/view?usp=drivesdk"
+    },
+    {
+      "id": "1BDpeHW-QQL8oYkS4NTWZvv7NMYONhOCG",
+      "md5Checksum": "7830691a597d838e1008f0afbccb4a17",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T11:04:46.780Z",
+      "name": "reel_0077_scene_03.png",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "143803",
+      "webViewLink": "https://drive.google.com/file/d/1BDpeHW-QQL8oYkS4NTWZvv7NMYONhOCG/view?usp=drivesdk"
+    },
+    {
+      "id": "1oGFNrcaSbTXZjw07hBFWGUNSNguzo6TG",
+      "md5Checksum": "6aaf54893c2019a29a40148d8c4493f5",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T11:04:28.580Z",
+      "name": "reel_0077_scene_02.png",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "128637",
+      "webViewLink": "https://drive.google.com/file/d/1oGFNrcaSbTXZjw07hBFWGUNSNguzo6TG/view?usp=drivesdk"
+    },
+    {
+      "id": "1T68CpWlx8QeEw9r7_hxSx9-ko_bOKINf",
+      "md5Checksum": "1cd25399f6eb5bb37ee9a8a0416a7598",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T11:04:13.928Z",
+      "name": "reel_0077_scene_01.png",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "170747",
+      "webViewLink": "https://drive.google.com/file/d/1T68CpWlx8QeEw9r7_hxSx9-ko_bOKINf/view?usp=drivesdk"
+    },
+    {
+      "id": "1SoWnfqsmBPJJr0WDhnP2dAzj7vHjcatZ",
+      "md5Checksum": "ad3d11c97e388b0c515eda059a7ea183",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T11:03:57.520Z",
+      "name": "reel_0077_stress_appraisal_what_studies_measure_script.md",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "5164",
+      "webViewLink": "https://drive.google.com/file/d/1SoWnfqsmBPJJr0WDhnP2dAzj7vHjcatZ/view?usp=drivesdk"
+    },
+    {
+      "id": "10RawX_cTq7BUrybPky2jEt55xsBn6h9q",
+      "md5Checksum": "9452711a6c5d9b5507fbcf671724316e",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T11:03:44.099Z",
+      "name": "reel_0077_stress_appraisal_what_studies_measure_sources.md",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "6402",
+      "webViewLink": "https://drive.google.com/file/d/10RawX_cTq7BUrybPky2jEt55xsBn6h9q/view?usp=drivesdk"
+    },
+    {
+      "id": "1AkgPvOvd92DfOtwx7fet17gnGdFX7DcI",
+      "md5Checksum": "77db891a333c13c12051abaa21c0c7e6",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T11:03:27.918Z",
+      "name": "reel_0077_qc_report.json",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "551",
+      "webViewLink": "https://drive.google.com/file/d/1AkgPvOvd92DfOtwx7fet17gnGdFX7DcI/view?usp=drivesdk"
+    },
+    {
+      "id": "1ZdiiYmQJ_HZy-iPJB7N1KqgQh3kRgStL",
+      "md5Checksum": "c741608f8185f52b962ecbab4d535b70",
+      "mimeType": "text/plain",
+      "modifiedTime": "2026-08-26T11:02:50.426Z",
+      "name": "reel_0077_stress_appraisal_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "1843",
+      "webViewLink": "https://drive.google.com/file/d/1ZdiiYmQJ_HZy-iPJB7N1KqgQh3kRgStL/view?usp=drivesdk"
+    },
+    {
+      "id": "1Pw6NxCegY2n-9--4GXe36-5RC839ozDx",
+      "md5Checksum": "824e6cb793c4c84f968b6586ad3954d4",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-26T11:02:32.742Z",
+      "name": "reel_0077_stress_appraisal_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "3588524",
+      "webViewLink": "https://drive.google.com/file/d/1Pw6NxCegY2n-9--4GXe36-5RC839ozDx/view?usp=drivesdk"
+    },
+    {
+      "id": "1kVPbVBkbKnlO8qAI_aHCoS-3rtToyjJK",
+      "md5Checksum": "7dbe83f5e0570ab8753ac9af6d21a3bb",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-26T11:02:14.768Z",
+      "name": "reel_0077_stress_appraisal_what_studies_measure_hi.mp4",
+      "parents": [
+        "1Pn2cRecbf8N0oCDKLYCX5iZydIe0k2wM"
+      ],
+      "size": "4995745",
+      "webViewLink": "https://drive.google.com/file/d/1kVPbVBkbKnlO8qAI_aHCoS-3rtToyjJK/view?usp=drivesdk"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0027_observational_learning_what_studies_measure",
+  "queue_id": "0027",
+  "batch": "Batch_001",
+  "title_hi": "अवलोकन से सीखना: studies वास्तव में क्या मापते हैं?",
+  "topic": "observational learning measurement",
+  "unique_angle": "Observational learning is separated from simple imitation by measuring later choices, transfer, performance across trials, model-based updating, and task-related neural correlates.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 69.08,
+  "evidence_class": "peer-reviewed observational-learning reviews + primary model-based fMRI study",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis of learning, intelligence, personality, or social ability; no personalized study prescription, manipulation tactic, private-thought inference, or claim that neural signals directly reveal mental content.",
+  "source_ids": [
+    {"source_id":"doi:10.3389/fnhum.2020.609312","citation":"Kang, Pineda Hernández, and Mei (2021), Neural Mechanisms of Observational Learning: A Neural Working Model","url":"https://doi.org/10.3389/fnhum.2020.609312","type":"peer_reviewed_neural_learning_review"},
+    {"source_id":"doi:10.1007/BF03393102","citation":"Fryling, Johnston, and Hayes (2011), Understanding Observational Learning: An Interbehavioral Approach","url":"https://doi.org/10.1007/BF03393102","type":"peer_reviewed_behavioral_review"},
+    {"source_id":"doi:10.1038/s41539-024-00227-9","citation":"Rodriguez Buritica et al. (2024), Observational reinforcement learning in children and young adults","url":"https://doi.org/10.1038/s41539-024-00227-9","type":"peer_reviewed_primary_model_based_fmri_study"},
+    {"source_id":"doi:10.1038/s41583-020-0276-4","citation":"Olsson, Knapska, and Lindström (2020), The neural and computational systems of social learning","url":"https://doi.org/10.1038/s41583-020-0276-4","type":"peer_reviewed_social_learning_review"}
+  ],
+  "assets": {
+    "video":"assets/reel_0027_observational_learning_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0027_observational_learning_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0027_observational_learning_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0027_observational_learning_what_studies_measure_script.md",
+    "sources":"research/reel_0027_observational_learning_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0027_scene_01.png","assets/reel_0027_scene_02.png","assets/reel_0027_scene_03.png","assets/reel_0027_scene_04.png"],
+    "qc_report":"assets/reel_0027_qc_report.json",
+    "drive_manifest":"state/reel_0027_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes showing observation versus copying, behavioral transfer, model-based estimates with signals, and interpretation guardrails. No participant likenesses, diagnostic scores, substance instructions, or private-experience readouts.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. The visuals illustrate research methods, not a diagnostic test or direct neural readout. Not medical advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1tAfxwwKneJkQmjGxL-hr_cFwaxmbVFDx","drive_verification_note":"Initial independent Drive verification passed: 11 expected package objects, all nonzero, all in the Reel_0027 parent, one nonzero manifest control object, and 0 unrelated remote objects."}
+}

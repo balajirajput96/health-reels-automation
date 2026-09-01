@@ -1,0 +1,7 @@
+R0081 visual QC — scenes 01–02
+
+Scene 01: 1440x2560 RGB PNG. Repaired script-aware font rendering is clean for both Devanagari and Latin; no tofu boxes, clipping, or overlap observed. Hook/title, three measurement-layer cards, and concluding boundary card are readable with strong contrast and clear hierarchy.
+
+Scene 02: 1440x2560 RGB PNG. Timeline and labels render cleanly; behavior and physiology cards are separated and legible. No clipping, tofu, or layout collisions observed. Colors and contrast remain consistent with scene 01.
+
+Inspection status: scenes 01–02 visually pass; continue inspecting scenes 03–04 before assembly.

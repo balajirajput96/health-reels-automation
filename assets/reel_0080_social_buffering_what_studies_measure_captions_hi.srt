@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,300
+क्या साथ होने से तनाव हमेशा घटता है? शोध में जवाब इतना सीधा नहीं।
+
+2
+00:00:04,300 --> 00:00:10,400
+सामाजिक बफ़रिंग research label है: किसी तय challenge के दौरान social condition के साथ stress response में बदलाव।
+
+3
+00:00:10,400 --> 00:00:12,900
+पहले stressor और social condition तय होते हैं।
+
+4
+00:00:12,900 --> 00:00:17,200
+presence, assistance, perceived support और received support अलग constructs हैं।
+
+5
+00:00:17,200 --> 00:00:21,500
+perceived support संभावित access है; received support किसी समय मिला support है।
+
+6
+00:00:21,500 --> 00:00:26,000
+प्रयोगशाला में Trier Social Stress Test जैसे social-evaluation tasks हो सकते हैं।
+
+7
+00:00:26,000 --> 00:00:31,300
+तब saliva cortisol, cardiovascular reactivity और stress या calmness की self-report मापी जा सकती है।
+
+8
+00:00:31,300 --> 00:00:37,800
+एक human experiment ने best-friend support, oxytocin condition और no-support की तुलना में cortisol, calmness और anxiety देखी।
+
+9
+00:00:37,800 --> 00:00:42,200
+तैयारी के दौरान support और task के दौरान support अलग exposure हैं।
+
+10
+00:00:42,200 --> 00:00:47,400
+रोज़मर्रा में experience sampling smartphone prompts से context, mood और stress बार-बार पूछ सकता है।
+
+11
+00:00:47,400 --> 00:00:51,300
+इससे timing बेहतर दिखती है, causation साबित नहीं होती।
+
+12
+00:00:51,300 --> 00:00:55,800
+इसलिए sample, task, support type, measure और time window देखें।
+
+13
+00:00:55,800 --> 00:00:59,100
+एक biomarker से mental health तय नहीं होती।
+
+14
+00:00:59,100 --> 00:01:03,500
+support का असर हर व्यक्ति और हर context में एक जैसा मानना सुरक्षित नहीं।
+
+15
+00:01:03,500 --> 00:01:11,160
+यह AI-सहायित शैक्षिक reel है; व्यक्तिगत सलाह नहीं।

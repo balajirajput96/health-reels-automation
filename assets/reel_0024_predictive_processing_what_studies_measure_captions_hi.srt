@@ -1,0 +1,91 @@
+1
+00:00:00,000 --> 00:00:03,500
+क्या brain future predict करता है?
+
+2
+00:00:03,500 --> 00:00:06,800
+Prediction error सीधे पढ़ सकते हैं?
+
+3
+00:00:06,800 --> 00:00:10,000
+पहले measurement तय किया जाता है
+
+4
+00:00:10,000 --> 00:00:13,500
+Higher levels sensory causes का अनुमान लगाते हैं
+
+5
+00:00:13,500 --> 00:00:16,900
+Data और expectation का mismatch
+
+6
+00:00:16,900 --> 00:00:20,200
+इसे prediction error कहा जाता है
+
+7
+00:00:20,200 --> 00:00:23,500
+Perceptual hypothesis update हो सकती है
+
+8
+00:00:23,500 --> 00:00:26,800
+Behavior: accuracy और reaction time
+
+9
+00:00:26,800 --> 00:00:30,100
+Detection, learning और surprise response
+
+10
+00:00:30,100 --> 00:00:33,300
+Expected, repeated, omitted stimuli
+
+11
+00:00:33,300 --> 00:00:36,500
+Deviant stimuli भी compare होते हैं
+
+12
+00:00:36,500 --> 00:00:39,700
+EEG, MEG और single-neuron signals
+
+13
+00:00:39,700 --> 00:00:42,900
+Timing, power और activity patterns
+
+14
+00:00:42,900 --> 00:00:46,100
+fMRI में BOLD signal देखा जाता है
+
+15
+00:00:46,100 --> 00:00:49,300
+Connectivity और models संबंध quantify करते हैं
+
+16
+00:00:49,300 --> 00:00:52,500
+Repetition suppression अकेला proof नहीं
+
+17
+00:00:52,500 --> 00:00:55,700
+Adaptation, attention और arousal भी असर डालते हैं
+
+18
+00:00:55,700 --> 00:00:59,000
+Model-brain correlation exact algorithm नहीं
+
+19
+00:00:59,000 --> 00:01:02,200
+Expectation और mismatch कैसे define हुए?
+
+20
+00:01:02,200 --> 00:01:04,000
+Behavior और neural signal क्या था?
+
+21
+00:01:04,000 --> 00:01:05,000
+Predictive processing useful hypothesis है
+
+22
+00:01:05,000 --> 00:01:05,400
+Thoughts या symptoms का direct meter नहीं
+
+23
+00:01:05,400 --> 00:01:05,760
+Educational reel; diagnosis या treatment advice नहीं

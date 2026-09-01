@@ -1,0 +1,136 @@
+{
+  "files": [
+    {
+      "id": "1Em-XfegdDPf-n9TZr2Lfr6kbYWf23mlh",
+      "md5Checksum": "3d5f99ed3fb3374dd4a541767a1554fe",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T12:36:26.615Z",
+      "name": "reel_0080_scene_04.png",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "163751",
+      "webViewLink": "https://drive.google.com/file/d/1Em-XfegdDPf-n9TZr2Lfr6kbYWf23mlh/view?usp=drivesdk"
+    },
+    {
+      "id": "1VTvFaZ7IozBxWa8ukKHzAJ-iNXOjAGmG",
+      "md5Checksum": "cd1393001fd4f583b277fa40b41c3cd7",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T12:36:06.718Z",
+      "name": "reel_0080_scene_03.png",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "191680",
+      "webViewLink": "https://drive.google.com/file/d/1VTvFaZ7IozBxWa8ukKHzAJ-iNXOjAGmG/view?usp=drivesdk"
+    },
+    {
+      "id": "1TMAahJfC2wxM7SJqzvliEJgZ1JmhwGQK",
+      "md5Checksum": "5aa35d7f1607ae99bb96e9e26e8d6941",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T12:35:44.809Z",
+      "name": "reel_0080_scene_02.png",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "164450",
+      "webViewLink": "https://drive.google.com/file/d/1TMAahJfC2wxM7SJqzvliEJgZ1JmhwGQK/view?usp=drivesdk"
+    },
+    {
+      "id": "1T9lO2J-k1irjvID-c3F58ooZIMnpOiUt",
+      "md5Checksum": "fe3ee288809db320073b4c2410848d45",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T12:35:25.506Z",
+      "name": "reel_0080_scene_01.png",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "232942",
+      "webViewLink": "https://drive.google.com/file/d/1T9lO2J-k1irjvID-c3F58ooZIMnpOiUt/view?usp=drivesdk"
+    },
+    {
+      "id": "1scj1xFB5PcoOLw5D6GsYxPwB1Gakx0yb",
+      "md5Checksum": "b8a4c197751de3fa0ee29fc0d4ae19be",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T12:35:06.449Z",
+      "name": "reel_0080_social_buffering_what_studies_measure_script.md",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "7157",
+      "webViewLink": "https://drive.google.com/file/d/1scj1xFB5PcoOLw5D6GsYxPwB1Gakx0yb/view?usp=drivesdk"
+    },
+    {
+      "id": "1fElr5QNLu2yv-fg9luHQu9WZC2WPfO_J",
+      "md5Checksum": "02d6489b4437ae6a8dbfa152882952d0",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T12:34:49.916Z",
+      "name": "reel_0080_social_buffering_what_studies_measure_sources.md",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "9004",
+      "webViewLink": "https://drive.google.com/file/d/1fElr5QNLu2yv-fg9luHQu9WZC2WPfO_J/view?usp=drivesdk"
+    },
+    {
+      "id": "1XMgYRTdfNavK-HYasb8yFL3iJ-cZ6JGU",
+      "md5Checksum": "a7ac4546d69b30bd30c17599e3b0c26f",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T12:34:33.166Z",
+      "name": "reel_0080_qc_report.json",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "551",
+      "webViewLink": "https://drive.google.com/file/d/1XMgYRTdfNavK-HYasb8yFL3iJ-cZ6JGU/view?usp=drivesdk"
+    },
+    {
+      "id": "1943GlXvXTRZ6IPP1COC1CVY0UhxyFLCt",
+      "md5Checksum": "691f93915fbda644c094c2bdf5cd0782",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T12:34:12.840Z",
+      "name": "reel_0080_metadata.json",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "4635",
+      "webViewLink": "https://drive.google.com/file/d/1943GlXvXTRZ6IPP1COC1CVY0UhxyFLCt/view?usp=drivesdk"
+    },
+    {
+      "id": "1Sp3K-IhX2YCEWkiCu4JZ-gtp04Bb0OG-",
+      "md5Checksum": "c1929e8928b737d66034ac8e2de94928",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-26T12:33:55.705Z",
+      "name": "reel_0080_social_buffering_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "2473",
+      "webViewLink": "https://drive.google.com/file/d/1Sp3K-IhX2YCEWkiCu4JZ-gtp04Bb0OG-/view?usp=drivesdk"
+    },
+    {
+      "id": "1xK2XsdJbxENtGTKCgWh5eUZ2FrUfSTIG",
+      "md5Checksum": "1b3d50899f826ab5e1f827fcda5de697",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-26T12:33:38.165Z",
+      "name": "reel_0080_social_buffering_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "3415724",
+      "webViewLink": "https://drive.google.com/file/d/1xK2XsdJbxENtGTKCgWh5eUZ2FrUfSTIG/view?usp=drivesdk"
+    },
+    {
+      "id": "1clRBO2lH4gw-oAV05C1mwEvMj12Ak3g8",
+      "md5Checksum": "2b3c0f341afbb37fe19f92b8c7ad9eae",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-26T12:33:18.378Z",
+      "name": "reel_0080_social_buffering_what_studies_measure_hi.mp4",
+      "parents": [
+        "1VIVv7cBl8TO1e_mMBIN31aO1wbvLgKun"
+      ],
+      "size": "5466343",
+      "webViewLink": "https://drive.google.com/file/d/1clRBO2lH4gw-oAV05C1mwEvMj12Ak3g8/view?usp=drivesdk"
+    }
+  ]
+}

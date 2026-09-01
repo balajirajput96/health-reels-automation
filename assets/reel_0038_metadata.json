@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0038_cue_competition_what_studies_measure",
+  "queue_id": "0038",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0038",
+  "title_hi": "Cue competition: studies क्या मापती हैं?",
+  "topic": "cue competition and prospective-memory measurement",
+  "unique_angle": "An if-then plan may alter cue detection or action retrieval, but studies separately measure prospective and retrospective memory, ongoing-task cost, and transfer to new or ecological tasks.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 72.24,
+  "evidence_class": "peer-reviewed original research and review",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, guaranteed memory enhancement, mind-reading, or individualized psychological inference.",
+  "source_ids": [
+    {"source_id":"doi:10.1016/j.concog.2014.05.003","citation":"Smith et al. (2014), Investigating How Implementation Intentions Improve Non-Focal Prospective Memory Tasks","url":"https://doi.org/10.1016/j.concog.2014.05.003","type":"peer_reviewed_original_research"},
+    {"source_id":"doi:10.3389/fpsyg.2022.905860","citation":"Koo, Neumann, Ownsworth, and Shum (2022), The effects of implementation intentions on prospective memory in young and older adults","url":"https://doi.org/10.3389/fpsyg.2022.905860","type":"peer_reviewed_original_research"},
+    {"source_id":"doi:10.3389/fnhum.2015.00395","citation":"Wieber, Thürmer, and Gollwitzer (2015), Promoting the translation of intentions into action by implementation intentions","url":"https://doi.org/10.3389/fnhum.2015.00395","type":"peer_reviewed_review"}
+  ],
+  "assets": {
+    "video":"assets/reel_0038_cue_competition_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0038_cue_competition_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0038_cue_competition_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0038_cue_competition_what_studies_measure_script.md",
+    "sources":"research/reel_0038_cue_competition_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0038_scene_01.png","assets/reel_0038_scene_02.png","assets/reel_0038_scene_03.png","assets/reel_0038_scene_04.png"],
+    "qc_report":"assets/reel_0038_qc_report.json",
+    "drive_manifest":"state/reel_0038_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes showing competing cues at an attention gate, prospective versus retrospective memory, separate planned-task and ongoing-task traces, and laboratory-to-ecology transfer guardrails. No participant likenesses, diagnosis, literal mind-reading, or individual prediction.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research methods and outcomes, not guaranteed memory enhancement or individual prediction. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1ciceDeraBZkAl51vpBtvh3hfMjkMhcrV","drive_verification_note":"Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0038 parent, one nonzero manifest control object, and zero unrelated remote objects."}
+}

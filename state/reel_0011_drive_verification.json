@@ -1,0 +1,82 @@
+{
+  "folder_id": "1paYv1SLKrooPlKXbhtBZ66ict_Wg8Tkb",
+  "manifest_id": "13GCAH_Eu4ORD0YDqiYKLL1RVhPRU2vdr",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "expected_objects": [
+    {
+      "name": "reel_0011_metadata.json",
+      "id": "1GaKALDXueWh8EdW27RSYCW8ziDdKUSL4",
+      "size": 4175,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0011_prefrontal_control_what_studies_measure_captions_hi.srt",
+      "id": "1VF3-sixlfSdgYcqS7SlP3YNiqxAc76xK",
+      "size": 2319,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0011_prefrontal_control_what_studies_measure_hi.mp4",
+      "id": "1HovAgS0kzHVx56hznO84WttbDwDQaedb",
+      "size": 3922410,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0011_prefrontal_control_what_studies_measure_narration_hi.wav",
+      "id": "1CUFhMoRiCZfdsyo1QRx0upNtKUdcSrRL",
+      "size": 3402284,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0011_prefrontal_control_what_studies_measure_script.md",
+      "id": "1BKsKgiXYppaI0SAc08YirvP2XVY992JM",
+      "size": 6328,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0011_prefrontal_control_what_studies_measure_sources.md",
+      "id": "1M8_zJAQeoMDdUEAkBxma9BQDe6628Yba",
+      "size": 5798,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0011_qc_report.json",
+      "id": "1zMFngIhxiUEwf8czIHj6Thqi27TE4TGh",
+      "size": 551,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0011_scene_01.png",
+      "id": "1atyTI1FrLkXYo_bG1c-8HN-0ZQKTit4h",
+      "size": 115981,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0011_scene_02.png",
+      "id": "1q4PsK2wfsPD1jMUKmaLa23lXO44g0CtV",
+      "size": 123870,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0011_scene_03.png",
+      "id": "1AQBxW-oATUA5Vq6MIvSUsM1sSX0g6R_X",
+      "size": 123012,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0011_scene_04.png",
+      "id": "1PZ7eYe-ibE9seVtsO1NpeGnLBMKSbMwr",
+      "size": 124554,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}

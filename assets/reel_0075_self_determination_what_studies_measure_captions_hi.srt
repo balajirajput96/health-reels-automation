@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,632
+क्या मैं यह काम अपनी इच्छा से कर रहा हूँ, या दबाव में?
+
+2
+00:00:04,632 --> 00:00:09,264
+SDT motivation को अलग constructs में बाँटती है।
+
+3
+00:00:09,264 --> 00:00:13,896
+Studies motivation को सीधे नहीं पढ़तीं।
+
+4
+00:00:13,896 --> 00:00:18,528
+Autonomy: choice और volition का अनुभव।
+
+5
+00:00:18,528 --> 00:00:23,160
+Competence: mastery या effectiveness का अनुभव।
+
+6
+00:00:23,160 --> 00:00:27,792
+Relatedness: connection और belonging का अनुभव।
+
+7
+00:00:27,792 --> 00:00:32,424
+Motivation का regulatory style भी पूछा जा सकता है।
+
+8
+00:00:32,424 --> 00:00:37,056
+Interest, reward या pressure—कारण अलग हो सकते हैं।
+
+9
+00:00:37,056 --> 00:00:41,688
+अक्सर questionnaires और domain-specific scales।
+
+10
+00:00:41,688 --> 00:00:46,320
+General-life, work और relationship scales interchangeable नहीं।
+
+11
+00:00:46,320 --> 00:00:50,952
+फिर engagement, persistence और performance देखे जाते हैं।
+
+12
+00:00:50,952 --> 00:00:55,584
+Need score और observed outcome अलग evidence हैं।
+
+13
+00:00:55,584 --> 00:01:00,216
+Relationship context और measurement पर निर्भर होती है।
+
+14
+00:01:00,216 --> 00:01:04,848
+Questionnaire पूरी motivation या ability diagnose नहीं करता।
+
+15
+00:01:04,848 --> 00:01:09,480
+Need, domain, scale और outcome पूछिए; personal assessment नहीं।

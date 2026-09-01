@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0053_framing_effect_what_studies_measure",
+  "queue_id":"0053",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0053",
+  "title_hi":"फ्रेमिंग इफ़ेक्ट: studies क्या मापते हैं?",
+  "topic":"risky-choice, attribute, and goal framing effects",
+  "unique_angle":"Framing findings depend on frame type, option structure, context, participant sample, and the outcome actually measured; an observed response difference is not a diagnosis of irrationality.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed risky-choice meta-analysis, taxonomy-based meta-analytic review, metastudies, and recent systematic review",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. No medical, political, financial, or individualized decision advice; no mind-reading or person-level irrationality diagnosis.",
+  "source_ids":[
+    {"source_id":"doi:10.1006/obhd.1998.2781","citation":"Kühberger (1998), The influence of framing on risky decisions: A meta-analysis","url":"https://doi.org/10.1006/obhd.1998.2781","type":"peer_reviewed_risky_choice_meta_analysis"},
+    {"source_id":"article:psicothema-3107","citation":"Piñón and Gambara (2005), A meta-analytic review of framing effect: Risky, attribute and goal framing","url":"https://www.psicothema.com/pii?pii=3107","type":"peer_reviewed_taxonomy_meta_analysis"},
+    {"source_id":"doi:10.1177/17456916221079611","citation":"DeKay, Rubinchik, Li, and De Boeck (2022), Accelerating Psychological Science With Metastudies: A Demonstration Using the Risky-Choice Framing Effect","url":"https://doi.org/10.1177/17456916221079611","type":"peer_reviewed_metastudy"},
+    {"source_id":"doi:10.17179/excli2023-6169","citation":"Kühberger (2023), A systematic review of risky-choice framing effects","url":"https://doi.org/10.17179/excli2023-6169","type":"peer_reviewed_systematic_review"}
+  ],
+  "assets":{
+    "video":"assets/reel_0053_framing_effect_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0053_framing_effect_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0053_framing_effect_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0053_framing_effect_what_studies_measure_script.md",
+    "sources":"research/reel_0053_framing_effect_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0053_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0053_scene_01.png","assets/reel_0053_scene_02.png","assets/reel_0053_scene_03.png","assets/reel_0053_scene_04.png"],
+    "qc_report":"assets/reel_0053_qc_report.json",
+    "drive_manifest":"state/reel_0053_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes illustrating equivalent gain/loss wording, distinct frame types, moderators, and an evidence checklist. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research-measure distinctions, not hidden beliefs, person-level irrationality, or guaranteed predictions. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":63.48,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1PBJEfhRjgkL_FYoO8qQN3QH2WQhylKul","drive_verification_note":"Local QC passed; exact 11-object package, metadata, manifest, and final independent Drive verification passed. No social publication attempted."}
+}

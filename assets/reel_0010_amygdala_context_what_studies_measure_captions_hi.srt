@@ -1,0 +1,70 @@
+1
+00:00:00,000 --> 00:00:04,300
+Brain scan से क्या पता चलता है?
+
+2
+00:00:04,300 --> 00:00:08,000
+Amygdala research में answer simple नहीं
+
+3
+00:00:08,000 --> 00:00:12,000
+Context = cue या event की situation
+
+4
+00:00:12,000 --> 00:00:16,500
+एक human study में दो virtual environments
+
+5
+00:00:16,500 --> 00:00:21,000
+एक shock-associated, दूसरा comparison
+
+6
+00:00:21,000 --> 00:00:26,000
+Skin conductance, ratings और BOLD compare हुए
+
+7
+00:00:26,000 --> 00:00:30,500
+Amygdala और hippocampus signals अलग दिखे
+
+8
+00:00:30,500 --> 00:00:35,000
+तीन layers अलग रखिए
+
+9
+00:00:35,000 --> 00:00:40,000
+Skin conductance = physiological response
+Rating = participant की report
+
+10
+00:00:40,000 --> 00:00:44,500
+BOLD indirect signal है
+
+11
+00:00:44,500 --> 00:00:49,000
+Neurons, thoughts या emotion की direct recording नहीं
+
+12
+00:00:49,000 --> 00:00:53,500
+Connectivity model = statistical relation
+Direct wiring नहीं
+
+13
+00:00:53,500 --> 00:00:56,500
+2021 review methods अलग करती है
+
+14
+00:00:56,500 --> 00:00:59,500
+2024 appraisal fMRI पर caution देती है
+
+15
+00:00:59,500 --> 00:01:01,700
+एक scan = final emotion proof नहीं
+
+16
+00:01:01,700 --> 00:01:03,700
+Context, method और inference पूछिए
+
+17
+00:01:03,700 --> 00:01:05,650
+Educational reel; diagnosis या treatment advice नहीं
+Visuals conceptual हैं, literal scan नहीं

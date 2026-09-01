@@ -1,0 +1,84 @@
+{
+  "folder_id": "1R2XSCfpYLdJfEK90p_a-zKW3GMtxceok",
+  "manifest_id": "1gdC2mZhIPxMs2p42ktWUPjYMpJ4ztCEW",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "duplicate_expected_names": [],
+  "manifest_found_once": false,
+  "manifest_parent_ok": false,
+  "manifest_nonzero": false,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0068_metadata.json",
+      "id": "1ZZsstyh_A3IIR1SyV5KXHK-ORTwAo5wN",
+      "size": 3640,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0068_qc_report.json",
+      "id": "1Kx_4VdDUVnFxinOnwcIEowvmlIJA1tXP",
+      "size": 550,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0068_scene_01.png",
+      "id": "1d11Vp2RONqVxm75ldj0TlI98QU1T9_4L",
+      "size": 67076,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0068_scene_02.png",
+      "id": "1VKfXPnICqNTlEbTcafRxzyqpyaFfIomv",
+      "size": 65171,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0068_scene_03.png",
+      "id": "1Dg8xoRI9-ToKS3p5bLVvyyoHUR-UNCim",
+      "size": 62951,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0068_scene_04.png",
+      "id": "1lMqJpuPquCUUVqLtBVRjIVZ6rFq48h8e",
+      "size": 67277,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0068_social_learning_what_studies_measure_captions_hi.srt",
+      "id": "1qquAwDfgvRoZNXurIxCJoubqd-GuF-mM",
+      "size": 2069,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0068_social_learning_what_studies_measure_hi.mp4",
+      "id": "1iOrx50gbIul_Y1ZkT2Q4MVt1w7DUYsg1",
+      "size": 2018172,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0068_social_learning_what_studies_measure_narration_hi.wav",
+      "id": "1oIT8EbU03s7xPzMfsbLXWJ1b4ZDVug7t",
+      "size": 3012524,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0068_social_learning_what_studies_measure_script.md",
+      "id": "1KbiklOAya10WTuRkTxfPoEYR7CUGLzsR",
+      "size": 5485,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0068_social_learning_what_studies_measure_sources.md",
+      "id": "1lEN2QGTDgO1u-6717APLCBdelg74mUTy",
+      "size": 4642,
+      "mimeType": "text/markdown"
+    }
+  ],
+  "valid": false
+}

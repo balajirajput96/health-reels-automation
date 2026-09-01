@@ -1,0 +1,83 @@
+{
+  "folder_id": "1PwCsnsEHalVMWFUwRXLJI8FuE7lJJHIf",
+  "manifest_id": "1UI6JJ6F6hTQ6AxV2ZSeR-5iUTdkhamXF",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0046_contemplative_traditions_what_studies_measure_captions_hi.srt",
+      "id": "1lLAgH8NBiUTbwJ_vbGti2hoBeRlRMyMh",
+      "size": 1937,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0046_contemplative_traditions_what_studies_measure_hi.mp4",
+      "id": "1WEGE2NJdGch2Dc8hna54y6VApfEHqrdz",
+      "size": 3726396,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0046_contemplative_traditions_what_studies_measure_narration_hi.wav",
+      "id": "1QsjQ5si8oGhKbVdXLswbsX2Qs8eecEUf",
+      "size": 3279404,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0046_contemplative_traditions_what_studies_measure_script.md",
+      "id": "1bCeZDRsjlMy1xD1zDlUsanTvBnytZhnL",
+      "size": 5574,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0046_contemplative_traditions_what_studies_measure_sources.md",
+      "id": "11_RI9jwTi4tz5F_yHXz18nu212VUxKEk",
+      "size": 5303,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0046_metadata.json",
+      "id": "1qGGbOk0QTe80qGm_klQJTKstMjOU1Q5C",
+      "size": 4001,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0046_qc_report.json",
+      "id": "1QgFZUe_el2vAE0DNCSZasev71453Rnn5",
+      "size": 559,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0046_scene_01.png",
+      "id": "1S-OelT1M9Hb109ftUXEa96YFbA9sUaGR",
+      "size": 113548,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0046_scene_02.png",
+      "id": "1ZsBjaQtFIzRHPJjeCIJc8lWDSiqdad2k",
+      "size": 103076,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0046_scene_03.png",
+      "id": "1-FSD2Lw-fLUBqP8E9gyqg7VPhMe3kZ5g",
+      "size": 107520,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0046_scene_04.png",
+      "id": "1KGOglEDOgmACtLONfKzAj9l6vrq9E8bf",
+      "size": 104727,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}

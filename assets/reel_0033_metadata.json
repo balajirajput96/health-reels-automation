@@ -1,0 +1,37 @@
+{
+  "reel_id": "reel_0033_emotion_granularity_what_studies_measure",
+  "queue_id": "0033",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0033",
+  "title_hi": "भावनाओं की बारीकी: studies क्या मापती हैं?",
+  "topic": "emotional granularity and emotion differentiation measurement",
+  "unique_angle": "Emotion granularity is estimated from differentiated emotion reports across contexts; it is not the same as counting emotion words, reading physiology, or assigning a fixed personal trait.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 74.6,
+  "evidence_class": "peer-reviewed experience-sampling, repeated self-report, vignette, language, and physiological measurement research",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, character judgment, guaranteed benefit, mind-reading claim, or individualized psychological inference.",
+  "source_ids": [
+    {"source_id":"doi:10.1007/s42761-023-00185-2","citation":"Hoemann et al. (2023), Emotional Granularity is Associated with Daily Experiential Diversity","url":"https://doi.org/10.1007/s42761-023-00185-2","type":"peer_reviewed_experience_sampling_language_measurement"},
+    {"source_id":"doi:10.3389/fpsyg.2021.704125","citation":"Hoemann, Barrett, and Quigley (2021), Emotional Granularity Increases With Intensive Ambulatory Assessment: Methodological and Individual Factors Influence How Much","url":"https://doi.org/10.3389/fpsyg.2021.704125","type":"peer_reviewed_intensive_ambulatory_assessment"},
+    {"source_id":"doi:10.3389/fpsyg.2022.715966","citation":"Tan, Wachsmuth, and Tugade (2022), Emotional Nuance: Examining Positive Emotional Granularity and Well-Being","url":"https://doi.org/10.3389/fpsyg.2022.715966","type":"peer_reviewed_review_measurement_methods"},
+    {"source_id":"doi:10.3389/fpsyg.2021.703658","citation":"Wilson-Mendenhall and Dunne (2021), Cultivating Emotional Granularity","url":"https://doi.org/10.3389/fpsyg.2021.703658","type":"peer_reviewed_theoretical_perspective"}
+  ],
+  "assets": {
+    "video":"assets/reel_0033_emotion_granularity_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0033_emotion_granularity_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0033_emotion_granularity_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0033_emotion_granularity_what_studies_measure_script.md",
+    "sources":"research/reel_0033_emotion_granularity_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0033_scene_01.png","assets/reel_0033_scene_02.png","assets/reel_0033_scene_03.png","assets/reel_0033_scene_04.png"],
+    "qc_report":"assets/reel_0033_qc_report.json",
+    "drive_manifest":"state/reel_0033_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes showing repeated experience-sampling moments, differentiated rating trajectories, separate vignette/self-report/physiology/context channels, and study-interpretation guardrails. No participant likenesses, diagnostic labels, private-thought display, or literal brain decoding.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research methods, not exact thoughts, diagnoses, emotion detection, or individual prediction. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1FoqrQDXaVh9anamXCmxQBILeSJW8ajqh","drive_verification_note":"Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0033 parent, one nonzero manifest control object, and 11 unrelated legacy uppercase objects retained unchanged."}
+}

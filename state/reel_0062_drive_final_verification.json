@@ -1,0 +1,83 @@
+{
+  "folder_id": "15gnZMh2mfcbISTwNuRKe8FZnisGfpG90",
+  "manifest_id": "1GEIr2uS-NON8sk-LWqVUqyQtxKmdCMGh",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0062_metadata.json",
+      "id": "1-OXZ8JmSxUosK1O56M8Wxpm1eqySM5sR",
+      "size": 4423,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0062_qc_report.json",
+      "id": "16ruxaZL7k1p4cfOf6CNtIL48XsFZKm32",
+      "size": 554,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0062_scene_01.png",
+      "id": "1M3R8VPS6xJxxHJ2NkytJWeAkUnY9qptu",
+      "size": 61993,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0062_scene_02.png",
+      "id": "1JcLvJaFTs2u3py8PiSBj1HY45WQxMSsY",
+      "size": 65142,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0062_scene_03.png",
+      "id": "1mtp1iCBhUOFZYnKF8Y-WjRNtL8rAhKlq",
+      "size": 59809,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0062_scene_04.png",
+      "id": "1Fb0v1vnzXqkQmqpRCR77cS2rOGYZvc4N",
+      "size": 68884,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0062_selective_attention_what_studies_measure_captions_hi.srt",
+      "id": "1XuH5CGb0WqikQgdpdTXJU0MuC0w-m_W-",
+      "size": 2271,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0062_selective_attention_what_studies_measure_hi.mp4",
+      "id": "1V5ZTrPiLq9ydJHIjXm1L3PuvaXg8cyoy",
+      "size": 3484666,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0062_selective_attention_what_studies_measure_narration_hi.wav",
+      "id": "1vRuQrb3fhGHxmmclOH5FgQRWcD0nnSZf",
+      "size": 3521324,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0062_selective_attention_what_studies_measure_script.md",
+      "id": "12TdLTcc938Gt3Bg22UzPE9xjSiPm6EFq",
+      "size": 5143,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0062_selective_attention_what_studies_measure_sources.md",
+      "id": "1KrILH9tYQ3sIcWrRBtivgfnEhp2M92s3",
+      "size": 4920,
+      "mimeType": "text/markdown"
+    }
+  ],
+  "valid": true
+}

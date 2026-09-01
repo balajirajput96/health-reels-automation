@@ -1,0 +1,84 @@
+{
+  "folder_id": "1Zg9YfILd0vbauowuQWsz52BQsXhZfVD1",
+  "manifest_id": "1ya7ZpbJ4uagOhyL9zBcmdWbr6dJAy-5T",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "duplicate_expected_names": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0070_dehumanization_what_studies_measure_captions_hi.srt",
+      "id": "1kGSyMysxKvUes8XdiqIF3tVyKV5iSPac",
+      "size": 1777,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0070_dehumanization_what_studies_measure_hi.mp4",
+      "id": "1DhC7e71lV6oQtCwfl-8tM-RKe2QEQ88W",
+      "size": 2337554,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0070_dehumanization_what_studies_measure_narration_hi.wav",
+      "id": "19IvBPp08FCk9QU0QSzIbiZ-FG_uXuoBp",
+      "size": 3304364,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0070_dehumanization_what_studies_measure_script.md",
+      "id": "1okHKY38kML2SolG5f-hJ1QWQoK4qy34A",
+      "size": 5258,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0070_dehumanization_what_studies_measure_sources.md",
+      "id": "1waNW1cqv5bcrJego71kSO5-vNFg1ZrIN",
+      "size": 5152,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0070_metadata.json",
+      "id": "1BizC0qFQTHSTMDmSjSJhP5r-Cbiceutf",
+      "size": 4016,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0070_qc_report.json",
+      "id": "1b9yKLnQJKTxASyacaFLUqZd6LbxbZXZv",
+      "size": 549,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0070_scene_01.png",
+      "id": "1eJ_eg2lxp9oHP5JSVojrcDiqTRzrsPfi",
+      "size": 52260,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0070_scene_02.png",
+      "id": "1fgUhM-BqdDRnvfM3T7Fq0MdIeHeT96xG",
+      "size": 37694,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0070_scene_03.png",
+      "id": "116X8iC3c9HQ_uWUD8C9TWhp6EwXbOQpC",
+      "size": 60334,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0070_scene_04.png",
+      "id": "1_rC27hTIExPGgPnRvK3C16JwZB4F7YXR",
+      "size": 41205,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}

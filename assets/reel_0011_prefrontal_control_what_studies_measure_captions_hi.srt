@@ -1,0 +1,65 @@
+1
+00:00:00,000 --> 00:00:03,800
+क्या prefrontal cortex आपके self-control का single button है?
+
+2
+00:00:03,800 --> 00:00:07,400
+Research में control को कई अलग tasks से measure किया जाता है।
+
+3
+00:00:07,400 --> 00:00:11,800
+कुछ studies Go/No-Go या stop-signal task में देखती हैं कि व्यक्ति response रोक पाता है या नहीं।
+
+4
+00:00:11,800 --> 00:00:16,400
+Stroop task में conflicting information के बीच rule follow करने का समय और accuracy मापी जाती है।
+
+5
+00:00:16,400 --> 00:00:20,800
+Working memory में information hold और update करनी होती है;
+
+6
+00:00:20,800 --> 00:00:24,200
+task-switching में rule बदलना होता है।
+
+7
+00:00:24,200 --> 00:00:28,000
+फिर brain data जोड़ा जाता है।
+
+8
+00:00:28,000 --> 00:00:32,200
+fMRI का BOLD signal conditions के बीच compare होता है।
+
+9
+00:00:32,200 --> 00:00:35,800
+Multivariate analysis patterns classify करती है।
+
+10
+00:00:35,800 --> 00:00:40,400
+Connectivity methods regions के statistical relationships estimate करती हैं।
+
+11
+00:00:40,400 --> 00:00:45,500
+लेकिन performance, BOLD activation और connectivity—तीनों एक ही चीज़ नहीं हैं।
+
+12
+00:00:45,500 --> 00:00:51,400
+2021 review control में unity और diversity बताती है:
+कुछ common हिस्सा है, पर task-specific demands भी हैं।
+
+13
+00:00:51,400 --> 00:00:57,100
+Meta-analysis में कई executive tasks के दौरान fronto-cingulo-parietal convergence मिला,
+फिर भी domain-specific differences दिखे।
+
+14
+00:00:57,100 --> 00:01:03,000
+इसलिए एक scan या एक score से किसी की पूरी discipline या self-control तय नहीं होता।
+
+15
+00:01:03,000 --> 00:01:07,300
+यह educational reel है; diagnosis या treatment advice नहीं।
+
+16
+00:01:07,300 --> 00:01:10,750
+Visuals conceptual हैं, literal brain recording नहीं।

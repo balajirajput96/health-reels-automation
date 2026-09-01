@@ -1,0 +1,2 @@
+DURATION 76.84
+duration outside 45-75 seconds; preserved /home/ubuntu/repos/health-reels-automation/assets/reel_0075_self_determination_what_studies_measure_narration_hi_attempt1_attempt1_76.84s.wav

@@ -1,0 +1,922 @@
+{
+  "files": [
+    {
+      "id": "11jUwiv6S3mCPmoDtqwVjRi_P8FwuBHYo",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T20:20:37.469Z",
+      "name": "batch_002_checkpoint_after_R0048.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "788"
+    },
+    {
+      "id": "1bV7x4Q9Bby72IsotuLHax5GcZfhIukN0",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T19:34:00.377Z",
+      "name": "Batch_002_next30_queue.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "6094"
+    },
+    {
+      "id": "1KPXu57cJEe6PeucRDS8N3vtoMd0_xGdK",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T19:53:24.217Z",
+      "name": "Batch_002_progress_after_R0045_next_R0046.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "8589"
+    },
+    {
+      "id": "1oegPcoes_SX4nxoo-QJF7xYcCWLyPTeC",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T20:01:23.914Z",
+      "name": "Batch_002_progress_after_R0046_next_R0047.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "8776"
+    },
+    {
+      "id": "1aO2D2euIoySseK8-q8G1kXcOjrfHHT2Z",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T20:09:12.507Z",
+      "name": "Batch_002_progress_after_R0047_next_R0048.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "8952"
+    },
+    {
+      "id": "1CvCTjnCbjfrTDqA5hy7ecU7pnYOYpK3u",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T19:44:29.579Z",
+      "name": "Batch_002_verified_frontier_0045_0074.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "6432"
+    },
+    {
+      "id": "1dH0vEvp8BHD_fXx412QDLMJMoYVLIc_R",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T05:45:36.441Z",
+      "name": "R0031_attentional-blink-mini-experiment",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1PpJPMCkLPxfVQQck2S07ii0rLI-pAWmw",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T16:32:51.078Z",
+      "name": "R0031_stroop-color-word-mini-experiment",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1OaALPwooiMQVQXjPtlZGPXQhrrHpUIpT",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T16:50:23.785Z",
+      "name": "R0032_attention-span-myth-vs-evidence",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1ckLgchMa-db-AIQ-ZU8T070uhlBUW9pU",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T19:26:57.971Z",
+      "name": "R0032_false-memory-confidence",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1LNIP6_3AEoED2AWPNLZ0LC_DNO0Ohh3O",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T06:48:59.768Z",
+      "name": "R0032_phone-salience-myth-evidence",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1_2iYAklsQhS8ZPdTmnDvzc-D3ZbYOEqY",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T17:04:47.244Z",
+      "name": "R0033_feature-binding-illusory-conjunction-case",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1gC_OEWLPU2ZTd8SDGABBpCml9-RGVcLM",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T07:09:47.305Z",
+      "name": "R0033_own-name-attention-case",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1PyyYLSyuMwTv9pFGcS4FJpllLe_pDWkj",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T17:18:49.397Z",
+      "name": "R0034_cognitive-training-transfer-question",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1g8N5zzCntIGd0kroebMVY-za0UpThiJz",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T07:41:08.111Z",
+      "name": "R0034_selective-attention-study-lens",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1vuksXMMAvkup9tBvuy9o3BKsPSTR7Nlh",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T17:34:36.152Z",
+      "name": "R0035_attentional-capture-mini-experiment",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1-9SMZRGuiic63znLet9DNdvWjXryrYz-",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T19:41:27.831Z",
+      "name": "R0035_spacing-effect",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "13xCTszLRhfMhkn4Wg7dNL5n5koABfcqQ",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T08:47:12.529Z",
+      "name": "R0035_stroop-attention-mini-experiment",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1zJAbzUIAhtavsshIfeqTrwQPGF9jbRpV",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T09:40:42.938Z",
+      "name": "R0036_background-music-study-myth",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "19k1ppbrvtG6JW3DAHoNOJCaDzTKZ0cMM",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T17:48:05.087Z",
+      "name": "R0036_task-switching-cost-myth-vs-evidence",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1OxAP0Cfl_LRNHfhkvsyYsCSjJrFSuAPk",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T18:09:17.991Z",
+      "name": "R0037_change-blindness-real-world-case",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1U5QxOB_HtuS04Z7IHTmC-b5M8dzTNkL3",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T10:05:44.932Z",
+      "name": "R0037_inattentional-blindness-case",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1otP2YUgOb7tWSDwlAERNw8m0eyoIK8A4",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T10:36:44.431Z",
+      "name": "R0038_conversation-attention-question",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1uBIIsVWDS6zF-jwzlAhHL6_n_WapHwD5",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T18:25:29.402Z",
+      "name": "R0038_own-name-cocktail-party-effect",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1BlUXp2uxdkVK9rGFDi4uChJEy2tgLcG_",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T11:41:05.970Z",
+      "name": "R0039_social-gaze-cueing-mini-experiment",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1vENUwMb4tLSzK5Fk_qh8dqBQ_KbwNBe-",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T18:40:43.522Z",
+      "name": "R0039_turn-taking-prediction-mini-experiment",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1gU_CrxlllXtn09J17SFaJ65MBwHuKrlT",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T18:54:16.059Z",
+      "name": "R0040_eye-contact-myth-vs-evidence",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1tHamPYUyW8xdCil4hWpxvBtWIdQaO7fQ",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T12:44:06.701Z",
+      "name": "R0040_eye-contact-truth-myth",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1-gz-XYxgt-eUxQ7QNuuOfKwi4gZzQOiY",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T19:04:54.294Z",
+      "name": "R0041_audiovisual-speech-mcgurk-case",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "15ENNvwW_IKDoz6fNIWN1zT-wAfahq4W6",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T13:28:18.421Z",
+      "name": "R0041_listening-attention-case",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1-2p57m80zZ3-tWhgnPBNQZtvASxkIIt_",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T19:16:46.382Z",
+      "name": "R0042_acute-stress-memory-layers",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "12s0foIoprYftZt3LtKYSmEGo76ENcT8L",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T19:16:27.494Z",
+      "name": "R0042_multitasking-task-switching",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1i4bLf9h-mh1sE2QHw_6J_0Rjq9P9wTA_",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T13:40:19.285Z",
+      "name": "R0042_stress-performance-question",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1F3emIjaIdwBJfX2s_mevPLDAkCvRGt_H",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T19:27:18.618Z",
+      "name": "R0043_acute-stress-threat-attention",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1udftcYRKMjKFELHpWk-Kr8q47gQGTFn0",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T14:47:17.318Z",
+      "name": "R0043_breathing-self-observation",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1HTY0kP8BuYQENdpGObj7y8npS8CfA3iN",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T19:31:10.368Z",
+      "name": "R0043_sample-generalizability",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1bijLjaWBCcVPQ94mWc9kvmuv3rMWtsPT",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T15:13:15.502Z",
+      "name": "R0044_ignore-stress-myth",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1P9UYZ771ECDQ-MXMPOhuBgZ4wp0rPmaP",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T19:38:52.992Z",
+      "name": "R0044_stress-performance-myth-evidence",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1YQo32DYxTjUvLMyPSiv_bg5EF8JvyLKw",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T20:18:48.815Z",
+      "name": "R0045_directed-forgetting",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1-B6_1xIwrfmU3DaBH8xCm49uQAcvevbE",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T15:37:52.826Z",
+      "name": "R0045_empathy-stress-case",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1q-ooU1IgDw5vCP8QhnpCJrqfgIhY2i9v",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T19:50:04.005Z",
+      "name": "R0045_social-stress-contagion-case-story",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "12zlzcMhARl4aK0BUSIKGyvqJSFZMC062",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T16:39:04.969Z",
+      "name": "R0046_acute-stress-myth",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1IMY9nDp9wXQv0KgkPwpBjPR6V-nl4-i4",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T19:59:43.950Z",
+      "name": "R0046_prospection-future-thinking",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1OvPi7FnNd3d89rdqEVCSr-Qqt5fgCiGl",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T04:31:45.771Z",
+      "name": "R0046_small-success-matters",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1cvx7Byo6F6bA2ojH_b65Y4WlBeNkfdGK",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T20:07:22.707Z",
+      "name": "R0047_delay-discounting",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1QKXyUFHxlOm_GAKOp97WGE2yRe-0Mba3",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T04:55:24.587Z",
+      "name": "R0047_stress-mini-experiment",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1TzgA0XFkqToFFFJLBuDGu2qCBPnwlolA",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T17:38:10.517Z",
+      "name": "R0047_stress-risk-mini",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "109UeHOVf_W7pd35KQ47g6NT1LLfuvGlR",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T04:55:26.253Z",
+      "name": "R0047_useful-limits",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1DzKsWssDeduV75lugp2bBqOcdhN4c7G9",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T06:57:23.871Z",
+      "name": "R0048_expert-disagreement",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1HV8n1tLWOREVT-2kheYcES6Y5H9XuO06",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T20:16:24.037Z",
+      "name": "R0048_loss-aversion",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "17R3n96Rg9yDfDGiBtk6CvZzWme3tpsso",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T18:45:07.891Z",
+      "name": "R0048_stress-appraisal-myth",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1_GST8gnpwneWaOTT3dPFhwcmbHZTyDaE",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T20:29:44.260Z",
+      "name": "R0049_framing-effect",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "17Idwzh4kDx99J5V6UbT67W_hRpPem8k3",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T19:49:49.539Z",
+      "name": "R0049_stress-contagion-case",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1hMXcIK-4j3T3yC1Up8XtXju6p-fOHXgS",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T13:29:12.948Z",
+      "name": "R0049_technology-attention",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1AUwVoX3PWyyjDCWwzoFDWwKERnaArHmd",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T15:07:23.236Z",
+      "name": "R0050_sleep-stress-environment",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1J5zjKwnWZhBeVBDWGnhwa5Jxs_wDm3d_",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T20:43:07.366Z",
+      "name": "R0050_stress-attention-question",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1rCARkYyp9uXN8Qr-EKF3rwUORdPlsrS9",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T20:38:01.575Z",
+      "name": "R0050_sunk-cost",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1n_J1HCezxmd4be7AjRLf-cEmFQeqtVOV",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-24T04:43:05.364Z",
+      "name": "R0051_assumption-testing-canonical",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1_lR0rSRz_fnSerjrCyLjqGYWOQBVJ8mm",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T20:46:18.218Z",
+      "name": "R0051_mere-exposure",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1B5OysSNfhfKcpBz0c21Afg0kSklwzsih",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T21:35:29.653Z",
+      "name": "R0051_stress-time-mini-experiment",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1kU508PPgPSNMa56-e7NLFH1JTebnsVt3",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T20:53:38.104Z",
+      "name": "R0052_inattentional-blindness",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1MXDrD4xZEWZK9xGa5_5W_b39HXZDZACm",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-25T04:43:44.369Z",
+      "name": "R0052_nudge-ethics",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1jkj8CqCfN0l0IMQ0ZiCrhpOm8nWRsepL",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T22:42:06.078Z",
+      "name": "R0052_stress-recovery-myth",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1Ql-Eml3MmS-jvbtKRKAQSuo9KHZGsgwe",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T21:02:11.090Z",
+      "name": "R0053_desirable-difficulties",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1TMmvlTdblw58IteuH1j-f7oWzPERBcQb",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-25T11:40:25.188Z",
+      "name": "R0053_identity-role-attention",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1Qb_h1JAo2tlPDMl-gAGW227fuFiS0UfI",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T23:38:13.083Z",
+      "name": "R0053_stress-decision-case-story",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "12EJss9NbqrFbN_Bb-OtEo8YUaPJ1nwPH",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-25T16:23:02.318Z",
+      "name": "R0054_help-seeking",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1aczSeTT-PM44oKIa7BECxbnNttcmKwtp",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-24T00:40:23.838Z",
+      "name": "R0054_stress-habit-study-lens",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1Yb9THoRWolLTupqgmsu5KX-5Keht9duD",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T21:11:49.526Z",
+      "name": "R0054_testing-effect",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1LWclz34XkVx8VZIhs1szx7Rl_CZAbnBw",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-24T01:39:02.546Z",
+      "name": "R0055_feedback-learning-study-lens",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1bwNthm4rySPwAWrYvngmX54zxM-1ekWW",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T21:20:23.181Z",
+      "name": "R0055_pretesting-effect",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1fLCuOZVnf9F1sjlhXbM_hAS3EwtdU-aK",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T21:28:39.177Z",
+      "name": "R0056_generation-effect",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "11cVcsFW_5N4CVf3CGZ_8Vf1Whl1WymdV",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-24T02:41:48.554Z",
+      "name": "R0056_stress-memory-myth-evidence",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1F_EElpmyOpFcZmdX4fgjpFXi56zqZEOc",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T21:39:20.065Z",
+      "name": "R0057_self-explanation",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1F-zGk9dXhwYYqz5E_x3LtWdj9s8GYwzn",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-24T03:42:42.224Z",
+      "name": "R0057_stress-social-evaluation-case",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1OgIDpAEFWFPLZjR6j4eG-PNuFhSEndIs",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T21:49:53.108Z",
+      "name": "R0058_social-proof",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1rMp2GVY-xjcNy_cr5M2IyLTcu2NhIeIe",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-24T04:41:33.874Z",
+      "name": "R0058_stress-social-cue-question",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "10zs0-uHBKKCocI3KLTTmXonCOQS8wDYE",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T22:00:23.874Z",
+      "name": "R0059_authority-bias",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "16p46-CbyyX42GjVwc4UBLdqBUxGuBiZ2",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-24T05:39:25.509Z",
+      "name": "R0059_stress-trust-mini-experiment",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1wc7EYlxdG7G3_KzuscA_RqhtCdwcjupl",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T22:08:07.308Z",
+      "name": "R0060_halo-effect",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1nZvLn-BoRwCS0HyTWsnofPQ3zS-IjALH",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-24T06:40:26.783Z",
+      "name": "R0060_stress-social-response-myth-evidence",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1FQk81wX_v1wg6JOdFLDd-VyFRkBhia7G",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T22:15:43.809Z",
+      "name": "R0061_anchoring-effect",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1K1uErnRvhoM6olaIi5TTGCcuCJ2gxiDR",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T22:25:15.690Z",
+      "name": "R0062_availability-heuristic",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1lgKplE9t_FG0jnXgOpJePA_o5W0qKT-5",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T22:32:43.990Z",
+      "name": "R0063_representativeness-heuristic",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1I8tqumiF2qydY6Ru_hUhg-57cpaA-W7K",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-22T22:40:36.480Z",
+      "name": "R0064_base-rate-neglect",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "16vneVIVkC0JS9zWHmhG9ikw17UuGJxE0",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T07:08:55.163Z",
+      "name": "R0065_mindfulness-attention",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1Dqa3MFuSZ2CKNVqopyMKbxXynicpGgtK",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-23T15:12:42.650Z",
+      "name": "R0066_mindfulness-emotion-regulation",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "19rPUykuPMV2fKcmHHLTSyfdxcN04c40T",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-24T04:50:27.429Z",
+      "name": "R0068_prediction-error-learning-models",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "1q6a7xkT9l-JpU5yz3yenGaetFgPAr4Hr",
+      "mimeType": "application/vnd.google-apps.folder",
+      "modifiedTime": "2026-08-25T05:00:46.426Z",
+      "name": "R0070_moral-licensing-replication-limits",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ]
+    },
+    {
+      "id": "14ez2HQ5kMN57rhD0zWAERZnTD6i0_Dka",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T20:20:36.351Z",
+      "name": "reel_queue_batch002_progress_after_0048.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "9095"
+    },
+    {
+      "id": "1PFbXXaDGO2o7e0_TdhKIXPGpsdf4alyB",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T20:21:51.783Z",
+      "name": "reel_queue_batch002_progress_after_0048_reconciled.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "9392"
+    },
+    {
+      "id": "1fWZ_BIcgSLSzm8-DQB1SfKWQSiCWvDq_",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T20:31:10.782Z",
+      "name": "reel_queue_batch002_progress_after_R0049_reconciled.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "9697"
+    },
+    {
+      "id": "13zi3S3ASCsOLHog5TRjS81okr5Ryd6kX",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T20:39:13.366Z",
+      "name": "reel_queue_batch002_progress_after_R0050_reconciled.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "10024"
+    },
+    {
+      "id": "1Ju5DqbbsC8EPAjOujyGvxCeSOvRs9gwf",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T20:47:34.682Z",
+      "name": "reel_queue_batch002_progress_after_R0051_reconciled.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "10357"
+    },
+    {
+      "id": "1SlSki6X0mFYRXidfgZpfzehEOy9clJIf",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T20:54:59.385Z",
+      "name": "reel_queue_batch002_progress_after_R0052_reconciled.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "10714"
+    },
+    {
+      "id": "187-ey5nus4le3-f1M9UWXWcSoct28-xg",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T21:03:33.801Z",
+      "name": "reel_queue_batch002_progress_after_R0053_reconciled.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "11064"
+    },
+    {
+      "id": "1Q4WfPk017IgvjrYh56g7Qfpy5oGU7sIa",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T21:13:17.724Z",
+      "name": "reel_queue_batch002_progress_after_R0054_reconciled.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "11403"
+    },
+    {
+      "id": "1ILh154HuhEyWUlUdi6ukZ_xcXkxTB7-6",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T21:21:49.057Z",
+      "name": "reel_queue_batch002_progress_after_R0055_reconciled.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "11800"
+    },
+    {
+      "id": "1eX4CJMsIRRRSVgCDHUm64rB7hbpv_Xg7",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T21:29:59.283Z",
+      "name": "reel_queue_batch002_progress_after_R0056_reconciled.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "12145"
+    },
+    {
+      "id": "1uKfuI3jQdpoZEpC3qO79fX3j5wZ-20r9",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T21:40:15.279Z",
+      "name": "reel_queue_batch002_progress_after_R0057_reconciled.json",
+      "parents": [
+        "1MCq0RKiLg8g1NiJYCTu50UzWJiQZLHDt"
+      ],
+      "size": "12157"
+    }
+  ],
+  "nextPageToken": "~!!~AAfjczf0XmUTFKXBDFGEkLYWoib0QGdIfO0xX1iuMI9t4ZKEF61N9SpCUa85t-LIpPW-ww0rKP779uoRQK2IzGpA4TPaeZLpHEhAxkSyx-_5xkNokfjEZrNR3QmjfvXjVxCsWvuBoeRAEejE2p2p9SRD-xiGMq05dweWKrNU-BexQKhbQrl5POb8ld-vbQ1ZLtUCXINd2kErTc1bwttI9YZGFgS1xugf9K__RrvCkFHNc-mTfcM4fB3pqHHXtyW2oZ4vLljp-xa5Tv99VVBbkEhC6siWtC0FuA3_Vog7HiLUCwY7buiusWBKUpAtlGO8M7QX-zwCrFzMDnDTLqUIsdyr-HNyp-rTVI1m-XPJOaEf3LDOZ-VqOA9FLEJXRC45LcTgOcrcsxwehZE56ZPTh2X2emBUyG119iURy3b2aawfMZ1-6-7Vm-kG4o2qIsOvVTABDF4QSTJU4ZyMnJX617cD5TGFsnDRGs2tQHkwPT2MSlrkjOB_y4c="
+}

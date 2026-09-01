@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0058_episodic_memory_what_studies_measure",
+  "queue_id":"0058",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0058",
+  "title_hi":"एपिसोडिक मेमोरी: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"episodic memory, free recall, recognition, source/context memory, confidence, and task-specific measurement",
+  "unique_angle":"Episodic-memory studies measure distinct task outputs—recall, recognition, source/context, order, confidence, and model-based estimates—that should not be treated as interchangeable or as a complete readout of autobiographical memory.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed episodic-memory measurement study, episodic-like behavioral toolbox review, recognition/source confidence study, and item-source memory review",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Task performance, subjective confidence, and neural/model-derived proxies are not diagnosis, treatment, personal prediction, or individualized cognitive assessment.",
+  "source_ids":[
+    {"source_id":"doi:10.1017/S1355617714000460","citation":"Dikmen, Bauer, Weintraub, Mungas, Slotkin, Beaumont, Gershon, Temkin, and Heaton (2014), Measuring Episodic Memory Across the Lifespan: NIH Toolbox Picture Sequence Memory Test, Journal of the International Neuropsychological Society, 20(6), 611–619","url":"https://doi.org/10.1017/S1355617714000460","type":"peer_reviewed_memory_measurement"},
+    {"source_id":"doi:10.1523/ENEURO.0073-24.2024","citation":"Kunčická, Krajčovič, Stuchlík, and Brožka (2024), Neuroscientist’s Behavioral Toolbox for Studying Episodic-Like Memory, eNeuro, 11(8)","url":"https://doi.org/10.1523/ENEURO.0073-24.2024","type":"peer_reviewed_behavioral_toolbox_review"},
+    {"source_id":"doi:10.5334/joc.477","citation":"Windsor, Dering, and Donaldson (2026), Does the Experience of Remembering Differentially Influence the Factual Accuracy of Recognition, and Confidence in Its Accuracy?, Journal of Cognition, 9(1)","url":"https://doi.org/10.5334/joc.477","type":"peer_reviewed_recognition_confidence_study"},
+    {"source_id":"doi:10.3389/fpsyg.2021.691577","citation":"Guo, Shubeck, and Hu (2021), Relationship Between Item and Source Memory: Explanation of Connection-Strength Model, Frontiers in Psychology, 12, 691577","url":"https://doi.org/10.3389/fpsyg.2021.691577","type":"peer_reviewed_item_source_review"}
+  ],
+  "assets":{
+    "video":"assets/reel_0058_episodic_memory_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0058_episodic_memory_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0058_episodic_memory_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0058_episodic_memory_what_studies_measure_script.md",
+    "sources":"research/reel_0058_episodic_memory_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0058_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0058_scene_01.png","assets/reel_0058_scene_02.png","assets/reel_0058_scene_03.png","assets/reel_0058_scene_04.png"],
+    "qc_report":"assets/reel_0058_qc_report.json",
+    "drive_manifest":"state/reel_0058_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes showing vividness versus truth, recall/recognition/source tasks, sequence and context, and confidence-accuracy boundaries. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research measures and limitations, not autobiographical memory, cognitive health, or guaranteed predictions. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":70.44,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"13tINMoci8NwAcP4B8Il4K1fvvKn46TO6","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}

@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0031_behavior_change_what_studies_measure",
+  "queue_id": "0031",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0031",
+  "title_hi": "Behavior change: studies क्या मापती हैं?",
+  "topic": "behavior change measurement",
+  "unique_angle": "Behavior-change research separates intention and self-report from observed or recorded behavior, initial response from maintenance, and efficacy from real-world effectiveness.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 74.6,
+  "evidence_class": "peer-reviewed behavior-change evaluation and adherence measurement methods",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, individualized behavior plan, guarantee, manipulative persuasion, or prediction of a person’s future behavior.",
+  "source_ids": [
+    {"source_id":"doi:10.1017/9781108677318.022","citation":"Matthews and Simpson (2020), Evaluation of Behavior Change Interventions","url":"https://doi.org/10.1017/9781108677318.022","type":"scholarly_behavior_change_evaluation_chapter"},
+    {"source_id":"doi:10.1146/annurev-psych-013125-042110","citation":"Conner and Norman (2026), Attitudes, Intentions, and Behavior Change","url":"https://doi.org/10.1146/annurev-psych-013125-042110","type":"peer_reviewed_intention_behavior_review"},
+    {"source_id":"doi:10.1177/1559827613488867","citation":"Middleton, Anton, and Perri (2013), Long-Term Adherence to Health Behavior Change","url":"https://doi.org/10.1177/1559827613488867","type":"peer_reviewed_adherence_maintenance_review"}
+  ],
+  "assets": {
+    "video":"assets/reel_0031_behavior_change_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0031_behavior_change_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0031_behavior_change_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0031_behavior_change_what_studies_measure_script.md",
+    "sources":"research/reel_0031_behavior_change_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0031_scene_01.png","assets/reel_0031_scene_02.png","assets/reel_0031_scene_03.png","assets/reel_0031_scene_04.png"],
+    "qc_report":"assets/reel_0031_qc_report.json",
+    "drive_manifest":"state/reel_0031_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes showing intention versus observed action, neutral measurement methods, distinct evaluation questions, and follow-up maintenance. No participant likenesses, moral ranking, clinical content, or targeted persuasion.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research methods and do not predict individual behavior. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1W3CU4-6OjMDa_RnuqJEmmxs6SqRtixS4","drive_verification_note":"Initial independent Drive verification passed: 11 expected package objects, all nonzero, all in the Reel_0031 parent, one nonzero manifest control object, and 0 unrelated remote objects."}
+}

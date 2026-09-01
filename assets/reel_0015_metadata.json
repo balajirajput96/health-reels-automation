@@ -1,0 +1,65 @@
+{
+  "reel_id": "reel_0015_rumination_what_studies_measure",
+  "queue_id": "0015",
+  "batch": "Batch_001",
+  "title_hi": "रूमिनेशन: studies वास्तव में क्या मापते हैं?",
+  "topic": "rumination measurement",
+  "unique_angle": "Trait questionnaires, momentary smartphone sampling, content-versus-process items, and different scales sample different windows of rumination; no single score is a complete record of private thought.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 66.08,
+  "evidence_class": "peer-reviewed rumination methods study + experience-sampling instrument study + questionnaire-comparison methods study",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, personalized clinical advice, or inference about a viewer’s mental disorder from rumination language or scores.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.1371/journal.pone.0231783",
+      "citation": "Rosenkranz, Takano, Watkins & Ehring (2020), Assessing repetitive negative thinking in daily life: Development of an ecological momentary assessment paradigm",
+      "url": "https://doi.org/10.1371/journal.pone.0231783",
+      "type": "repetitive_negative_thinking_ema_methods_study"
+    },
+    {
+      "source_id": "doi:10.36131/cnfioritieditore20220504",
+      "citation": "Hoebeke, Blanchard, Contreras & Heeren (2022), An Experience Sampling Measure of the Key Features of Rumination",
+      "url": "https://doi.org/10.36131/cnfioritieditore20220504",
+      "type": "rumination_experience_sampling_instrument_study"
+    },
+    {
+      "source_id": "doi:10.3389/fpsyg.2016.00322",
+      "citation": "Kornacka, Buczny & Layton (2016), Assessing Repetitive Negative Thinking Using Categorical and Transdiagnostic Approaches",
+      "url": "https://doi.org/10.3389/fpsyg.2016.00322",
+      "type": "rumination_questionnaire_comparison_methods_study"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0015_rumination_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0015_rumination_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0015_rumination_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0015_rumination_what_studies_measure_script.md",
+    "sources": "research/reel_0015_rumination_what_studies_measure_sources.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0015_scene_01.png",
+      "assets/reel_0015_scene_02.png",
+      "assets/reel_0015_scene_03.png",
+      "assets/reel_0015_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0015_qc_report.json",
+    "drive_manifest": "state/reel_0015_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic local conceptual motion-graphics scenes; image-generation reference unavailable because the daily image-generation quota was exhausted. No participant likenesses, private thought text, fabricated data, or clinical labels are used.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain measurement methods and are not a literal recording of private thoughts. Not medical advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1hKDdu_nuNFE0hvk6r7_N2UMdSPwMfioV",
+    "drive_verification_note": "Verified by authenticated Drive listing; 11 expected current-package objects plus one durable manifest are present with nonzero sizes and correct parent. No unrelated objects were present in this newly created Reel_0015 folder."
+  }
+}

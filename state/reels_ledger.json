@@ -128,13 +128,6 @@
       "source_id": "reel_0004_cognitive_biases_what_studies_measure"
     },
     {
-      "post_id": "DccxWpqT0r2",
-      "stage": "published",
-      "target_account": "@balajirajput96",
-      "recorded_at": "2026-08-25T04:26:36.334241Z",
-      "notes": "Batch 06 Movement Breaks: Instagram success confirmation and independent public-grid verification on 2026-08-25."
-    },
-    {
       "source_id": "reel_0031_regular_meal_timing_everyday_energy",
       "sha256": "221cd5ab5a935c6f14b8669a78f50af5233fddba1256a96cd14750941aad4e91",
       "filename": "REEL-0031_quota_limited_topic_fallback.mp4",
@@ -265,6 +258,726 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-25T03:52:24.112548Z",
       "notes": "REEL-0079 blocked in preproduction: exact intended identity absent, but fresh paginated Batch_003 audit found preserved non-trashed broad collision R0079_psychology-social-context-conversation-mini-experiment id 17K5hMFp51_OMvwaKoJVHp6rGQFkz-MNe; do not rename, overwrite, duplicate, or infer identity. Official image quota remains recorded at 20/20 and native-video quota at 1/1; no topic-specific visual media or MP4; seven validated Hindi WAV spans total 73.12 seconds; no Drive write; publication prohibited; resume only after reviewed identity resolution, official visual reset, and fresh audit."
+    },
+    {
+      "source_id": "reel_0001_affect_labeling",
+      "sha256": "bef8f13e55c13cd14288584a1ed3d65833b7df033a62e96d65b94aeea7782dc4",
+      "filename": "reel_0001_affect_labeling_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T05:36:09.966091Z",
+      "notes": "QC-passed 9:16 Hindi narrated reel; Drive upload verified at manus_google_drive:3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0001; research/source metadata uploaded."
+    },
+    {
+      "source_id": "reel_0002_emotion_prediction_what_studies_measure",
+      "sha256": "730895cd4f480aa09eaeb347441955f6ecc6369da6f1e3f47568d54640cd20fd",
+      "filename": "reel_0002_emotion_prediction_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T05:53:10.320853Z",
+      "notes": "QC passed and Google Drive upload verified at 3000_HINDI_RESEARCH_REELS/Batch_001/Reel_0002; not published."
+    },
+    {
+      "source_id": "reel_0004_cognitive_biases_what_studies_measure",
+      "sha256": "edfff94d0e474104753d756bee65a472f19237750261e0e7b68e031074c2394e",
+      "filename": "reel_0004_cognitive_biases_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:02:23.307934Z",
+      "notes": "Queue-final and Drive-verified Reel 0004; current package preserved unrelated historical objects; not published."
+    },
+    {
+      "source_id": "reel_0005_psychological_flexibility_what_studies_measure",
+      "sha256": "2eb0459c305accac8281baedd279a5962969a2478f4605fcbb3ab8f72187d0e3",
+      "filename": "reel_0005_psychological_flexibility_measurement_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:02:23.375046Z",
+      "notes": "Queue-final and Drive-verified Reel 0005; current package preserved unrelated historical objects; not published."
+    },
+    {
+      "source_id": "reel_0006_context_effects_what_studies_measure",
+      "sha256": "0bb76ec10f150df269573cf5fef3b59238eb88d4f81aba449733f04426df612c",
+      "filename": "reel_0006_context_effects_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:02:23.442788Z",
+      "notes": "Queue-final and Drive-verified Reel 0006; checksum manifest verified; not published."
+    },
+    {
+      "source_id": "reel_0007_neural_plasticity_what_studies_measure",
+      "sha256": "9fcc4f9b954057951c4504e2fbabdd3ad356b53fbb1c8faf6bcfd8dd7249a4bb",
+      "filename": "reel_0007_neural_plasticity_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:02:23.512127Z",
+      "notes": "Queue-final and Drive-verified Reel 0007; updated metadata and manifest verified in place; not published."
+    },
+    {
+      "source_id": "reel_0008_reward_learning_what_studies_measure",
+      "sha256": "ee381f5b834a022e89d93eb5378caf618da3938bae70f275c1c5756fb0c1cb1f",
+      "filename": "reel_0008_reward_learning_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:14:47.003338Z",
+      "notes": "Final Reel 0008: local QC passed; 11 current package objects and one manifest independently verified in authenticated Google Drive; not published."
+    },
+    {
+      "source_id": "reel_0009_interoception_what_studies_measure",
+      "sha256": "abf5e575a6a0503cc34e2adac63cc01bbfae44e9d8f2bd48f9eaad20702e6e43",
+      "filename": "reel_0009_interoception_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T13:25:42.878070Z",
+      "notes": "QC passed; Drive package independently verified in Batch_001/Reel_0009; manifest 1-s83JHLJPRYh99voXt0NfzgBosSXKV2K; not published."
+    },
+    {
+      "source_id": "reel_0010_amygdala_context_what_studies_measure",
+      "sha256": "df1ec6613c981d13dfe9fd4ef2e153909434332a071b2cf4ff0634a5d2965342",
+      "filename": "reel_0010_amygdala_context_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-22T19:14:57.890043Z",
+      "notes": "QC passed; Drive package independently verified in Batch_001/Reel_0010; manifest 1BfVjLBL3eNWgrNGrKy6VTH7c6qC47q35; not published."
+    },
+    {
+      "source_id": "reel_0011_prefrontal_control_what_studies_measure",
+      "sha256": "4040964cdcdce411d7cdd3254d55c0af532747c859b2e4d0a0d0071105a927d7",
+      "filename": "reel_0011_prefrontal_control_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-23T02:34:03.355485Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1paYv1SLKrooPlKXbhtBZ66ict_Wg8Tkb; not published."
+    },
+    {
+      "source_id": "reel_0012_mental_models_what_studies_measure",
+      "sha256": "ac09cc5c682f9a34a73448d885e27cae8806db6cc42f65e428612f640d51c9d1",
+      "filename": "reel_0012_mental_models_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T09:03:56.375587Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1IdbsUtBkvXAXUyHi3WpIcDqygCKy1-5e; not published."
+    },
+    {
+      "source_id": "reel_0013_inner_speech_what_studies_measure",
+      "sha256": "1529beaa9a81244d1a319c07d396d5200bd99266a7043663e306363a3d211608",
+      "filename": "reel_0013_inner_speech_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T11:18:41.240038Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1J7HQ4bvfwJMlnhPRAFU9IBaql9nlYLfv; 14 unrelated legacy objects preserved; not published."
+    },
+    {
+      "source_id": "reel_0014_metacognition_what_studies_measure",
+      "sha256": "35d064f5dbbb5e34dc568925fd266bda931dbc76661451e439c8046148728fee",
+      "filename": "reel_0014_metacognition_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T11:31:04.458452Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1AWOP5TFqrbv4CBvzRv-IuRfqycSDcGMi; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0015_rumination_what_studies_measure",
+      "sha256": "b1873415dca38ef20503eaf9e311a1ca32048359d4a017df7814be18a163284f",
+      "filename": "reel_0015_rumination_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T11:39:45.636845Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1Bv_05DAxQgDaDEjdeGmPC9xhtzNKm5tl; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0016_mental_time_travel_what_studies_measure",
+      "sha256": "fc9de2483f8f6612497080ffee40230058e59bf09454580da1d63a8335d56358",
+      "filename": "reel_0016_mental_time_travel_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T11:48:03.298119Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1uls-iL0Wolut5-IpjfzsoEMOjvWcABsD; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0017_brain_networks_what_studies_measure",
+      "sha256": "d5bb62d25840088ae4764178b3b7cbb075a38eac5a6992175d920ac443a260c9",
+      "filename": "reel_0017_brain_networks_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T11:56:17.667830Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1Xnh_qRGJnOKSqtU7CJfzrtuJkexNT5kR; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0018_hemispheric_myths_what_studies_measure",
+      "sha256": "5037e50a85102b4e0b63bb94d4409ea6f626f6a3b0730fbef1f29844fb22517b",
+      "filename": "reel_0018_hemispheric_myths_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T12:05:01.028363Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1kucrPHa1kNZukLxSXuW5xOIXhQg2LIx6; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0019_glial_cells_what_studies_measure",
+      "sha256": "5bee34366b2700f9e78760e66bad90af31f39e77bfd25260c670a3dbbac8f355",
+      "filename": "reel_0019_glial_cells_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T12:14:34.658936Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1qg1ASuE0Q9LBa4nS9rpSpRs10nlgs1vA; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0020_brain_energy_what_studies_measure",
+      "sha256": "71f3bb94b92971758c84e3d88353443ada73c308dea0e41eed3e6025ec5585a1",
+      "filename": "reel_0020_brain_energy_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T12:23:26.576341Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 10wxO1NH1rw0Ji2CnfjvOw6P1lmQ2wrAQ; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0021_sensory_integration_what_studies_measure",
+      "sha256": "150912ec8606df22cb35887565a85442c57889a565bca2f214173f55cbd43366",
+      "filename": "reel_0021_sensory_integration_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T12:31:36.604115Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1QN7nvy_RdKVNTxFqVUbihE9xxLNmOIJ_; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0022_conscious_access_what_studies_measure",
+      "sha256": "5ea42847106de2d280472f89db70f282dfb5485ec63f2ab370c1bef7537fe928",
+      "filename": "reel_0022_conscious_access_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T12:39:42.475774Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 16VFoz28qo24SM7G7JSJ7LZYvbYqHrTHF; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0023_global_workspace_what_studies_measure",
+      "sha256": "9e1711bf26032e1976cfdb5d9dec13bc6940374967b449537d7dad5668373343",
+      "filename": "reel_0023_global_workspace_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T12:55:01.973074Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 12F5mCptrBF1f1pT7roqsSGbAFJJEtgh2; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0024_predictive_processing_what_studies_measure",
+      "sha256": "1fb79a05c78e956b5002503292661cd0350370a1c7dcbcdef0c574c49bd3b1d5",
+      "filename": "reel_0024_predictive_processing_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T13:04:42.849584Z",
+      "notes": "Final QC-passed Hindi reel; 11 current package objects and one manifest independently verified in Drive folder 1R5rmDsVi-PpKYpGp3IMhVJdkM2z4VCOZ; no unrelated objects present; not published."
+    },
+    {
+      "source_id": "reel_0025_self_awareness_what_studies_measure",
+      "sha256": "4bb4ea799c16b5e5cd00105a4c52c8af4e0cac10b145b716f5c8a6f5aa1de990",
+      "filename": "reel_0025_self_awareness_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T13:19:28.330731Z",
+      "notes": "Drive verified in Reel_0025 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0026_altered_states_what_studies_measure",
+      "sha256": "280f34013f52a9e76218194911dcc2df3b55cc326c5b2319f335e93f212d2494",
+      "filename": "reel_0026_altered_states_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T13:30:52.966486Z",
+      "notes": "Drive verified in Reel_0026 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0027_observational_learning_what_studies_measure",
+      "sha256": "033007dc0a2ddc71bacc2768a0352e2479a29eb4ce98b77dd81699bd15613d45",
+      "filename": "reel_0027_observational_learning_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T16:11:39.580509Z",
+      "notes": "Drive verified in Reel_0027 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0028_social_norms_what_studies_measure",
+      "sha256": "6247de45b60405478fe7794dfe90595edb980ebe5ab85383c663bf12034b049c",
+      "filename": "reel_0028_social_norms_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T16:23:21.760712Z",
+      "notes": "Drive verified in Reel_0028 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0029_choice_architecture_what_studies_measure",
+      "sha256": "1ec786dc1338b25c778400f249455f871d378b6074b7811fba703e28b6dd6000",
+      "filename": "reel_0029_choice_architecture_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T16:35:59.477087Z",
+      "notes": "Drive verified in Reel_0029 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0030_prosocial_behavior_what_studies_measure",
+      "sha256": "c2b7afb0d927b88657921e5f842b7979ca9422a350c06c4ac2c512cd70db727d",
+      "filename": "reel_0030_prosocial_behavior_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T16:55:24.784786Z",
+      "notes": "Drive verified in Reel_0030 folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0031_behavior_change_what_studies_measure",
+      "sha256": "4ab0ab9e6974d848e1f2a2c2a6a096b7fb8a8389f1aff7ca88a0d13526061b64",
+      "filename": "reel_0031_behavior_change_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T17:08:42.819013Z",
+      "notes": "Drive verified in canonical Reel_0031 folder under the newer Batch_002 source-of-truth folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0032_affect_labeling_context_what_studies_measure",
+      "sha256": "6552b6cdebae6cbcb077d06036701bcc405fb700bf222f4818c610884802e85c",
+      "filename": "reel_0032_affect_labeling_context_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T17:19:19.949160Z",
+      "notes": "Drive verified in Reel_0032 folder under canonical newer Batch_002 source-of-truth folder; 11 expected objects plus one manifest, zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0033_emotion_granularity_what_studies_measure",
+      "sha256": "7af46261fe05646010c5e475850f267d4daf5a59245f1d5b32838220a53fe6f4",
+      "filename": "reel_0033_emotion_granularity_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T17:35:30.352770Z",
+      "notes": "Drive verified in reused canonical Reel_0033 folder; 11 expected lowercase package objects plus one nonzero manifest, 11 unrelated legacy uppercase objects retained unchanged; no social publication."
+    },
+    {
+      "source_id": "reel_0034_reappraisal_what_studies_measure",
+      "sha256": "c080bb5327d51e18d6115ef88b2e7a6cfeecf80b9f20a3569d565b3f99a3d77e",
+      "filename": "reel_0034_reappraisal_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T19:59:00.932705Z",
+      "notes": "Drive verified in canonical Batch_002/Reel_0034 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0035_mood_congruent_memory_what_studies_measure",
+      "sha256": "1d29d62af00bb0f4d0db398b7aaf3a1d30c39ec9bfa16934dc9d1b2f0b4d7770",
+      "filename": "reel_0035_mood_congruent_memory_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T20:26:55.231109Z",
+      "notes": "Drive verified in canonical Batch_002/Reel_0035 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0036_emotional_contagion_what_studies_measure",
+      "sha256": "a925d66c46b10da5d5e96edad7d6ea22b2e07e05879eb84ce49ba12216ee3fbc",
+      "filename": "reel_0036_emotional_contagion_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T20:40:51.427074Z",
+      "notes": "Drive verified in canonical Batch_002/Reel_0036 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0037_implementation_intentions_what_studies_measure",
+      "sha256": "8f34e833f4f049573c2196c9bf56a410d97425cb44eab95f30005192a153d12b",
+      "filename": "reel_0037_implementation_intentions_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T20:53:10.518133Z",
+      "notes": "Drive verified in canonical Batch_002/Reel_0037 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0038_cue_competition_what_studies_measure",
+      "sha256": "914932a32ea1227a335ef30a5c9bca774cf0dd037bef02f54d6eadb61086b881",
+      "filename": "reel_0038_cue_competition_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T21:06:44.592077Z",
+      "notes": "Drive verified in canonical Batch_002/Reel_0038 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0039_habit_automaticity_what_studies_measure",
+      "sha256": "d75422d2275262745189b2957d26aa5561e9f5725dfb0747f2d6954a391693aa",
+      "filename": "reel_0039_habit_automaticity_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T21:18:46.015494Z",
+      "notes": "Drive verified in canonical Batch_002/Reel_0039 folder; 11 expected lowercase package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0040_environmental_friction_what_studies_measure",
+      "sha256": "175a0e48452e7eb2060f99933c63a4e194134cb2f59742b0b31dc401f712ea8d",
+      "filename": "reel_0040_environmental_friction_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T21:38:36.561782Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0040; 11 expected lowercase nonzero package objects plus one nonzero manifest; zero unrelated objects; no social publication."
+    },
+    {
+      "source_id": "reel_0041_identity_and_habits_what_studies_measure",
+      "sha256": "ff56834186eda87884d83fbc1424a26f89dab407da2974f0c082382bcc44ff09",
+      "filename": "reel_0041_identity_and_habits_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T21:51:22.641327Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0041; 11 expected lowercase nonzero package objects plus one nonzero manifest; 10 pre-existing uppercase legacy objects preserved as unrelated; no social publication."
+    },
+    {
+      "source_id": "reel_0042_mindfulness_attention_what_studies_measure",
+      "sha256": "e884579fe41f8f3852301726b6577f81dded9c0d30cfd92f945ebb5fc925947e",
+      "filename": "reel_0042_mindfulness_attention_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T22:02:19.493701Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0042; 11 expected lowercase nonzero package objects plus one nonzero manifest; 10 pre-existing uppercase legacy objects preserved as unrelated; no social publication."
+    },
+    {
+      "source_id": "reel_0043_meditation_training_what_studies_measure",
+      "sha256": "0100583b2e637e2991f43d54b9da14f651b3377d14baa2a9856558d6348d08c5",
+      "filename": "reel_0043_meditation_training_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T22:13:42.532523Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0043; 11 expected lowercase nonzero package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0044_breath_awareness_what_studies_measure",
+      "sha256": "4c9eb44e99af96739307132815409009201e5adb8cc23723419efcd3d896937f",
+      "filename": "reel_0044_breath_awareness_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T22:22:33.372998Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0044; 11 expected lowercase nonzero package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0045_compassion_practice_what_studies_measure",
+      "sha256": "b86b2ed0b1476efd5ef49ca9a75518bd52fd5b9ed1e6df50d6afda2b02c06354",
+      "filename": "reel_0045_compassion_practice_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T22:33:56.712162Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0045; 11 expected lowercase nonzero package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0046_contemplative_traditions_what_studies_measure",
+      "sha256": "44d6730e603cec3201ea5225279b46a13d9fa59052ac6e954764e31790b27049",
+      "filename": "reel_0046_contemplative_traditions_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T22:43:05.775591Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0046; 11 expected lowercase nonzero package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0047_retrieval_practice_what_studies_measure",
+      "sha256": "c32ac6aed2bc0f84abdaf07a90accc67d8c6d6ea73f602c20371c50edc6be001",
+      "filename": "reel_0047_retrieval_practice_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T22:53:58.561559Z",
+      "notes": "Drive independently verified in canonical Batch_002/Reel_0047; 11 expected lowercase nonzero package objects plus one nonzero manifest; no unrelated remote objects; no social publication."
+    },
+    {
+      "source_id": "reel_0048_spacing_effect_what_studies_measure",
+      "sha256": "99a462f7248a63e64789990ad5edde69dfa148e4614e3fbfec02985c3adb160b",
+      "filename": "reel_0048_spacing_effect_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T23:11:26.518659Z",
+      "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0048; no social publication attempted."
+    },
+    {
+      "source_id": "reel_0049_interleaving_what_studies_measure",
+      "sha256": "ac023501529db0085130e201ac672bd0ae200f7038bd094880277d046338c9a2",
+      "filename": "reel_0049_interleaving_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-25T23:23:12.152126Z",
+      "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0049; no social publication attempted."
+    },
+    {
+      "source_id": "reel_0050_desirable_difficulty_what_studies_measure",
+      "sha256": "9a0478c8162320cb189bf24a720ed1148141a1619f513d7ec1d2d60cd36330ff",
+      "filename": "reel_0050_desirable_difficulty_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T04:05:22.721422Z",
+      "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0050; no social publication attempted."
+    },
+    {
+      "source_id": "reel_0051_feedback_learning_what_studies_measure",
+      "sha256": "def15ff6768dcbdb2b1490f087dcfddbce9004ced128b870cf7db14669c318fc",
+      "filename": "reel_0051_feedback_learning_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T04:19:59.246078Z",
+      "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0051; no social publication attempted."
+    },
+    {
+      "source_id": "reel_0052_choice_overload_what_studies_measure",
+      "sha256": "0d3f338088a238042801d35cc910beb15d9e3c4c14c6e85cf56c04f497b67ed3",
+      "filename": "reel_0052_choice_overload_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T04:33:35.142040Z",
+      "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0052; no social publication attempted."
+    },
+    {
+      "source_id": "reel_0053_framing_effect_what_studies_measure",
+      "sha256": "0321fd47479fc263e1d7b0b22c900d5c15a5fc080734f86c1602a5b5e94905d6",
+      "filename": "reel_0053_framing_effect_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T04:46:31.360712Z",
+      "notes": "Final local QC passed and independently Drive-verified in canonical Batch_002/Reel_0053; no social publication attempted."
+    },
+    {
+      "source_id": "reel_0054_base_rate_reasoning_what_studies_measure",
+      "sha256": "8b9a37cb3584ebe7f4745d67648c23425387bcdfcba8ccbc57679d8c48e59331",
+      "filename": "reel_0054_base_rate_reasoning_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T05:03:13.703739Z",
+      "notes": "Drive verified in canonical folder 10PxUwSOcrJsDUkyGr0CSr3C8HsGb-UNA with exact 11-object package plus one manifest; no social publishing."
+    },
+    {
+      "source_id": "reel_0055_uncertainty_what_studies_measure",
+      "sha256": "800107f5a09bcc4364e222f6164c06df0541d979dc1e96d64e690ad41b72d390",
+      "filename": "reel_0055_uncertainty_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T05:22:08.927109Z",
+      "notes": "Drive verified in canonical folder 1w-SfS719bDoqZ8Z4-KPUNPVCEyNyyfFG with exact 11-object package plus one manifest; no social publishing."
+    },
+    {
+      "source_id": "reel_0056_deliberation_what_studies_measure",
+      "sha256": "26b82804a4a1d7670149fc44eede99291e3e7edcab6328a8800572c6b8c4bce6",
+      "filename": "reel_0056_deliberation_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T05:37:29.939714Z",
+      "notes": "Drive verified in canonical folder 1EMDjSHXID6Ae2UOt02Icc4LxCzyIl-Dr with exact 11-object package plus one active manifest; superseded duplicate manifest was moved to Drive trash non-destructively; no social publishing."
+    },
+    {
+      "source_id": "reel_0057_working_memory_what_studies_measure",
+      "sha256": "b353c47d6250c1d45013d5012d27ea4a967a55ed789c0d6f4de085a43d0e7a03",
+      "filename": "reel_0057_working_memory_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T05:50:45.416836Z",
+      "notes": "Drive verified in canonical folder 11DjcjSY7mUKCNck-Wy6Zc4VljBZXdktX with exact 11-object package plus one active manifest; no social publishing."
+    },
+    {
+      "source_id": "reel_0058_episodic_memory_what_studies_measure",
+      "sha256": "e2edd9a0d4ddf88be8c60613780c4cb59aba1b8b5b2ecd0955a3d1d377fd4c5f",
+      "filename": "reel_0058_episodic_memory_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T06:02:15.927784Z",
+      "notes": "Drive verified in canonical folder 1Z-b0psPH6x8f4aaZLjYzD4L7Kx8i3aLD with exact 11-object package plus one active manifest; no social publishing."
+    },
+    {
+      "source_id": "reel_0059_semantic_memory_what_studies_measure",
+      "sha256": "b7618e6dd63f45fbeb85cd3b6514772adc58c28372bd0c8b50d6c0bf18540b0d",
+      "filename": "reel_0059_semantic_memory_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T06:12:59.801619Z",
+      "notes": "Drive verified in canonical folder 1GWYu-cHb7SvMW48MnEYd3zwBPS6GU0am with exact 11-object package plus one active manifest; no social publishing."
+    },
+    {
+      "source_id": "reel_0060_false_memory_what_studies_measure",
+      "sha256": "ed641f0c3d27f3fcffde0974ec393fa3c43a48a1df87e908e1845ab7cde166bb",
+      "filename": "reel_0060_false_memory_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T06:24:52.276375Z",
+      "notes": "Drive verified in canonical folder 105buLGjLqpQzXmqETZrPlcc3EO5vHyK3 with exact 11-object package plus one active manifest; no social publishing."
+    },
+    {
+      "source_id": "reel_0061_memory_reconsolidation_what_studies_measure",
+      "sha256": "93041e3e2c4358132860017052513ffb0098558840c0c2ca72e1afce350fcda9",
+      "filename": "reel_0061_memory_reconsolidation_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T06:42:38.600470Z",
+      "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
+    },
+    {
+      "source_id": "reel_0062_selective_attention_what_studies_measure",
+      "sha256": "05bd174842a2d4510120794965f11196649fe338deeaa3bdb0053b977810f58d",
+      "filename": "reel_0062_selective_attention_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T06:57:04.345553Z",
+      "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
+    },
+    {
+      "source_id": "reel_0063_attentional_blink_what_studies_measure",
+      "sha256": "e1beaa17261debe5c9b8598cbf57f94107ebb8e1f6a3790f0c1ca51f2d134148",
+      "filename": "reel_0063_attentional_blink_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T07:18:43.911292Z",
+      "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
+    },
+    {
+      "source_id": "reel_0064_mind_wandering_what_studies_measure",
+      "sha256": "4e26ace1e78e8fc84fcb9533e6c95f2c2994f115238324f805bda67ae2015846",
+      "filename": "reel_0064_mind_wandering_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T07:31:56.960657Z",
+      "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
+    },
+    {
+      "source_id": "reel_0065_task_switching_what_studies_measure",
+      "sha256": "e4534127ee872296e7ce05df742ffe0b91adc3658972311b1632034e126d281c",
+      "filename": "reel_0065_task_switching_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T07:44:58.491161Z",
+      "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
+    },
+    {
+      "source_id": "reel_0066_deep_work_claims_what_studies_measure",
+      "sha256": "0c555d84dc142c927bdfb384351129f167b25dd2424c4195679fe7943eaf5aec",
+      "filename": "reel_0066_deep_work_claims_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T08:01:43.751077Z",
+      "notes": "Final local QC passed and canonical Drive exact-package verification passed: 11 expected objects, one manifest, zero unrelated active objects; no social publication."
+    },
+    {
+      "source_id": "reel_0067_theory_of_mind_what_studies_measure",
+      "sha256": "c2c695c25ee819da629289fba0ab80166665c0014824b51896f55ac9d822d797",
+      "filename": "reel_0067_theory_of_mind_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T08:18:02.241149Z",
+      "notes": "Final Drive-verified package; no social publication."
+    },
+    {
+      "source_id": "reel_0068_social_learning_what_studies_measure",
+      "sha256": "4b8381ec2a7b24e93846c540a51dcb748d109474b5bdce428080e002c8a60988",
+      "filename": "reel_0068_social_learning_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T08:32:59.750074Z",
+      "notes": "Final Drive-verified package; no social publication."
+    },
+    {
+      "source_id": "reel_0069_empathy_what_studies_measure",
+      "sha256": "1b684aa5b5f31b88a9432dc718b7310c96afff3dc413472159c1fa33300a9203",
+      "filename": "reel_0069_empathy_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T08:46:43.571129Z",
+      "notes": "Final Drive-verified package; no social publication."
+    },
+    {
+      "source_id": "reel_0070_dehumanization_what_studies_measure",
+      "sha256": "9c0a57ca22504237c130b8f9f2d0ac7a985ea66f3650b0df84a44142985c1be2",
+      "filename": "reel_0070_dehumanization_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T08:58:55.716877Z",
+      "notes": "Final Drive-verified package; no social publication."
+    },
+    {
+      "source_id": "reel_0071_belonging_what_studies_measure",
+      "sha256": "2a1538641b65de1b37e9b783fdaa80ec4b640cc839a3264ff713394a9b1e2170",
+      "filename": "reel_0071_belonging_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T09:14:02.209512Z",
+      "notes": "Final Drive-verified package; no social publication."
+    },
+    {
+      "source_id": "reel_0072_intrinsic_motivation_what_studies_measure",
+      "sha256": "491a0a425f64002ba9f9c903f1e446839bbff469535a04717ed7389935dedac0",
+      "filename": "reel_0072_intrinsic_motivation_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T09:29:28.734537Z",
+      "notes": "R0072 final: 3 verified sources; local QC passed; 66.10s 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0073_goal_gradients_what_studies_measure",
+      "sha256": "7d99fa5b16b302a99a2978f25cb216ecf3f85d4224a9025ef6f702130987bb23",
+      "filename": "reel_0073_goal_gradients_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T09:47:54.523659Z",
+      "notes": "R0073 final: 3 verified sources; local QC passed; 69.53s 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0074_expectancy_value_what_studies_measure",
+      "sha256": "6d9f462008d1b2caeee4546b038b220f3d503851536cf264f16203a6f0d00a97",
+      "filename": "reel_0074_expectancy_value_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T10:10:07.454391Z",
+      "notes": "R0074 final: 3 verified sources; local QC passed; 63.67s 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0075_self_determination_what_studies_measure",
+      "sha256": "200e166b1acf153d0434e2a6e2052d948fa03292f4fe4e459656f08fec9684fc",
+      "filename": "reel_0075_self_determination_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T10:27:11.817236Z",
+      "notes": "R0075 final: 4 verified sources; local QC passed; 69.47s 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0076_procrastination_what_studies_measure",
+      "sha256": "3eb96c8239a9c89316c18ec31e4d4b800b600672b45f0fd4b6849b4799756479",
+      "filename": "reel_0076_procrastination_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T10:48:43.524855Z",
+      "notes": "R0076 final: 4 verified sources; local QC passed; 72.767s 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0077_stress_appraisal_what_studies_measure",
+      "sha256": "4c8e1cab84c874175b9647eebddc783289809d0eaa126f63e527d2a2e95e3434",
+      "filename": "reel_0077_stress_appraisal_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T11:10:44.520703Z",
+      "notes": "R0077 final: 4 verified sources; local QC passed; 74.767s 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0078_acute_stress_what_studies_measure",
+      "sha256": "d2acf144c3f1e1d970bbde1350c5fb2d27cdf810602889088a98759b0169e8f6",
+      "filename": "reel_0078_acute_stress_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T11:38:30.355933Z",
+      "notes": "R0078 final: 4 verified sources; local QC passed; 73.600s 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0079_recovery_what_studies_measure",
+      "sha256": "e4fc1e29c97993cbc933218bc4d12fa4dde89df38424c2ea70c6f8bba260de76",
+      "filename": "reel_0079_recovery_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T12:07:49.224886Z",
+      "notes": "R0079 final: 4 fresh verified sources; local QC passed; 68.167s encoded 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0080_social_buffering_what_studies_measure",
+      "sha256": "8528fdf226a65f18e8d58267c26360ed2b457f50080d38a9a177130380f6e149",
+      "filename": "reel_0080_social_buffering_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T12:42:42.249822Z",
+      "notes": "R0080 final: 4 fresh verified sources; local QC passed; 71.167s encoded 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "source_id": "reel_0081_stress_and_attention_what_studies_measure",
+      "sha256": "24f3114af232473544da1cda77d6b403db9a4be8d126408db95c45f51d14dc8c",
+      "filename": "reel_0081_stress_and_attention_what_studies_measure_hi.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-08-26T13:18:48.706411Z",
+      "notes": "R0081 final: 4 fresh verified sources; accepted 64.440s Hindi narration; local QC passed; 64.467s encoded 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
     }
   ]
 }

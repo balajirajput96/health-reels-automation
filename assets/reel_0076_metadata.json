@@ -1,0 +1,75 @@
+{
+  "reel_id": "reel_0076_procrastination_what_studies_measure",
+  "queue_id": "0076",
+  "batch": "Batch_003",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0076",
+  "title_hi": "टालमटोल: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic": "procrastination, self-report, behavioral delay, planned-versus-actual study time, completion days, deadline pacing, affective well-being, academic outcomes, and measurement limits",
+  "unique_angle": "Studies operationalize procrastination through different instruments and outcomes; a questionnaire score, observed delay, mood relationship, and theoretical correlate are not interchangeable or a diagnosis.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "evidence_class": "peer-reviewed psychometric comparison, peer-reviewed longitudinal self-report/behavior comparison, meta-analytic review, and systematic intervention review",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. Self-report, observed timing, task completion, affective well-being, academic outcomes, associations, predictions, and theories are distinct and bounded by instrument, task, population, domain, design, and outcome; no score diagnoses a disorder, reads private motives, proves a universal cause, or guarantees a personal result.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.3389/fpsyg.2022.784471",
+      "citation": "Vangsness et al. (2022), Self-Report Measures of Procrastination Exhibit Inconsistent Concurrent Validity, Predictive Validity, and Psychometric Properties",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8907120/",
+      "type": "peer_reviewed_measurement_comparison"
+    },
+    {
+      "source_id": "doi:10.1037/0033-2909.133.1.65",
+      "citation": "Steel (2007), The Nature of Procrastination: A Meta-Analytic and Theoretical Review of Quintessential Self-Regulatory Failure",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17201571/",
+      "type": "meta_analytic_theoretical_review"
+    },
+    {
+      "source_id": "doi:10.1016/j.paid.2014.01.050",
+      "citation": "Krause & Freund (2014), Delay or Procrastination: A Comparison of Self-Report and Behavioral Measures of Procrastination and Their Impact on Affective Well-Being",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0191886914000701",
+      "type": "peer_reviewed_longitudinal_measurement_comparison"
+    },
+    {
+      "source_id": "doi:10.1007/s10648-023-09838-x",
+      "citation": "Turner & Hodis (2023), A Systematic Review of Interventions to Reduce Academic Procrastination and Implications for Instructor-based Classroom Interventions",
+      "url": "https://link.springer.com/article/10.1007/s10648-023-09838-x",
+      "type": "systematic_review"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0076_procrastination_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0076_procrastination_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0076_procrastination_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0076_procrastination_what_studies_measure_script.md",
+    "sources": "research/reel_0076_procrastination_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0076_procrastination_what_studies_measure_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0076_scene_01.png",
+      "assets/reel_0076_scene_02.png",
+      "assets/reel_0076_scene_03.png",
+      "assets/reel_0076_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0076_qc_report.json",
+    "drive_manifest": "state/reel_0076_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes depict self-report versus behavior, planned-versus-actual timing, completion days, deadline pacing, different outcomes, and the scale-task-domain-outcome checklist. No real person, private data, unauthorized likeness, or direct mind-reading claim is depicted.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals explain research measurement concepts and limits, not a complete psychological assessment. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "measured_narration_duration_seconds": 72.76,
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1Fy2GTsn1bhfMvpWrlEO1MVtpiKBeL0s2",
+    "drive_folder_id": "1jFjTG_AxO25PoimaK9acDS2qoKlwhyr6",
+    "drive_verification_note": "Final exact-package verification passed: 11 expected objects, one nonzero correctly parented manifest, zero missing/zero-size/wrong-parent/duplicate/unrelated objects; metadata and manifest updated in place."
+  },
+  "measured_mp4_sha256": "3eb96c8239a9c89316c18ec31e4d4b800b600672b45f0fd4b6849b4799756479"
+}

@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0059_semantic_memory_what_studies_measure",
+  "queue_id":"0059",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0059",
+  "title_hi":"सिमेंटिक मेमोरी: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"semantic memory, category fluency, naming, factual knowledge, metacognition, neural correlates, and computational models",
+  "unique_angle":"Semantic-memory studies measure distinct task outputs—category fluency, naming, factual accuracy, confidence, neural correlates, and model estimates—that should not be treated as a pure or complete readout of a person’s knowledge.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed category-fluency study, semantic-memory and hippocampus review, semantic-memory metacognition/ERP study, and methods/models review",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Task performance, subjective confidence, neural correlates, and computational model outputs are not diagnosis, treatment, personal prediction, or individualized cognitive assessment.",
+  "source_ids":[
+    {"source_id":"doi:10.3389/fnagi.2021.678588","citation":"De Marco, Blackburn, and Venneri (2021), Serial Recall Order and Semantic Features of Category Fluency Words to Study Semantic Memory in Normal Ageing, Frontiers in Aging Neuroscience, 13, 678588","url":"https://doi.org/10.3389/fnagi.2021.678588","type":"peer_reviewed_category_fluency_study"},
+    {"source_id":"doi:10.3389/fnhum.2019.00471","citation":"Duff, Covington, Hilverman, and Cohen (2019), Semantic Memory and the Hippocampus: Revisiting, Reaffirming, and Extending the Reach of Their Critical Relationship, Frontiers in Human Neuroscience, 13, 471","url":"https://doi.org/10.3389/fnhum.2019.00471","type":"peer_reviewed_semantic_memory_review"},
+    {"source_id":"doi:10.1038/s41598-023-28595-z","citation":"Irak, Soylu, and Yavuz (2023), Comparing event-related potentials of retrospective and prospective metacognitive judgments during episodic and semantic memory, Scientific Reports, 13, 1949","url":"https://doi.org/10.1038/s41598-023-28595-z","type":"peer_reviewed_metacognition_erp_study"},
+    {"source_id":"doi:10.3758/s13423-020-01792-x","citation":"Kumar (2021), Semantic memory: A review of methods, models, and current challenges, Psychonomic Bulletin and Review, 28, 40–80","url":"https://doi.org/10.3758/s13423-020-01792-x","type":"peer_reviewed_methods_models_review"}
+  ],
+  "assets":{
+    "video":"assets/reel_0059_semantic_memory_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0059_semantic_memory_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0059_semantic_memory_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0059_semantic_memory_what_studies_measure_script.md",
+    "sources":"research/reel_0059_semantic_memory_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0059_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0059_scene_01.png","assets/reel_0059_scene_02.png","assets/reel_0059_scene_03.png","assets/reel_0059_scene_04.png"],
+    "qc_report":"assets/reel_0059_qc_report.json",
+    "drive_manifest":"state/reel_0059_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes showing category-fluency output versus total knowledge, naming and factual tasks, metacognitive/neural proxies, and model-estimate boundaries. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research measures and limitations, not a person’s complete semantic knowledge, intelligence, or cognitive health. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":65.88,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1-1vx-waRJ_c93PL2xbtqlB4uyemAnPXl","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}

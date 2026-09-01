@@ -1,0 +1,1 @@
+attempt1=assets/reel_0046_contemplative_traditions_what_studies_measure_narration_hi_attempt1_78s.wav duration_seconds=78.44 status=overlong_preserved

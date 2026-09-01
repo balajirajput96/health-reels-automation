@@ -1,0 +1,84 @@
+{
+  "folder_id": "1NEBGPCs00J-Gny4ksbmHilnU7qDDBO6Y",
+  "manifest_id": "1MXly-a_-3FAKC1gOTKLVIWoKLbFZ7qYV",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "duplicate_expected_names": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0067_metadata.json",
+      "id": "14N4-tYkOlxeV2A6DGFriotmOeyttSGyN",
+      "size": 3623,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0067_qc_report.json",
+      "id": "1ArX91K7Apg_KurkpXhBamPu2ikyPe7Dd",
+      "size": 547,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0067_scene_01.png",
+      "id": "113xhItIZekmpzcJ_VWWIjkQenSG606iY",
+      "size": 68059,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0067_scene_02.png",
+      "id": "1Zmrn4bwzBFnQOxf8dPc-zZUMzgMWBeoE",
+      "size": 65164,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0067_scene_03.png",
+      "id": "1gsjIrMhHseyEC0qvp3hkw_j3HSMo02v9",
+      "size": 62951,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0067_scene_04.png",
+      "id": "16pitrrZg63rVwFF47W4sSJG4kEmVjzYX",
+      "size": 67277,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0067_theory_of_mind_what_studies_measure_captions_hi.srt",
+      "id": "1Oqio7YCEQaN47xTz6yTfdmr1Brt27V4h",
+      "size": 2182,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0067_theory_of_mind_what_studies_measure_hi.mp4",
+      "id": "12YUd0cUclLft7XdfUjYzPLi4PvBSOhS4",
+      "size": 1566884,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0067_theory_of_mind_what_studies_measure_narration_hi.wav",
+      "id": "1Yte97W9Pk69SVxccJmGMbrqpYO1wQYT7",
+      "size": 3317804,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0067_theory_of_mind_what_studies_measure_script.md",
+      "id": "1AX4g7eNlXW-c4MSqqnsbadCNkK2M83ie",
+      "size": 6734,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0067_theory_of_mind_what_studies_measure_sources.md",
+      "id": "1KrztKD8RHzzbnahSJDN6tDEms0OQj7ZN",
+      "size": 5261,
+      "mimeType": "text/markdown"
+    }
+  ],
+  "valid": true
+}

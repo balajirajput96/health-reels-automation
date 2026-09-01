@@ -1,0 +1,4 @@
+R0081 narration audit
+attempt1: duration=83.960s, codec=pcm_s16le, sample_rate=24000, channels=1, status=FAILED_DURATION_OUT_OF_RANGE, preserved_path=assets/reel_0081_stress_and_attention_what_studies_measure_audio_attempt1.wav
+attempt2: duration=79.760s, codec=pcm_s16le, sample_rate=24000, channels=1, status=FAILED_DURATION_OUT_OF_RANGE, preserved_path=assets/reel_0081_stress_and_attention_what_studies_measure_audio_attempt2.wav
+attempt3: duration=64.440s, codec=pcm_s16le, sample_rate=24000, channels=1, status=ACCEPTED_CANONICAL, path=assets/reel_0081_stress_and_attention_what_studies_measure_audio_attempt3.wav

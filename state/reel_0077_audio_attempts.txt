@@ -1,0 +1,2 @@
+attempt1	84.68	failed_duration	assets/reel_0077_stress_appraisal_what_studies_measure_audio_attempt1_attempt1_84.68s.wav
+attempt2	74.76	accepted_canonical	assets/reel_0077_stress_appraisal_what_studies_measure_audio_attempt2.wav

@@ -1,0 +1,23 @@
+{
+  "video": "assets/reel_0081_stress_and_attention_what_studies_measure_hi.mp4",
+  "checks": {
+    "width": 1080,
+    "height": 1920,
+    "duration_seconds": 64.467,
+    "aspect_ratio_9_16": true,
+    "duration_45_to_75": true,
+    "audio_stream": {
+      "codec": "aac",
+      "sample_rate": "48000",
+      "channels": 1
+    },
+    "caption_cues": 15,
+    "caption_timing_ok": true,
+    "source_records": 4,
+    "source_identifier_present": true,
+    "ai_disclosure_present": true,
+    "safety_wording_ok": true
+  },
+  "problems": [],
+  "valid": true
+}

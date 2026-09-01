@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0075_self_determination_what_studies_measure",
+  "queue_id":"0075",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0075",
+  "title_hi":"स्व-निर्धारण: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"self-determination theory, autonomy, competence, relatedness, intrinsic motivation, autonomous and controlled regulation, need satisfaction, self-report scales, and observed outcomes",
+  "unique_angle":"SDT studies measure experienced needs and regulatory styles with questionnaires or domain-specific scales, then relate them to defined outcomes; these measures do not directly reveal a universal private motive or diagnose ability or mental health.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"official theory overview, peer-reviewed measurement and well-being paper, peer-reviewed SDT motivation review, and official scale documentation",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Autonomy, competence, relatedness, need satisfaction, and motivational regulation are task-, domain-, population-, and setting-bound constructs; questionnaire responses are not diagnosis, direct mind reading, proof of ability, or guaranteed predictions of future behavior.",
+  "source_ids":[
+    {"source_id":"official:sdt-theory","citation":"Center for Self-Determination Theory, Theory overview","url":"https://selfdeterminationtheory.org/theory/","type":"official_theory_overview"},
+    {"source_id":"doi:10.1016/j.pmedr.2021.101518","citation":"Martela, Ryan, & Steger (2021), In selecting measures for a comprehensive assessment of well-being, it is essential to include indicators of psychological need satisfaction","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC8264600/","type":"peer_reviewed_measurement_paper"},
+    {"source_id":"doi:10.1016/j.cedpsych.2020.101860","citation":"Ryan & Deci (2020), Intrinsic and extrinsic motivation from a self-determination theory perspective: Definitions, theory, practices, and future directions","url":"https://doi.org/10.1016/j.cedpsych.2020.101860","type":"peer_reviewed_motivation_review"},
+    {"source_id":"official:bpnss","citation":"Center for Self-Determination Theory, Basic Psychological Need Satisfaction Scales","url":"https://selfdeterminationtheory.org/basic-psychological-need-satisfaction-scales/","type":"official_scale_documentation"}
+  ],
+  "assets":{
+    "video":"assets/reel_0075_self_determination_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0075_self_determination_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0075_self_determination_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0075_self_determination_what_studies_measure_script.md",
+    "sources":"research/reel_0075_self_determination_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0075_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0075_scene_01.png","assets/reel_0075_scene_02.png","assets/reel_0075_scene_03.png","assets/reel_0075_scene_04.png"],
+    "qc_report":"assets/reel_0075_qc_report.json",
+    "drive_manifest":"state/reel_0075_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes depict autonomy, competence, relatedness, motivational regulation, domain-specific scales, and separated observed outcomes. No real person, private data, or direct mind-reading claim is depicted.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate SDT measurement concepts and limits, not a complete psychological assessment. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":69.48,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1HGJzVtPOdWu_YVaRk_4xaIlZBxtPSl3I","drive_verification_note":"Final exact-package verification passed: 11 expected objects, one nonzero correctly parented manifest, zero missing/zero-size/wrong-parent/duplicate/unrelated objects; manifest finalized in place."}
+}

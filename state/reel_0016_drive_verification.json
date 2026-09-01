@@ -1,0 +1,82 @@
+{
+  "folder_id": "1uls-iL0Wolut5-IpjfzsoEMOjvWcABsD",
+  "manifest_id": "107WoQBQ48jfLfSCYiYK9a7m_NgfV1RNg",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "expected_objects": [
+    {
+      "name": "reel_0016_mental_time_travel_what_studies_measure_captions_hi.srt",
+      "id": "1JhXk5rrJxjRiYbAyztlVuDljYRXitkMF",
+      "size": 1759,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0016_mental_time_travel_what_studies_measure_hi.mp4",
+      "id": "1T_3kYpqZ6jwz0qos2GTDkFxtq0CeH0qp",
+      "size": 3532725,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0016_mental_time_travel_what_studies_measure_narration_hi.wav",
+      "id": "1T-inHhIqjrftaZ-76N_GHAY6WCsrCSad",
+      "size": 3248684,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0016_mental_time_travel_what_studies_measure_script.md",
+      "id": "16igF646V5QCXVAWu3Js_q8Rwxr34B5Os",
+      "size": 7454,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0016_mental_time_travel_what_studies_measure_sources.md",
+      "id": "1FQNrNu4F-pRGQ9T0VK5sCj9tukG0xTSQ",
+      "size": 4982,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0016_metadata.json",
+      "id": "1PSZoEFwWqCNMNmpq9sxFkAsRvz88qFQz",
+      "size": 4062,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0016_qc_report.json",
+      "id": "1q5zhKjXO2znQ4vTARsIqOnNgM4yMijBy",
+      "size": 551,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0016_scene_01.png",
+      "id": "1AfA-FpOhyomIZmAW-f5kwht4fUB4SsQ5",
+      "size": 114100,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0016_scene_02.png",
+      "id": "15qofMIeCUKTk0rDQbYN79fjrlUIptCfZ",
+      "size": 114097,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0016_scene_03.png",
+      "id": "16CQao2lwzNPXvlV0xTkwhTWMnNKxTgQZ",
+      "size": 120325,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0016_scene_04.png",
+      "id": "1x_RQ4unZ6VptJlsEv8LLTjZtboWr6Zfi",
+      "size": 126396,
+      "mimeType": "image/png"
+    }
+  ],
+  "valid": true
+}

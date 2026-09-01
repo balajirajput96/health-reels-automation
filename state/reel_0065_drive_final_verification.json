@@ -1,0 +1,84 @@
+{
+  "folder_id": "1PjbiZELV4uRRv-ya5a1S_H0AEd-obt9k",
+  "manifest_id": "1e6_LKNXV7lxQqG8V55FCfUYYlIhB7oQ8",
+  "expected_count": 11,
+  "found_expected_count": 11,
+  "missing": [],
+  "zero_size": [],
+  "wrong_parent": [],
+  "duplicate_expected_names": [],
+  "manifest_found_once": true,
+  "manifest_parent_ok": true,
+  "manifest_nonzero": true,
+  "unrelated_remote_object_count": 0,
+  "unrelated_remote_objects": [],
+  "expected_objects": [
+    {
+      "name": "reel_0065_metadata.json",
+      "id": "18oWSEwFuSru_MzqCnC_EqiXWW5OaaYuj",
+      "size": 3910,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0065_qc_report.json",
+      "id": "1c2eM0MvUdnEmqyDDt5MxqICaevEAXdz_",
+      "size": 549,
+      "mimeType": "application/json"
+    },
+    {
+      "name": "reel_0065_scene_01.png",
+      "id": "1d-ljZUGb4c-M-qjdfkCbl0LnqQLkKKwW",
+      "size": 63033,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0065_scene_02.png",
+      "id": "1xJITMjZX1wNMqa1lrpQvKPLOwM7HVpT1",
+      "size": 62934,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0065_scene_03.png",
+      "id": "1qauUlQfYKHy6w-6UslN-6G8J-PF1rLop",
+      "size": 64785,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0065_scene_04.png",
+      "id": "1ZqZET1qhpmETSdbWkmjAWtSxhLRm8XYy",
+      "size": 63927,
+      "mimeType": "image/png"
+    },
+    {
+      "name": "reel_0065_task_switching_what_studies_measure_captions_hi.srt",
+      "id": "1RsS344JoFJBL04u5p3F5dLVHF1jYFYGI",
+      "size": 2134,
+      "mimeType": "application/x-subrip"
+    },
+    {
+      "name": "reel_0065_task_switching_what_studies_measure_hi.mp4",
+      "id": "1PWPveG8xxGpOJKRVMoRQaTWIFsI9634D",
+      "size": 3712392,
+      "mimeType": "video/mp4"
+    },
+    {
+      "name": "reel_0065_task_switching_what_studies_measure_narration_hi.wav",
+      "id": "1ij17WaPJJvws1IpLyA97RfI3Kk6W0wLe",
+      "size": 3521324,
+      "mimeType": "audio/wav"
+    },
+    {
+      "name": "reel_0065_task_switching_what_studies_measure_script.md",
+      "id": "1PWqeBeCnJ1rn7-4RlDH6agLfkMzqCEmh",
+      "size": 4908,
+      "mimeType": "text/markdown"
+    },
+    {
+      "name": "reel_0065_task_switching_what_studies_measure_sources.md",
+      "id": "11XDWaT4s7fU5bYUvhgT-zW8FQ0teHdWx",
+      "size": 4667,
+      "mimeType": "text/markdown"
+    }
+  ],
+  "valid": true
+}

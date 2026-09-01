@@ -1,0 +1,114 @@
+{
+  "files": [
+    {
+      "id": "1eLH39Tpj_VdpN9DaZ9eQYIuHAmgtGQbY",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T09:26:49.519Z",
+      "name": "reel_0072_scene_04.png",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "38160"
+    },
+    {
+      "id": "1HugK8RSiILahtn4QHlKl9BbkzWhrtIbi",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T09:26:45.903Z",
+      "name": "reel_0072_scene_03.png",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "50213"
+    },
+    {
+      "id": "1rqlDMv5pFmKhMyETSUFm3lNWlsAb8DdI",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T09:26:42.444Z",
+      "name": "reel_0072_scene_02.png",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "29123"
+    },
+    {
+      "id": "1mGO8TcytrgUTpoeBxl8yPXTUer3VE8sR",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T09:26:39.031Z",
+      "name": "reel_0072_scene_01.png",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "37007"
+    },
+    {
+      "id": "1vphRn9MG0mbjyTjMUJVr_WKfTLeOqVFu",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T09:26:36.439Z",
+      "name": "reel_0072_intrinsic_motivation_what_studies_measure_script.md",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "4986"
+    },
+    {
+      "id": "1caXx92u2v8t4RQGLzjLATFOegcEZ9pOO",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T09:26:33.838Z",
+      "name": "reel_0072_intrinsic_motivation_what_studies_measure_sources.md",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "5449"
+    },
+    {
+      "id": "1oJuhbF_DSLzTxI9_nSLGMhAFwla5FNZT",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T09:26:30.988Z",
+      "name": "reel_0072_qc_report.json",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "553"
+    },
+    {
+      "id": "1G686QOIMRSABpbeRK37ha9iUsMBtz-mO",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T09:26:28.178Z",
+      "name": "reel_0072_metadata.json",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "3922"
+    },
+    {
+      "id": "18DtUJftqDNNoYWSCp6eQiUvhJrMGpiSG",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-26T09:26:24.418Z",
+      "name": "reel_0072_intrinsic_motivation_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "1656"
+    },
+    {
+      "id": "1lluyrPfVl1Ubtyp859ZIAUY6V6NtRAct",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-26T09:26:21.667Z",
+      "name": "reel_0072_intrinsic_motivation_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "3173804"
+    },
+    {
+      "id": "1pNI92u-DxWNo7BGRRWHSe-T2oXynwUip",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-26T09:26:18.206Z",
+      "name": "reel_0072_intrinsic_motivation_what_studies_measure_hi.mp4",
+      "parents": [
+        "1hzYKsUoeH61_fu-gYSVYDR8_SS4ktn2v"
+      ],
+      "size": "2000908"
+    }
+  ]
+}

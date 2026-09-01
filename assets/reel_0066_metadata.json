@@ -1,0 +1,37 @@
+{
+  "reel_id":"reel_0066_deep_work_claims_what_studies_measure",
+  "queue_id":"0066",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0066",
+  "title_hi":"गहरे काम के दावे: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"deep-work claims, sustained attention, interruptions, multitasking, self-report, neural correlates, and context-specific outcomes",
+  "unique_angle":"Deep work is an umbrella claim; studies measure defined vigilance tasks, interruption or switching contrasts, self-report, neural correlates, or named real-world outcomes rather than a universal productivity state.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed vigilance meta-analysis, digital-multitasking review, and prospective interruption/task-error observation study",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Results are task-specific or context-bound and are not diagnosis, treatment, direct thought reading, individualized productivity advice, or a universal law about interruptions.",
+  "source_ids":[
+    {"source_id":"doi:10.1037/a0030694","citation":"Langner and Eickhoff (2012), Sustaining Attention to Simple Tasks: A Meta-Analytic Review of the Neural Mechanisms of Vigilant Attention, Psychological Bulletin","url":"https://doi.org/10.1037/a0030694","type":"peer_reviewed_vigilance_meta_analysis"},
+    {"source_id":"doi:10.1097/MS9.0000000000002576","citation":"Hasan (2024), Digital multitasking and hyperactivity: unveiling the hidden costs to brain health, Annals of Medicine and Surgery","url":"https://doi.org/10.1097/MS9.0000000000002576","type":"peer_reviewed_digital_multitasking_review"},
+    {"source_id":"doi:10.1136/bmjqs-2017-007333","citation":"Westbrook et al. (2018), Task errors by emergency physicians are associated with interruptions, multitasking, fatigue and working memory capacity, BMJ Quality & Safety","url":"https://doi.org/10.1136/bmjqs-2017-007333","type":"peer_reviewed_direct_observation_study"}
+  ],
+  "assets":{
+    "video":"assets/reel_0066_deep_work_claims_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0066_deep_work_claims_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0066_deep_work_claims_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0066_deep_work_claims_what_studies_measure_script.md",
+    "sources":"research/reel_0066_deep_work_claims_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0066_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0066_scene_01.png","assets/reel_0066_scene_02.png","assets/reel_0066_scene_03.png","assets/reel_0066_scene_04.png"],
+    "qc_report":"assets/reel_0066_qc_report.json",
+    "drive_manifest":"state/reel_0066_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes show vigilance over time, interruption versus uninterrupted trials, subjective versus objective measures, and context-bound neural or real-world outcomes. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate measurement categories and limits, not a complete productivity or cognitive test. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":72.92,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1jpILoA0MQkQLgXAvrY8SZ10k9wVcUfYY","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}

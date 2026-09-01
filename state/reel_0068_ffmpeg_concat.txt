@@ -1,0 +1,9 @@
+file '/home/ubuntu/repos/health-reels-automation/assets/reel_0068_scene_01.png'
+duration 15.690
+file '/home/ubuntu/repos/health-reels-automation/assets/reel_0068_scene_02.png'
+duration 15.690
+file '/home/ubuntu/repos/health-reels-automation/assets/reel_0068_scene_03.png'
+duration 15.690
+file '/home/ubuntu/repos/health-reels-automation/assets/reel_0068_scene_04.png'
+duration 15.690
+file '/home/ubuntu/repos/health-reels-automation/assets/reel_0068_scene_04.png'

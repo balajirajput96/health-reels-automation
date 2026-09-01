@@ -1,0 +1,73 @@
+{
+  "reel_id": "reel_0040_environmental_friction_what_studies_measure",
+  "queue_id": "0040",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0040",
+  "title_hi": "Environment का friction: studies क्या मापते हैं?",
+  "topic": "environmental friction and behavioral measurement",
+  "unique_angle": "Environmental friction is operationalized through effort, access, arrangement, defaults, reminders, and context stability; studies then measure observable outcomes rather than invisible willpower.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 69.0,
+  "evidence_class": "peer-reviewed original research and meta-analysis",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, individualized behavioral plan, fixed habit-formation timeline, guaranteed behavior change, or inference of mental state from a proxy measure.",
+  "source_ids": [
+    {
+      "source_id": "doi:10.3389/fpsyg.2022.883795",
+      "citation": "Stojanovic, Grund, and Fries (2022), Context Stability in Habit Building Increases Automaticity and Goal Attainment",
+      "url": "https://doi.org/10.3389/fpsyg.2022.883795",
+      "type": "peer_reviewed_original_research"
+    },
+    {
+      "source_id": "doi:10.1073/pnas.2107346118",
+      "citation": "Mertens, Herberz, Hahnel, and Brosch (2022), The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+      "url": "https://doi.org/10.1073/pnas.2107346118",
+      "type": "peer_reviewed_meta_analysis"
+    },
+    {
+      "source_id": "doi:10.1016/j.cobeha.2021.02.020",
+      "citation": "Verplanken and Whitmarsh (2021), Habit and climate change",
+      "url": "https://doi.org/10.1016/j.cobeha.2021.02.020",
+      "type": "peer_reviewed_review"
+    },
+    {
+      "source_id": "doi:10.1186/1479-5868-9-102",
+      "citation": "Gardner, Abraham, Lally, and de Bruijn (2012), Towards parsimony in habit measurement",
+      "url": "https://doi.org/10.1186/1479-5868-9-102",
+      "type": "peer_reviewed_original_research"
+    }
+  ],
+  "assets": {
+    "video": "assets/reel_0040_environmental_friction_what_studies_measure_hi.mp4",
+    "narration": "assets/reel_0040_environmental_friction_what_studies_measure_narration_hi.wav",
+    "captions": "assets/reel_0040_environmental_friction_what_studies_measure_captions_hi.srt",
+    "script": "research/reel_0040_environmental_friction_what_studies_measure_script.md",
+    "sources": "research/reel_0040_environmental_friction_what_studies_measure_sources.md",
+    "browser_findings": "research/reel_0040_browser_findings.md",
+    "visual_reference": null,
+    "visual_scenes": [
+      "assets/reel_0040_scene_01.png",
+      "assets/reel_0040_scene_02.png",
+      "assets/reel_0040_scene_03.png",
+      "assets/reel_0040_scene_04.png"
+    ],
+    "qc_report": "assets/reel_0040_qc_report.json",
+    "drive_manifest": "state/reel_0040_drive_upload_manifest.json"
+  },
+  "visual_provenance": "Deterministic conceptual motion-graphics scenes showing effort/access as an intervention, place-and-time context stability, separate measurement instruments, and average-effect uncertainty. No participant likenesses, diagnosis, literal mind-reading, or individual prediction.",
+  "ai_content_disclosure": "AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research methods and outcomes, not guaranteed behavior change or individual prediction. Not personal, medical, or financial advice.",
+  "publication": {
+    "status": "not_published",
+    "target": null,
+    "note": "Drive storage requested; no social post attempted."
+  },
+  "qc": {
+    "local_media_qc": "passed",
+    "drive_verified": true,
+    "drive_manifest_uploaded": true,
+    "drive_manifest_file_id": "1YRDbV78RMOl-Sjo8071KaOXs_AadCHHb",
+    "drive_verification_note": "Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0040 parent, one nonzero manifest control object, and zero unrelated remote objects."
+  }
+}

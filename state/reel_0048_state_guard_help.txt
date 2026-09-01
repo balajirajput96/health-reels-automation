@@ -1,0 +1,19 @@
+usage: state_guard.py register [-h] --stage
+                               {original,edited,final,scheduled,published,failed,rejected}
+                               [--target-account TARGET_ACCOUNT]
+                               [--source-id SOURCE_ID] [--file FILE]
+                               [--filename FILENAME] [--sha256 SHA256]
+                               [--draft-id DRAFT_ID] [--post-id POST_ID]
+                               [--notes NOTES]
+
+options:
+  -h, --help            show this help message and exit
+  --stage {original,edited,final,scheduled,published,failed,rejected}
+  --target-account TARGET_ACCOUNT
+  --source-id SOURCE_ID
+  --file FILE
+  --filename FILENAME
+  --sha256 SHA256
+  --draft-id DRAFT_ID
+  --post-id POST_ID
+  --notes NOTES

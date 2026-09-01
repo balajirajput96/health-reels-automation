@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,400
+Quiz answer करना और सीखना—क्या एक ही है?
+
+2
+00:00:03,500 --> 00:00:07,000
+Retrieval practice memory से information निकालना है।
+
+3
+00:00:07,100 --> 00:00:10,500
+Study में researchers अलग चीज़ें माप सकते हैं।
+
+4
+00:00:10,600 --> 00:00:14,000
+Opportunity, answered questions और correctness।
+
+5
+00:00:14,100 --> 00:00:17,600
+फिर delayed retention और नए format में transfer।
+
+6
+00:00:17,700 --> 00:00:21,100
+Participation log, successful recall का proof नहीं।
+
+7
+00:00:21,200 --> 00:00:24,800
+एक classroom study में 248 anatomy students थे।
+
+8
+00:00:24,900 --> 00:00:28,400
+Lecture में retrieval questions दिए गए।
+
+9
+00:00:28,500 --> 00:00:32,000
+लगभग तीन हफ्ते बाद final exam हुआ।
+
+10
+00:00:32,100 --> 00:00:35,700
+Higher-participation group का congruent score बेहतर था।
+
+11
+00:00:35,800 --> 00:00:39,200
+लेकिन यह randomized trial नहीं था।
+
+12
+00:00:39,300 --> 00:00:42,700
+Prior preparation और conscientiousness भी फर्क डाल सकते हैं।
+
+13
+00:00:42,800 --> 00:00:46,200
+2018 meta-analysis में 122 experiments थे।
+
+14
+00:00:46,300 --> 00:00:49,800
+कुल 10,382 participants का data summarize हुआ।
+
+15
+00:00:49,900 --> 00:00:53,300
+Re-exposure की तुलना में average transfer मिला।
+
+16
+00:00:53,400 --> 00:00:56,800
+d = 0.40, लेकिन task और format matter करते हैं।
+
+17
+00:00:56,900 --> 00:01:00,300
+हर नई situation में effect guaranteed नहीं।
+
+18
+00:01:00,400 --> 00:01:03,800
+Attempt, participation, retention और transfer अलग हैं।
+
+19
+00:01:03,900 --> 00:01:07,300
+Quiz learning का पूरा certificate नहीं।
+
+20
+00:01:07,400 --> 00:01:11,500
+एक score intelligence का measure नहीं। यह education है—diagnosis या treatment नहीं।

@@ -1,0 +1,264 @@
+{
+  "files": [
+    {
+      "id": "1BfVjLBL3eNWgrNGrKy6VTH7c6qC47q35",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T19:13:59.044Z",
+      "name": "reel_0010_drive_upload_manifest.json",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "6601"
+    },
+    {
+      "id": "1X-qzkY9jb3S6JSs0_MxMfHDw8SrvxouL",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T19:13:48.473Z",
+      "name": "reel_0010_metadata.json",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "3935"
+    },
+    {
+      "id": "1rW5M0MhSTPfUHVNjFis6eJORnINMXMAM",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T19:11:54.767Z",
+      "name": "reel_0010_scene_04.png",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "126085"
+    },
+    {
+      "id": "1Fp7bOqA7Rm9hoInwooRbZC3lClSU4H1U",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T19:11:51.604Z",
+      "name": "reel_0010_scene_03.png",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "130226"
+    },
+    {
+      "id": "1g_S56VKowwzmfJ6bYqtQsgH-TYcMiCS2",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T19:11:48.532Z",
+      "name": "reel_0010_scene_02.png",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "129740"
+    },
+    {
+      "id": "1aywfOx2Mjkf339mJFiitWMWKjlUAwcL0",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T19:11:45.381Z",
+      "name": "reel_0010_scene_01.png",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "120118"
+    },
+    {
+      "id": "1UN38smmaereaHiWS1Xw05HVGQ0bM8OhD",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T19:11:43.011Z",
+      "name": "reel_0010_amygdala_context_what_studies_measure_script.md",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "5700"
+    },
+    {
+      "id": "1rr4bMr190vYxy8aPoX_SvmQ-vs76zArX",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T19:11:40.730Z",
+      "name": "reel_0010_amygdala_context_what_studies_measure_sources.md",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "5457"
+    },
+    {
+      "id": "1KajHrQRgTIGf746AJMqvrNbkTNnX8VDh",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T19:11:38.282Z",
+      "name": "reel_0010_qc_report.json",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "549"
+    },
+    {
+      "id": "1Z6BzRGAsUhZG5tRQ-IQKC_V_0lQn8Nrs",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-22T19:11:33.466Z",
+      "name": "reel_0010_amygdala_context_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "1559"
+    },
+    {
+      "id": "129jAXNS5ZGakwivdP3rzR3m6xW-Amw55",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-22T19:11:30.926Z",
+      "name": "reel_0010_amygdala_context_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "3152684"
+    },
+    {
+      "id": "1FH6pBfB57T-xzjw67T53OotVXpW8ntIM",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-22T19:11:27.936Z",
+      "name": "reel_0010_amygdala_context_what_studies_measure_hi.mp4",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "3470461"
+    },
+    {
+      "id": "1_IU-BK2lsHHJRjWWv_MGA_oiNlU5LW25",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T11:19:02.562Z",
+      "name": "REEL-0010_manifest.json",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "2517"
+    },
+    {
+      "id": "1C2d3xyIGIiZE5GbY4Q1kJlL3RTStqY07",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T11:18:44.173Z",
+      "name": "REEL-0010_qc.json",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "3164"
+    },
+    {
+      "id": "1S0YlhfAM9RCaxvzbN0Cujt9QWXkb7XdW",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T11:18:11.765Z",
+      "name": "REEL-0010_ref_reused_caution.png",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "4684991"
+    },
+    {
+      "id": "1YprLlIG2vrEVGElatiH9nP9Ay47TszGg",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T11:18:09.228Z",
+      "name": "REEL-0010_ref_reused_coordination.png",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "5013104"
+    },
+    {
+      "id": "1f5t1zcjmAj_LWZ-VLZiEs1NArDJeaeyH",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T11:18:06.915Z",
+      "name": "REEL-0010_ref_reused_inward.png",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "5059266"
+    },
+    {
+      "id": "1-kVg_FZUjE3PU8M1PWNgBtHZwhQvPNFL",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-22T11:18:04.749Z",
+      "name": "REEL-0010_ref_reused_primary.png",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "5054777"
+    },
+    {
+      "id": "1xj-nxKhjFma_ExMr-PLFmMlsV7R1hn5I",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T11:18:03.333Z",
+      "name": "REEL-0010_visual_source_log.md",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "1394"
+    },
+    {
+      "id": "1EBNxyFlIxXwxDtai8vwgFX1wqmElMfFL",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T11:18:02.069Z",
+      "name": "REEL-0010_research_sources.md",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "3760"
+    },
+    {
+      "id": "1PvY0rK3XhrRsePNIB1QettrX6zdQgqwU",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T11:18:00.823Z",
+      "name": "REEL-0010_production_blueprint.md",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "1965"
+    },
+    {
+      "id": "1FaI-lLe1QXTi_U2WEomto-7c7XSPJV_P",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-22T11:17:59.579Z",
+      "name": "REEL-0010_claims.json",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "3142"
+    },
+    {
+      "id": "1gSgCNkJHEbnp7XvMQ7l0cia_J8T8O7fo",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-22T11:17:58.337Z",
+      "name": "REEL-0010_script_hi-IN.md",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "2669"
+    },
+    {
+      "id": "1y823EQ8un88u90NG3deGUi2YU_xppctl",
+      "mimeType": "text/plain",
+      "modifiedTime": "2026-08-22T11:17:57.111Z",
+      "name": "REEL-0010_captions.srt",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "1655"
+    },
+    {
+      "id": "1bmajW3Ijl6FYR5e4ADDy0OjNZKRjIHh8",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-22T11:17:55.948Z",
+      "name": "REEL-0010_narration_hi-IN.wav",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "3095868"
+    },
+    {
+      "id": "1FYoqJpndPklVTGuapPPfQHm_qmDLqV1i",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-22T11:17:54.471Z",
+      "name": "REEL-0010.mp4",
+      "parents": [
+        "1EKLMwTXS8PNVqPaEfBjVbeW0tfq5-HwN"
+      ],
+      "size": "14372116"
+    }
+  ]
+}

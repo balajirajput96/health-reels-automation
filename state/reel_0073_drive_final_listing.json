@@ -1,0 +1,124 @@
+{
+  "files": [
+    {
+      "id": "1lvQr67p0kbRKOpiwNU9eWQKi48q3D-f3",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T09:47:25.504Z",
+      "name": "reel_0073_drive_upload_manifest.json",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "6571"
+    },
+    {
+      "id": "1lDV145mROZvnEasoTlh4dDnamQCSQVHl",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T09:46:39.417Z",
+      "name": "reel_0073_metadata.json",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "4018"
+    },
+    {
+      "id": "1_RFZmKxA4e0fYnRRdn_TYSAtAiE6L0pE",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T09:43:01.949Z",
+      "name": "reel_0073_scene_04.png",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "34688"
+    },
+    {
+      "id": "1jLoqiYhI19tyNvL2BE21P2iiRg2nmTKa",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T09:42:58.657Z",
+      "name": "reel_0073_scene_03.png",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "31286"
+    },
+    {
+      "id": "1JNYbflhJNfOmVg2hSpxa4lKiE9EgyN48",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T09:42:55.318Z",
+      "name": "reel_0073_scene_02.png",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "30112"
+    },
+    {
+      "id": "1Np1bVngiftQ9-5gCvfuJpUvjKDEKUY86",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-26T09:42:51.463Z",
+      "name": "reel_0073_scene_01.png",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "28579"
+    },
+    {
+      "id": "1isPlJ4-NAx4RvIxSg9IY70T9RNIXouob",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T09:42:48.864Z",
+      "name": "reel_0073_goal_gradients_what_studies_measure_script.md",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "4927"
+    },
+    {
+      "id": "1trh4SeFuAX9jhCssSZBg6G5IPi2zWK_s",
+      "mimeType": "text/markdown",
+      "modifiedTime": "2026-08-26T09:42:46.227Z",
+      "name": "reel_0073_goal_gradients_what_studies_measure_sources.md",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "4986"
+    },
+    {
+      "id": "1Mce7cGwXlaQIsA8GTAvUmYZi5_qz0h4G",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-26T09:42:43.521Z",
+      "name": "reel_0073_qc_report.json",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "549"
+    },
+    {
+      "id": "1TCh24j8ff0VYx1Qt-zK3T28p1s3XLfuM",
+      "mimeType": "application/x-subrip",
+      "modifiedTime": "2026-08-26T09:42:37.470Z",
+      "name": "reel_0073_goal_gradients_what_studies_measure_captions_hi.srt",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "1669"
+    },
+    {
+      "id": "18DvO_vGJ0hbgpKGrKK9poZ0mdbDUWVeP",
+      "mimeType": "audio/wav",
+      "modifiedTime": "2026-08-26T09:42:34.408Z",
+      "name": "reel_0073_goal_gradients_what_studies_measure_narration_hi.wav",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "3338924"
+    },
+    {
+      "id": "1CGkzw4pbderoqiHs1fsI27M3Oz2kvbVx",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-26T09:42:31.289Z",
+      "name": "reel_0073_goal_gradients_what_studies_measure_hi.mp4",
+      "parents": [
+        "1he2YfyPwokIQnUp3nBwZjoheyaVM8_Ds"
+      ],
+      "size": "2280338"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "reel_id": "reel_0036_emotional_contagion_what_studies_measure",
+  "queue_id": "0036",
+  "batch": "Batch_002",
+  "drive_path": "3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0036",
+  "title_hi": "इमोशनल कॉन्टेजन: studies क्या मापती हैं?",
+  "topic": "emotional contagion measurement across self-report, mimicry, physiology, and social context",
+  "unique_angle": "Emotional contagion studies measure different layers—susceptibility questionnaires, reported affect, facial or behavioral mimicry, physiological synchrony, and contextual moderators—rather than reading a specific emotion from one sensor.",
+  "language": "hi-IN",
+  "aspect_ratio": "9:16",
+  "target_duration_seconds": 60,
+  "measured_narration_duration_seconds": 72.20,
+  "evidence_class": "peer-reviewed review, validated self-report measure study, and dyadic laboratory physiology study",
+  "safety_status": "SAFE_WITH_EDITS",
+  "safety_boundary": "Public education only. No diagnosis, treatment, prescription, character judgment, guaranteed benefit, mind-reading claim, exact emotion detection, or individualized psychological inference.",
+  "source_ids": [
+    {"source_id":"doi:10.3389/fpsyg.2021.712606","citation":"Herrando and Constantinides (2021), Emotional Contagion: A Brief Overview and Future Directions","url":"https://doi.org/10.3389/fpsyg.2021.712606","type":"peer_reviewed_review"},
+    {"source_id":"doi:10.1371/journal.pone.0302890","citation":"Marx, Frenzel, Fiedler, and Reck (2024), Susceptibility to positive versus negative emotional contagion","url":"https://doi.org/10.1371/journal.pone.0302890","type":"peer_reviewed_measure_development"},
+    {"source_id":"doi:10.1016/j.physbeh.2023.114434","citation":"Lin, Zhu, and Wang (2024), Emotion contagion and physiological synchrony","url":"https://doi.org/10.1016/j.physbeh.2023.114434","type":"peer_reviewed_dyadic_laboratory_study"}
+  ],
+  "assets": {
+    "video":"assets/reel_0036_emotional_contagion_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0036_emotional_contagion_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0036_emotional_contagion_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0036_emotional_contagion_what_studies_measure_script.md",
+    "sources":"research/reel_0036_emotional_contagion_what_studies_measure_sources.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0036_scene_01.png","assets/reel_0036_scene_02.png","assets/reel_0036_scene_03.png","assets/reel_0036_scene_04.png"],
+    "qc_report":"assets/reel_0036_qc_report.json",
+    "drive_manifest":"state/reel_0036_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic local conceptual motion-graphics scenes showing sender-observer interaction, separate questionnaires/facial/physiology/report channels, social-context moderators, and interpretation guardrails. No participant likenesses, diagnostic labels, private-thought display, wearable emotion decoding, or literal mind-reading.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate research methods, not exact emotional states, diagnoses, or individual prediction. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1oK9Su-GzRncyQERgmV2fJKhPlUk-JEKr","drive_verification_note":"Independent Drive verification passed: 11 expected lowercase package objects, all nonzero and in the Reel_0036 parent, one nonzero manifest control object, and zero unrelated remote objects."}
+}

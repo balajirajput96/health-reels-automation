@@ -1,0 +1,38 @@
+{
+  "reel_id":"reel_0055_uncertainty_what_studies_measure",
+  "queue_id":"0055",
+  "batch":"Batch_002",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_002/Reel_0055",
+  "title_hi":"अनिश्चितता: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"psychological uncertainty, measurement validity, self-report, task performance, physiology, and computational estimates",
+  "unique_angle":"The word uncertainty can refer to different constructs and observables; conclusions should stay bounded by the measure used.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"peer-reviewed systematic review, methods article, conceptual review, and measurement-format experiment",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Measures are not direct mind-reading, diagnosis, treatment, personal prediction, or individualized medical or financial advice.",
+  "source_ids":[
+    {"source_id":"doi:10.3389/fpsyg.2026.1844980","citation":"Franssen, Verstegen, Bazilinskyy, van der Spek, and Martens (2026), Psychological uncertainty in human experience and behavior: a systematic review on measurements, induction, and effects","url":"https://doi.org/10.3389/fpsyg.2026.1844980","type":"peer_reviewed_systematic_review"},
+    {"source_id":"doi:10.3389/frvir.2023.951435","citation":"Brunyé and Giles (2023), Methods for eliciting and measuring behavioral and physiological consequences of stress and uncertainty in virtual reality","url":"https://doi.org/10.3389/frvir.2023.951435","type":"peer_reviewed_methods_article"},
+    {"source_id":"doi:10.3389/fpsyg.2019.02504","citation":"Anderson, Carleton, Diefenbach, and Han (2019), The Relationship Between Uncertainty and Affect","url":"https://doi.org/10.3389/fpsyg.2019.02504","type":"peer_reviewed_conceptual_review"},
+    {"source_id":"doi:10.1037/1076-898X.2.4.343","citation":"Windschitl and Wells (1996), Measuring psychological uncertainty: verbal versus numeric methods","url":"https://doi.org/10.1037/1076-898X.2.4.343","type":"peer_reviewed_measurement_experiment"}
+  ],
+  "assets":{
+    "video":"assets/reel_0055_uncertainty_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0055_uncertainty_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0055_uncertainty_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0055_uncertainty_what_studies_measure_script.md",
+    "sources":"research/reel_0055_uncertainty_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0055_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0055_scene_01.png","assets/reel_0055_scene_02.png","assets/reel_0055_scene_03.png","assets/reel_0055_scene_04.png"],
+    "qc_report":"assets/reel_0055_qc_report.json",
+    "drive_manifest":"state/reel_0055_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes illustrating construct branching, self-report scales, task observables, physiological responses, model estimates, and evidence boundaries. No real persons or private data.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate measurement concepts and research boundaries, not hidden mental states or guaranteed predictions. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":72.88,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1tU7LSNsp5pPM2Pd9STnDKW7cmC1Dz-6E","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; metadata and manifest finalized in place."}
+}

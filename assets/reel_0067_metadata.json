@@ -1,0 +1,37 @@
+{
+  "reel_id":"reel_0067_theory_of_mind_what_studies_measure",
+  "queue_id":"0067",
+  "batch":"Batch_003",
+  "drive_path":"3000_HINDI_RESEARCH_REELS/Batch_003/Reel_0067",
+  "title_hi":"थ्योरी ऑफ माइंड: अध्ययन वास्तव में क्या मापते हैं?",
+  "topic":"theory of mind, false-belief reasoning, mental-state inference, task outcomes, and measurement limits",
+  "unique_angle":"Theory-of-mind studies measure performance on selected mental-state inference tasks—not direct mind-reading or one universal social-understanding score.",
+  "language":"hi-IN",
+  "aspect_ratio":"9:16",
+  "target_duration_seconds":60,
+  "evidence_class":"systematic reviews of theory-of-mind measures plus a peer-reviewed false-belief task-confound study",
+  "safety_status":"SAFE_WITH_EDITS",
+  "safety_boundary":"Public education only. Results are task-specific and context-bound; they are not diagnosis, treatment, direct thought reading, individual assessment, or a universal measure of social understanding.",
+  "source_ids":[
+    {"source_id":"doi:10.3389/fpsyg.2019.02905","citation":"Beaudoin et al. (2020), Systematic Review and Inventory of Theory of Mind Measures for Young Children, Frontiers in Psychology","url":"https://doi.org/10.3389/fpsyg.2019.02905","type":"peer_reviewed_systematic_review"},
+    {"source_id":"doi:10.1371/journal.pone.0244141","citation":"Ghrear et al. (2021), Are the classic false belief tasks cursed?, PLOS ONE","url":"https://doi.org/10.1371/journal.pone.0244141","type":"peer_reviewed_false_belief_task_study"},
+    {"source_id":"doi:10.1016/j.neubiorev.2023.105481","citation":"Yeung, Apperly, and Devine (2024), Measures of individual differences in adult theory of mind: A systematic review, Neuroscience and Biobehavioral Reviews","url":"https://doi.org/10.1016/j.neubiorev.2023.105481","type":"peer_reviewed_adult_measurement_systematic_review"}
+  ],
+  "assets":{
+    "video":"assets/reel_0067_theory_of_mind_what_studies_measure_hi.mp4",
+    "narration":"assets/reel_0067_theory_of_mind_what_studies_measure_narration_hi.wav",
+    "captions":"assets/reel_0067_theory_of_mind_what_studies_measure_captions_hi.srt",
+    "script":"research/reel_0067_theory_of_mind_what_studies_measure_script.md",
+    "sources":"research/reel_0067_theory_of_mind_what_studies_measure_sources.md",
+    "browser_findings":"research/reel_0067_browser_findings.md",
+    "visual_reference":null,
+    "visual_scenes":["assets/reel_0067_scene_01.png","assets/reel_0067_scene_02.png","assets/reel_0067_scene_03.png","assets/reel_0067_scene_04.png"],
+    "qc_report":"assets/reel_0067_qc_report.json",
+    "drive_manifest":"state/reel_0067_drive_upload_manifest.json"
+  },
+  "visual_provenance":"Deterministic conceptual motion-graphics scenes show a research question, false-belief perspective tracking, separate behavioral outcomes, and measurement boundaries. No real persons, private data, brain scan, or direct mind-reading claim is depicted.",
+  "ai_content_disclosure":"AI-generated Hindi narration; deterministic conceptual motion-graphics visuals created for this educational reel. Visuals illustrate task structure and measurement limits, not a complete social-cognition test. Not personal, medical, or financial advice.",
+  "publication":{"status":"not_published","target":null,"note":"Drive storage requested; no social post attempted."},
+  "measured_narration_duration_seconds":69.12,
+  "qc":{"local_media_qc":"passed","drive_verified":true,"drive_manifest_uploaded":true,"drive_manifest_file_id":"1MXly-a_-3FAKC1gOTKLVIWoKLbFZ7qYV","drive_verification_note":"Local QC passed; exact 11-object package independently verified in canonical Drive folder with zero unrelated objects; manifest finalized in place."}
+}

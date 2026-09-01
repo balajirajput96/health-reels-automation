@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,240
+“मैं कर पाऊँगा?” और “यह task कितना मायने रखता है?”
+
+2
+00:00:04,240 --> 00:00:08,480
+Expectancy–value studies इन सवालों को अलग-अलग मापती हैं।
+
+3
+00:00:08,480 --> 00:00:12,720
+Expectancy है: किसी खास task में सफल होने का belief।
+
+4
+00:00:12,720 --> 00:00:16,960
+Value में interest और personal importance शामिल हो सकते हैं।
+
+5
+00:00:16,960 --> 00:00:21,200
+Future usefulness भी task value का हिस्सा हो सकती है।
+
+6
+00:00:21,200 --> 00:00:25,440
+Cost पूछती है: कितना effort, time या emotional burden लगेगा?
+
+7
+00:00:25,440 --> 00:00:29,680
+ये अक्सर questionnaires या task-specific ratings से मापे जाते हैं।
+
+8
+00:00:29,680 --> 00:00:33,920
+फिर researchers choice और persistence जैसे outcomes देखते हैं।
+
+9
+00:00:33,920 --> 00:00:38,160
+Engagement और performance भी अलग outcomes हैं।
+
+10
+00:00:38,160 --> 00:00:42,400
+“यह subject useful लगता है” एक self-report belief है।
+
+11
+00:00:42,400 --> 00:00:46,640
+Class में बने रहना या score अलग outcome है।
+
+12
+00:00:46,640 --> 00:00:50,880
+दोनों को एक समझना गलत निष्कर्ष दे सकता है।
+
+13
+00:00:50,880 --> 00:00:55,120
+Research education और sport जैसे contexts में relationships examine करती है।
+
+14
+00:00:55,120 --> 00:00:59,400
+Relationship, guarantee नहीं। एक rating पूरी motivation तय नहीं करती।
+
+15
+00:00:59,400 --> 00:01:03,680
+सही सवाल पूछिए; यह diagnosis या personal assessment नहीं है।

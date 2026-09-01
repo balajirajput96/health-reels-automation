@@ -1,0 +1,124 @@
+{
+  "files": [
+    {
+      "id": "1o8gPzSv8x4syJ1cB7_efDM_YTx_W9vKr",
+      "md5Checksum": "6dc31800de2cd46a5e80b81ee7be680d",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-23T13:31:47.831Z",
+      "name": "R0041_drive_readback_audit.json",
+      "parents": [
+        "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP"
+      ],
+      "size": "664",
+      "webViewLink": "https://drive.google.com/file/d/1o8gPzSv8x4syJ1cB7_efDM_YTx_W9vKr/view?usp=drivesdk"
+    },
+    {
+      "id": "1dvKKFMHwVApFm8vdEnruGHDBw-p1aMc6",
+      "md5Checksum": "d1ef6083d7e5e27d870bc9aeda13ec26",
+      "mimeType": "text/plain",
+      "modifiedTime": "2026-08-23T13:28:46.685Z",
+      "name": "R0041_local_checksums.sha256",
+      "parents": [
+        "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP"
+      ],
+      "size": "686",
+      "webViewLink": "https://drive.google.com/file/d/1dvKKFMHwVApFm8vdEnruGHDBw-p1aMc6/view?usp=drivesdk"
+    },
+    {
+      "id": "15tonCniO7MGNWvGor7LONGqeUSFKpNqD",
+      "md5Checksum": "549b330af284596588d0919645fcc55f",
+      "mimeType": "image/png",
+      "modifiedTime": "2026-08-23T13:28:44.685Z",
+      "name": "R0041_reference.png",
+      "parents": [
+        "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP"
+      ],
+      "size": "3742461",
+      "webViewLink": "https://drive.google.com/file/d/15tonCniO7MGNWvGor7LONGqeUSFKpNqD/view?usp=drivesdk"
+    },
+    {
+      "id": "1QUYc4rH9Jw9dqc72uc9qKC0E9U_wEbfL",
+      "md5Checksum": "b65632b56701ce0ba6aaeaa9089bcdbf",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-23T13:28:43.013Z",
+      "name": "R0041_manifest.json",
+      "parents": [
+        "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP"
+      ],
+      "size": "663",
+      "webViewLink": "https://drive.google.com/file/d/1QUYc4rH9Jw9dqc72uc9qKC0E9U_wEbfL/view?usp=drivesdk"
+    },
+    {
+      "id": "1rk56judPe-wp4lngZSlZU9Xcx8p5WZ2n",
+      "md5Checksum": "9d25b9e92ec6e910f15067d6f15cd2da",
+      "mimeType": "application/json",
+      "modifiedTime": "2026-08-23T13:28:41.640Z",
+      "name": "R0041_QC.json",
+      "parents": [
+        "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP"
+      ],
+      "size": "613",
+      "webViewLink": "https://drive.google.com/file/d/1rk56judPe-wp4lngZSlZU9Xcx8p5WZ2n/view?usp=drivesdk"
+    },
+    {
+      "id": "1JYES5af3IeYLDU3fI8BIZ99EGyoAwcD2",
+      "md5Checksum": "903dee2b59839ef895eec91dac86c9a8",
+      "mimeType": "text/plain",
+      "modifiedTime": "2026-08-23T13:28:40.328Z",
+      "name": "R0041_sources.txt",
+      "parents": [
+        "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP"
+      ],
+      "size": "460",
+      "webViewLink": "https://drive.google.com/file/d/1JYES5af3IeYLDU3fI8BIZ99EGyoAwcD2/view?usp=drivesdk"
+    },
+    {
+      "id": "1MUyN0yTsZC9S2-B9dtPSeBv6liZKhLFC",
+      "md5Checksum": "91bd1af8667f6e1505204f2396fa04e4",
+      "mimeType": "text/plain",
+      "modifiedTime": "2026-08-23T13:28:39.126Z",
+      "name": "R0041_production_pack.md",
+      "parents": [
+        "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP"
+      ],
+      "size": "4335",
+      "webViewLink": "https://drive.google.com/file/d/1MUyN0yTsZC9S2-B9dtPSeBv6liZKhLFC/view?usp=drivesdk"
+    },
+    {
+      "id": "1cbTad3WLWUfS-VUgazbQ5qMkGlhA_UAN",
+      "md5Checksum": "60da8d9b606a1625b086a3576cadb417",
+      "mimeType": "text/plain",
+      "modifiedTime": "2026-08-23T13:28:37.895Z",
+      "name": "R0041_captions.ass",
+      "parents": [
+        "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP"
+      ],
+      "size": "1972",
+      "webViewLink": "https://drive.google.com/file/d/1cbTad3WLWUfS-VUgazbQ5qMkGlhA_UAN/view?usp=drivesdk"
+    },
+    {
+      "id": "17AKjjVfGE9gxPQvSsK0D8cmTrDcqpK5u",
+      "md5Checksum": "810ab91e7fc5932dbd926c63e42ddba0",
+      "mimeType": "audio/x-wav",
+      "modifiedTime": "2026-08-23T13:28:36.644Z",
+      "name": "R0041_narration_hi-IN.wav",
+      "parents": [
+        "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP"
+      ],
+      "size": "3304364",
+      "webViewLink": "https://drive.google.com/file/d/17AKjjVfGE9gxPQvSsK0D8cmTrDcqpK5u/view?usp=drivesdk"
+    },
+    {
+      "id": "1rGUzuQr6EcOR6eM4sMB1BgtoYnRHTaIP",
+      "md5Checksum": "916d03b16757832e9338508f2239da93",
+      "mimeType": "video/mp4",
+      "modifiedTime": "2026-08-23T13:28:35.189Z",
+      "name": "R0041_final.mp4",
+      "parents": [
+        "1cThxWM4p3RHna2WvEeHQqh_jFZtlUqGP"
+      ],
+      "size": "6345923",
+      "webViewLink": "https://drive.google.com/file/d/1rGUzuQr6EcOR6eM4sMB1BgtoYnRHTaIP/view?usp=drivesdk"
+    }
+  ]
+}
