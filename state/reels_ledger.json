@@ -1018,6 +1018,46 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-09-01T14:32:10.194458Z",
       "notes": "Reel 0015 real video & audio render"
+    },
+    {
+      "sha256": "e4e21512f152fac84ce3c863585c2c9d0d9b7e46623441490cf4913a7fcb174e",
+      "filename": "final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-09-01T14:35:46.270866Z",
+      "notes": "Reel 0016 real video & audio render"
+    },
+    {
+      "sha256": "b1e440720b26a3ae5dda67417e6fc68e01b403af5bab25479af6cd1005147281",
+      "filename": "final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-09-01T14:36:37.610083Z",
+      "notes": "Reel 0017 real video & audio render"
+    },
+    {
+      "sha256": "f84f82b8d3521987c96bb4822c1cde09b44649e0744d177a1248da7ff89be0fc",
+      "filename": "final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-09-01T14:40:12.492014Z",
+      "notes": "Reel 0018 real video & audio render"
+    },
+    {
+      "sha256": "2f82540bbd04959425b0baf906bd5318bee29f1de9f8fde1eea621b45c7e985b",
+      "filename": "final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-09-01T14:40:47.464155Z",
+      "notes": "Reel 0019 real video & audio render"
+    },
+    {
+      "sha256": "8ab803bf456037f912178bb9ee57f3fdf080e291b7dd3e79cf54c3d8554104f4",
+      "filename": "final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-09-01T14:41:48.352327Z",
+      "notes": "Reel 0020 real video & audio render"
     }
   ]
 }
