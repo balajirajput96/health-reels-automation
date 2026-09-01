@@ -1,29 +1,39 @@
-# REEL-0065 — Hindi narration script
+# REEL-0065 Hindi Script
 
-## Hook
+## Working title
 
-Label पढ़ते समय पहले **Serving Size** और **Added Sugars** देखिए—सिर्फ पैकेट का front देखकर फैसला मत कीजिए।
+False Memory: हमारा दिमाग पुरानी यादों को अपने आप क्यों बदल देता है?
 
-## Seven narration spans
+## Narration spans
 
-1. Label पढ़ते समय पहले Serving Size देखिए। Calories और nutrients, इसी एक serving के हिसाब से लिखे होते हैं।
+### Span 01 — Hook
 
-2. Serving Size यह नहीं बताता कि आपको कितना खाना चाहिए। यह label comparison के लिए एक reference amount है।
+क्या आपके साथ कभी ऐसा हुआ है कि आपको बचपन की कोई घटना पूरी तरह सच लगती है, लेकिन आपके घरवाले कहते हैं कि ऐसा कभी हुआ ही नहीं था?
 
-3. Servings per container भी देखिए। अगर पैकेट में दो servings हैं और आप पूरा पैकेट खाते हैं, तो एक serving से अलग total amount मिलेगा।
+### Span 02 — Memory is constructive
 
-4. Total Sugars में फल या दूध की naturally मौजूद sugar और added sugar, दोनों शामिल हो सकती हैं।
+Cognitive Psychology में इसे 'False Memory' कहते हैं—हमारा दिमाग यादों को वीडियो कैमरे की तरह रिकॉर्ड नहीं करता, बल्कि हर बार नए सिरे से जोड़ता है।
 
-5. Added Sugars processing में जोड़ी गई sugar होती है, जैसे कुछ syrups या sweeteners। “Includes Added Sugars” लाइन पढ़िए।
+### Span 03 — The Misinformation Effect
 
-6. %DV बताता है कि एक serving पूरे दिन के reference value में कितना योगदान देती है। General guide में 5% या कम low, और 20% या अधिक high माना जाता है। Products compare करते समय serving size समान रखें।
+रिसर्च में पाया गया कि किसी घटना के बाद पूछे गए एक गलत सवाल से लोगों के दिमाग में झूठी यादें पैदा हो जाती हैं।
 
-7. FDA के 2,000-calorie reference में added sugars का Daily Value 50 grams है—यह personal prescription नहीं है। आपकी needs अलग हो सकती हैं; specific diet या health advice के लिए qualified professional से पूछें।
+### Span 04 — Source monitoring failure
 
-## On-screen takeaway
+दिमाग अक्सर यह भूल जाता है कि उसने कोई बात सच में देखी थी, किसी सपने में देखी थी या किसी की सुनाई कहानी में सुनी थी।
 
-Serving Size → Servings per container → Added Sugars → %DV
+### Span 05 — The confidence trap
 
-## Safety boundary
+सबसे हैरान करने वाली बात यह है कि जितनी पक्की और साफ आपको कोई याद लगती है, जरूरी नहीं कि वह उतनी ही सच हो।
 
-यह वीडियो सामान्य शिक्षा के लिए है। यह व्यक्तिगत medical, nutrition, weight-loss, diabetes, allergy या diet advice नहीं है।
+### Span 06 — Healthy cognitive humility
+
+इसलिए अपनी और दूसरों की यादों पर बहस करने के बजाय यह स्वीकार करें कि इंसानी याददाश्त स्वाभाविक रूप से लचीली और बदलती रहती है।
+
+### Span 07 — Safety boundary
+
+यह वीडियो केवल cognitive memory science awareness के लिए है और forensic legal advice का विकल्प नहीं है।
+
+## Delivery notes
+
+Speak in Hindi with an eye-opening, thought-provoking, psychologically fascinating educational voice. Emphasize "false memory," "misinformation effect," "constructive memory," "source monitoring failure," and "educational awareness." Do not give legal testimony claims.
