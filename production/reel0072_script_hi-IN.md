@@ -2,38 +2,38 @@
 
 ## Working title
 
-Mindfulness: present moment को notice करना
+Dehumanization: हम दूसरों को इंसान समझना कब बंद कर देते हैं?
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-क्या आपका mind बार-बार past या future में चला जाता है? Mindfulness का एक simple idea है—अभी जो हो रहा है, उसे notice करना।
+क्या आपने कभी सोचा है कि हम अपनों के लिए तो गहरा दर्द महसूस करते हैं, लेकिन अनजान लोगों की पीड़ा पर हमारा दिमाग सुन्न क्यों हो जाता है?
 
-### Span 02 — Definition
+### Span 02 — The Stereotype Content Model
 
-NIH और Harvard Health के अनुसार, mindfulness में thoughts, feelings, body sensations और surroundings पर present moment में attention देना शामिल है—बिना तुरंत judgment के।
+Social Psychology में इसे 'Stereotype Content Model' कहते हैं—हमारा दिमाग हर व्यक्ति को दो पैमानों पर आंकता है: 'सहानुभूति' (Warmth) और 'क्षमता' (Competence)।
 
-### Span 03 — Attention anchor
+### Span 03 — Medial Prefrontal Cortex shutdown
 
-आप एक breath, शरीर की कोई sensation, या आसपास की sound को कुछ पल के लिए anchor बना सकते हैं।
+fMRI अध्ययनों से पता चलता है कि जब हम किसी को अपने समूह से बाहर (Outgroup) मानते हैं, तो दिमाग का सामाजिक समझ वाला हिस्सा (mPFC) सक्रिय नहीं होता।
 
-### Span 04 — Wandering is normal
+### Span 04 — Dehumanization mechanism
 
-Mind का भटकना failure नहीं है। जब ध्यान चला जाए, तो उसे notice करके धीरे से present moment या breath पर वापस लाना practice का हिस्सा है।
+इसे 'Dehumanization' कहते हैं—जब दिमाग दूसरे इंसान को एक जीवित व्यक्ति के बजाय सिर्फ एक संख्या या वस्तु की तरह देखने लगता है।
 
-### Span 05 — Everyday practice
+### Span 05 — The tribal danger
 
-यह सिर्फ बैठकर meditation करना नहीं। Walking, eating या किसी ordinary task में भी sensations और sounds पर ध्यान दिया जा सकता है।
+यह 'हम बनाम वे' (Us vs Them) वाली सोच समाज में नफरत, भेदभाव और असंवेदनशीलता को बढ़ावा देती है।
 
-### Span 06 — Evidence boundary
+### Span 06 — The humanizing solution
 
-Research summaries mindfulness को कुछ लोगों के well-being और mental-health outcomes से जोड़ती हैं, लेकिन यह instant calm, cure या guaranteed result नहीं देती।
+समाधान यह है कि हर व्यक्ति के व्यक्तिगत जीवन, संघर्ष और भावनाओं को समझने की कोशिश करें—इससे दिमाग तुरंत मानवीय जुड़ाव महसूस करता है।
 
 ### Span 07 — Safety boundary
 
-इसे general education समझें, treatment नहीं। Practice uncomfortable लगे या significant symptoms हों, तो qualified mental-health professional से support लें।
+यह वीडियो केवल social psychology awareness के लिए है और sociopolitical commentary का विकल्प नहीं है।
 
 ## Delivery notes
 
-Speak in Hindi with a calm, warm, informative documentary voice. Keep “without judgment,” “mind wandering is normal,” and “not a treatment or guarantee” clear. Do not present mindfulness as a religion, spiritual truth, cure, or replacement for professional care.
+Speak in Hindi with an earnest, thoughtful, scientifically precise and socially unifying educational tone. Emphasize "Stereotype Content Model," "mPFC shutdown," "Dehumanization," "Humanizing perspective," and "educational awareness." Do not engage in partisan political attacks.

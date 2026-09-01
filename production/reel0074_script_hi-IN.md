@@ -2,38 +2,38 @@
 
 ## Working title
 
-Journaling: self-observation, diagnosis नहीं
+Prospection: भविष्य की कल्पना करने वाला हमारे दिमाग का 'टाइम मशीन'
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-Diary लिखना सिर्फ memories save करना नहीं। कभी-कभी यह अपने thoughts और reactions को observe करने का एक quiet space बन सकता है।
+क्या आपने कभी सोचा है कि दुनिया में सिर्फ इंसान ही ऐसे जीव हैं जो उन घटनाओं की पहले से कल्पना कर सकते हैं जो अभी घटी ही नहीं हैं?
 
-### Span 02 — What research studied
+### Span 02 — Episodic future thinking
 
-Expressive-writing research में लोग stressful या meaningful experiences के thoughts और feelings लिखते हैं। लेकिन ordinary journaling और research protocol एक ही चीज नहीं हैं।
+Neuroscience में इसे 'Episodic Future Thinking' या 'Prospection' कहते हैं—हमारा दिमाग एक मानसिक टाइम मशीन की तरह काम करता है।
 
-### Span 03 — Possible value
+### Span 03 — Memory meets imagination
 
-Harvard Health और APA summaries के अनुसार, writing कुछ लोगों को emotions process करने और thoughts को organize करने में मदद कर सकती है।
+हमारा हिप्पोकैम्पस पुरानी यादों के टुकड़ों को जोड़कर भविष्य के नए-नए दृश्यों और स्थितियों का एक वास्तविक सिमुलेशन तैयार करता है।
 
-### Span 04 — No guarantee
+### Span 04 — Reducing impulsive decisions
 
-लेकिन यह cure-all नहीं है और हर व्यक्ति को एक जैसा benefit नहीं मिलता। Writing का असर context, timing और व्यक्ति पर depend कर सकता है।
+जब आप अपने भविष्य के खुद के रूप को साफ-साफ देखते हैं, तो दिमाग का तुरंत लालच में आने वाला आवेग (Impulsive Discounting) घट जाता है।
 
-### Span 05 — Gentle self-observation
+### Span 05 — Empathy for your future self
 
-आप low-pressure तरीके से तीन बातें लिख सकते हैं: क्या हुआ, मैंने क्या notice किया, और अभी मुझे किस support या next step की जरूरत है।
+ज्यादातर लोग अपने 'भविष्य के रूप' को एक अजनबी समझते हैं, जिससे वे आज गलत आदतें और आलस चुन लेते हैं।
 
-### Span 06 — Not self-diagnosis
+### Span 06 — Mental contrasting
 
-Page पर कोई feeling लिख देना किसी disorder का proof नहीं है। Journaling patterns notice करने के लिए है, diagnosis देने के लिए नहीं।
+समाधान यह है कि केवल सपने न देखें—भविष्य के लक्ष्य के साथ-साथ आज आने वाली बाधाओं की भी कल्पना करें ताकि दिमाग तैयार रहे।
 
 ### Span 07 — Safety boundary
 
-Difficult writing से distress बढ़े, या stress लगातार और severe हो, तो लिखते रहने के बजाय qualified professional से support लें। यह therapy या crisis care नहीं है।
+यह वीडियो केवल cognitive decision neuroscience awareness के लिए है और financial planning advice का विकल्प नहीं है।
 
 ## Delivery notes
 
-Speak in Hindi with a calm, grounded, non-clinical documentary voice. Distinguish ordinary journaling from structured expressive-writing research. Do not instruct viewers to write about trauma, promise stress relief, or imply that diary content can diagnose a disorder.
+Speak in Hindi with an imaginative, futuristic, scientifically grounded educational tone. Emphasize "Episodic Future Thinking," "Prospection," "Hippocampus simulation," "Impulse reduction," and "educational awareness." Do not give financial investment advice.

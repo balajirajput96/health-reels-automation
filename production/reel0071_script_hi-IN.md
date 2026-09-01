@@ -2,38 +2,38 @@
 
 ## Working title
 
-Physical activity शुरू करने का बेहतर तरीका: small और sustainable steps
+Theory of Mind: दूसरों के दिमाग की सोच समझने का अनोखा विज्ञान
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-Fitness शुरू करने के लिए पहले दिन से perfect routine चाहिए? जरूरी नहीं। शुरुआत छोटी और practical हो सकती है।
+क्या आपने कभी सोचा है कि हम कैसे समझ पाते हैं कि सामने वाला व्यक्ति क्या सोच रहा है और उसके मन में क्या चल रहा है?
 
-### Span 02 — WHO principle
+### Span 02 — The concept of mentalizing
 
-WHO की guidance का simple principle है: कुछ physical activity, बिल्कुल none से बेहतर है। Inactive हों, तो small amounts से शुरू करना और धीरे-धीरे बढ़ना बताया गया है।
+Cognitive Science में इसे 'Theory of Mind' कहते हैं—यह क्षमता जिससे हम दूसरों के विश्वास, इरादे और भावनाओं को समझ पाते हैं।
 
-### Span 03 — CDC principle
+### Span 03 — The False-Belief experiment
 
-CDC भी activity को हफ्ते में spread करने, छोटे chunks में बाँटने, और धीरे-धीरे ज्यादा time या challenge तक पहुँचने की सलाह देता है।
+वैज्ञानिक इसे 'फॉल्स-बिलीफ टेस्ट' (False-Belief Task) से मापते हैं—यह देखना कि क्या हम समझ सकते हैं कि दूसरे का विश्वास हकीकत से अलग हो सकता है।
 
-### Span 04 — No overnight target
+### Span 04 — The mentalizing brain network
 
-इसका मतलब यह नहीं कि पहले दिन ही guideline का पूरा target हासिल करना है। Population-level target को personal prescription न समझें।
+दिमाग का 'Temporoparietal Junction' (TPJ) और 'Prefrontal Cortex' दूसरों के नजरिए को समझने में सबसे अहम भूमिका निभाते हैं।
 
-### Span 05 — Choose fit
+### Span 05 — The power of perspective taking
 
-ऐसी activity चुनें जो accessible और आपको पसंद हो—जैसे comfortable walking या कोई सरल movement। Enjoyment और convenience शुरुआत को practical बना सकते हैं।
+यह कौशल हमें बातचीत में गलतफहमियां सुलझाने, दूसरों की भावनाएं समझने और बेहतर रिश्ते बनाने में मदद करता है।
 
-### Span 06 — Sustainable cue
+### Span 06 — The egocentric trap
 
-Calendar में एक realistic समय रखें, अपने pace पर चलें, और consistency को perfection से ऊपर रखें। जरूरत के अनुसार धीरे-धीरे बदलाव करें।
+अक्सर हमारा अपना ज्ञान हमें यह मानने पर मजबूर करता है कि जो हमें पता है, वही सबको पता होगा (Egocentric Bias)।
 
 ### Span 07 — Safety boundary
 
-Chronic condition, injury, pregnancy या injury का डर हो तो healthcare professional से suitable activity पूछें। Pain या concerning symptoms को ignore न करें।
+यह वीडियो केवल cognitive developmental science awareness के लिए है और clinical diagnostic assessment का विकल्प नहीं है।
 
 ## Delivery notes
 
-Speak in Hindi with a calm, clear, encouraging documentary voice. Emphasize “small,” “gradually,” and “population-level.” Do not prescribe a fixed duration, intensity, exercise, or weekly target for an individual. Avoid promises of guaranteed adherence, weight loss, or disease prevention.
+Speak in Hindi with an insightful, lucid, engaging educational voice. Emphasize "Theory of Mind," "False-Belief Test," "TPJ mentalizing network," "Egocentric Bias," and "educational awareness." Do not diagnose neurodevelopmental delays.

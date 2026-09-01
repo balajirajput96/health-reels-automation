@@ -2,38 +2,38 @@
 
 ## Working title
 
-Meaningful hobby: recovery का एक possible cue
+Task Switching: एक साथ कई काम करने पर दिमाग धीमा क्यों हो जाता है?
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-Stressful दिन के बाद recovery सिर्फ सोने का नाम नहीं। कभी-कभी कोई genuinely meaningful hobby भी आपको reset होने का space दे सकती है।
+क्या आप भी काम करते वक्त एक साथ चैटिंग, ईमेल और ब्राउजिंग करते हैं और सोचते हैं कि आप स्मार्ट मल्टीटास्किंग कर रहे हैं?
 
-### Span 02 — Research frame
+### Span 02 — The illusion of multitasking
 
-Research में enjoyable leisure में hobbies, nature, social time, sports और quiet time जैसी voluntary activities शामिल की गई हैं।
+Cognitive Neuroscience साफ बताती है कि इंसानी दिमाग एक साथ दो जटिल काम नहीं कर सकता—वह बस तेजी से दोनों के बीच स्विच करता है।
 
-### Span 03 — Association
+### Span 03 — Switch Costs in milliseconds
 
-एक multi-study paper में ज्यादा enjoyable leisure, better psychosocial states और कम negative affect के साथ associated था।
+हर बार जब आप काम बदलते हैं, तो दिमाग में 'स्विच कॉस्ट' (Switch Cost) पैदा होता है, जिससे आपकी गति और सटीकता दोनों घट जाती हैं।
 
-### Span 04 — Causality boundary
+### Span 04 — Task Set Reconfiguration
 
-लेकिन यह observational association है। इससे यह साबित नहीं होता कि hobby ने mood, cortisol या health measures को directly improve किया।
+हमारे 'Prefrontal Cortex' को पुराने काम के नियम मिटाकर नए काम के नियम लोड करने पड़ते हैं (Task Set Reconfiguration)।
 
-### Span 05 — Meaning and choice
+### Span 05 — The mental exhaustion trap
 
-एक दूसरी survey में meaningful participation, belonging और well-being associated थे। पूछें: क्या यह activity मुझे meaningful और accessible लगती है?
+बार-बार स्विच करने से दिमाग की ग्लूकोज ऊर्जा बहुत तेजी से खर्च होती है और बिना ज्यादा काम किए भी सिर भारी होने लगता है।
 
-### Span 06 — Avoid another obligation
+### Span 06 — Batch working solution
 
-Goal productivity नहीं है। Hobby छोटा, low-pressure और आपकी पसंद का हो सकता है—जैसे reading, music या gardening।
+समाधान यह है कि एक समय में सिर्फ एक काम पर पूरा ध्यान दें और एक जैसे कामों को एक साथ पूरा करें (Batch Processing)।
 
 ### Span 07 — Safety boundary
 
-यह general education है, treatment नहीं। Persistent stress या serious health concerns हों, तो hobby को professional support का replacement न समझें।
+यह वीडियो केवल executive function cognitive awareness के लिए है और clinical attention deficit diagnosis का विकल्प नहीं है।
 
 ## Delivery notes
 
-Speak in Hindi with a calm, warm, grounded documentary voice. Emphasize “associated with,” “may,” and “your choice.” Do not claim hobbies cause recovery, lower biomarkers, cure depression, or work universally. Do not prescribe a fixed duration or schedule.
+Speak in Hindi with a sharp, punchy, scientifically compelling educational tone. Emphasize "Illusion of multitasking," "Switch Cost," "Prefrontal Task Set Reconfiguration," "Batch processing," and "educational awareness." Do not diagnose ADHD.
