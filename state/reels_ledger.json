@@ -978,6 +978,14 @@
       "target_account": "@balajirajput96",
       "recorded_at": "2026-08-26T13:18:48.706411Z",
       "notes": "R0081 final: 4 fresh verified sources; accepted 64.440s Hindi narration; local QC passed; 64.467s encoded 1080x1920 H.264/AAC reel; canonical Drive exact package independently verified; not published."
+    },
+    {
+      "sha256": "cd5af9c400dd0f1074a0937bbcb9c2cd06f2a265ce51ea3a2d7bed45ac9728f0",
+      "filename": "final.mp4",
+      "stage": "final",
+      "target_account": "@balajirajput96",
+      "recorded_at": "2026-09-01T14:27:41.432425Z",
+      "notes": "Reel 0011 real video & audio render"
     }
   ]
 }
