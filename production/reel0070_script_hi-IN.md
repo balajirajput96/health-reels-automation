@@ -2,38 +2,38 @@
 
 ## Working title
 
-Desk work में perfect posture नहीं, posture variation?
+Self-Determination Theory: इंसान को हमेशा प्रेरित (Motivated) रखने वाले 3 पोषक तत्व
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-Desk पर बैठते समय क्या एक ही perfect posture पकड़कर रखना जरूरी है? शायद ज्यादा useful idea है—समय-समय पर position बदलना।
+क्या आपने कभी सोचा है कि जब हम सिर्फ दूसरों के दबाव या इनाम के लिए काम करते हैं, तो कुछ ही दिनों में अंदर से पूरी तरह खाली क्यों महसूस होने लगता है?
 
-### Span 02 — Why it matters
+### Span 02 — Deci and Ryan's SDT
 
-Research में sedentary office work के दौरान discomfort और कम movement को एक important workplace concern की तरह देखा गया है।
+Motivation Science में इसे 'Self-Determination Theory' कहते हैं—इंसानी दिमाग को खुश और प्रेरित रहने के लिए 3 बुनियादी पोषक तत्वों की ज़रूरत होती है।
 
-### Span 03 — Intervention evidence
+### Span 03 — Autonomy (स्वतंत्रता)
 
-एक छोटे call-center study में reminder software से posture changes बढ़े और short-term shoulder तथा back discomfort कम report हुआ।
+पहला है 'Autonomy'—यह महसूस करना कि आप अपने जीवन के फैसले खुद ले रहे हैं, न कि किसी के दबाव में काम कर रहे हैं।
 
-### Span 04 — Evidence boundary
+### Span 04 — Competence (सक्षमता)
 
-लेकिन यह small, short-term study था। इससे यह साबित नहीं होता कि posture बदलना हर व्यक्ति का pain इलाज करता है या future problems रोकता है।
+दूसरा है 'Competence'—यह अनुभव करना कि आप नई चीजें सीख रहे हैं, कौशल में बेहतर हो रहे हैं और चुनौतियों को पार कर सकते हैं।
 
-### Span 05 — Exploratory finding
+### Span 05 — Relatedness (जुड़ाव)
 
-एक अलग exploratory study में laptop task के दौरान headache वाले और बिना headache वाले groups में spinal movement variability अलग दिखी।
+तीसरा है 'Relatedness'—यह महसूस करना कि लोग आपकी परवाह करते हैं और आप किसी अपने समुदाय का हिस्सा हैं।
 
-### Span 06 — What to try
+### Span 06 — Autonomous motivation
 
-इसका practical मतलब हो सकता है: comfortable रहते हुए position बदलें, थोड़ी gentle movement करें, और workstation को अपनी जरूरत के अनुसार adjust करें।
+जब ये तीनों जरूरतें पूरी होती हैं, तो इंसान के अंदर बिना किसी बाहरी लालच के एक अटूट, असली और टिकाऊ प्रेरणा पैदा होती है।
 
 ### Span 07 — Safety boundary
 
-कोई rigid timer, posture angle या stretch सबके लिए जरूरी नहीं। Persistent pain, injury या concerning symptoms हों तो qualified professional से सलाह लें।
+यह वीडियो केवल motivation science awareness के लिए है और clinical psychotherapy diagnosis का विकल्प नहीं है।
 
 ## Delivery notes
 
-Speak in Hindi with a calm, clear, informative documentary voice. Emphasize “small study,” “short-term,” and “exploratory.” Do not promise pain prevention, headache treatment, productivity gains, or a universally correct posture. Keep the practical cue gentle and non-prescriptive.
+Speak in Hindi with an inspiring, articulate, humanistic, and scientifically grounded educational tone. Emphasize "Self-Determination Theory," "Autonomy, Competence, Relatedness," "Autonomous motivation," and "educational awareness." Do not give clinical psychological therapy.

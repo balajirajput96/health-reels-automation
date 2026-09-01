@@ -1,43 +1,39 @@
-# REEL-0066 — Hindi narration script
+# REEL-0066 Hindi Script
 
 ## Working title
 
-**Fiber सिर्फ कब्ज के लिए नहीं: varied diet में इसका role क्या है?**
+Deep Work: गहरे फोकस (Concentration) के पीछे का असली Biological विज्ञान
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-क्या fiber सिर्फ कब्ज के लिए है? नहीं—यह varied diet का भी हिस्सा हो सकता है।
+क्या आप भी दिन में लगातार 8 घंटे बिना रुके बैठकर काम करने की कोशिश करते हैं और फिर भी खुद को थका हुआ पाते हैं?
 
-### Span 02 — Public-health framing
+### Span 02 — Laboratory vigilance research
 
-WHO guidance में whole grains, fruits, vegetables और pulses जैसी विविध plant foods शामिल हैं।
+Cognitive Science बताती है कि दिमाग का गहरा फोकस (Deep Work) कोई अंतहीन बैटरी नहीं है, बल्कि इसकी जैविक सीमाएं हैं।
 
-### Span 03 — Practical sources
+### Span 03 — Attention residue
 
-दाल, चना, beans, oats, brown rice, पूरे फल, सब्ज़ियाँ और nuts fiber के natural sources हो सकते हैं। Focus variety पर है, superfood पर नहीं।
+जब भी आप काम के बीच एक सेकंड के लिए फोन या ईमेल देखते हैं, तो दिमाग का एक हिस्सा वहीं अटका रह जाता है (Attention Residue)।
 
-### Span 04 — Gut mechanism
+### Span 04 — 90-minute ultradian cycles
 
-Harvard के मुताबिक fiber ordinary carbohydrate की तरह पूरी तरह digest नहीं होता; कुछ हिस्सा gut microbes ferment कर सकते हैं।
+मानव मस्तिष्क स्वाभाविक रूप से 90 मिनट के चक्र (Ultradian Rhythms) में काम करता है—इसके बाद ध्यान और सटीकता घटने लगती है।
 
-### Span 05 — Evidence boundary
+### Span 05 — The 4-hour daily limit
 
-Reviews बताती हैं कि fiber और gut microbiome का connection research-supported है, पर असर type, मात्रा, समय और व्यक्ति के context पर बदलता है। कोई एक food सबको एक जैसा असर नहीं देता।
+रिसर्च से पता चलता है कि दुनिया के टॉप प्रोफेशनल्स भी दिन में केवल 3 से 4 घंटे ही असली गहरा और कठिन मानसिक काम कर पाते हैं।
 
-### Span 06 — Gentle behavior cue
+### Span 06 — Smart scheduling architecture
 
-Fiber-rich foods धीरे-धीरे जोड़ें। WHO का 25-gram figure population guidance है, personal prescription नहीं।
+इसलिए लंबे समय तक जबरदस्ती बैठने के बजाय 60 से 90 मिनट के बिना रुकावट वाले ब्लॉक्स में काम करें और फिर 15 मिनट का ब्रेक लें।
 
 ### Span 07 — Safety boundary
 
-यह general education है, personal diet plan नहीं। Digestive disease या special needs हों, बदलाव से पहले clinician या registered dietitian से सलाह लें।
+यह वीडियो केवल cognitive ergonomics awareness के लिए है और clinical workplace burnout diagnosis का विकल्प नहीं है।
 
 ## Delivery notes
 
-Speak in Hindi with a calm, clear, informative documentary voice at a natural pace. Keep the English nutrition terms intelligible. Do not overstate causation. Prefer “may support” and “can be part of” over guarantees.
-
-## Claim boundary
-
-The WHO 25-gram figure is population guidance for people older than 10 years, not a universal personal target. The microbiome section describes an active research area and variable effects, not a guaranteed individual outcome.
+Speak in Hindi with an authoritative, practical, scientifically sharp educational tone. Emphasize "deep work," "attention residue," "90-minute ultradian cycles," "4-hour daily limit," and "educational awareness." Do not give medical burnout diagnosis.

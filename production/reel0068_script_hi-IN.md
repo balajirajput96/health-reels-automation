@@ -2,38 +2,38 @@
 
 ## Working title
 
-Walking meeting: क्या चलकर बात करना हर meeting से बेहतर है?
+Empathy: दूसरों का दर्द देखकर हमारे दिमाग में क्या होता है?
 
 ## Narration spans
 
 ### Span 01 — Hook
 
-क्या हर meeting में बैठना जरूरी है? कुछ छोटी team meetings में चलना एक practical movement cue हो सकता है।
+क्या आपने कभी गौर किया है कि जब सामने किसी को चोट लगती है, तो अचानक आपके अपने पेट और दिल में भी दर्द क्यों महसूस होने लगता है?
 
-### Span 02 — What the pilot found
+### Span 02 — The Shared Pain Matrix
 
-CDC के एक छोटे workplace pilot में walking meetings feasible और acceptable लगे, और work-related activity थोड़ा बढ़ा।
+Neuroscience में इसे 'Shared Pain Matrix' कहते हैं—दूसरों को दर्द में देखकर हमारे दिमाग के दर्द वाले हिस्से खुद सक्रिय हो जाते हैं।
 
-### Span 03 — Evidence boundary
+### Span 03 — Insula and ACC activation
 
-पर study छोटी और short-term थी। इससे सभी के लिए productivity, mood या health बेहतर होने का दावा नहीं किया जा सकता।
+fMRI स्टडीज में देखा गया कि दूसरों की पीड़ा देखकर हमारे दिमाग का 'Anterior Insula' और 'ACC' हिस्सा बिल्कुल वैसे ही चमक उठता है।
 
-### Span 04 — General movement guidance
+### Span 04 — Two empathy systems
 
-CDC के अनुसार activity हफ्ते भर में बाँटी और छोटे chunks में की जा सकती है। फिर भी एक walking meeting पूरी weekly जरूरत नहीं भरती।
+सहानुभूति दो प्रकार की होती है: 'Affective Empathy' (दूसरे का दर्द महसूस करना) और 'Cognitive Empathy' (उनकी स्थिति को समझना)।
 
-### Span 05 — When it fits
+### Span 05 — The empathy burnout trap
 
-Meeting छोटी हो, group सहमत हो, और screen या confidential discussion न हो, तो agenda के साथ short walk आज़माई जा सकती है।
+यदि आप सिर्फ दूसरों का दर्द महसूस करते रहेंगे, तो दिमाग में भावनात्मक तनाव (Empathetic Distress) और थकान बढ़ जाएगी।
 
-### Span 06 — Make it practical
+### Span 06 — Shifting to compassion
 
-एक leader, time-check और notes का तरीका तय करें। जरूरी points बाद में लिखें; walking को meeting quality पर हावी न होने दें।
+समाधान यह है कि केवल दर्द को महसूस करने के बजाय 'करुणा' (Compassion) अपनाएं—यानी शांत रहकर मदद करने की भावना रखें।
 
 ### Span 07 — Safety boundary
 
-Pain, balance या mobility issue, तेज़ गर्मी, unsafe route, privacy या accessibility concern हो तो इसे न चुनें। यह general education है, medical advice नहीं।
+यह वीडियो केवल social affective neuroscience awareness के लिए है और clinical psychiatric diagnosis का विकल्प नहीं है।
 
 ## Delivery notes
 
-Speak in Hindi with a calm, clear, informative documentary voice at a natural pace. Keep English workplace terms intelligible. Do not use guaranteed language. Emphasize “small pilot,” “modest,” “may,” and context-specific suitability. The safety boundary must be distinct and respectful.
+Speak in Hindi with a deeply empathetic, articulate, scientifically profound educational voice. Emphasize "Shared Pain Matrix," "Anterior Insula," "Affective vs Cognitive Empathy," "Compassion shift," and "educational awareness." Do not diagnose empathy disorders.
