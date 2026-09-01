@@ -1,29 +1,39 @@
-# REEL-0031 Hindi script — regular meal timing and everyday energy rhythms
+# REEL-0031 Hindi Script
 
-**Language:** Hindi (India), with established English science terms retained for clarity
-**Narration target:** approximately 60 seconds after measured TTS pacing
-**Caption rule:** captions must be generated from the final narration audio and corrected against the approved text
+## Working title
 
-## Approved narration
+Behavior Change: Intention, Real-World Action और Studies का विज्ञान
 
-क्या आपकी daily energy सिर्फ़ खाने की चीज़ों से नहीं, खाने के समय से भी जुड़ी हो सकती है?
+## Narration spans
 
-Chrononutrition research बताती है कि हमारी body clock, meals और metabolism एक-दूसरे से interact करते हैं।
+### Span 01 — Hook
 
-कुछ controlled human studies में meal timing बदलने पर शरीर के peripheral clocks और glucose rhythms में बदलाव देखे गए हैं।
+क्या सिर्फ "मैं बदलूँगा" कहना behavior change का पक्का सबूत है? Scientific research कहती है—बिल्कुल नहीं।
 
-लेकिन इसका मतलब यह नहीं कि हर व्यक्ति के लिए कोई एक perfect breakfast या dinner time मौजूद है।
+### Span 02 — Intention vs Action
 
-Recent reviews में benefits, जहाँ दिखे, वहाँ अक्सर modest थे; evidence quality और study designs में limitations भी थीं।
+Behavior-change science में stated intention और actual action दो बिल्कुल अलग measures माने जाते हैं।
 
-इसलिए practical idea है: जहाँ संभव हो, meals को reasonably consistent रखें, अपनी नींद और body cues पर भी ध्यान दें—और extreme rules से बचें।
+### Span 03 — Objective measurement
 
-अगर diabetes, medicines, pregnancy, shift work या eating concerns हैं, तो timing बदलने से पहले professional advice लें। यह reel medical advice नहीं है।
+Studies सिर्फ survey पर नहीं, बल्कि digital logs, sensor data और objective performance पर निर्भर करती हैं।
+
+### Span 04 — Efficacy vs Effectiveness
+
+Lab में intervention का सफल होना (efficacy) और real life में काम करना (effectiveness) दो अलग बातें हैं।
+
+### Span 05 — Maintenance challenge
+
+शुरुआती उत्साह के बाद कई हफ़्तों के follow-up में adherence कैसे बदलती है, यह असली चुनौती है।
+
+### Span 06 — Scientific nuance
+
+Group average को व्यक्तिगत गारंटी मत समझिए—हर व्यक्ति के barriers और context अलग होते हैं।
+
+### Span 07 — Safety boundary
+
+यह वीडियो केवल behavioral science awareness के लिए है और personal या clinical consultation का विकल्प नहीं है।
 
 ## Delivery notes
 
-Use a calm, curious, evidence-led Hindi voice with clear pronunciation of “Chrononutrition,” “body clock,” “peripheral clocks,” “glucose rhythms,” and “modest.” Keep a short pause after the hook and before the safety line. Do not add claims, statistics, meal-time prescriptions, calorie targets, or disease-treatment language during recording.
-
-## Source boundary
-
-This text is approved only with `research/2026-08-22__reel0031__meal-timing-source-validation.md`. The script separates controlled-study evidence, mechanistic interpretation, uncertainty, and safety guidance. It must not be shortened by removing the uncertainty or safety statements.
+Speak in Hindi with an objective, analytical, grounded educational voice. Emphasize "behavior change," "intention vs action," "long-term adherence," and "educational awareness." Do not make simplistic habit promises.
