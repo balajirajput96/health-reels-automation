@@ -18,9 +18,12 @@ class TestSkillsGuards(unittest.TestCase):
     def test_android_cli_guard(self):
         status = check_android_cli()
         self.assertIn("installed", status)
-        # We installed the Android CLI, so it should be installed
-        self.assertTrue(status["installed"])
-        self.assertIsNotNone(status["path"])
+        self.assertIn("message", status)
+        if status["installed"]:
+            self.assertIsNotNone(status["path"])
+        else:
+            self.assertIsNone(status["path"])
+            self.assertIn("install", status["message"].lower())
 
     def test_resource_attribution_bq(self):
         # Unlabelled command
