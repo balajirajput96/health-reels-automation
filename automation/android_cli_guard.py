@@ -18,8 +18,11 @@ DEFAULT_ANDROID_BIN = Path("/home/ubuntu/.local/bin/android")
 def get_android_bin() -> str | None:
     if shutil.which("android"):
         return shutil.which("android")
-    if DEFAULT_ANDROID_BIN.exists() and os.access(DEFAULT_ANDROID_BIN, os.X_OK):
-        return str(DEFAULT_ANDROID_BIN)
+    try:
+        if DEFAULT_ANDROID_BIN.exists() and os.access(DEFAULT_ANDROID_BIN, os.X_OK):
+            return str(DEFAULT_ANDROID_BIN)
+    except PermissionError:
+        pass
     return None
 
 def check_android_cli() -> dict:
