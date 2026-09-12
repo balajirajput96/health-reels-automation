@@ -28,9 +28,9 @@ A `final` transition is rejected unless the item has non-empty source IDs and QC
 
 ## QC boundary
 
-`automation/reel_qc.py` verifies that the required files exist, the MP4 has a 9:16 pixel ratio and a 45–75 second duration, an audio stream is present, captions are parseable and remain within the media duration, sources contain recognizable identifiers or URLs, metadata contains source records and AI-content disclosure, and the script does not contain unsupported positive treatment, diagnosis, guarantee, or miracle wording. It does not replace human or scholarly verification of whether a claim is true; every research record must still distinguish established findings, hypotheses, expert interpretations, philosophy, and spiritual belief.
+`automation/reel_qc.py` verifies that the required files exist, the MP4 has a 9:16 pixel ratio and a 45–75 second duration, an audio stream is present, captions are parseable and remain within the media duration, sources contain recognizable identifiers or URLs, metadata contains source records and AI-content disclosure, and the script does not contain unsupported positive treatment, clinical categorization, absolute certainty, or miracle wording. It does not replace human or scholarly verification of whether a claim is true; every research record must still distinguish established findings, hypotheses, expert interpretations, philosophy, and spiritual belief.
 
-The safety scanner is designed to permit explicit caveats such as “not a guaranteed method” and “इलाज का दावा नहीं” while rejecting uncaveated promise language. Scripts must remain general public education: no diagnosis, individualized treatment, fixed outcome promises, or crisis/medical instructions.
+The safety scanner is designed to permit explicit caveats such as “not a method of absolute certainty” and “इलाज का दावा नहीं” while rejecting uncaveated promise language. Scripts must remain general public education: no clinical categorization, individualized treatment, fixed outcome promises, or crisis/medical instructions.
 
 ## Drive and continuation
 
