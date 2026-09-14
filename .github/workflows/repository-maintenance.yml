@@ -43,6 +43,7 @@ jobs:
             See `MAINTENANCE_REPORT.md` for audit findings.
           branch: "maintenance/daily-audit"
           draft: true
+          add-paths: '**/*.md'
 
       - name: Report pull-request creation policy
         if: ${{ github.event_name != 'workflow_dispatch' || inputs.enable_maintenance_pr != true }}
